@@ -3,7 +3,7 @@
 	"lat": 33.917376,
 	"lon": -84.345061,
 	"name": "JordanCon 2018",
-	"updated_at": "2018-03-15T05:44:37.501Z",
+	"updated_at": "2018-03-20T16:34:46.726Z",
 	"_comment": "Remember: This file cannot contain images as require(image) cannot have dynamically generated strings.",
 	"images": {
 		"DASHBOARD": "https://bgun.github.io/nenji-assets/JordanCon/dashboard.png",
@@ -19,453 +19,2098 @@
 	},
 	"styles": {},
 	"guests": [{
-		"name": "Moderator/ Presenter",
-		"guest_id": "moderatorpresenter"
+		"name": "Jen Halbman",
+		"guest_id": "jen_halbman"
 	}, {
-		"name": "Panelist1",
-		"guest_id": "panelist1"
+		"name": "Bao Pham",
+		"guest_id": "bao_pham"
 	}, {
-		"name": "Panelist2",
-		"guest_id": "panelist2"
+		"name": "Sean Hillman",
+		"guest_id": "sean_hillman"
 	}, {
-		"name": "Panelist3",
-		"guest_id": "panelist3"
+		"name": "Anthony Taylor",
+		"guest_id": "anthony_taylor"
 	}, {
-		"name": "Panelist4",
-		"guest_id": "panelist4"
+		"name": "Team Royal Manticore",
+		"guest_id": "team_royal_manticore"
 	}, {
-		"name": "Panelist5",
-		"guest_id": "panelist5"
+		"name": "Darin M. Bush",
+		"guest_id": "darin_m_bush"
 	}, {
-		"name": "Crymsyn Hart",
-		"guest_id": "crymsynhart"
+		"name": "Ellie Raine",
+		"guest_id": "ellie_raine"
 	}, {
-		"name": "Kim Headlee",
-		"guest_id": "kimheadlee"
+		"name": "Erin DeSimone",
+		"guest_id": "erin_desimone"
 	}, {
-		"name": "Tera Fulbright",
-		"guest_id": "terafulbright"
+		"name": "Gerald Coleman",
+		"guest_id": "gerald_coleman"
 	}, {
-		"name": "Darin Kennedy",
-		"guest_id": "darinkennedy"
+		"name": "James Palmer",
+		"guest_id": "james_palmer"
 	}, {
-		"name": "James Gaines",
-		"guest_id": "jamesgaines"
+		"name": "Clay Gilbert",
+		"guest_id": "clay_gilbert"
 	}, {
-		"name": "Jason Gilbert",
-		"guest_id": "jasongilbert"
+		"name": "SeanHillman",
+		"guest_id": "seanhillman"
 	}, {
-		"name": "Liz Long",
-		"guest_id": "lizlong"
+		"name": "Danyelle Denham",
+		"guest_id": "danyelle_denham"
 	}, {
-		"name": "S.H. Roddey",
-		"guest_id": "shroddey"
+		"name": "Amy DuBoff",
+		"guest_id": "amy_duboff"
 	}, {
-		"name": "Syrinx",
-		"guest_id": "syrinx"
+		"name": "Nancy McCullough",
+		"guest_id": "nancy_mccullough"
 	}, {
-		"name": "Alex Matsuo",
-		"guest_id": "alexmatsuo"
+		"name": "JD Jordan",
+		"guest_id": "jd_jordan"
 	}, {
-		"name": "Carol the Cat",
-		"guest_id": "carolthecat"
+		"name": "Natalie Rogers",
+		"guest_id": "natalie_rogers"
 	}, {
-		"name": "Rich Sigfrit",
-		"guest_id": "richsigfrit"
+		"name": "Kara Stewart",
+		"guest_id": "kara_stewart"
 	}, {
-		"name": "The Flynnstress",
-		"guest_id": "theflynnstress"
+		"name": "Emily Sanderson",
+		"guest_id": "emily_sanderson"
 	}, {
-		"name": "Steven S. Long",
-		"guest_id": "stevenslong"
+		"name": "Issac Stewart",
+		"guest_id": "issac_stewart"
 	}, {
-		"name": "Eddie's Teddy",
-		"guest_id": "eddiesteddy"
+		"name": "MKA Lawrence Carey",
+		"guest_id": "mka_lawrence_carey"
 	}, {
-		"name": "John Watts",
-		"guest_id": "johnwatts"
+		"name": "Brendan Oxford",
+		"guest_id": "brendan_oxford"
 	}, {
-		"name": "Travis Sivart",
-		"guest_id": "travissivart"
+		"name": "Molly Weiss",
+		"guest_id": "molly_weiss"
 	}, {
-		"name": "Shawn Walton",
-		"guest_id": "shawnwalton"
+		"name": "Joshua Bush",
+		"guest_id": "joshua_bush"
 	}, {
-		"name": "Billy Flynn",
-		"guest_id": "billyflynn"
+		"name": "Deana Whitney",
+		"guest_id": "deana_whitney"
 	}, {
-		"name": "Clare Kramer",
-		"guest_id": "clarekramer"
+		"name": "Jamie Cybert",
+		"guest_id": "jamie_cybert"
 	}, {
-		"name": "Abigail Wallace",
-		"guest_id": "abigailwallace"
+		"name": "Sarah Dauro",
+		"guest_id": "sarah_dauro"
 	}, {
-		"name": "Richard C. White",
-		"guest_id": "richardcwhite"
+		"name": "Ravi Persaud",
+		"guest_id": "ravi_persaud"
 	}, {
-		"name": "Fraser Sherman",
-		"guest_id": "frasersherman"
+		"name": "Isaac Stewart",
+		"guest_id": "isaac_stewart"
 	}, {
-		"name": "Joe R. Lansdale",
-		"guest_id": "joerlansdale"
+		"name": "Joe O'Hara",
+		"guest_id": "joe_ohara"
 	}, {
-		"name": "Pamela K. Kinney",
-		"guest_id": "pamelakkinney"
+		"name": "Tom O'Hara",
+		"guest_id": "tom_ohara"
 	}, {
-		"name": "Shawnee Small",
-		"guest_id": "shawneesmall"
+		"name": "Jonathan Coulborn",
+		"guest_id": "jonathan_coulborn"
 	}, {
-		"name": "Stuart Jaffe",
-		"guest_id": "stuartjaffe"
+		"name": "Alan Romanczuk",
+		"guest_id": "alan_romanczuk"
 	}, {
-		"name": "Dave Harlequin",
-		"guest_id": "daveharlequin"
+		"name": "Drew McCaffrey",
+		"guest_id": "drew_mccaffrey"
 	}, {
-		"name": "Bob Flack",
-		"guest_id": "bobflack"
+		"name": "Glen Vogelaar",
+		"guest_id": "glen_vogelaar"
 	}, {
-		"name": "Bridget Muncy",
-		"guest_id": "bridgetmuncy"
+		"name": "Rosemary Williams",
+		"guest_id": "rosemary_williams"
 	}, {
-		"name": "Charming Charlie",
-		"guest_id": "charmingcharlie"
+		"name": "Ted Herman",
+		"guest_id": "ted_herman"
 	}, {
-		"name": "Jillian Ryan",
-		"guest_id": "jillianryan"
+		"name": "Billy Todd",
+		"guest_id": "billy_todd"
 	}, {
-		"name": "Tally Johnson",
-		"guest_id": "tallyjohnson"
+		"name": "Donavynn Sandusky",
+		"guest_id": "donavynn_sandusky"
 	}, {
-		"name": "Mark MacDicken",
-		"guest_id": "markmacdicken"
+		"name": "Jory Phillips",
+		"guest_id": "jory_phillips"
 	}, {
-		"name": "Matthew Penick",
-		"guest_id": "matthewpenick"
+		"name": "Trae Cooper",
+		"guest_id": "trae_cooper"
 	}, {
-		"name": "Daniel Thomas",
-		"guest_id": "danielthomas"
+		"name": "Heidi Byrd",
+		"guest_id": "heidi_byrd"
 	}, {
-		"name": "George C. Minter",
-		"guest_id": "georgecminter"
+		"name": "Shannan Lieb",
+		"guest_id": "shannan_lieb"
 	}, {
-		"name": "Jr.",
-		"guest_id": "jr"
+		"name": "Aaron-Michael Hall",
+		"guest_id": "aaronmichael_hall"
 	}, {
-		"name": "Andrew Ragland",
-		"guest_id": "andrewragland"
+		"name": "Karen Ahlstrom",
+		"guest_id": "karen_ahlstrom"
 	}, {
-		"name": "Jay Stahl",
-		"guest_id": "jaystahl"
+		"name": "Brandon Sanderson",
+		"guest_id": "brandon_sanderson"
 	}, {
-		"name": "Adam Swinder",
-		"guest_id": "adamswinder"
+		"name": "Peter Ahlstrom",
+		"guest_id": "peter_ahlstrom"
 	}, {
-		"name": "Jeff Merola",
-		"guest_id": "jeffmerola"
+		"name": "Maria Simons",
+		"guest_id": "maria_simons"
 	}, {
-		"name": "Samantha Bryant",
-		"guest_id": "samanthabryant"
+		"name": "Theresa Gray",
+		"guest_id": "theresa_gray"
 	}, {
-		"name": "Anita Bruckert",
-		"guest_id": "anitabruckert"
+		"name": "Matt Hatch",
+		"guest_id": "matt_hatch"
 	}, {
-		"name": "Zach Callison",
-		"guest_id": "zachcallison"
+		"name": "Jeffrey Daniel",
+		"guest_id": "jeffrey_daniel"
 	}, {
-		"name": "Michael D. Pederson",
-		"guest_id": "michaeldpederson"
+		"name": "Ebony Adomanis",
+		"guest_id": "ebony_adomanis"
 	}, {
-		"name": "John Johnson",
-		"guest_id": "johnjohnson"
+		"name": "James Berg-Bradley",
+		"guest_id": "james_bergbradley"
 	}, {
-		"name": "Lou Antonelli",
-		"guest_id": "louantonelli"
+		"name": "Linda Taglieri",
+		"guest_id": "linda_taglieri"
 	}, {
-		"name": "The Giddy Geeker",
-		"guest_id": "thegiddygeeker"
+		"name": "Jason Denzel",
+		"guest_id": "jason_denzel"
 	}, {
-		"name": "Jim Beall",
-		"guest_id": "jimbeall"
+		"name": "Harriet McDougal",
+		"guest_id": "harriet_mcdougal"
 	}, {
-		"name": "Peter Prellwitz",
-		"guest_id": "peterprellwitz"
+		"name": "Sargon Donabed",
+		"guest_id": "sargon_donabed"
 	}, {
-		"name": "Ginger Snaps",
-		"guest_id": "gingersnaps"
+		"name": "Aubree Pham",
+		"guest_id": "aubree_pham"
 	}, {
-		"name": "Alexandra Christian",
-		"guest_id": "alexandrachristian"
+		"name": "Jodie Wiens",
+		"guest_id": "jodie_wiens"
 	}, {
-		"name": "Michael David Anderson",
-		"guest_id": "michaeldavidanderson"
+		"name": "Thom DeSimone",
+		"guest_id": "thom_desimone"
 	}, {
-		"name": "Erin Ashley",
-		"guest_id": "erinashley"
+		"name": "Marisa Grooms",
+		"guest_id": "marisa_grooms"
 	}, {
-		"name": "J. Kyle McNeal",
-		"guest_id": "jkylemcneal"
+		"name": "Stephanie Law",
+		"guest_id": "stephanie_law"
 	}, {
-		"name": "Melissa McArthur",
-		"guest_id": "melissamcarthur"
+		"name": "Amanda Makepeace",
+		"guest_id": "amanda_makepeace"
 	}, {
-		"name": "Meredith Bowman-Shelton",
-		"guest_id": "meredithbowmanshelton"
+		"name": "Melissa Gay",
+		"guest_id": "melissa_gay"
 	}, {
-		"name": "John Gaines",
-		"guest_id": "johngaines"
+		"name": "Paul Bielaczyc",
+		"guest_id": "paul_bielaczyc"
 	}, {
-		"name": "Mike Allen",
-		"guest_id": "mikeallen"
+		"name": "Kelly Keuneke-Marts",
+		"guest_id": "kelly_keunekemarts"
 	}, {
-		"name": "Shawn Durington",
-		"guest_id": "shawndurington"
+		"name": "Charles Urbach",
+		"guest_id": "charles_urbach"
 	}, {
-		"name": "The Library Bards",
-		"guest_id": "thelibrarybards"
+		"name": "Jeff Jarvis",
+		"guest_id": "jeff_jarvis"
 	}, {
-		"name": "Jim Gaines",
-		"guest_id": "jimgaines"
+		"name": "Billie Pierce",
+		"guest_id": "billie_pierce"
 	}, {
-		"name": "Bella Morte",
-		"guest_id": "bellamorte"
+		"name": "Natalie Rodgers",
+		"guest_id": "natalie_rodgers"
 	}, {
-		"name": "DJ Angel Metro",
-		"guest_id": "djangelmetro"
+		"name": "Ariel Burgess",
+		"guest_id": "ariel_burgess"
 	}, {
-		"name": "The Vailix",
-		"guest_id": "thevailix"
+		"name": "Angela Sasser",
+		"guest_id": "angela_sasser"
 	}, {
-		"name": "Angela Pritchett",
-		"guest_id": "angelapritchett"
+		"name": "Edsel Arnold",
+		"guest_id": "edsel_arnold"
 	}, {
-		"name": "David Lee",
-		"guest_id": "davidlee"
+		"name": "Tiffany Toland-Scott",
+		"guest_id": "tiffany_tolandscott"
 	}, {
-		"name": "Mx Knowitall",
-		"guest_id": "mxknowitall"
+		"name": "Andrea Fornero",
+		"guest_id": "andrea_fornero"
 	}, {
-		"name": "S.C. Houff",
-		"guest_id": "schouff"
+		"name": "A.J. Hartley",
+		"guest_id": "aj_hartley"
 	}, {
-		"name": "Dr. Daniel Wallace",
-		"guest_id": "drdanielwallace"
+		"name": "Faith Hunter",
+		"guest_id": "faith_hunter"
 	}, {
-		"name": "Rob Richmond",
-		"guest_id": "robrichmond"
+		"name": "David B. Coe",
+		"guest_id": "david_b_coe"
 	}, {
-		"name": "M. Jason Turner",
-		"guest_id": "mjasonturner"
+		"name": "Blue Cole",
+		"guest_id": "blue_cole"
 	}, {
-		"name": "John L. French",
-		"guest_id": "johnlfrench"
+		"name": "Toni Weisskopf",
+		"guest_id": "toni_weisskopf"
 	}, {
-		"name": "Once More with Clare",
-		"guest_id": "oncemorewithclare"
+		"name": "Milton Davis",
+		"guest_id": "milton_davis"
 	}, {
-		"name": "Bill Mulligan",
-		"guest_id": "billmulligan"
+		"name": "Chris Kennedy",
+		"guest_id": "chris_kennedy"
 	}, {
-		"name": "Jaysen Buterin",
-		"guest_id": "jaysenbuterin"
+		"name": "Debra Dixon",
+		"guest_id": "debra_dixon"
 	}, {
-		"name": "Christine Parker",
-		"guest_id": "christineparker"
+		"name": "Merethe Walther",
+		"guest_id": "merethe_walther"
 	}, {
-		"name": "Dan Sellers",
-		"guest_id": "dansellers"
+		"name": "Robyn Huss",
+		"guest_id": "robyn_huss"
 	}, {
-		"name": "Sammie Cassell",
-		"guest_id": "sammiecassell"
+		"name": "Darin. M. Bush",
+		"guest_id": "darin_m_bush"
 	}, {
-		"name": "Jason T. Graves",
-		"guest_id": "jasontgraves"
+		"name": "Alison Reeger Cook",
+		"guest_id": "alison_reeger_cook"
 	}, {
-		"name": "R.S. Belcher",
-		"guest_id": "rsbelcher"
+		"name": "Ashley Chappell",
+		"guest_id": "ashley_chappell"
 	}, {
-		"name": "Jim Evans Mike Anderson",
-		"guest_id": "jimevansmikeanderson"
+		"name": "David B Coe",
+		"guest_id": "david_b_coe"
 	}, {
-		"name": "Don Haymaker",
-		"guest_id": "donhaymaker"
+		"name": "Alison Reager Cook",
+		"guest_id": "alison_reager_cook"
 	}, {
-		"name": "Christopher Lane",
-		"guest_id": "christopherlane"
+		"name": "Christopher Woods",
+		"guest_id": "christopher_woods"
 	}, {
-		"name": "Anthony Sciabarra",
-		"guest_id": "anthonysciabarra"
+		"name": "AJ Hartley",
+		"guest_id": "aj_hartley"
 	}, {
-		"name": "Skyler Ireland",
-		"guest_id": "skylerireland"
+		"name": "Gerald L. Coleman",
+		"guest_id": "gerald_l_coleman"
 	}, {
-		"name": "Uwe Eisenkraft",
-		"guest_id": "uweeisenkraft"
+		"name": "Paige L. Christie",
+		"guest_id": "paige_l_christie"
 	}, {
-		"name": "Matthew Corwin",
-		"guest_id": "matthewcorwin"
+		"name": "Erin MCgourn",
+		"guest_id": "erin_mcgourn"
 	}, {
-		"name": "Charming Underclothes",
-		"guest_id": "charmingunderclothes"
+		"name": "John Vots",
+		"guest_id": "john_vots"
 	}, {
-		"name": "Carla Brindle",
-		"guest_id": "carlabrindle"
+		"name": "Sebatianos Ionnedes",
+		"guest_id": "sebatianos_ionnedes"
 	}, {
-		"name": "Mariah Johnson",
-		"guest_id": "mariahjohnson"
+		"name": "Michael J. Allen",
+		"guest_id": "michael_j_allen"
 	}, {
-		"name": "Anita Allen",
-		"guest_id": "anitaallen"
+		"name": "Jenna Sellers",
+		"guest_id": "jenna_sellers"
 	}, {
-		"name": "Mark Davis",
-		"guest_id": "markdavis"
+		"name": "Chris Lipnickas",
+		"guest_id": "chris_lipnickas"
 	}, {
-		"name": "Saucy",
-		"guest_id": "saucy"
+		"name": "MeLessa Swann",
+		"guest_id": "melessa_swann"
 	}, {
-		"name": "Amanda J. McGee",
-		"guest_id": "amandajmcgee"
+		"name": "Tom Fallwell",
+		"guest_id": "tom_fallwell"
 	}, {
-		"name": "Myron Smith",
-		"guest_id": "myronsmith"
+		"name": "Aaron Michael Hall",
+		"guest_id": "aaron_michael_hall"
 	}, {
-		"name": "Allen Wold",
-		"guest_id": "allenwold"
+		"name": "Leia Powell",
+		"guest_id": "leia_powell"
 	}, {
-		"name": "Darrel Little",
-		"guest_id": "darrellittle"
+		"name": "Martin Powell",
+		"guest_id": "martin_powell"
 	}, {
-		"name": "Gary Yohe",
-		"guest_id": "garyyohe"
+		"name": "Saki Marie Harp",
+		"guest_id": "saki_marie_harp"
 	}, {
-		"name": "Kevin Hines",
-		"guest_id": "kevinhines"
+		"name": "Raine Palmer",
+		"guest_id": "raine_palmer"
 	}, {
-		"name": "Bethlynne Prellwitz",
-		"guest_id": "bethlynneprellwitz"
+		"name": "Jen Austin",
+		"guest_id": "jen_austin"
 	}, {
-		"name": "Carl Kesner",
-		"guest_id": "carlkesner"
+		"name": "Jennifer Weatherspoon",
+		"guest_id": "jennifer_weatherspoon"
 	}, {
-		"name": "Benton Spiker",
-		"guest_id": "bentonspiker"
+		"name": "Caleb Burnham",
+		"guest_id": "caleb_burnham"
 	}, {
-		"name": "Joey Carleno",
-		"guest_id": "joeycarleno"
+		"name": "Tiff Franklin",
+		"guest_id": "tiff_franklin"
 	}, {
-		"name": "Christopher Moore",
-		"guest_id": "christophermoore"
+		"name": "MM Schill",
+		"guest_id": "mm_schill"
 	}, {
-		"name": "Wendy Shelor",
-		"guest_id": "wendyshelor"
+		"name": "Lyndsey Luther",
+		"guest_id": "lyndsey_luther"
 	}, {
-		"name": "Greg Porter",
-		"guest_id": "gregporter"
+		"name": "SCA Fighting Demo",
+		"guest_id": "sca_fighting_demo"
 	}, {
-		"name": "Brenden Magill",
-		"guest_id": "brendenmagill"
+		"name": "Atlanta Radio Theater Company",
+		"guest_id": "atlanta_radio_theater_company"
 	}, {
-		"name": "Benjamen Walton",
-		"guest_id": "benjamenwalton"
+		"name": "Jennifer Liang",
+		"guest_id": "jennifer_liang"
 	}, {
-		"name": "Haley Walton",
-		"guest_id": "haleywalton"
+		"name": "Jimmy Liang",
+		"guest_id": "jimmy_liang"
 	}, {
-		"name": "Kaishen Walton",
-		"guest_id": "kaishenwalton"
+		"name": "Jennifer Liang Moderator: Aubree Pham",
+		"guest_id": "jennifer_liang_moderator_aubree_pham"
 	}, {
-		"name": "Phyllis Van Eps",
-		"guest_id": "phyllisvaneps"
+		"name": "Richard Blaylock",
+		"guest_id": "richard_blaylock"
 	}, {
-		"name": "Warren C. Fry",
-		"guest_id": "warrencfry"
+		"name": "Zack Stevens",
+		"guest_id": "zack_stevens"
 	}, {
-		"name": "Darren Conrad",
-		"guest_id": "darrenconrad"
+		"name": "Ben Gunderson",
+		"guest_id": "ben_gunderson"
 	}, {
-		"name": "Final Form Fusion",
-		"guest_id": "finalformfusion"
+		"name": "Chip Moore",
+		"guest_id": "chip_moore"
 	}, {
-		"name": "Calvin Powers",
-		"guest_id": "calvinpowers"
-	}, {
-		"name": "Tim Alberth",
-		"guest_id": "timalberth"
-	}, {
-		"name": "Keith Stanley",
-		"guest_id": "keithstanley"
-	}, {
-		"name": "Tha True Original GATA",
-		"guest_id": "thatrueoriginalgata"
-	}, {
-		"name": "Tommy Dreamer",
-		"guest_id": "tommydreamer"
-	}, {
-		"name": "Chris Slattery",
-		"guest_id": "chrisslattery"
-	}, {
-		"name": "Hazel Dayze",
-		"guest_id": "hazeldayze"
-	}, {
-		"name": "Broad Universe Rapid Fire Reading",
-		"guest_id": "broaduniverserapidfirereading"
-	}, {
-		"name": "William Coughlan",
-		"guest_id": "williamcoughlan"
-	}, {
-		"name": "Kyra & Cheka Brindle",
-		"guest_id": "kyrachekabrindle"
-	}, {
-		"name": "Dark N Stormy",
-		"guest_id": "darknstormy"
-	}, {
-		"name": "Pattycakes",
-		"guest_id": "pattycakes"
-	}, {
-		"name": "Reeper",
-		"guest_id": "reeper"
+		"name": "Kelcey Casson",
+		"guest_id": "kelcey_casson"
 	}],
-	"events": {
-		"Main Programming": [{
-			"day": "2018-02-23",
-			"time": "15:00",
-			"location": "Ballroom C",
-			"title": "Astrology and Tarot as Writing Tools",
-			"description": "Tarot and astrology are topics that have fascinated fiction writers for decades. But did you know that even if they don’t feature in your story, they make great behind-the-scenes tools for writing? In this panel we’ll discuss ways to use tarot and astrology to help spice up your brainstorming, flesh out character details, jump-start a stalled plot, and more.\n\ndedicated sound system with at least 4 mics and 2 wireless mics available for some events.  There will be an 8’ movie screen in here.",
-			"guest_list": ["crymsynhart", "kimheadlee", "terafulbright"],
-			"event_id": "2018-02-2315:00astrologyandtarotaswritingtools"
+	"events": [{
+		"Gaming": [{
+			"day": "2018-04-21",
+			"time": "20:30",
+			"title": "Magic: The Gathering Draft",
+			"description": "Event will be held in the Gaming Room; price $15",
+			"guests": [],
+			"event_id": "56l8su6oj3ecvqs5doojlngcj0@google.com",
+			"location": "Ravinia E, F, G"
 		}, {
-			"day": "2018-02-24",
-			"time": "15:00",
-			"location": "Ballroom D",
-			"title": "Author Showcase",
-			"description": "Authors who have written books coming out in 2018 can briefly discuss them in a panel.",
-			"guest_list": ["darinkennedy", "jamesgaines", "jasongilbert", "lizlong", "shroddey"],
-			"event_id": "2018-02-2315:00authorshowcase"
-		}],
-		"Swords & Sorcery": [{
-			"day": "2018-02-23",
-			"time": "15:00",
-			"location": "Ballroom E",
-			"title": "Audio Podcasting and Internet Radio 101",
-			"description": "Our panelists will talk about ways to start up your own audio podcast, or Internet radio station--the equipment to get, software to use, and creating a website for distribution or hooking up with a streaming provider.",
-			"guest_list": ["syrinx", "alexmatsuo", "carolthecat", "richsigfrit", "theflynnstress"],
-			"event_id": "2018-02-2315:00audiopodcastingandinternetradio101"
+			"day": "2018-04-21",
+			"time": "14:30",
+			"title": "The Punderdome",
+			"description": "\nPunning game, needs description\n\n",
+			"guests": ["jen_halbman", "bao_pham"],
+			"event_id": "1j9ne4rgknrtlsufsf8j20rt4j@google.com",
+			"location": "Ravinia E, F, G"
 		}, {
-			"day": "2018-02-24",
-			"time": "15:00",
-			"location": "Dogwood 1",
-			"title": "Introduction to Roleplaying",
-			"description": "Curious as to what is involved in roleplaying games? Come take your first step into the wonderful world of roleplaying and what it entails. This panel would also be helpful to parents who have children that want to, or are actively participating in, roleplay. Learn the lingo, get all the starting tips, and more, with our panelists.\n\ndedicated sound system with at least 4 mics and a screen",
-			"guest_list": ["stevenslong", "eddiesteddy", "johnwatts"],
-			"event_id": "2018-02-2315:00introductiontoroleplaying"
+			"day": "2018-04-21",
+			"time": "10:00",
+			"title": "Open Gaming and Demos",
+			"description": "Bring your favorite games to share or hop into other games. ",
+			"guests": [],
+			"event_id": "0dphkhdc10gpp6k0elkeba1qr6@google.com",
+			"location": "Ravinia E, F, G"
 		}, {
-			"day": "2018-02-25",
-			"time": "15:00",
-			"location": "Dogwood 2",
-			"title": "Podcast: Talk of the Tavern",
-			"description": "Hang out with Travis Sivart while he gives a preview of what you can expect at MystiCon 2018!\n\nLarge TV on stand",
-			"guest_list": ["travissivart"],
-			"event_id": "2018-02-2315:00podcasttalkofthetavern"
+			"day": "2018-04-20",
+			"time": "14:30",
+			"title": "Open Gaming and Demos",
+			"description": "Bring your favorite games to share or hop into other games. DarkfriendWerewolf Variant starts at 2:30pmE&amp;D Games",
+			"guests": [],
+			"event_id": "294bp2rppsdvf93ji1fioo3fr1@google.com",
+			"location": "Ravinia E, F, G"
+		}, {
+			"day": "2018-04-20",
+			"time": "20:30",
+			"title": "Seanchan Hold'em",
+			"description": "Annual Poker tournament with proceeds going towards the Mayo Clinic.  Please arrive in Perimeter Pavilion around 8:30 to sign up / get seated.  We'll begin promptly at 9 PM.",
+			"guests": [],
+			"event_id": "0sktjpnhqd0qh642ja5ssnpsof@google.com",
+			"location": "Ravinia E, F, G"
+		}, {
+			"day": "2017-04-21",
+			"time": "20:30",
+			"title": "Seanchan Hold'em",
+			"description": "Annual Poker Tournament",
+			"guests": [],
+			"event_id": "CSVConvert66acfd0d794510335e6b7dfa13ad733f",
+			"location": "Gaming"
+		}, {
+			"day": "2017-04-22",
+			"time": "20:30",
+			"title": "Magic: The Gathering Draft",
+			"description": "Our annual Magic tournament",
+			"guests": [],
+			"event_id": "CSVConvert7179da93e4e6c4851ba0edb6248d1805",
+			"location": "Gaming"
+		}, {
+			"day": "2017-04-21",
+			"time": "20:30",
+			"title": "Friday Night Magic",
+			"description": "The first of our tournaments!",
+			"guests": [],
+			"event_id": "CSVConvert73e71967d84dc665a5d8e067030a4995",
+			"location": "Gaming"
+		}, {
+			"day": "2017-04-22",
+			"time": "10:00",
+			"title": "Escape Room",
+			"description": "Can you escape?",
+			"guests": [],
+			"event_id": "CSVConvert028a841d9e09091c76e2662b6f6c7665",
+			"location": "Gaming"
+		}, {
+			"day": "2017-04-21",
+			"time": "14:30",
+			"title": "Darkfriend",
+			"description": "WoT Variant of Werewolf",
+			"guests": [],
+			"event_id": "CSVConvertdd32bbc75ece0dcf1608dd3e3de1b098",
+			"location": "Gaming"
 		}]
-	}
+	}, {
+		"Rivets & Robots": [{
+			"day": "2018-04-21",
+			"time": "16:00",
+			"title": "Blake's 7 & Beyond",
+			"description": "\nA discussion of the British SF Television\n\n",
+			"guests": ["sean_hillman", "anthony_taylor"],
+			"event_id": "5kra6tbrkgl4ev60u9bb5699nr@google.com",
+			"location": "Maplewood B"
+		}, {
+			"day": "2018-04-21",
+			"time": "14:30",
+			"title": "Royal Manticore: Who Are They?",
+			"description": "\nCome learn about the Royal Manticore Navy, their inspirations, and the works they love. Don't blame us if you get recruited!\n\n",
+			"guests": ["team_royal_manticore"],
+			"event_id": "5mnqm05v5e0icpajaprmvtm9cm@google.com",
+			"location": "Maplewood B"
+		}, {
+			"day": "2018-04-21",
+			"time": "13:00",
+			"title": "Sorting Hat: Dr. Who Edition",
+			"description": "\nSo you like Dr. Who? You like Harry Potter? You like sorting people into Houses? Well then come dressed as your favorite Doctor and prepare to discuss which Doctor would work in which house. We will be discussing all the Doctors! \n\n",
+			"guests": ["darin_m_bush", "ellie_raine", "erin_desimone"],
+			"event_id": "7be18m6mtgi4bpv6t62j7di0a8@google.com",
+			"location": "Maplewood B"
+		}, {
+			"day": "2018-04-21",
+			"time": "11:30",
+			"title": "Dr. Who: The 13th Doctor & Beyond",
+			"description": "\nA discussion on the new Doctor and her series as well as a general look at the series and where it is headed. Come dressed as your favorite Doctor!\n\n",
+			"guests": ["sean_hillman", "gerald_coleman", "james_palmer", "clay_gilbert"],
+			"event_id": "65fnr064mh7cc6h1h6juvfeu1c@google.com",
+			"location": "Maplewood B"
+		}, {
+			"day": "2018-04-21",
+			"time": "10:00",
+			"title": "Coffee in Cornwall: British SF Through Ages",
+			"description": "\nA broad discussion about British SF, focusing on literary movements and the emergence of the distinctive voice of SF from the Isles.\n\n",
+			"guests": ["sean_hillman"],
+			"event_id": "0f060r5ac5ahgqgfhn8r1qp97p@google.com",
+			"location": "Maplewood B"
+		}, {
+			"day": "2018-04-20",
+			"time": "20:30",
+			"title": "Friday Fandom Smackdown",
+			"description": "Space Battleship! This year a titanic space struggle between the Honorverse and the Vorkosigan Saga! Come Play Space Battleship and watch your enemy bleed atmo!",
+			"guests": ["seanhillman", "danyelle_denham", "team_royal_manticore"],
+			"event_id": "2nfvnvrs334pugrt00iua9fprl@google.com",
+			"location": "Maplewood B"
+		}, {
+			"day": "2018-04-20",
+			"time": "17:30",
+			"title": "Bright: Why are there Orcs in my Cop Procedural?",
+			"description": "Let's talk about Bright and thebroad spectrum of Science Fantasy. How close is it to Shadowrun, the RPG?",
+			"guests": ["sean_hillman", "amy_duboff"],
+			"event_id": "59q7sksuei4kn31b7kkkltop1u@google.com",
+			"location": "Maplewood B"
+		}, {
+			"day": "2018-04-20",
+			"time": "16:00",
+			"title": "Silk Punk: What is it and why should you read it?",
+			"description": "An examination of Silkpunk and the authors who are writing it.",
+			"guests": ["sean_hillman", "nancy_mccullough"],
+			"event_id": "638hegn331b9aercs8q8h7u5n4@google.com",
+			"location": "Maplewood B"
+		}, {
+			"day": "2018-04-20",
+			"time": "14:30",
+			"title": "What Is New in Science: 2017-2018 Edition",
+			"description": "All the current exciting science trends from the last year.",
+			"guests": ["nancy_mccullough", "jd_jordan", "amy_duboff"],
+			"event_id": "0i64g4csegfdk3prv3gfri7k3q@google.com",
+			"location": "Maplewood B"
+		}, {
+			"day": "2017-04-22",
+			"time": "16:00",
+			"title": "Dieselpunk",
+			"description": "Dieselpunk. What is it?",
+			"guests": [],
+			"event_id": "CSVConvert67d284ebf762e9ee66c30f807278664a",
+			"location": ""
+		}, {
+			"day": "2017-04-22",
+			"time": "11:30",
+			"title": "YA Panel: Queens of the Apocalypse",
+			"description": "Where we discuss the young women who rule the physical and political wastelands of dystopian YA literature. ",
+			"guests": [],
+			"event_id": "CSVConverta663a472be2f21e26c6faefbbc211fb4",
+			"location": ""
+		}, {
+			"day": "2017-04-23",
+			"time": "11:30",
+			"title": "Weapons of the Future",
+			"description": "Bring your favorite Cosplay or Prop/Collectable.",
+			"guests": [],
+			"event_id": "CSVConvertaddda0d8953f70edf8c1d941cce9344d",
+			"location": ""
+		}, {
+			"day": "2017-04-22",
+			"time": "20:30",
+			"title": "Viva Las Venus: Let's Take our party into orbit",
+			"description": "Welcome to Sin Planet. Bring your costumes and dirty alien literature to share.",
+			"guests": [],
+			"event_id": "CSVConvert529da9cd503f3d8e2535e0cc987c2268",
+			"location": ""
+		}, {
+			"day": "2017-04-22",
+			"time": "13:00",
+			"title": "The Wheel of The End Times",
+			"description": "What if the Dragon Reborn were burning desert chrome? Our Mirror Worlds series continues",
+			"guests": [],
+			"event_id": "CSVConvert78cac9e004d6404c0767f1796430642f",
+			"location": ""
+		}, {
+			"day": "2017-04-23",
+			"time": "10:00",
+			"title": "Sunday with the Sith: Star Wars: Rebels & The Old Republic",
+			"description": "The Star Wars Rebels tv show is carving its own nitch into the Star Wars Universe. Tell us your thoughts",
+			"guests": [],
+			"event_id": "CSVConvertf282c425e0e4f4d053b0bb4b697c30dd",
+			"location": ""
+		}, {
+			"day": "2017-04-21",
+			"time": "16:00",
+			"title": "Streaming Atmo: Past-Present-Future of Military SF",
+			"description": "Everyone loves a good space battle",
+			"guests": [],
+			"event_id": "CSVConvert7b023ad008268d365f8702d756a21045",
+			"location": ""
+		}, {
+			"day": "2017-04-23",
+			"time": "13:00",
+			"title": "SF Trends 2017",
+			"description": "So what is coming in 2017 and 2018? What new trends and authors will you be following this year?",
+			"guests": [],
+			"event_id": "CSVConvertf1f58d50f035ee0a16b67a213a807da0",
+			"location": ""
+		}, {
+			"day": "2017-04-23",
+			"time": "14:30",
+			"title": "SF Television Going Forward",
+			"description": "where do we see the future of SF television going? ",
+			"guests": [],
+			"event_id": "CSVConvert4eec855bd98c3ddb6bb9a85b26fb3757",
+			"location": ""
+		}, {
+			"day": "2017-04-21",
+			"time": "14:30",
+			"title": "Science Facts 2016-2017",
+			"description": "Let's talk about today's science and how it affects our Science Fiction",
+			"guests": [],
+			"event_id": "CSVConvert28bba395c03a268e3f4e46442a243e50",
+			"location": ""
+		}, {
+			"day": "2017-04-21",
+			"time": "17:30",
+			"title": "Lost Voices of Science",
+			"description": "We talk about visionaries whose work is under appreciated ",
+			"guests": [],
+			"event_id": "CSVConvert1ffb01256763c7219c19ca7faad9b17a",
+			"location": ""
+		}, {
+			"day": "2017-04-21",
+			"time": "20:30",
+			"title": "Friday Fandom Smackdown",
+			"description": "Marvel vs. DC",
+			"guests": [],
+			"event_id": "CSVConverta6bc40e0a5f15b96f362683e164ab2c8",
+			"location": ""
+		}, {
+			"day": "2017-04-22",
+			"time": "10:00",
+			"title": "Coffee With The Cosmonauts",
+			"description": "Good Morning, Comrades. In Soviet Russia the coffee may be vintage World War II but the SF was fresh and groundbreaking. Drink up!",
+			"guests": [],
+			"event_id": "CSVConvertea4a8009efd9b0ba45ec75f20b848a9f",
+			"location": ""
+		}, {
+			"day": "2017-04-22",
+			"time": "14:30",
+			"title": "Cinema of the Apocalypse",
+			"description": " Why we love Apocalyptic Cinema.",
+			"guests": [],
+			"event_id": "CSVConvertcfb72a8e4634280f0d9b4d520ccb6633",
+			"location": ""
+		}]
+	}, {
+		"Workshops": [{
+			"day": "2018-04-21",
+			"time": "16:00",
+			"title": "Drawing Workshop - Kaladin Stormblessed",
+			"description": "In this workshop, artist Nat Rodgers teaches her method for designing and sketching her unofficial (but much loved) version of Kaladin, from author Brandon Sanderson's The Stormlight Archive. This workshop focuses on an easy, comic-book style portrait that anyone can do with practice, but also includes a number of tips for drawing and cartooning various character types at any level of experience. Along with drawing the character, participants will walk through the thought process of designing facial structure to match personality archetypes, and receive all take-home materials necessary to practice after the class. Class limit: 15. Class Fee: $15.00, which includes a Strathmore notepad and various pencils.",
+			"guests": ["natalie_rogers"],
+			"event_id": "7n5dv5fil8qa404t2f9un2p1m8@google.com",
+			"location": "Gardenia"
+		}, {
+			"day": "2018-04-21",
+			"time": "14:30",
+			"title": "Running a Fan Store",
+			"description": "Tips, advice, examples of how best to run an online store of your goods. ",
+			"guests": ["kara_stewart", "emily_sanderson"],
+			"event_id": "5o2ilurmlo347d2g96ho7qre8h@google.com",
+			"location": "Gardenia"
+		}, {
+			"day": "2018-04-21",
+			"time": "13:00",
+			"title": "Creating Stormlight Glyphs",
+			"description": "Learn how to write Stormlight glyphs, from their creator. A very different style of calligraphy.   Bring your own prefered pen style, or some calligraphy pens will be available for $3.00.  Graph paper will be provided.  Class limit 25.",
+			"guests": ["issac_stewart"],
+			"event_id": "0f9p5qq4ceqo6hon2grqlndud7@google.com",
+			"location": "Gardenia"
+		}, {
+			"day": "2018-04-21",
+			"time": "11:30",
+			"title": "SCA class - Brewing",
+			"description": "An overview of old English brewing in early to late period England. An over view of period yeast, hop use, herbs and period laws governing brewing.",
+			"guests": ["mka_lawrence_carey"],
+			"event_id": "2jpcvu1tvhjkp1o1co27gp1766@google.com",
+			"location": "Gardenia"
+		}, {
+			"day": "2018-04-21",
+			"time": "10:00",
+			"title": "Dancing - West Coast Swing",
+			"description": "Want to spin each other around the dance floor? No partner needed, come learn the basics of West Coast Swing in preparation for homecoming",
+			"guests": ["brendan_oxford", "molly_weiss"],
+			"event_id": "73otlfg97ddi1up19m2isml418@google.com",
+			"location": ""
+		}, {
+			"day": "2018-04-21",
+			"time": "10:00",
+			"title": "SCA class - Leather tooling",
+			"description": "Beginners leather workshop; make and take tooled key fob. Learn some basic leather construction, and several  basic tooling techniques for designs on pre-cut leather fobs.  Children need to be an adult to attend and be able to safely swing a hammer.   Class Limit: 15, Fee $10.00",
+			"guests": ["joshua_bush"],
+			"event_id": "0vo6lsflbeq6t86aohjgorsk19@google.com",
+			"location": "Gardenia"
+		}, {
+			"day": "2018-04-20",
+			"time": "19:00",
+			"title": "Homecoming Mums: Open craft time",
+			"description": "Open workshop time for people to work on their homecoming mums in a come and go fashion. Supplies will be provide for various fees. Fees based on how much you bling out your mum. People are allowed to bring their own bling and ribbons too to add to the materials at hand.",
+			"guests": ["deana_whitney", "jamie_cybert", "sarah_dauro"],
+			"event_id": "777kbk47cn89hvq66f64g7fg8j@google.com",
+			"location": "Gardenia"
+		}, {
+			"day": "2018-04-20",
+			"time": "17:30",
+			"title": "Homecoming Mums: What in the World?",
+			"description": "Build a homecoming mum of your very own. Get help and advice from crafters who can explain this southern American tradition. Supplies provided for various fees, going to the Charity. Fees based on how much you bling out your mum. People are allowed to bring their own bling and ribbons to add to the materials at hand.",
+			"guests": ["deana_whitney", "jamie_cybert", "sarah_dauro"],
+			"event_id": "6ubi3jq18ee94ta5l4l59br4bl@google.com",
+			"location": "Gardenia"
+		}, {
+			"day": "2018-04-20",
+			"time": "16:00",
+			"title": "The Murky Bog: Fanfiction & Copyright",
+			"description": "Hey fans! Who doesn't love fanfiction and fanart? They are wonderful ways to immerse yourselves into your favorite worlds. Well, it turns out your favorite content creators might not. There has been much debate on where these works stand in the copyright sphere and the question grows ever more prominent as the Internet becomes even more integral to our fandoms.  All are welcome to join intellectual property attorney Ravi Persaud and Dragonsteel's Isaac Stewart as they try to help you work through the murky world of fan works!*No legal advice will be given at this panel, so please do not come expecting any.*",
+			"guests": ["ravi_persaud", "isaac_stewart"],
+			"event_id": "41ksu5bn85t4o5l7r9peo34q09@google.com",
+			"location": "Gardenia"
+		}, {
+			"day": "2018-04-20",
+			"time": "14:30",
+			"title": "Patterns:  Adjusting them to fit You",
+			"description": "Ever bought a pattern, spent hours sewing it up, and it still doesn't fit like you want? In this class we will demonstrate common alteration to make your patterns fit. Which will have your friends going from \"aww, you made that?\" to \"YOU made That?!\" Students will make the alteration on half-scale paper patterns to take home for reference.",
+			"guests": ["molly_weiss"],
+			"event_id": "0pe734kodi7d067gaa6thmg4ci@google.com",
+			"location": "Gardenia"
+		}, {
+			"day": "2017-04-22",
+			"time": "10:00",
+			"title": "Set up Camp",
+			"description": "Craft miniature items to create more atmosphere for your tabletop gaming. Build a tent and a fire pit using recycled materials.",
+			"guests": [],
+			"event_id": "CSVConvertba375c8d20dee2da2581cbb0b3bf907f",
+			"location": ""
+		}, {
+			"day": "2017-04-21",
+			"time": "14:30",
+			"title": "Painting an Art Nouveau",
+			"description": "Learn to paint in the Art Nouveau style",
+			"guests": [],
+			"event_id": "CSVConvert268d94430f0b71a7d9283e47ff8ff52d",
+			"location": ""
+		}, {
+			"day": "2017-04-23",
+			"time": "10:00",
+			"title": "Japanese Temari Balls - part 2",
+			"description": "Create simple divisions and stitches for basic designs on Temari Balls with the core ball made in class 1.",
+			"guests": [],
+			"event_id": "CSVConvert37701f39f0788478d6113e7fb6007859",
+			"location": ""
+		}, {
+			"day": "2017-04-22",
+			"time": "14:30",
+			"title": "Japanese Temari Balls - part 1",
+			"description": "Beginners create Japanese Temari. ",
+			"guests": [],
+			"event_id": "CSVConvert1d68d54fc1b35d6272910337a227ee16",
+			"location": ""
+		}, {
+			"day": "2017-04-22",
+			"time": "11:30",
+			"title": "Introduction to Silk Painting",
+			"description": "Students will make a small square silk banner.",
+			"guests": [],
+			"event_id": "CSVConvert80023c5f7a29615f95c847bdf276a778",
+			"location": ""
+		}, {
+			"day": "2017-04-21",
+			"time": "16:00",
+			"title": "Introduction to Flat Pattern Alterations",
+			"description": "Learn how to make changes to a pattern alter the looks you can achieve.  Class will practice on a bodice pattern with discussion on other types.",
+			"guests": [],
+			"event_id": "CSVConvert6019143d50263a8283e47b202d236fee",
+			"location": ""
+		}, {
+			"day": "2017-04-22",
+			"time": "16:00",
+			"title": "I've drawn a Comic now what?",
+			"description": "Discuss and demo the steps needed after a comic is drawn",
+			"guests": [],
+			"event_id": "CSVConvert799e0d94320196803836d4aec52efb31",
+			"location": ""
+		}, {
+			"day": "2017-04-21",
+			"time": "17:30",
+			"title": "Dragon Scales – Embellishment styles",
+			"description": "Learn embroidery styles that create beautiful dragon scales perfect for working on a coat or other item.",
+			"guests": [],
+			"event_id": "CSVConvert241322d257a8dcbb164dcbff3c9d07c8",
+			"location": ""
+		}, {
+			"day": "2017-04-22",
+			"time": "13:00",
+			"title": "Creating Scale Mail",
+			"description": "Create ringed scale mail. The small square sample can become part of a larger piece later. ",
+			"guests": [],
+			"event_id": "CSVConvert35bdb1d57f1d7818c6737461d3a8b86e",
+			"location": ""
+		}, {
+			"day": "2017-04-23",
+			"time": "13:00",
+			"title": "Become a Bird Whisperer!",
+			"description": "Learn how each artist's bird drawing becomes an expression of self",
+			"guests": [],
+			"event_id": "CSVConvert106b2eca8ebf03d7e3dec09adf2bbb27",
+			"location": ""
+		}]
+	}, {
+		"Sandertrack": [{
+			"day": "2018-04-20",
+			"time": "22:00",
+			"title": "TWoTCast",
+			"description": "High above the city of L.A. a team of terrorists has seized a building, taken hostages, and declared war. tWoTcast has managed to escape... An off-beat Wheel of Time reread podcast hiding somewhere inside. They're alone, tired... and the only chance anyone has got.",
+			"guests": ["joe_ohara", "tom_ohara", "jonathan_coulborn", "alan_romanczuk"],
+			"event_id": "31lo4p9099hqgvhnucucahoa2n@google.com",
+			"location": "Oakwood A&B"
+		}, {
+			"day": "2018-04-20",
+			"time": "20:30",
+			"title": "Speculation After Dark",
+			"description": "Good day, bad day, doesn't matter: come predict the future of the Cosmere.",
+			"guests": ["drew_mccaffrey", "glen_vogelaar", "rosemary_williams", "ted_herman", "billy_todd"],
+			"event_id": "5neas099k7rq37h1dnhkfa1qe3@google.com",
+			"location": "Oakwood A&B"
+		}, {
+			"day": "2018-04-20",
+			"time": "17:30",
+			"title": "Whose Cosmere Is It Anyway?",
+			"description": "Where the rules are made up and absolutely nothing matters. Our panelists endure randomly selected prompts for your entertainment.",
+			"guests": ["donavynn_sandusky", "glen_vogelaar", "isaac_stewart", "jory_phillips", "ravi_persaud", "trae_cooper", "billy_todd"],
+			"event_id": "2q6ua2opue8fun08fkebh660op@google.com",
+			"location": "Oakwood A&B"
+		}, {
+			"day": "2018-04-20",
+			"time": "16:00",
+			"title": "Plato, Shinto, and the Cognitive Realm",
+			"description": "What philosophical and religious concepts influenced Brandon's design for Shadesmar, the Cognitive Realm?",
+			"guests": ["heidi_byrd", "shannan_lieb", "trae_cooper", "billy_todd"],
+			"event_id": "3ou5vnc0pmc9tm5kv9omuaukim@google.com",
+			"location": "Oakwood A&B"
+		}, {
+			"day": "2018-04-20",
+			"time": "14:30",
+			"title": "Diversity in Brandon's Works",
+			"description": "How characters and readers respond to gender-, racial-, social-, and neuro-diversity in Sanderson's works.",
+			"guests": ["aaronmichael_hall", "donavynn_sandusky", "ravi_persaud", "shannan_lieb", "billy_todd"],
+			"event_id": "2ijimncpohd0d5etab42dtbc3q@google.com",
+			"location": "Oakwood A&B"
+		}, {
+			"day": "2018-04-21",
+			"time": "13:00",
+			"title": "Book Spotlight: Oathbringer",
+			"description": "We've waited years to discuss this book. Now's the time.",
+			"guests": ["jory_phillips", "rosemary_williams", "ted_herman", "trae_cooper", "billy_todd"],
+			"event_id": "4b1jj6i467kni4nms3j7a2dph8@google.com",
+			"location": ""
+		}, {
+			"day": "2018-04-21",
+			"time": "10:00",
+			"title": "Orientation to the Cosmere",
+			"description": "Orientation to the Cosmere. Connect the dots of how Mistborn, Stormlight, Warbreaker, and other Cosmere books explicitly, implicitly, and extra-canonically connect.",
+			"guests": ["billy_todd", "karen_ahlstrom", "rosemary_williams"],
+			"event_id": "3hnqd5b2oh9j0e3mhfj6ed02s9@google.com",
+			"location": ""
+		}, {
+			"day": "2018-04-21",
+			"time": "11:30",
+			"title": "Cosmere Magic 101",
+			"description": "Learn why and how all these different Cosmere magic systems are manifestations of the same system with overarching rules and principles.",
+			"guests": ["drew_mccaffrey", "rosemary_williams", "ted_herman", "billy_todd"],
+			"event_id": "3gi5onp37e7jkb6eodgh32l8sp@google.com",
+			"location": ""
+		}, {
+			"day": "2018-04-21",
+			"time": "14:30",
+			"title": "Sandertrack RAFOlympics",
+			"description": "Open Q&amp;A to grill Brandon. Try not to get RAFOed.",
+			"guests": ["brandon_sanderson", "billy_todd"],
+			"event_id": "4k427cn400umh6e76gibj5u1fu@google.com",
+			"location": ""
+		}, {
+			"day": "2018-04-21",
+			"time": "16:00",
+			"title": "Behind the Scenes with Team Sanderson",
+			"description": "Come learn how all these people enable Brandon's book-writing habit.",
+			"guests": ["emily_sanderson", "isaac_stewart", "kara_stewart", "karen_ahlstrom", "peter_ahlstrom", "trae_cooper"],
+			"event_id": "6vhpqjf3nl0aso9t0k7sjbgqhb@google.com",
+			"location": ""
+		}, {
+			"day": "2018-04-21",
+			"time": "20:30",
+			"title": "TWoTCast",
+			"description": "Jono, Joe and Tom record LIVE! Drinking, interviews and games with prizes. Special guests from Team Jordan, games, interviews &amp; prizes! ",
+			"guests": ["joe_ohara", "tom_ohara", "jonathan_coulborn", "maria_simons", "alan_romanczuk"],
+			"event_id": "570s4jut2d93h23uqnf26ad3pq@google.com",
+			"location": ""
+		}, {
+			"day": "2017-04-22",
+			"time": "16:00",
+			"title": "Behind the Scenes",
+			"description": "Karen and Peter Ahlstrom join Sam Morgan to dish on the inner workings of Brandon's operation.",
+			"guests": [],
+			"event_id": "CSVConverta1e9b788d4097fc1e8fd0f0074dd259a",
+			"location": ""
+		}, {
+			"day": "2017-04-21",
+			"time": "20:30",
+			"title": "Sanderson Poetry Slam",
+			"description": "bring no shame because we sure left ours at the door.",
+			"guests": [],
+			"event_id": "CSVConvert121c90e0d9c459aa63f9d9f495e2b928",
+			"location": ""
+		}, {
+			"day": "2017-04-21",
+			"time": "22:00",
+			"title": "TWoTCast",
+			"description": "Live TWoTCast",
+			"guests": [],
+			"event_id": "CSVConvert604bb5b5af975dac29443dc7a979fdce",
+			"location": ""
+		}, {
+			"day": "2017-04-23",
+			"time": "10:00",
+			"title": "The Cosmette",
+			"description": "What might Reckoners Rithmatis and Apocalypse Guard all have in common?",
+			"guests": [],
+			"event_id": "CSVConvert40b3b3f7ca5706238537c248da46a95a",
+			"location": ""
+		}, {
+			"day": "2017-04-22",
+			"time": "13:00",
+			"title": "Stormlight Discussion",
+			"description": "Discuss the Stormlight Archive series. Spoilers abound.",
+			"guests": [],
+			"event_id": "CSVConvertdda7cae5eb3fa19b0883ebccf31d9003",
+			"location": ""
+		}, {
+			"day": "2017-04-23",
+			"time": "13:00",
+			"title": "Sanderson Trivia: Team Edition",
+			"description": "Trivia from the Cosmere and other Brandon works. It's all fair game. Teams of 4 or less",
+			"guests": [],
+			"event_id": "CSVConvert5cbd6cd1bb3150bb5f41bdf96dc0d12f",
+			"location": ""
+		}, {
+			"day": "2017-04-23",
+			"time": "11:30",
+			"title": "Sanderson Top 10 Vol 1- Characters",
+			"description": "First annual rankings panel. We ranked the top 10 characters prior to the panel; come express your outrage at our obvious oversights.",
+			"guests": [],
+			"event_id": "CSVConvert2c1bfca450dfbef3518cc6667a34c74c",
+			"location": ""
+		}, {
+			"day": "2017-04-22",
+			"time": "10:00",
+			"title": "Orientation to the Cosmere",
+			"description": "Orientation to the Cosmere.",
+			"guests": [],
+			"event_id": "CSVConvertf9c892bd14d89e11c909ad7a8600a66a",
+			"location": ""
+		}, {
+			"day": "2017-04-21",
+			"time": "14:30",
+			"title": "Novellas and Short Stories",
+			"description": "Discussion of Brandon's shorter works. Includes those in Arcanum Unbound and stand-alone works.",
+			"guests": [],
+			"event_id": "CSVConvert89af471e0948b2de94aa569ba5bc7dab",
+			"location": ""
+		}, {
+			"day": "2017-04-22",
+			"time": "14:30",
+			"title": "Cosmere Speculation",
+			"description": "*Plausible* speculation about the Cosmere",
+			"guests": [],
+			"event_id": "CSVConvert37d4e32ceed3fa2ab15928008568e17d",
+			"location": ""
+		}, {
+			"day": "2017-04-22",
+			"time": "11:30",
+			"title": "Cosmere Magic 101",
+			"description": "Learn why and how all these different Cosmere magic systems are manifestations of the same system with overarching rules and principles",
+			"guests": [],
+			"event_id": "CSVConvertb2c355d2d5c673bbcdbed1d86b632c9a",
+			"location": ""
+		}, {
+			"day": "2017-04-21",
+			"time": "17:30",
+			"title": "Cosmere Hearts",
+			"description": "We hypothesize absurdist situations for Brandon's characters from the Cosmere (and elsewhere) to interact. What would happen? ",
+			"guests": [],
+			"event_id": "CSVConvert85a36326702128f40129990d01b0a05a",
+			"location": ""
+		}, {
+			"day": "2017-04-23",
+			"time": "14:30",
+			"title": "Character Focus: Wayne and Lift",
+			"description": "Wayne and Lift are beloved comic characters.",
+			"guests": [],
+			"event_id": "CSVConvert312f9df08b6122b29fd41ba1740224f2",
+			"location": ""
+		}, {
+			"day": "2017-04-21",
+			"time": "16:00",
+			"title": "Book Spotlight: Mistborn",
+			"description": "Mistborn as a novel. ",
+			"guests": [],
+			"event_id": "CSVConvert5b9b8ab00f7be4b92579841b56b9865f",
+			"location": ""
+		}]
+	}, {
+		"Misc. Events": [{
+			"day": "2017-04-21",
+			"time": "19:00",
+			"title": "Dinner Break",
+			"description": "Eat dinner",
+			"guests": [],
+			"event_id": "CSVConvertca760cf70eb1e3358c7dc0e36a6bbfef",
+			"location": ""
+		}, {
+			"day": "2017-04-23",
+			"time": "10:00",
+			"title": "Charity Auction Pickup",
+			"description": "Pick up your items",
+			"guests": [],
+			"event_id": "CSVConvertbb8972467abe5e81e8c15894d980b343",
+			"location": "Charity"
+		}, {
+			"day": "2017-04-22",
+			"time": "10:00",
+			"title": "Charity Auction Bidding",
+			"description": "Bidding is Open",
+			"guests": [],
+			"event_id": "CSVConvert465d9510be2d15d9132268ea3c527306",
+			"location": "Dealer's Hall"
+		}, {
+			"day": "2017-04-22",
+			"time": "19:00",
+			"title": "Dinner Break",
+			"description": "Eat dinner",
+			"guests": [],
+			"event_id": "CSVConvertef158b15544486e4189239dccdaf7798",
+			"location": "Carter"
+		}]
+	}, {
+		"World of the Wheel": [{
+			"day": "2018-04-22",
+			"time": "16:00",
+			"title": "Feedback and Leavetakings",
+			"guests": [],
+			"event_id": "4qim84tm7u3m0aa7r5gs9cijof@google.com",
+			"location": "Dunwoody A B C"
+		}, {
+			"day": "2018-04-22",
+			"time": "14:30",
+			"title": "Unanswered Questions",
+			"description": "WoT is done and we still have questions and theories! (Of course we do.)",
+			"guests": ["theresa_gray", "maria_simons", "matt_hatch", "jeffrey_daniel"],
+			"event_id": "3t4g45rgs5djs147geobk1d1be@google.com",
+			"location": "Camellia"
+		}, {
+			"day": "2018-04-22",
+			"time": "13:00",
+			"title": "Fantasy Casting",
+			"description": "WoT is coming to TV. This is the fantasy casting panel you've been waiting for!",
+			"guests": ["ebony_adomanis", "jeffrey_daniel", "james_bergbradley"],
+			"event_id": "742udd15pa871rnjl92g07mi15@google.com",
+			"location": "Camellia"
+		}, {
+			"day": "2018-04-22",
+			"time": "11:30",
+			"title": "Inspired Ladies of WoT",
+			"description": "A look at Jordan’s inspirations for the main female supporters of the Light—myth fortheir awesome powers and history for their humanity.",
+			"guests": ["linda_taglieri"],
+			"event_id": "3o2tvis06oc6a475cvtu2guou8@google.com",
+			"location": "Camellia"
+		}, {
+			"day": "2018-04-22",
+			"time": "10:00",
+			"title": "Robert Jordan's Notes",
+			"description": "Discussion and presentation of RJ's notes from the Addlestone Library.",
+			"guests": ["theresa_gray", "linda_taglieri", "matt_hatch"],
+			"event_id": "0rfa5gjdmpm3rjikk4c0b0sm6l@google.com",
+			"location": "Camellia"
+		}, {
+			"day": "2018-04-21",
+			"time": "22:00",
+			"title": "WoT Spelling Bee",
+			"description": "Can you spell \"Rhuidean\" correctly at 10pm? Join us at the bar and try your luck!",
+			"guests": ["jason_denzel", "ebony_adomanis"],
+			"event_id": "7pa7dq7r0ejisr0s2ffhg207h3@google.com",
+			"location": "Camellia"
+		}, {
+			"day": "2018-04-21",
+			"time": "16:00",
+			"title": "Daes Dae'mar",
+			"description": "Team Trivia competition! Bring your friends or join another team and do battle with your wits!",
+			"guests": ["theresa_gray", "ebony_adomanis"],
+			"event_id": "6krvm68d2e6jlbqt8n7e205sbc@google.com",
+			"location": "Camellia "
+		}, {
+			"day": "2018-04-21",
+			"time": "14:30",
+			"title": "Team Jordan LIVE",
+			"description": "Team Jordan discusses Robert Jordan himself.",
+			"guests": ["harriet_mcdougal", "maria_simons", "alan_romanczuk", "jason_denzel"],
+			"event_id": "675metgoh0gbc9q22s9036ohbe@google.com",
+			"location": "Camellia"
+		}, {
+			"day": "2018-04-21",
+			"time": "13:00",
+			"title": "Teaching Robert Jordan",
+			"description": "Discussing the importance of narrative storytelling, myth, &amp; fantasy to the greater world, and as a gateway to student learning.",
+			"guests": ["sargon_donabed", "linda_taglieri", "theresa_gray"],
+			"event_id": "54vpsapliddfahkjf1rdp0h139@google.com",
+			"location": "Camellia"
+		}, {
+			"day": "2018-04-21",
+			"time": "11:30",
+			"title": "Ravens (YA)",
+			"description": "Remember that one time when they tried to market The Eye of the World to kids? No? (We remember!)",
+			"guests": ["aubree_pham", "linda_taglieri", "james_bergbradley", "jodie_wiens"],
+			"event_id": "491ui7d6gjekqkav4keqlg3h3k@google.com",
+			"location": "Camellia"
+		}, {
+			"day": "2018-04-21",
+			"time": "10:00",
+			"title": "Sorting Hat: Seanchan Edition",
+			"description": "Would Suroth be Slytherin or a Gryffindor? Where would the Sorting Hat have placed Tuon? Come dish with us on these topic while the audience votes and place the Seanchan into their Houses!",
+			"guests": ["thom_desimone", "erin_desimone", "aubree_pham", "jodie_wiens", "darin_m_bush"],
+			"event_id": "3saig0ul7238e6gp68si89rboe@google.com",
+			"location": "Camellia"
+		}, {
+			"day": "2018-04-20",
+			"time": "17:30",
+			"title": "Braid Tugging: Hair Styling",
+			"description": "From braids, to curling wands, and more, come learn different ways to style your hair for the homecoming dance from a professional hair stylist.  ",
+			"guests": ["marisa_grooms"],
+			"event_id": "14jbip2iif8ls88g73gj6vaq5k@google.com",
+			"location": "Camellia"
+		}, {
+			"day": "2018-04-20",
+			"time": "16:00",
+			"title": "Illian Trivia Bee",
+			"description": "Individual trivia competition! Come show us how much you know about the World of the Wheel!",
+			"guests": ["theresa_gray", "ebony_adomanis"],
+			"event_id": "2mrmv9vc6f76pj2n1lk3afkd3r@google.com",
+			"location": "Camellia"
+		}, {
+			"day": "2018-04-20",
+			"time": "14:30",
+			"title": "Wheel of Time for Beginners",
+			"description": "New to the Wheel? Tagging along with a friend or significant other? Come join us for an orientation!",
+			"guests": ["aubree_pham", "ebony_adomanis", "james_bergbradley", "theresa_gray"],
+			"event_id": "5k0k1ftuop1q8trd4vu39l2d83@google.com",
+			"location": "Camellia"
+		}, {
+			"day": "2017-04-22",
+			"time": "10:00",
+			"title": "Sorting Hat: WoT Edition",
+			"description": "Let's sort your favorite WoT characters into Hogwarts Houses",
+			"guests": [],
+			"event_id": "CSVConverte069f6532a703480e7a569454e9fdd9b",
+			"location": ""
+		}, {
+			"day": "2017-04-22",
+			"time": "16:00",
+			"title": "Annual Illian Trivia Bee",
+			"description": "Come and try your Trivia skills in the annual Illian Trivia Bee! Individual competition.",
+			"guests": [],
+			"event_id": "CSVConvert4f75882c3542ffd732156ff798085329",
+			"location": ""
+		}, {
+			"day": "2017-04-21",
+			"time": "20:30",
+			"title": "Looney Theories: Talents",
+			"description": "Join us and bring all your loony theories about the myriad Talents in the Wheel of Time!",
+			"guests": [],
+			"event_id": "CSVConvert3d1d9891d4e8b72bf38fd9d6520a119f",
+			"location": ""
+		}, {
+			"day": "2017-04-21",
+			"time": "14:30",
+			"title": "WoT for Beginners",
+			"description": "New to the Wheel? Reading but not finished? Tagging along with a friend or significant other?",
+			"guests": [],
+			"event_id": "CSVConvert966b01d94598c76be8e18968526e45cd",
+			"location": ""
+		}, {
+			"day": "2017-04-23",
+			"time": "14:30",
+			"title": "Unanswered Questions",
+			"description": "Have any burning questions that weren't answered in A Memory of Light?",
+			"guests": [],
+			"event_id": "CSVConverte618ec0aad273a7ce5dcfc48dd8d8d12",
+			"location": ""
+		}, {
+			"day": "2017-04-23",
+			"time": "13:00",
+			"title": "Ta'veren Boys & Wonder Girls",
+			"description": "A discussion about the diferences in how our main boys and girls coped with life in a female-dominated world.",
+			"guests": [],
+			"event_id": "CSVConvert03485c8b9d9ea50a6f0ea338385e245b",
+			"location": ""
+		}, {
+			"day": "2017-04-23",
+			"time": "11:30",
+			"title": "Symbolism of the Wheel",
+			"description": "Linda of the Thirteenth Depository gives a presentation on the profuse and nuanced symbolism in the Wheel of Time.",
+			"guests": [],
+			"event_id": "CSVConvert6521a621816ed985d5723a5e378519d4",
+			"location": ""
+		}, {
+			"day": "2017-04-22",
+			"time": "14:30",
+			"title": "RJ's Notes",
+			"description": "Robert Jordan's Notes",
+			"guests": [],
+			"event_id": "CSVConvert40d496225ee4eb9e34cf7101aec67b65",
+			"location": "Carter"
+		}, {
+			"day": "2017-04-22",
+			"time": "13:00",
+			"title": "Manetheren Remembers",
+			"description": "Who were all the guys in Mat's memories? What's their story? And wait... didn't he have old memories before he ever visited the 'Finns? ",
+			"guests": [],
+			"event_id": "CSVConvertcc6e0cd0bdcc47c4d9b40d7da39f12eb",
+			"location": ""
+		}, {
+			"day": "2017-04-21",
+			"time": "17:30",
+			"title": "Maiden Handtalk",
+			"description": "Come learn about Maiden handtalk",
+			"guests": [],
+			"event_id": "CSVConvert11c9cb1ca8cd19aac20afd03eb4716e4",
+			"location": ""
+		}, {
+			"day": "2017-04-21",
+			"time": "16:00",
+			"title": "Forge Your Hammer",
+			"description": "Group therapy to help you overcome your Perrin trauma! Skip Perrin chapters on rereads? Dread Crossroads of Twilight? Wonder what caused book lag? Join us and find out!",
+			"guests": [],
+			"event_id": "CSVConvertf77d7bf0f6a8ca7d3b3f05c9f9a11622",
+			"location": ""
+		}, {
+			"day": "2017-04-22",
+			"time": "11:30",
+			"title": "Fog of War",
+			"description": "We analyze the different approaches to battle-writing in the Wheel between Jordan and Sanderson. ",
+			"guests": [],
+			"event_id": "CSVConvert010a0aa873a6bc1767435b78928dabfc",
+			"location": ""
+		}, {
+			"day": "2017-04-23",
+			"time": "10:00",
+			"title": "Daes Dae'mar",
+			"description": "Team trivia",
+			"guests": [],
+			"event_id": "CSVConvert4b7e208d10ca0be3a21d79ce3b53cd15",
+			"location": "Carter"
+		}]
+	}, {
+		"Art Show": [{
+			"day": "2018-04-21",
+			"time": "16:00",
+			"title": "Stephanie Law Watercolor Demo",
+			"description": "\nCome watch our Artist Guest of Honor demonstrate her skills and  learn some of the techniques she uses in her watercolor paintings.\n\n",
+			"guests": ["stephanie_law"],
+			"event_id": "7lmkkg5rtg0svalbnn0li5jjek@google.com",
+			"location": "Azalea"
+		}, {
+			"day": "2018-04-21",
+			"time": "14:30",
+			"title": "The Bird Whisperers Live!!",
+			"description": "\nTwo of our resident Bird Whisperer' tackle the same bird motif in just an hour.\n\n",
+			"guests": ["amanda_makepeace", "melissa_gay"],
+			"event_id": "57otvpn7j4j9sl5n3aiffo6gbu@google.com",
+			"location": "Azalea"
+		}, {
+			"day": "2018-04-21",
+			"time": "13:00",
+			"title": "GoH Stephanie Law Retrospective",
+			"description": "\nOur Artist Guest of Honor shares her fabulous watercolor artwork and discusses how her work has evolved.\n\n",
+			"guests": ["stephanie_law"],
+			"event_id": "52sni47hc19t3hthbhp5q5ro2o@google.com",
+			"location": "Azalea"
+		}, {
+			"day": "2018-04-21",
+			"time": "11:30",
+			"title": "Win, Lose, or Draw",
+			"description": "\nStart your morning with our hilarious take on a well-known game. Two teams, 4 artists, 2 sketchpads, and some sharpies. What could possibly go wrong?\n\n",
+			"guests": ["paul_bielaczyc", "kelly_keunekemarts", "amanda_makepeace", "charles_urbach", "jeff_jarvis", "billie_pierce"],
+			"event_id": "0sr7q9s1q5sfuombvrk5siq7jk@google.com",
+			"location": "Azalea"
+		}, {
+			"day": "2018-04-21",
+			"time": "10:00",
+			"title": "How to Prepare for a Con for Artists and Vendors",
+			"description": "\nJordanCon Veterans share tips and tricks for preparing for a convention. \n\n",
+			"guests": ["charles_urbach", "natalie_rodgers", "ariel_burgess", "billie_pierce"],
+			"event_id": "37ehk2ckj0q0hi2j8uh0me1llu@google.com",
+			"location": "Azalea"
+		}, {
+			"day": "2018-04-20",
+			"time": "16:00",
+			"title": "Women in Illustration",
+			"description": "An interactive discussion as we look at the art and experiences of women in the field of  fantasy and sci-fi illustration.",
+			"guests": ["stephanie_law", "angela_sasser", "ariel_burgess", "amanda_makepeace", "melissa_gay"],
+			"event_id": "18cbojegl7d28ceba2khj9a2nr@google.com",
+			"location": "Azalea"
+		}, {
+			"day": "2018-04-20",
+			"time": "14:30",
+			"title": "There Will Be Faeries",
+			"description": "A look at the different depictions of the faeries throughout fantasy art, including classical fairy tale illustrators (such as Arthur Rackham &amp; Edmund Dulac), Alan Lee &amp; Brian Froud, and more modern, darker depictions of your favorite fae.",
+			"guests": ["stephanie_law", "edsel_arnold", "tiffany_tolandscott", "andrea_fornero"],
+			"event_id": "3sasga1uqvsk93s05aioqupnml@google.com",
+			"location": "Azalea"
+		}, {
+			"day": "2018-04-20",
+			"time": "13:00",
+			"title": "Artist Check-in",
+			"description": "Art Show Closed to Public. No panel due to Opening Ceremonies.\n\nThis event has a Google Hangouts video call.\nJoin: https://hangouts.google.com/hangouts/_/jordancon.org/artist-check-in?hceid=am9yZGFuY29uLm9yZ19kOHNrZGt1bTdhMDJnYmt2dHBhb2huNTU5a0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t.49bdr245313d6agv3o9bbkrfkp&hs=121",
+			"guests": [],
+			"event_id": "49bdr245313d6agv3o9bbkrfkp@google.com",
+			"location": ""
+		}, {
+			"day": "2017-04-22",
+			"time": "11:30",
+			"title": "Win Lose or Draw",
+			"description": "Start your morning with our hilarious take on a well-known game.",
+			"guests": [],
+			"event_id": "CSVConvertada647373652f77c482bddd159619bdf",
+			"location": "Art Show"
+		}, {
+			"day": "2017-04-22",
+			"time": "10:00",
+			"title": "Unconventional Mediums",
+			"description": "Our panelists discuss the challenges and joys of alternative media and materials.",
+			"guests": [],
+			"event_id": "CSVConvert39ad8718d97196865573fcf37318f83f",
+			"location": "Art Show"
+		}, {
+			"day": "2017-04-22",
+			"time": "13:00",
+			"title": "Stephen Hickman: Only the Good Stuff",
+			"description": "Our Artist Guest of Honor shares some highlights from his four-decades long career",
+			"guests": [],
+			"event_id": "CSVConvert723cee0c63233ce84ef74df2aacc8774",
+			"location": "Art Show"
+		}, {
+			"day": "2017-04-23",
+			"time": "13:00",
+			"title": "Selling Your Art Online",
+			"description": "Selling Your Art Online",
+			"guests": [],
+			"event_id": "CSVConvert07951dce2fd3517765d58975f23fdbbf",
+			"location": "Art Show"
+		}, {
+			"day": "2017-04-21",
+			"time": "14:30",
+			"title": "Meet the Bird Whisperers",
+			"description": "The founders of the Bird Whisperer Project share what happens when artists celebrate a shared love of birds by using the same visual references. ",
+			"guests": [],
+			"event_id": "CSVConvertb63a9259336e473da6815f5b7e4c2ec6",
+			"location": "Art Show"
+		}, {
+			"day": "2017-04-23",
+			"time": "11:30",
+			"title": "From Inspiration to Creation",
+			"description": "From Inspiration to Creation",
+			"guests": [],
+			"event_id": "CSVConvert2c7a046ab5d989d84b56666a4c40431f",
+			"location": "Art Show"
+		}, {
+			"day": "2017-04-22",
+			"time": "14:30",
+			"title": "Colored Pencil",
+			"description": "An introduction to the use of colored pencils as a professional art medium.",
+			"guests": [],
+			"event_id": "CSVConvert59be32007c3284ad48cb36eda5ab0f18",
+			"location": "Art Show"
+		}, {
+			"day": "2017-04-21",
+			"time": "17:30",
+			"title": "Charity Art Jam",
+			"description": "Our artists are on the clock to deliver a work of art within a specific theme in just 1 hour. All art created will be available in the Charity Auction.",
+			"guests": [],
+			"event_id": "CSVConvert352c14df2c310c29e88b2200b46988ee",
+			"location": "Art Show"
+		}]
+	}, {
+		"Reading & Kaffeeklatches": [{
+			"day": "2018-04-21",
+			"time": "16:00",
+			"title": "Busy",
+			"guests": [],
+			"event_id": "0sqki43br0be77mu0t3jtfg6o1@google.com"
+		}, {
+			"day": "2018-04-21",
+			"time": "14:30",
+			"title": "Busy",
+			"guests": [],
+			"event_id": "0k0nlckee25a3jkgjlb1ie2rhv@google.com"
+		}, {
+			"day": "2018-04-21",
+			"time": "13:00",
+			"title": "Busy",
+			"guests": [],
+			"event_id": "1lb29iseqpqqkvk9u53j74915n@google.com"
+		}, {
+			"day": "2018-04-21",
+			"time": "11:30",
+			"title": "Busy",
+			"guests": [],
+			"event_id": "4ls943l2cudsd33mfl2s6rg3p5@google.com"
+		}, {
+			"day": "2018-04-21",
+			"time": "10:00",
+			"title": "Busy",
+			"guests": [],
+			"event_id": "0udo3m361dokcgt8h6pm9ge5d4@google.com"
+		}, {
+			"day": "2018-04-20",
+			"time": "17:30",
+			"title": "Busy",
+			"guests": [],
+			"event_id": "4m0067qct0f1m7jdoklmv5v8ao@google.com"
+		}, {
+			"day": "2018-04-20",
+			"time": "16:00",
+			"title": "Busy",
+			"guests": [],
+			"event_id": "63i6gjpbq3u7ao248789qllf7s@google.com"
+		}, {
+			"day": "2018-04-20",
+			"time": "14:30",
+			"title": "Busy",
+			"guests": [],
+			"event_id": "6v12sl6kucrar4ar4h11qe4usc@google.com"
+		}]
+	}, {
+		"Writers Track": [{
+			"day": "2018-04-21",
+			"time": "20:30",
+			"title": "Being Gratuitous",
+			"description": "\nMature Content. From swearing to sex to Trigger Warning content. How to write it well, and why to even use it.\n\n",
+			"guests": ["aj_hartley", "faith_hunter", "david_b_coe", "aaronmichael_hall", "blue_cole"],
+			"event_id": "37ag28mf2sngl9pe5dci5rie08@google.com",
+			"location": "Conference Center"
+		}, {
+			"day": "2018-04-21",
+			"time": "17:30",
+			"title": "Open Writing",
+			"description": "Want to just get away somewhere a bit quiet and write that isn't your hotel room? The room will be open to sit and write and maybe have some quiet conversation.",
+			"guests": [],
+			"event_id": "6bch25t88qrhqulvi4al81tq71@google.com",
+			"location": "Conference Center"
+		}, {
+			"day": "2018-04-21",
+			"time": "16:00",
+			"title": "JordanCon's Got Slush!",
+			"description": "\nLive read and critique of pre-submitted writing, as though submitted to a slush pile at a publisher.\n\n",
+			"guests": ["toni_weisskopf", "milton_davis", "chris_kennedy", "debra_dixon", "merethe_walther"],
+			"event_id": "6o38ue521tjpu77c7su0b38cph@google.com",
+			"location": "Conference Center"
+		}, {
+			"day": "2018-04-21",
+			"time": "14:30",
+			"title": "Openings and Their Importance",
+			"description": "\nA panel discussion about the things every opening must do, beyond a great opening line.\nCharacter, setting, conflict are just the beginning!\n\n",
+			"guests": ["david_b_coe", "faith_hunter", "robyn_huss", "aj_hartley"],
+			"event_id": "23ctng8a10ecek00vcvlo3mvh3@google.com",
+			"location": "Conference Center"
+		}, {
+			"day": "2018-04-21",
+			"time": "13:00",
+			"title": "GoH Jason Denzel Reading/Discussion",
+			"description": "\nJason reads a bit of his upcoming writing, then answers whatever embarrassing questions Aubree (or you!) can think up.\n\n",
+			"guests": ["jason_denzel", "aubree_pham"],
+			"event_id": "73cj0jotjiv694llgasut8fu8n@google.com",
+			"location": "Conference Center"
+		}, {
+			"day": "2018-04-21",
+			"time": "11:30",
+			"title": "[YA] The Hidden World of Magic",
+			"description": "\nA look at worldbuilding involved in having secret magical cultures, with a focus on YA.\n\n",
+			"guests": ["darin_m_bush", "alison_reeger_cook", "ashley_chappell", "debra_dixon", "merethe_walther"],
+			"event_id": "72nirln1h0vs393v6r6uf2v336@google.com",
+			"location": "Conference Center"
+		}, {
+			"day": "2018-04-21",
+			"time": "10:00",
+			"title": "Turning your Passion into a Job",
+			"description": "Routines, work-life, the humdrum... all the stuff writers do when they aren't writing and how much it really eats away at the writing process, and how to not let it get you down.",
+			"guests": ["jd_jordan", "david_b_coe", "amy_duboff", "chris_kennedy", "clay_gilbert"],
+			"event_id": "00frhcbmmv916qca2j1finri8d@google.com",
+			"location": "Conference Center"
+		}, {
+			"day": "2018-04-20",
+			"time": "22:00",
+			"title": "Writers Workshop - Extended",
+			"description": "JordanCon's annual free-to-attend Writers' Workshop. Due to limited space, sign up in advance is required (via website or Registration Desk).",
+			"guests": ["alison_reager_cook", "milton_davis", "amy_duboff", "aaronmichael_hall", "robyn_huss", "ellie_raine", "ashley_chappell", "darin_m_bush", "christopher_woods", "blue_cole", "jd_jordan", "toni_weisskopf", "david_b_coe", "merethe_walther", "aj_hartley", "debra_dixon", "anthony_taylor", "jason_denzel"],
+			"event_id": "596fege6194prdcg2va7h4ivh5@google.com",
+			"location": "Conference Center"
+		}, {
+			"day": "2018-04-20",
+			"time": "20:30",
+			"title": "Writers Workshop",
+			"description": "JordanCon's annual free-to-attend Writers' Workshop. Due to limited space, sign up in advance is required (via website or Registration Desk).",
+			"guests": ["alison_reager_cook", "milton_davis", "amy_duboff", "aaronmichael_hall", "robyn_huss", "ellie_raine", "ashley_chappell", "darin_m_bush", "christopher_woods", "blue_cole", "jd_jordan", "toni_weisskopf", "david_b_coe", "merethe_walther", "aj_hartley", "debra_dixon", "anthony_taylor", "jason_denzel"],
+			"event_id": "2j9be5spavvnsdirjth3n62fkj@google.com",
+			"location": "Conference Center"
+		}, {
+			"day": "2018-04-20",
+			"time": "17:30",
+			"title": "Pitch Critique",
+			"description": "Annual Pitch Critique. Come try out your elevator pitch in a no-stress session and get feedback.",
+			"guests": ["peter_ahlstrom", "david_b_coe", "robyn_huss"],
+			"event_id": "5cobut3cdhdo299acp0k56lqim@google.com",
+			"location": "Conference Center"
+		}, {
+			"day": "2018-04-20",
+			"time": "16:00",
+			"title": "Writing Sequels and Series",
+			"description": "See Main Programming",
+			"guests": [],
+			"event_id": "7ol7eor4a5o0oplob0912miifb@google.com",
+			"location": "Dunwoody A"
+		}, {
+			"day": "2018-04-20",
+			"time": "14:30",
+			"title": "Writing in a Sub-Culture",
+			"description": "Be it seafaring, military, or nihlist punk-rock bands, it can be difficult writing in a sub-culture. Come get tips.",
+			"guests": ["chris_kennedy", "christopher_woods", "gerald_l_coleman", "paige_l_christie", "sargon_donabed"],
+			"event_id": "38obkiba8gf09112vkti5gbnhn@google.com",
+			"location": "Conference Center"
+		}, {
+			"day": "2017-04-22",
+			"time": "16:00",
+			"title": "Character, Setting, Conflict, Write!",
+			"description": "A workshop to help practice quickly putting pen to paper",
+			"guests": [],
+			"event_id": "CSVConvert6dcaf2b1c6970724bf861591b9a53c77",
+			"location": ""
+		}, {
+			"day": "2017-04-21",
+			"time": "20:30",
+			"title": "Writers Workshop",
+			"description": "JordanCon's annual free-to-attend Writers' Workshop",
+			"guests": [],
+			"event_id": "CSVConvert310ad69760226fe3c332d2de23829830",
+			"location": ""
+		}, {
+			"day": "2017-04-22",
+			"time": "10:00",
+			"title": "Writing Well Rounded Characters",
+			"description": "What does it mean to say a character is \"well rounded\" and how does an author accomplish this",
+			"guests": [],
+			"event_id": "CSVConverta55f8698716a4f9f550ff049b0fe74ff",
+			"location": ""
+		}, {
+			"day": "2017-04-23",
+			"time": "10:00",
+			"title": "Writers' Break-Out\n",
+			"description": "Coffee and conversation. Come get to know some of your fellow writer attendees and ease into the morning the right way.",
+			"guests": [],
+			"event_id": "CSVConvert9a8257baad2868a9d5df7799824ee8dd",
+			"location": ""
+		}, {
+			"day": "2017-04-21",
+			"time": "17:30",
+			"title": "Write What You don't Know",
+			"description": "Expand your horizon",
+			"guests": [],
+			"event_id": "CSVConvert4b6d3bdf3e4bca7481ca65684010aacf",
+			"location": ""
+		}, {
+			"day": "2017-04-21",
+			"time": "16:00",
+			"title": "Plotting with Story Structure",
+			"description": "Plotting with Story Structure",
+			"guests": [],
+			"event_id": "CSVConvertb67656621839eaa91cd3a69a00e27806",
+			"location": ""
+		}, {
+			"day": "2017-04-23",
+			"time": "14:30",
+			"title": "Philosophy in Writing",
+			"description": "Walking the fine line of \"Writing to Entertain\" and \"Writing to Say Something\"",
+			"guests": [],
+			"event_id": "CSVConvertce8b2337cfc10cfd0a697122484f9667",
+			"location": ""
+		}, {
+			"day": "2017-04-23",
+			"time": "13:00",
+			"title": "JordanCon Annual Pitch",
+			"description": "Professionals listen to your pitches and give you feedback on how you did.",
+			"guests": [],
+			"event_id": "CSVConvert45b340c64552a3dd60c7b23c1ba120eb",
+			"location": ""
+		}, {
+			"day": "2017-04-22",
+			"time": "11:30",
+			"title": "Hour with Charles Gannon",
+			"description": "Come for a reading and Q&A with our Guest of Honor, Chuck Gannon",
+			"guests": [],
+			"event_id": "CSVConvert3a47cea6289295edc9bb35d054060332",
+			"location": ""
+		}, {
+			"day": "2017-04-22",
+			"time": "13:00",
+			"title": "Diversity in Writing\n",
+			"description": "Other cultures and ethnicities shouldn't just be after-thoughts. ",
+			"guests": [],
+			"event_id": "CSVConvertf817ddcf04d18eaa2c262bbe6eac29fd",
+			"location": ""
+		}, {
+			"day": "2017-04-22",
+			"time": "14:30",
+			"title": "Delphic Oracle\n",
+			"description": "An improv game",
+			"guests": [],
+			"event_id": "CSVConvertc17f6cb73a5fc816fd2834af67b8f495",
+			"location": ""
+		}, {
+			"day": "2017-04-23",
+			"time": "11:30",
+			"title": "Business of Writing\n",
+			"description": "Things to think about when it comes to making money off your book",
+			"guests": [],
+			"event_id": "CSVConvert9043f3a3cfcfcc9f338762c6be0f0c90",
+			"location": ""
+		}, {
+			"day": "2017-04-21",
+			"time": "14:30",
+			"title": "Bringing Your Writing To Your Game",
+			"description": "Games need written too! ",
+			"guests": [],
+			"event_id": "CSVConvertdc3c17b33000e5e9c7662f721f1be95a",
+			"location": ""
+		}]
+	}, {
+		"Swords & Sorcery": [{
+			"day": "2018-04-21",
+			"time": "16:00",
+			"title": "Rise & Fall of Neville Longbottom",
+			"description": "\nJoin our panel of HP experts as we explore why Voldemort chose Harry instead of Neville, and reveal the moment that set Neville free to fulfill his part of the prophecy.\n\n",
+			"guests": ["erin_desimone", "darin_m_bush", "erin_mcgourn", "thom_desimone"],
+			"event_id": "49nb25h4bm8sh73rpnpce1friv@google.com",
+			"location": "Maplewood A"
+		}, {
+			"day": "2018-04-21",
+			"time": "14:30",
+			"title": "Star Wars Redeux",
+			"description": "\nWhat did we learn? What do we still want to know? Looney theories!\n\n",
+			"guests": ["john_vots", "sebatianos_ionnedes", "michael_j_allen", "clay_gilbert", "jd_jordan"],
+			"event_id": "34v4h4q4vf55kjrr1v8fcq8g59@google.com",
+			"location": "Maplewood A"
+		}, {
+			"day": "2018-04-21",
+			"time": "13:00",
+			"title": "Dresden Hour",
+			"description": "\nAdvanced Dresden 102, including discussions of the later books and theories about what is coming with the new one!\n\n",
+			"guests": ["thom_desimone", "jenna_sellers", "chris_lipnickas"],
+			"event_id": "61o6qbqkfspn0jiqcck0op6epu@google.com",
+			"location": "Maplewood A"
+		}, {
+			"day": "2018-04-21",
+			"time": "11:30",
+			"title": "Urban Fantasy Hour",
+			"description": "\nA Discussion about the genre, itself, and a trek through the magic systems, characters, and settings in this powerhouse subgenre.\n\n",
+			"guests": ["melessa_swann", "tom_fallwell", "toni_weisskopf", "aaron_michael_hall", "leia_powell"],
+			"event_id": "2e88j80qkp44if06t1rp7em0p0@google.com",
+			"location": "Maplewood A"
+		}, {
+			"day": "2018-04-21",
+			"time": "10:00",
+			"title": "Myths and Monsters",
+			"description": "\nThe Bump in the Night is just the beginning! How mixing magic, mythology, monsters, and scenery create more than just a Friday night fright!\n\n",
+			"guests": ["alison_reeger_cook", "ashley_chappell", "paige_l_christie", "martin_powell"],
+			"event_id": "343s56g8506ghk94ukum9d20vp@google.com",
+			"location": "Maplewood A"
+		}, {
+			"day": "2018-04-20",
+			"time": "22:00",
+			"title": "Some Scenes from Some of Shakespeare’s Best-known Plays",
+			"description": "5 actors perform scenes from Macbeth, Midsummer Night’s Dream, Hamlet, and Taming of The Shrew. ",
+			"guests": ["saki_marie_harp", "raine_palmer", "jen_austin", "jennifer_weatherspoon", "caleb_burnham"],
+			"event_id": "3rqml6npa4ivruk3305sipai84@google.com",
+			"location": "Maplewood A"
+		}, {
+			"day": "2018-04-20",
+			"time": "17:30",
+			"title": "Intro to the Dresden Files",
+			"description": "Who is Harry Dresden? Why have we cared for 13 books? Come and learn introductory and spoiler free knowledge of the series! ",
+			"guests": ["erin_desimone", "thom_desimone", "jenna_sellers", "chris_lipnickas"],
+			"event_id": "5g0jbei9p8766pldn243f4k2tv@google.com",
+			"location": "Maplewood A"
+		}, {
+			"day": "2018-04-20",
+			"time": "16:00",
+			"title": "Great Fight Scenes",
+			"description": "What is it about fight scenes in books that make them amazing? We'll be talking mechanics, ignorance, and editorial special effects!",
+			"guests": ["jason_denzel", "ellie_raine", "sargon_donabed", "tom_fallwell"],
+			"event_id": "575di6sc2d2n9uv5ai8v0k6met@google.com",
+			"location": "Maplewood A"
+		}, {
+			"day": "2018-04-20",
+			"time": "14:30",
+			"title": "Are you a BRIGHT?",
+			"description": "We'll discuss the Netflix Original show Bright in as vivid detail as we can in 60 minutes. ",
+			"guests": ["tiff_franklin", "leia_powell", "martin_powell", "mm_schill"],
+			"event_id": "5f0s9ck6m7p53e617ljr9786tm@google.com",
+			"location": "Maplewood A"
+		}, {
+			"day": "2017-04-21",
+			"time": "14:30",
+			"title": "Welcome to the Potterverse",
+			"description": "Let's discuss J.K. Rowling's universe.",
+			"guests": [],
+			"event_id": "CSVConvert7f48ab3b80f62ab43599608512f046ff",
+			"location": ""
+		}, {
+			"day": "2017-04-22",
+			"time": "13:00",
+			"title": "Dresden Files",
+			"description": "Big fan of Bob? Bigger fan of the Za Lord? Come chat about what's up in Chicago! ",
+			"guests": [],
+			"event_id": "CSVConvert7e20baa1d796b60c59992eca43af9554",
+			"location": ""
+		}, {
+			"day": "2017-04-22",
+			"time": "16:00",
+			"title": "Star Wars",
+			"description": "The Force Awakened last year and now we're mourning the loss of Rogue 1. How do these \"fit\" and what's coming next?",
+			"guests": [],
+			"event_id": "CSVConvertb67acba0c588e28e7dc66c98c34ccd9c",
+			"location": ""
+		}, {
+			"day": "2017-04-21",
+			"time": "17:30",
+			"title": "Using History in Fantasy",
+			"description": "Come explore the peaks and pitfalls of using history in fantasy. ",
+			"guests": [],
+			"event_id": "CSVConverta6f97f9418d1474f67917ad5405673ef",
+			"location": ""
+		}, {
+			"day": "2017-04-23",
+			"time": "11:30",
+			"title": "Urban Fantasy Hour",
+			"description": "Stop in for a chat with and about the masters of Urban Fantasy",
+			"guests": [],
+			"event_id": "CSVConvertec903d46290452d31e57d5e16accafd3",
+			"location": ""
+		}, {
+			"day": "2017-04-21",
+			"time": "16:00",
+			"title": "The Worlds of Edgar Rice Burroughs",
+			"description": "From Mars to Tarzan this author took us with him as he explored the amazing unknown planes.",
+			"guests": [],
+			"event_id": "CSVConvert49af47b5f1da18f8e8ff3dc1f6813fce",
+			"location": ""
+		}, {
+			"day": "2017-04-22",
+			"time": "14:30",
+			"title": "Shards of History",
+			"description": "A talk about the research principles behind Michael Livingston's academic work and the Shards series with current research on the death of Harold at the Battle of Hastings.",
+			"guests": [],
+			"event_id": "CSVConvert28073f5aeadb6983170a3b691d5809e3",
+			"location": ""
+		}, {
+			"day": "2017-04-21",
+			"time": "20:30",
+			"title": "Movie Night!",
+			"description": "Fantasy Friday! Come see what's on the menu for Movie night!",
+			"guests": [],
+			"event_id": "CSVConvert2d3ba9f289af1d4443e39bab4fee7fce",
+			"location": ""
+		}, {
+			"day": "2017-04-23",
+			"time": "14:30",
+			"title": "Group Therapy",
+			"description": "How to cope when your favorite book series is over",
+			"guests": [],
+			"event_id": "CSVConvertdf0abaa67b32a3d3948ce72d88d5f40a",
+			"location": ""
+		}, {
+			"day": "2017-04-22",
+			"time": "11:30",
+			"title": "Diversity in Fantasy",
+			"description": "Ethnic Diversity is an ever growing field in Fantasy as authors break through the barriers of whitewashing and address other cultures. How is this affecting the books we read? ",
+			"guests": [],
+			"event_id": "CSVConvert04727613c43f63d3c9cc72e151a250bd",
+			"location": ""
+		}, {
+			"day": "2017-04-23",
+			"time": "13:00",
+			"title": "Comics & Graphic Novels",
+			"description": "how they are affecting our reading habits. ",
+			"guests": [],
+			"event_id": "CSVConvertd1cfb4932adb68d642f12491ae595f9e",
+			"location": ""
+		}, {
+			"day": "2017-04-22",
+			"time": "10:00",
+			"title": "Class Lit Focus: Alice in Wonderland",
+			"description": " Let's revisit everyone's favorite alternate universe as we go through the looking glass",
+			"guests": [],
+			"event_id": "CSVConvert072bd8d311bdb14a75b9923bc340b9e1",
+			"location": ""
+		}, {
+			"day": "2017-04-23",
+			"time": "10:00",
+			"title": "Breakfast with Books",
+			"description": "What have you read since last year that we just have GOT to pick up?",
+			"guests": [],
+			"event_id": "CSVConvertadb0c69992a3ff6416308e7912dfad87",
+			"location": ""
+		}]
+	}, {
+		"Main Programming": [{
+			"day": "2018-04-21",
+			"time": "20:30",
+			"title": "One Night in Falme",
+			"description": "The Return. Homecoming. Another excuse for Paul to play more 80's music.",
+			"guests": [],
+			"event_id": "3h590i7cl2e4bg9604ovbrnqup@google.com",
+			"location": "Dunwoody A, B, C"
+		}, {
+			"day": "2018-04-21",
+			"time": "17:30",
+			"title": "Costume Contest and Jordan Con Awards Ceremony",
+			"description": "\nCome watch our costumers present their master works as we present the 3rd annual Jordan Con Awards.\n\n",
+			"guests": ["brandon_sanderson", "harriet_mcdougal", "jason_denzel", "lyndsey_luther", "aubree_pham"],
+			"event_id": "5sidmh19bij0qhmlnk5fnhcp7e@google.com",
+			"location": "Dunwoody A, B, C"
+		}, {
+			"day": "2018-04-21",
+			"time": "16:00",
+			"title": "Prejudging Costume Contest",
+			"description": "\nEntries for the Costume contest will have their chance to display their costumes for the judges before being presented to the crowd. Costume Contest Entrants only.\n\n",
+			"guests": ["brandon_sanderson", "harriet_mcdougal", "jason_denzel", "lyndsey_luther", "aubree_pham"],
+			"event_id": "55v0ejki819vl4j7av7tcjqhv0@google.com",
+			"location": "Dunwoody A, B, C"
+		}, {
+			"day": "2018-04-21",
+			"time": "14:30",
+			"title": "SCA Fighting Demo",
+			"guests": [],
+			"event_id": "1hikadqvet4cjvdj6kg6i3tg89@google.com",
+			"location": "Dunwoody B, C"
+		}, {
+			"day": "2018-04-21",
+			"time": "14:30",
+			"title": "Baen Travelling Road Show (with prizes!)",
+			"description": "\nA preview of upcoming works from Baen Books. \n\n",
+			"guests": ["toni_weisskopf"],
+			"event_id": "37aii089mhrnb9l6g558fs5802@google.com",
+			"location": "Dunwoody A"
+		}, {
+			"day": "2018-04-21",
+			"time": "13:00",
+			"title": "SCA Fighting Demo",
+			"description": "\nWatch as the Society for Creative Anachronism demonstrates various fighting techniques.\n\n",
+			"guests": ["sca_fighting_demo"],
+			"event_id": "5l25qaecr9lmg7vvqp1lih8fcg@google.com",
+			"location": "Dunwoody B, C"
+		}, {
+			"day": "2018-04-21",
+			"time": "13:00",
+			"title": "Stories Through Sound",
+			"description": "\nLearn how to tell your whole story through sound! From the inflection of the actors to creating the sound effects that bring your story to life, the Atlanta Radio Theatre Company can help you improve your story and your show\n\n",
+			"guests": ["atlanta_radio_theater_company"],
+			"event_id": "3bb7r9u25l23u13dh2uvnhedb0@google.com",
+			"location": "Dunwoody A"
+		}, {
+			"day": "2018-04-21",
+			"time": "11:30",
+			"title": "Dancing - West Coast Swing",
+			"description": "\nWant to spin each other around the dance floor? No partner needed, come learn the basics of West Coast Swing in preparation for homecoming\n\n",
+			"guests": ["brendan_oxford", "molly_weiss"],
+			"event_id": "6h9d3te2r4bqdnuahu6qk835a8@google.com",
+			"location": "Dunwoody B, C"
+		}, {
+			"day": "2018-04-21",
+			"time": "11:30",
+			"title": "10 years of Jordan Con ",
+			"description": "\nHas it been 10 years already?  Join our Con Chairs as they discuss how Jordan wen from being a bad idea to the family we all love today.\n\n",
+			"guests": ["jennifer_liang", "jimmy_liang", "aubree_pham"],
+			"event_id": "5m9vrcvm8rghlodhkn8as2ticv@google.com",
+			"location": "Dunwoody A"
+		}, {
+			"day": "2018-04-21",
+			"time": "10:00",
+			"title": "Blue Cole Book Release",
+			"description": "\nJoin Blue Cole,  Georgia Author of the Year nominee, as he releases his fourth novel, Elsewhere. In addition to a reading, Q&A session, he'll talk about the development of the novel, his inspiration, and entertain attendees with his unique humor and style.\n\n",
+			"guests": ["blue_cole"],
+			"event_id": "0hs0mclc5h22iprbn6rhrojdt1@google.com",
+			"location": "Dunwoody B, C"
+		}, {
+			"day": "2018-04-21",
+			"time": "10:00",
+			"title": "Theoryland and Dragonmount 20th Anniversary",
+			"description": "\n2018 marks the 20th anniversary of the two of the biggest Wheel of Time fan sites.  Join us for a conversation about how it all went down.\n\n",
+			"guests": ["jason_denzel", "matt_hatch", "jennifer_liang_moderator_aubree_pham"],
+			"event_id": "4bhlme5pgs7tt89dfdif5ot13i@google.com",
+			"location": "Dunwoody A"
+		}, {
+			"day": "2018-04-20",
+			"time": "20:30",
+			"title": "Karaoke",
+			"description": "Your chance to show of your singing skills or lack there of at our annual Karaoke night.",
+			"guests": ["richard_blaylock"],
+			"event_id": "7t9clh18k3jl4u5e4untt47dqs@google.com",
+			"location": "Dunwoody A, B, C"
+		}, {
+			"day": "2018-04-20",
+			"time": "17:30",
+			"title": "Dancing - Ballroom",
+			"description": "Learn a few Ballroom styles of dance to impress everyone at the homecoming dance on Saturday.",
+			"guests": ["zack_stevens"],
+			"event_id": "6i81g4t7e3vbc7jb9r75v4ug44@google.com",
+			"location": "Dunwoody B, C"
+		}, {
+			"day": "2018-04-20",
+			"time": "17:30",
+			"title": "Speed Friending",
+			"description": "New to the con? Are you shy? Just want to meet new people? Join us for Speed Friending!",
+			"guests": ["jen_halbman", "danyelle_denham"],
+			"event_id": "0if8g2pmp22oerig89rf06jtlo@google.com",
+			"location": "Dunwoody A"
+		}, {
+			"day": "2018-04-20",
+			"time": "16:00",
+			"title": "Blademaster Tournament",
+			"description": "There are two ways to become a blademaster.  Vie with other attendees for the chance to fight against a blademaster to become a blademaster.",
+			"guests": ["ben_gunderson", "bao_pham", "chip_moore"],
+			"event_id": "099nihqmebdoa816404or92jdr@google.com",
+			"location": "Dunwoody B, C"
+		}, {
+			"day": "2018-04-20",
+			"time": "16:00",
+			"title": "Writing Sequels and Series",
+			"description": "The first book is always the toughest? Maybe not. What challenges and special considerations does writing a sequel or series entail?",
+			"guests": ["brandon_sanderson", "faith_hunter", "aj_hartley", "david_b_coe"],
+			"event_id": "7jptgc6r2l6ukgtfvgcl2epvop@google.com",
+			"location": "Dunwoody A"
+		}, {
+			"day": "2018-04-20",
+			"time": "14:30",
+			"title": "Come practice for the Blademaster tournament",
+			"description": "Come practice for the Blademaster tournament.",
+			"guests": ["ben_gunderson", "bao_pham", "chip_moore", "kelcey_casson"],
+			"event_id": "5pp8t3tieirjroblmcq1sp3f8e@google.com",
+			"location": "Dunwoody B, C"
+		}, {
+			"day": "2018-04-20",
+			"time": "14:30",
+			"title": "Once Upon a Time at JordanCon...",
+			"description": "Come watch as a group of hilarious authors play Asmodee's story telling game, Once Upon a Time, on our main stage! Laugh, cry, and laugh some more, I'm sure fun is in store!",
+			"guests": ["darin_m_bush", "ellie_raine", "jason_denzel", "blue_cole"],
+			"event_id": "57qtp3kbnps6hsp8ubhadg5fvl@google.com",
+			"location": "Dunwoody A"
+		}, {
+			"day": "2018-04-20",
+			"time": "13:00",
+			"title": "Opening Ceremonies",
+			"description": "Welcome to our tenth annual JordanCon's Opening Ceremonies Extravaganza!",
+			"guests": [],
+			"event_id": "7gv8m2n8ap05vqhindi4a1v0uf@google.com",
+			"location": "Dunwoody A, B, C"
+		}, {
+			"day": "2017-04-22",
+			"time": "13:00",
+			"title": "TOR To Come",
+			"description": "Preview of upcomming releases from Tor books",
+			"guests": [],
+			"event_id": "CSVConvertfee19dbc675fae4df59227b389965d50",
+			"location": "Carter"
+		}, {
+			"day": "2017-04-21",
+			"time": "17:30",
+			"title": "Speed Friending",
+			"description": "New to the con? Are you shy? Just want to meet new people? Join us for Speed Friending!",
+			"guests": [],
+			"event_id": "CSVConvert9c03fabe426a7ebdb3d07141b6400761",
+			"location": "Carter"
+		}, {
+			"day": "2017-04-23",
+			"time": "14:30",
+			"title": "Signing with Charles Gannon",
+			"description": "Book Signing GOH",
+			"guests": [],
+			"event_id": "CSVConvertf925d59fb31839bb3b471dae6bae579d",
+			"location": "Carter"
+		}, {
+			"day": "2017-04-22",
+			"time": "10:00",
+			"title": "SCA Fighting Demo",
+			"description": "Fighting Demo",
+			"guests": [],
+			"event_id": "CSVConverta16d9c7c7b46f1eeb3c3226fc6ee0d10",
+			"location": "Carter"
+		}, {
+			"day": "2017-04-22",
+			"time": "14:30",
+			"title": "RJ's Notes",
+			"description": "We'll share a bit of what we found in Robert Jordan's notes at the College of Charleston library.",
+			"guests": [],
+			"event_id": "CSVConvert20e1e5dc0f0c4a96fbef1692576f7496",
+			"location": "Carter"
+		}, {
+			"day": "2017-04-21",
+			"time": "13:00",
+			"title": "Opening Ceremonies",
+			"description": "Welcome to our ninth annual JordanCon's Opening Ceremonies Extravaganza!",
+			"guests": [],
+			"event_id": "CSVConvert3807aa6f15c88e1dd5c80f9fb4dc34b0",
+			"location": "Carter"
+		}, {
+			"day": "2017-04-23",
+			"time": "13:00",
+			"title": "Launching Into Orbit",
+			"description": "Find out what's new and upcoming from Orbit and win some free books by playing Geek Jeopardy with us!",
+			"guests": [],
+			"event_id": "CSVConvertcf85e31242046adae9749f26e82d3f44",
+			"location": "Carter"
+		}, {
+			"day": "2017-04-21",
+			"time": "20:30",
+			"title": "Karaoke",
+			"description": "Your chance to show of your singing skills or lack there of at our annual Karaoke night.",
+			"guests": [],
+			"event_id": "CSVConvert196cfa49fc886fe0745f9888e1a9ec4f",
+			"location": "Carter"
+		}, {
+			"day": "2017-04-23",
+			"time": "16:00",
+			"title": "Feedback & Leavetakings",
+			"description": "Give Feedback on this year's Con",
+			"guests": [],
+			"event_id": "CSVConverta62c7e4025ddcad38aff10582727c881",
+			"location": "Carter"
+		}, {
+			"day": "2017-04-22",
+			"time": "20:30",
+			"title": "Dance Party",
+			"description": "Wake Me Up Before You Go-Go  (to the dance party that only plays hits from the 80's)",
+			"guests": [],
+			"event_id": "CSVConvert000b2c939848b70d8b303e2c1847cd9f",
+			"location": "Carter"
+		}, {
+			"day": "2017-04-23",
+			"time": "10:00",
+			"title": "Daes Dae'mar",
+			"description": "Come show off your WoT knowledge in our craziest trivia event.",
+			"guests": [],
+			"event_id": "CSVConvert51a3ff9aeb6eb424420b85e87f081a56",
+			"location": "Carter"
+		}, {
+			"day": "2017-04-22",
+			"time": "16:00",
+			"title": "Costume Prejudging",
+			"description": "Entries for the Costume contest will have their chance to display their costumes for the judges before being presented to the crowd. Costume Contest Entrants only.",
+			"guests": [],
+			"event_id": "CSVConvert882520709fee940d39777df42e5d0f0c",
+			"location": "Carter"
+		}, {
+			"day": "2017-04-22",
+			"time": "17:30",
+			"title": "Costume Contest/Awards ",
+			"description": "Come watch our costumers present their master works as we present the annual Jordan Con Awards ",
+			"guests": [],
+			"event_id": "CSVConvert62081a6c634aab946d8d63e4554de205",
+			"location": "Carter"
+		}, {
+			"day": "2017-04-21",
+			"time": "16:00",
+			"title": "Blademaster Tournament",
+			"description": "There are two ways to become a blademaster.  Vie with other attendees for the chance to fight against a blademaster to become a blademaster.",
+			"guests": [],
+			"event_id": "CSVConvert2ce563efee7a61ff5318318c735c96e8",
+			"location": "Carter"
+		}, {
+			"day": "2017-04-21",
+			"time": "14:30",
+			"title": "Blademaster Practice",
+			"description": "Come practice for the Blademaster tournament.",
+			"guests": [],
+			"event_id": "CSVConvertf2e29dedf49afe4e2f2c285d0f7b30fe",
+			"location": "Carter"
+		}, {
+			"day": "2017-04-23",
+			"time": "11:30",
+			"title": "Baen Traveling Road",
+			"description": "A preview of upcoming works from Baen Books. ",
+			"guests": [],
+			"event_id": "CSVConvert9146906dfb9d5d5f03e81b3bde011533",
+			"location": "Carter"
+		}]
+	}]
 }
