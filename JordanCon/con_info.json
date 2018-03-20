@@ -3,7 +3,7 @@
 	"lat": 33.917376,
 	"lon": -84.345061,
 	"name": "JordanCon 2018",
-	"updated_at": "2018-02-23T05:44:37.501Z",
+	"updated_at": "2018-03-15T05:44:37.501Z",
 	"_comment": "Remember: This file cannot contain images as require(image) cannot have dynamically generated strings.",
 	"images": {
 		"DASHBOARD": "https://bgun.github.io/nenji-assets/JordanCon/dashboard.png",
@@ -426,32 +426,21 @@
 	}],
 	"events": {
 		"Main Programming": [{
-			"day": "Invalid date",
-			"time": "Invalid date",
-			"location": "Location",
-			"title": "Panel Name",
-			"description": "Description\n\nTech",
-			"guest_list": ["moderatorpresenter", "panelist1", "panelist2", "panelist3", "panelist4", "panelist5"],
-			"event_id": "Invalid dateInvalid datepanelname",
-			"_id": "0Invalid dateInvalid datepanelname"
-		}, {
 			"day": "2018-02-23",
 			"time": "15:00",
 			"location": "Ballroom C",
 			"title": "Astrology and Tarot as Writing Tools",
 			"description": "Tarot and astrology are topics that have fascinated fiction writers for decades. But did you know that even if they don’t feature in your story, they make great behind-the-scenes tools for writing? In this panel we’ll discuss ways to use tarot and astrology to help spice up your brainstorming, flesh out character details, jump-start a stalled plot, and more.\n\ndedicated sound system with at least 4 mics and 2 wireless mics available for some events.  There will be an 8’ movie screen in here.",
 			"guest_list": ["crymsynhart", "kimheadlee", "terafulbright"],
-			"event_id": "2018-02-2315:00astrologyandtarotaswritingtools",
-			"_id": "12018-02-2315:00astrologyandtarotaswritingtools"
+			"event_id": "2018-02-2315:00astrologyandtarotaswritingtools"
 		}, {
-			"day": "2018-02-23",
+			"day": "2018-02-24",
 			"time": "15:00",
 			"location": "Ballroom D",
 			"title": "Author Showcase",
 			"description": "Authors who have written books coming out in 2018 can briefly discuss them in a panel.",
 			"guest_list": ["darinkennedy", "jamesgaines", "jasongilbert", "lizlong", "shroddey"],
-			"event_id": "2018-02-2315:00authorshowcase",
-			"_id": "22018-02-2315:00authorshowcase"
+			"event_id": "2018-02-2315:00authorshowcase"
 		}],
 		"Swords & Sorcery": [{
 			"day": "2018-02-23",
@@ -460,26 +449,23 @@
 			"title": "Audio Podcasting and Internet Radio 101",
 			"description": "Our panelists will talk about ways to start up your own audio podcast, or Internet radio station--the equipment to get, software to use, and creating a website for distribution or hooking up with a streaming provider.",
 			"guest_list": ["syrinx", "alexmatsuo", "carolthecat", "richsigfrit", "theflynnstress"],
-			"event_id": "2018-02-2315:00audiopodcastingandinternetradio101",
-			"_id": "32018-02-2315:00audiopodcastingandinternetradio101"
+			"event_id": "2018-02-2315:00audiopodcastingandinternetradio101"
 		}, {
-			"day": "2018-02-23",
+			"day": "2018-02-24",
 			"time": "15:00",
 			"location": "Dogwood 1",
 			"title": "Introduction to Roleplaying",
 			"description": "Curious as to what is involved in roleplaying games? Come take your first step into the wonderful world of roleplaying and what it entails. This panel would also be helpful to parents who have children that want to, or are actively participating in, roleplay. Learn the lingo, get all the starting tips, and more, with our panelists.\n\ndedicated sound system with at least 4 mics and a screen",
 			"guest_list": ["stevenslong", "eddiesteddy", "johnwatts"],
-			"event_id": "2018-02-2315:00introductiontoroleplaying",
-			"_id": "42018-02-2315:00introductiontoroleplaying"
+			"event_id": "2018-02-2315:00introductiontoroleplaying"
 		}, {
-			"day": "2018-02-23",
+			"day": "2018-02-25",
 			"time": "15:00",
 			"location": "Dogwood 2",
 			"title": "Podcast: Talk of the Tavern",
 			"description": "Hang out with Travis Sivart while he gives a preview of what you can expect at MystiCon 2018!\n\nLarge TV on stand",
 			"guest_list": ["travissivart"],
-			"event_id": "2018-02-2315:00podcasttalkofthetavern",
-			"_id": "52018-02-2315:00podcasttalkofthetavern"
+			"event_id": "2018-02-2315:00podcasttalkofthetavern"
 		}]
 	}
 }
