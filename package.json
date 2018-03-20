@@ -1,0 +1,22 @@
+{
+  "name": "nenji-assets",
+  "version": "1.0.0",
+  "description": "Just a convenient gh-pages repo for [nenji](https://github.com/bgun/nenji) app assets.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bgun/nenji-assets.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bgun/nenji-assets/issues"
+  },
+  "homepage": "https://github.com/bgun/nenji-assets#readme",
+  "dependencies": {
+    "ical": "^0.5.0"
+  }
+}
