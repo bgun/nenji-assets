@@ -1,5 +1,6 @@
 'use strict';
 
+let _ = require('lodash');
 let ical = require('ical');
 let moment = require('moment-timezone');
 let striptags = require('striptags');
@@ -83,7 +84,7 @@ let completedCallback = function(allTracks) {
     }
   });
 
-  con_info.events = allTracks;
+  con_info.tracks = allTracks;
   con_info.guests = guestsArray;
   console.log(JSON.stringify(con_info));
 };
@@ -125,11 +126,12 @@ let main = function() {
         throw err;
       }
       let arr = Object.keys(resp).map(k => mapEvent(resp[k]));
-      let obj = {};
-      obj[cal.trackName] = arr;
-      results.push(obj);
+      results.push({
+        name: cal.trackName,
+        events: arr
+      });
       if (results.length === calendarFiles.length) {
-        completedCallback(results);
+        completedCallback(_.sortBy(results, 'trackName'));
       }
     });
   });
