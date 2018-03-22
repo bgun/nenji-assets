@@ -22,8 +22,8 @@
     "appText": "<p><strong>Con-Nexus</strong> is a lightweight, open-source convention app framework created by Ben Gundersen, and built with React Native. You can find more information on my <a href='https://github.com/bgun'>GitHub</a>, or email me: <a href='mailto:ben@bengundersen.com'>ben@bengundersen.com</a>.</p><p><em>Made with &hearts; in New York City</em></p>"
 	},
 	"dimensions": {
-		"HOTEL_MAP_WIDTH": 800,
-		"HOTEL_MAP_HEIGHT": 800 
+		"HOTEL_MAP_WIDTH": 1000,
+		"HOTEL_MAP_HEIGHT": 1000 
 	},
 	"styles": {},
 	"guests": [{
