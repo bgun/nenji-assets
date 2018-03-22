@@ -83,6 +83,7 @@ let completedCallback = function(allTracks) {
       guest_id: makeSlug(g)
     }
   });
+  guestsArray = _.uniqBy(guestsArray, g => g.guest_id);
 
   con_info.tracks = allTracks;
   con_info.guests = guestsArray;
