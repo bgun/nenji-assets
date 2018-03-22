@@ -126,6 +126,7 @@ let main = function() {
         throw err;
       }
       let arr = Object.keys(resp).map(k => mapEvent(resp[k]));
+      arr = arr.filter(ev => moment(ev.day).year() === 2018);
       results.push({
         name: cal.trackName,
         events: arr
