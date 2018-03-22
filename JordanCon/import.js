@@ -27,7 +27,7 @@ let con_info = {
 	},
 	"styles": {},
 	"guests": [],
-	"events": {}
+	"tracks": []
 };
 
 
