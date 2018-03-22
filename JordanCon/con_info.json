@@ -3,6 +3,15 @@
 	"lat": 33.917376,
 	"lon": -84.345061,
 	"name": "JordanCon 2018",
+	"venue": {
+    "name": "Crowne Plaza Ravinia",
+	  "address": [
+      "4355 Ashford Dunwoody Rd",
+      "Atlanta, GA 30346"
+    ],
+    "maps_url": "https://www.google.com/maps/place/Crowne+Plaza+Atlanta+Perimeter+at+Ravinia/@33.9209167,-84.3388918,18z/data=!4m7!3m6!1s0x88f509437f580d0f:0x2eee02f11debd006!5m1!1s2018-04-13!8m2!3d33.9209167!4d-84.3377975",
+    "phone": "+1-770-395-7700"
+  },
 	"updated_at": "2018-03-22T01:55:29.575Z",
 	"images": {
 		"DASHBOARD": "https://bgun.github.io/nenji-assets/JordanCon/dashboard.jpg",
