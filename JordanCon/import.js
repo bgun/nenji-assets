@@ -14,7 +14,7 @@ let con_info = {
 	"updated_at": moment(new Date()),
 	"_comment": "Remember: This file cannot contain images as require(image) cannot have dynamically generated strings.",
 	"images": {
-		"DASHBOARD": "https://bgun.github.io/nenji-assets/JordanCon/dashboard.png",
+		"DASHBOARD": "https://bgun.github.io/nenji-assets/JordanCon/dashboard.jpg",
 		"HOTEL_MAP": "https://bgun.github.io/nenji-assets/JordanCon/hotel_map.png"
 	},
 	"content": {
