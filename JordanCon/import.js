@@ -18,7 +18,7 @@ let con_info = {
 		"HOTEL_MAP": "https://bgun.github.io/nenji-assets/JordanCon/hotel_map.png"
 	},
 	"content": {
-		"aboutText": "<p>The original MystiCon, which took place over July 4th weekend in 1980 was considered a big party by most, but has recently been revived to take place in our favorite Roanoke, VA location, the Tanglewood Holiday Inn. The location and time of year that MystiCon takes place is one that fans, family and friends alike have come to rely on for an awesome weekend of SciFi, Fantasy and Pop Culture.</p><p>This convention was resurrected in 2010 by a collection of cool zany and passionate people that wanted to keep the family-friendly traditions of open gaming, enjoyment of different literature, arts, imaginations and camaraderie any Con-goer will surely enjoy!</p><p>We look forward to seeing you there!</p><p><em>MystiCon is a 501(c)(3) Non Profit Corporation.</em></p>",
+		"aboutText": "<p>JordanCon is a fantasy literature convention founded in honor of the late author, Robert Jordan. JordanCon features eight tracks of simultaneous programming, a Dealers' Hall, gaming, an Art Show featuring original art by a variety of artists, and charity events benefiting the Mayo Clinic and other charities.</p>",
 		"appText": "<p><strong>Con-Nexus</strong> is a lightweight, open-source convention app framework created by Ben Gundersen, and currently built with React Native. You can find more information on <a href='https://github.com/bgun'>GitHub</a>, or email me: <a href='mailto:ben@bengundersen.com'>ben@bengundersen.com</a>.</p><p><em>Made with &hearts; in New York City</em></p>"
 	},
 	"dimensions": {
@@ -39,10 +39,11 @@ let calendarFiles = [{
   trackName: 'Gaming',
   icalUrl: 'https://calendar.google.com/calendar/ical/jordancon.org_cv04qljf1e2km9blqdpo5h77j0%40group.calendar.google.com/public/basic.ics'
 }, {
+  default: true,
   trackName: 'Main Programming',
   icalUrl: 'https://calendar.google.com/calendar/ical/jordancon.org_c592mh5celt06liqphrp7gvid0%40group.calendar.google.com/public/basic.ics'
 }, {
-  trackName: 'Misc. Events',
+  trackName: 'Meet-Ups',
   icalUrl: 'https://calendar.google.com/calendar/ical/jordancon.org_thsob38qfsg3bb93ive5i366k8%40group.calendar.google.com/public/basic.ics'
 }, {
   trackName: 'Reading & Kaffeeklatches',
