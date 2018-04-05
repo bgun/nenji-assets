@@ -6,31 +6,7 @@ let moment = require('moment-timezone');
 let striptags = require('striptags');
 
 
-let con_info = {
-	"con_id": "jordancon2018",
-	"lat": 33.917376,
-	"lon": -84.345061,
-	"name": "JordanCon 2018",
-	"updated_at": moment(new Date()),
-	"_comment": "Remember: This file cannot contain images as require(image) cannot have dynamically generated strings.",
-	"images": {
-		"DASHBOARD": "https://bgun.github.io/nenji-assets/JordanCon/dashboard.jpg",
-		"HOTEL_MAP": "https://bgun.github.io/nenji-assets/JordanCon/hotel_map.png"
-	},
-	"content": {
-		"aboutText": "<p>JordanCon is a fantasy literature convention founded in honor of the late author, Robert Jordan. JordanCon features eight tracks of simultaneous programming, a Dealers' Hall, gaming, an Art Show featuring original art by a variety of artists, and charity events benefiting the Mayo Clinic and other charities.</p>",
-		"appText": "<p><strong>Con-Nexus</strong> is a lightweight, open-source convention app framework created by Ben Gundersen, and currently built with React Native. You can find more information on <a href='https://github.com/bgun'>GitHub</a>, or email me: <a href='mailto:ben@bengundersen.com'>ben@bengundersen.com</a>.</p><p><em>Made with &hearts; in New York City</em></p>"
-	},
-	"dimensions": {
-		"HOTEL_MAP_WIDTH": 551,
-		"HOTEL_MAP_HEIGHT": 628
-	},
-	"styles": {},
-	"guests": [],
-	"tracks": []
-};
-
-
+let con_info = require("./con_info.json");
 
 let calendarFiles = [{
   trackName: 'Art Show',
@@ -131,6 +107,7 @@ let main = function() {
       arr = arr.filter(ev => moment(ev.day).year() === 2018);
       results.push({
         name: cal.trackName,
+        default: !!cal.default,
         events: arr
       });
       if (results.length === calendarFiles.length) {
