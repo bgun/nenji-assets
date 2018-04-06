@@ -19,6 +19,14 @@
 		"DASHBOARD": "https://bgun.github.io/nenji-assets/JordanCon/dashboard.jpg",
 		"HOTEL_MAP": "https://bgun.github.io/nenji-assets/JordanCon/hotel_map.png"
 	},
+	"colors": {
+    "border": "#DDD",
+    "headerBg": "#4270a9",
+    "highlight": "#1C8BAD",
+    "highlightDark": "#0e5166",
+    "highlightAlt": "#C83",
+    "feedbackBtn": "#678"
+	},
 	"content": {
 		"aboutText": "<p>JordanCon is a fantasy literature convention founded in honor of the late author, Robert Jordan. JordanCon features eight tracks of simultaneous programming, a Dealers' Hall, gaming, an Art Show featuring original art by a variety of artists, and charity events benefiting the Mayo Clinic and other charities.</p>",
 		"appText": "<p><strong>Con-Nexus</strong> is a lightweight, open-source convention app framework created by Ben Gundersen, and currently built with React Native. You can find more information on <a href='https://github.com/bgun'>GitHub</a>, or email me: <a href='mailto:ben@bengundersen.com'>ben@bengundersen.com</a>.</p><p><em>Made with &hearts; in New York City</em></p>"
