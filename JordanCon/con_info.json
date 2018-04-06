@@ -15,6 +15,7 @@
 	"updated_at": "2018-04-04T04:18:39.163Z",
 	"_comment": "Remember: This file cannot contain images as require(image) cannot have dynamically generated strings.",
 	"images": {
+	  "LOGO": "https://bgun.github.io/nenji-assets/JordanCon/logo.png",
 		"DASHBOARD": "https://bgun.github.io/nenji-assets/JordanCon/dashboard.jpg",
 		"HOTEL_MAP": "https://bgun.github.io/nenji-assets/JordanCon/hotel_map.png"
 	},
