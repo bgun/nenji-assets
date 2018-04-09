@@ -16,6 +16,13 @@
 		"DASHBOARD": "https://bgun.github.io/nenji-assets/JordanCon/dashboard.jpg",
 		"HOTEL_MAP": "https://bgun.github.io/nenji-assets/JordanCon/hotel_map.png"
 	},
+	"header_photos": [{
+	  "src": "https://bgun.github.io/nenji-assets/JordanCon/dashboard.jpg",
+	  "description": ""
+	},{
+	  "src": "https://bgun.github.io/nenji-assets/JordanCon/photos/trollocs2014.jpg",
+	  "description": "Watch this space for 2018 photos once the convention starts!"
+	}],
 	"colors": {
 		"border": "#DDD",
 		"headerBg": "#4270a9",
