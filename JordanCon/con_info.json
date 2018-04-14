@@ -37,6 +37,7 @@
 	},
 	"more_content": [{
     "label": "About",
+    "label_icon": "info",
     "header_image": "https://bgun.github.io/nenji-assets/JordanCon/logo.png",
     "sort_priority": 3,
     "content_sections": [
@@ -48,6 +49,7 @@
     ]
 	}, {
 	  "label": "Frequently Asked Questions",
+    "label_icon": "help",
 	  "sort_priority": 2,
 	  "content_sections": [
       "<h3>Frequently Asked Questions</h3>",
@@ -55,6 +57,7 @@
 	  ]
 	}, {
     "label": "Hours",
+    "label_icon": "clock",
     "sort_priority": 1,
     "content_sections": [
       "<h3>Hours</h3>",
