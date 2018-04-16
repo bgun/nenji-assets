@@ -45,7 +45,7 @@
 		"label": "Frequently Asked Questions",
 		"label_icon": "help",
 		"sort_priority": 2,
-		"content_sections": ["<h3>Frequently Asked Questions</h3>", "<p><em>Where is the Consuite?</em></p><p>Room XXXX.</p>"]
+		"content_sections": ["<h3>Frequently Asked Questions</h3>", "<p><em>Where is the Consuite?</em></p><p>Room 1101.</p>"]
 	}, {
 		"label": "Hours",
 		"label_icon": "clock",
