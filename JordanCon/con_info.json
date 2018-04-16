@@ -47,7 +47,7 @@
 		"sort_priority": 2,
 		"content_sections": [
 		  "<h3>Frequently Asked Questions</h3>",
-		  "<p><em>Where is the Consuite?</em></p><p>Room XXXX.</p>",
+		  "<p><em>Where is the Consuite?</em></p><p>Room 1101.</p>",
 		  "<p><em>What forms of payment are accepted?</em></p>",
       "<p>We accept cash, check, and debit/credit (Visa, Mastercard, AMEX, Discover and JCB). This applies to Registration, Art Show, and Silent Auction payments.</p>",
       "<p>Seanchan Hold'em is cash only.</p>",
@@ -67,8 +67,71 @@
 	},
 	"styles": {},
 	"guests": [{
+		"name": "Charles Urbach",
+		"guest_id": "charles_urbach"
+	}, {
+		"name": "Nat Rodgers",
+		"guest_id": "nat_rodgers"
+	}, {
+		"name": "Ariel Burgess",
+		"guest_id": "ariel_burgess"
+	}, {
+		"name": "Billie Pierce",
+		"guest_id": "billie_pierce"
+	}, {
+		"name": "Stephanie Law",
+		"guest_id": "stephanie_law"
+	}, {
+		"name": "Angela Sasser",
+		"guest_id": "angela_sasser"
+	}, {
+		"name": "Amanda Makepeace",
+		"guest_id": "amanda_makepeace"
+	}, {
+		"name": "Melissa Gay",
+		"guest_id": "melissa_gay"
+	}, {
+		"name": "Paul Bielaczyc",
+		"guest_id": "paul_bielaczyc"
+	}, {
+		"name": "Kelly Keuneke-Marts",
+		"guest_id": "kelly_keunekemarts"
+	}, {
+		"name": "Jeff Jarvis",
+		"guest_id": "jeff_jarvis"
+	}, {
+		"name": "Michael Bielaczyc",
+		"guest_id": "michael_bielaczyc"
+	}, {
 		"name": "Joe O'Hara",
 		"guest_id": "joe_ohara"
+	}, {
+		"name": "Edsel Arnold",
+		"guest_id": "edsel_arnold"
+	}, {
+		"name": "Tiffany Toland-Scott",
+		"guest_id": "tiffany_tolandscott"
+	}, {
+		"name": "Andrea Fornero",
+		"guest_id": "andrea_fornero"
+	}, {
+		"name": "Emily Sanderson",
+		"guest_id": "emily_sanderson"
+	}, {
+		"name": "Isaac Stewart",
+		"guest_id": "isaac_stewart"
+	}, {
+		"name": "Kara Stewart",
+		"guest_id": "kara_stewart"
+	}, {
+		"name": "Karen Ahlstrom",
+		"guest_id": "karen_ahlstrom"
+	}, {
+		"name": "Peter Ahlstrom",
+		"guest_id": "peter_ahlstrom"
+	}, {
+		"name": "Billy",
+		"guest_id": "billy"
 	}, {
 		"name": "Tom O'Hara",
 		"guest_id": "tom_ohara"
@@ -106,9 +169,6 @@
 		"name": "Trae Cooper",
 		"guest_id": "trae_cooper"
 	}, {
-		"name": "Karen Ahlstrom",
-		"guest_id": "karen_ahlstrom"
-	}, {
 		"name": "Christopher Cottingham",
 		"guest_id": "christopher_cottingham"
 	}, {
@@ -136,9 +196,6 @@
 		"name": "Donavynn Sandusky",
 		"guest_id": "donavynn_sandusky"
 	}, {
-		"name": "Isaac Stewart",
-		"guest_id": "isaac_stewart"
-	}, {
 		"name": "Ravi Persaud",
 		"guest_id": "ravi_persaud"
 	}, {
@@ -147,105 +204,6 @@
 	}, {
 		"name": "Brandon Sanderson",
 		"guest_id": "brandon_sanderson"
-	}, {
-		"name": "Emily Sanderson",
-		"guest_id": "emily_sanderson"
-	}, {
-		"name": "Kara Stewart",
-		"guest_id": "kara_stewart"
-	}, {
-		"name": "Peter Ahlstrom",
-		"guest_id": "peter_ahlstrom"
-	}, {
-		"name": "Charles Urbach",
-		"guest_id": "charles_urbach"
-	}, {
-		"name": "Nat Rodgers",
-		"guest_id": "nat_rodgers"
-	}, {
-		"name": "Ariel Burgess",
-		"guest_id": "ariel_burgess"
-	}, {
-		"name": "Billie Pierce",
-		"guest_id": "billie_pierce"
-	}, {
-		"name": "Stephanie Law",
-		"guest_id": "stephanie_law"
-	}, {
-		"name": "Angela Sasser",
-		"guest_id": "angela_sasser"
-	}, {
-		"name": "Amanda Makepeace",
-		"guest_id": "amanda_makepeace"
-	}, {
-		"name": "Melissa Gay",
-		"guest_id": "melissa_gay"
-	}, {
-		"name": "Paul Bielaczyc",
-		"guest_id": "paul_bielaczyc"
-	}, {
-		"name": "Kelly Keuneke-Marts",
-		"guest_id": "kelly_keunekemarts"
-	}, {
-		"name": "Jeff Jarvis",
-		"guest_id": "jeff_jarvis"
-	}, {
-		"name": "Michael Bielaczyc",
-		"guest_id": "michael_bielaczyc"
-	}, {
-		"name": "Edsel Arnold",
-		"guest_id": "edsel_arnold"
-	}, {
-		"name": "Tiffany Toland-Scott",
-		"guest_id": "tiffany_tolandscott"
-	}, {
-		"name": "Andrea Fornero",
-		"guest_id": "andrea_fornero"
-	}, {
-		"name": "Linda Taglieri",
-		"guest_id": "linda_taglieri"
-	}, {
-		"name": "Theresa Gray",
-		"guest_id": "theresa_gray"
-	}, {
-		"name": "Matt Hatch",
-		"guest_id": "matt_hatch"
-	}, {
-		"name": "Jeffrey Daniel",
-		"guest_id": "jeffrey_daniel"
-	}, {
-		"name": "Harriet McDougal",
-		"guest_id": "harriet_mcdougal"
-	}, {
-		"name": "Jason Denzel",
-		"guest_id": "jason_denzel"
-	}, {
-		"name": "Ebony Adomanis",
-		"guest_id": "ebony_adomanis"
-	}, {
-		"name": "James Starke",
-		"guest_id": "james_starke"
-	}, {
-		"name": "Aubree Pham",
-		"guest_id": "aubree_pham"
-	}, {
-		"name": "Jodie Wiens",
-		"guest_id": "jodie_wiens"
-	}, {
-		"name": "Sargon Donabed",
-		"guest_id": "sargon_donabed"
-	}, {
-		"name": "Thom DeSimone",
-		"guest_id": "thom_desimone"
-	}, {
-		"name": "Erin DeSimone",
-		"guest_id": "erin_desimone"
-	}, {
-		"name": "Darin M. Bush",
-		"guest_id": "darin_m_bush"
-	}, {
-		"name": "Marisa Grooms",
-		"guest_id": "marisa_grooms"
 	}, {
 		"name": "Chris Kennedy",
 		"guest_id": "chris_kennedy"
@@ -258,6 +216,12 @@
 	}, {
 		"name": "Paige L. Christie",
 		"guest_id": "paige_l_christie"
+	}, {
+		"name": "Sargon Donabed",
+		"guest_id": "sargon_donabed"
+	}, {
+		"name": "Darin. M. Bush",
+		"guest_id": "darin_m_bush"
 	}, {
 		"name": "A. R. Cook",
 		"guest_id": "a_r_cook"
@@ -298,6 +262,9 @@
 		"name": "Anthony Taylor",
 		"guest_id": "anthony_taylor"
 	}, {
+		"name": "Jason Denzel",
+		"guest_id": "jason_denzel"
+	}, {
 		"name": "Faith Hunter",
 		"guest_id": "faith_hunter"
 	}, {
@@ -307,35 +274,50 @@
 		"name": "James Palmer",
 		"guest_id": "james_palmer"
 	}, {
+		"name": "Aubree Pham",
+		"guest_id": "aubree_pham"
+	}, {
 		"name": "Clay Gilbert",
 		"guest_id": "clay_gilbert"
 	}, {
-		"name": "Sean Hillman",
-		"guest_id": "sean_hillman"
+		"name": "Linda Taglieri",
+		"guest_id": "linda_taglieri"
 	}, {
-		"name": "Nancy McCullough",
-		"guest_id": "nancy_mccullough"
+		"name": "James Starke",
+		"guest_id": "james_starke"
 	}, {
-		"name": "Navarre Bartz",
-		"guest_id": "navarre_bartz"
+		"name": "Jodie Wiens",
+		"guest_id": "jodie_wiens"
 	}, {
-		"name": "Bryan Adomanis",
-		"guest_id": "bryan_adomanis"
+		"name": "Thom DeSimone",
+		"guest_id": "thom_desimone"
 	}, {
-		"name": "James Liang",
-		"guest_id": "james_liang"
+		"name": "Erin DeSimone",
+		"guest_id": "erin_desimone"
 	}, {
-		"name": "Team Royal Manticore",
-		"guest_id": "team_royal_manticore"
+		"name": "Theresa Gray",
+		"guest_id": "theresa_gray"
 	}, {
-		"name": "Danyelle Denham",
-		"guest_id": "danyelle_denham"
+		"name": "Matt Hatch",
+		"guest_id": "matt_hatch"
 	}, {
-		"name": "Royal Manticore Navy Personnel",
-		"guest_id": "royal_manticore_navy_personnel"
+		"name": "Jeffrey Daniel",
+		"guest_id": "jeffrey_daniel"
+	}, {
+		"name": "Harriet McDougal",
+		"guest_id": "harriet_mcdougal"
+	}, {
+		"name": "Ebony Adomanis",
+		"guest_id": "ebony_adomanis"
+	}, {
+		"name": "Marisa Grooms",
+		"guest_id": "marisa_grooms"
 	}, {
 		"name": "Tom Fallwell",
 		"guest_id": "tom_fallwell"
+	}, {
+		"name": "James Liang",
+		"guest_id": "james_liang"
 	}, {
 		"name": "Jon Hermsen",
 		"guest_id": "jon_hermsen"
@@ -346,38 +328,14 @@
 		"name": "Bao Pham",
 		"guest_id": "bao_pham"
 	}, {
-		"name": "Jennifer Liang",
-		"guest_id": "jennifer_liang"
-	}, {
-		"name": "Ben Gundersen",
-		"guest_id": "ben_gundersen"
-	}, {
-		"name": "Chip Moore",
-		"guest_id": "chip_moore"
-	}, {
-		"name": "Kelcey Casson",
-		"guest_id": "kelcey_casson"
-	}, {
-		"name": "Zachary Stevens",
-		"guest_id": "zachary_stevens"
-	}, {
 		"name": "Lyndsey Luther",
 		"guest_id": "lyndsey_luther"
-	}, {
-		"name": "SCA Fighting Demo",
-		"guest_id": "sca_fighting_demo"
-	}, {
-		"name": "Atlanta Radio Theater Company",
-		"guest_id": "atlanta_radio_theater_company"
 	}, {
 		"name": "Brendan Oxford",
 		"guest_id": "brendan_oxford"
 	}, {
 		"name": "Molly Weiss",
 		"guest_id": "molly_weiss"
-	}, {
-		"name": "Richard Blaylock",
-		"guest_id": "richard_blaylock"
 	}, {
 		"name": "Brandyn Butler",
 		"guest_id": "brandyn_butler"
@@ -397,14 +355,41 @@
 		"name": "Jamie Cybert",
 		"guest_id": "jamie_cybert"
 	}, {
-		"name": "Erin McGourn",
-		"guest_id": "erin_mcgourn"
+		"name": "Jennifer Liang",
+		"guest_id": "jennifer_liang"
+	}, {
+		"name": "Ben Gundersen",
+		"guest_id": "ben_gundersen"
+	}, {
+		"name": "Chip Moore",
+		"guest_id": "chip_moore"
+	}, {
+		"name": "Kelcey Casson",
+		"guest_id": "kelcey_casson"
+	}, {
+		"name": "Zachary Stevens",
+		"guest_id": "zachary_stevens"
+	}, {
+		"name": "SCA Fighting Demo",
+		"guest_id": "sca_fighting_demo"
+	}, {
+		"name": "Atlanta Radio Theater Company",
+		"guest_id": "atlanta_radio_theater_company"
+	}, {
+		"name": "Richard Blaylock",
+		"guest_id": "richard_blaylock"
+	}, {
+		"name": "Danyelle Denham",
+		"guest_id": "danyelle_denham"
 	}, {
 		"name": "Leia Powell",
 		"guest_id": "leia_powell"
 	}, {
-		"name": "MeLessa Swann",
-		"guest_id": "melessa_swann"
+		"name": "Kayl Karadijan",
+		"guest_id": "kayl_karadijan"
+	}, {
+		"name": "Erin McGourn",
+		"guest_id": "erin_mcgourn"
 	}, {
 		"name": "Tiff Franklin",
 		"guest_id": "tiff_franklin"
@@ -414,9 +399,6 @@
 	}, {
 		"name": "Seth Jones",
 		"guest_id": "seth_jones"
-	}, {
-		"name": "Kayl Karadijan",
-		"guest_id": "kayl_karadijan"
 	}, {
 		"name": "John Vots",
 		"guest_id": "john_vots"
@@ -447,11 +429,137 @@
 	}, {
 		"name": "Caleb Burnham",
 		"guest_id": "caleb_burnham"
+	}, {
+		"name": "Sean Hillman",
+		"guest_id": "sean_hillman"
+	}, {
+		"name": "Nancy McCullough",
+		"guest_id": "nancy_mccullough"
+	}, {
+		"name": "Navarre Bartz",
+		"guest_id": "navarre_bartz"
+	}, {
+		"name": "Bryan Adomanis",
+		"guest_id": "bryan_adomanis"
+	}, {
+		"name": "Team Royal Manticore",
+		"guest_id": "team_royal_manticore"
+	}, {
+		"name": "Royal Manticore Navy Personnel",
+		"guest_id": "royal_manticore_navy_personnel"
 	}],
 	"tracks": [{
+		"name": "Art Show",
+		"default": false,
+		"events": [{
+			"day": "2018-04-21",
+			"time": "10:00",
+			"title": "How to Prepare for a Con for Artists and Vendors",
+			"description": "We heard you loud and clear: this is a must-attend panel for artists and vendors on how to navigate the convention experience, set up your displays and tables, and make the most impact in a small place over the course of a three-day event. With handy tips on how to survive the weekend, including how to enjoy the fun without feeling leashed to your space, we have a stellar lineup of JordanCon veterans to answer all your questions and more!\n\n",
+			"guests": ["charles_urbach", "nat_rodgers", "ariel_burgess", "billie_pierce"],
+			"event_id": "37ehk2ckj0q0hi2j8uh0me1llu@google.com",
+			"location": "Azalea"
+		}, {
+			"day": "2018-04-22",
+			"time": "13:00",
+			"title": "Navigating Patreon",
+			"description": "There are a lot of things to consider before launching your Patreon project: How often will you reward your Patrons? How will you market your project so potential supporters can find you? Will the income stream be worth the hours you will have to put into delivering perks? It can be daunting to support an artist without knowing exactly what type of content they'll receive in return. Our expert panelists will help you avoid the pitfalls and plot a course toward Patreon happiness and success.\n\n",
+			"guests": ["stephanie_law", "angela_sasser", "ariel_burgess"],
+			"event_id": "5q0nhe2ofrojndi1pl3i1snfkm@google.com",
+			"location": "Azalea"
+		}, {
+			"day": "2018-04-22",
+			"time": "11:30",
+			"title": "101 Art Ideas in an Hour",
+			"description": "Artists are often asked, \"Where do you get your ideas?\" The answer is everywhere! Ideas can come from nature, books, a daydream in chem class, or a conversation with your best friend. The imagination knows no limits. Come join Amanda Makepeace and Melissa Gay on this fun and interactive panel to cultivate your very own list of 101 art ideas. We can’t wait to hear where you get your great ideas!  \n\n",
+			"guests": ["amanda_makepeace", "melissa_gay"],
+			"event_id": "5r8m3i9023f3sl4m2desfe40vd@google.com",
+			"location": "Azalea"
+		}, {
+			"day": "2018-04-22",
+			"time": "10:00",
+			"title": "101 Art Ideas Walk",
+			"description": "Are you an art-lover who finds inspiration in the great outdoors and the natural beauty that surrounds us? Grab your coffee and join Amanda Makepeace and Melissa Gay on a morning walk through the Ravinia gardens for some fresh air and a creative perspective on the natural world. Participants will first gather in the Art Track room and then venture out together. Inspiration is only a walk away….. \n\n",
+			"guests": ["amanda_makepeace", "melissa_gay"],
+			"event_id": "6kc9ff6oubu4b5hhefa3qdkfc8@google.com",
+			"location": "Azalea"
+		}, {
+			"day": "2018-04-21",
+			"time": "16:00",
+			"title": "Stephanie Law Watercolor Demo",
+			"description": "From inspiration to tools to techniques, our Artist Guest of Honor Stephanie Law walks us through the creative process she uses to bring her unique view of the world to life. Come see for yourself, up-close and in-person, the depth, rich colors, and whimsical creatures that characterize our Artist Guest of Honor’s beloved watercolor paintings.\n\n",
+			"guests": ["stephanie_law"],
+			"event_id": "7lmkkg5rtg0svalbnn0li5jjek@google.com",
+			"location": "Azalea"
+		}, {
+			"day": "2018-04-21",
+			"time": "14:30",
+			"title": "The Bird Whisperers Live!!",
+			"description": "Melissa Gay & Amanda Makepeace are at it again! This time it’s a BirdWhisperer paint-off  for your enjoyment and amazement. The bird for the month of April is the valiant and lovely Bullfinch, and we promise you will be wow-ed as you watch our artists’ creations unfold, especially since they won’t see each other’s work until the big reveal at the end! If you don’t already follow ‘The BirdWhisperer Project’ on Facebook (@birdwhisperer.project), you’ll want to after this panel...maybe even during. \n\n",
+			"guests": ["amanda_makepeace", "melissa_gay"],
+			"event_id": "57otvpn7j4j9sl5n3aiffo6gbu@google.com",
+			"location": "Azalea"
+		}, {
+			"day": "2018-04-21",
+			"time": "13:00",
+			"title": "Stephanie Law Retrospective",
+			"description": "One of the most influential and recognizable artist in her medium, Stephanie Law has delighted the world with her watercolor art through a myriad of formats, including cover art for novels, Magic cards, RPG artwork, and her Shadowscapes Faerie Tarot Deck. Law's work is an exploration of mythology mixed with personal symbolism and her art journeys through surreal otherworlds, populated by dreamlike figures, masked creatures, and winged shadows. Attend this session to embark on that journey with her.\n\n\n",
+			"guests": ["stephanie_law"],
+			"event_id": "52sni47hc19t3hthbhp5q5ro2o@google.com",
+			"location": "Azalea"
+		}, {
+			"day": "2018-04-21",
+			"time": "11:30",
+			"title": "Win, Lose, or Draw",
+			"description": "Stop in before lunch on Saturday for a chance to join forces with one of our two teams of artists as they face-off in what will easel-y be the talk of the con: WiLD: the Battle of The Return. Even if you don’t compete, this wacky game is a chance to cheer on some of our favorite artists as they let their hair down (especially Amanda!) and cut loose for a wild hour of frantic scribbling and amazing, knee-slapping fun. A good time is guaranteed to be had by all.",
+			"guests": ["paul_bielaczyc", "kelly_keunekemarts", "amanda_makepeace", "charles_urbach", "jeff_jarvis", "billie_pierce"],
+			"event_id": "0sr7q9s1q5sfuombvrk5siq7jk@google.com",
+			"location": "Azalea"
+		}, {
+			"day": "2018-04-20",
+			"time": "17:30",
+			"title": "Charity Art Jam",
+			"description": "Archetypes are much more than just the definition of a character; their true beauty is in the different ways they manifest in our lives, in the stories we read and tell, and in the artwork we create and admire. Each has a journey and a story of their own, a symbolism that reaches millions. Join us for this year’s Charity Art Jam to watch these atoms of storytelling come to life as our artists understand them. Each piece created will be available for you to bid on in Saturday’s Charity Auction. Added Bonus: The artists don’t know which archetype they will be drawing or painting until the clock starts!",
+			"guests": ["melissa_gay", "michael_bielaczyc", "joe_ohara", "paul_bielaczyc"],
+			"event_id": "771b1ptnh2t8fav815v84h910g@google.com",
+			"location": "Azalea"
+		}, {
+			"day": "2018-04-20",
+			"time": "16:00",
+			"title": "Women in Illustration",
+			"description": "Join our panel of talented and inspirational artists, including Artist Guest of Honor, Stephanie Law, for a look at the art and experiences of women in the field of fantasy and sci-fi illustration. Our panelists will talk about the opportunities and challenges they have encountered as women working in a predominantly male field and celebrate the accomplishments of women all over the globe who are changing the dynamics of the sci-fi and fantasy art industry. ",
+			"guests": ["stephanie_law", "angela_sasser", "ariel_burgess", "amanda_makepeace", "melissa_gay"],
+			"event_id": "18cbojegl7d28ceba2khj9a2nr@google.com",
+			"location": "Azalea"
+		}, {
+			"day": "2018-04-20",
+			"time": "14:30",
+			"title": "There Will Be Faeries",
+			"description": "If there’s one thing you can count on in fantasy art, it’s this: there will be faeries! But have you ever wondered how these depictions came to be or why they differ so widely from one era to the next? This panel examines faeries of all shapes, sizes, and dispositions through the ages. From classic fairy tale illustrations by Arthur Rackham and Edmund Dulac to the work of Alan Lee and Brian Froud, to today’s modern and steampunk faeries, we want to hear what you love (or hate) about all of them! ",
+			"guests": ["stephanie_law", "edsel_arnold", "tiffany_tolandscott", "andrea_fornero"],
+			"event_id": "3sasga1uqvsk93s05aioqupnml@google.com",
+			"location": "Azalea"
+		}, {
+			"day": "2018-04-20",
+			"time": "13:00",
+			"title": "Artist Check-in",
+			"description": "Art Show Closed to Public. No panel due to Opening Ceremonies.",
+			"guests": [],
+			"event_id": "49bdr245313d6agv3o9bbkrfkp@google.com",
+			"location": ""
+		}]
+	}, {
 		"name": "Sandertrack",
 		"default": false,
 		"events": [{
+			"day": "2018-04-21",
+			"time": "16:00",
+			"title": "Behind the Scenes with Team Sanderson",
+			"description": "Come learn how all these people enable Brandon's book-writing habit.",
+			"guests": ["emily_sanderson", "isaac_stewart", "kara_stewart", "karen_ahlstrom", "peter_ahlstrom", "billy"],
+			"event_id": "6vhpqjf3nl0aso9t0k7sjbgqhb@google.com",
+			"location": ""
+		}, {
 			"day": "2018-04-21",
 			"time": "20:30",
 			"title": "TWoTCast",
@@ -563,222 +671,6 @@
 			"guests": ["brandon_sanderson", "billy_todd"],
 			"event_id": "4k427cn400umh6e76gibj5u1fu@google.com",
 			"location": ""
-		}, {
-			"day": "2018-04-21",
-			"time": "16:00",
-			"title": "Behind the Scenes with Team Sanderson",
-			"description": "Come learn how all these people enable Brandon's book-writing habit.",
-			"guests": ["emily_sanderson", "isaac_stewart", "kara_stewart", "karen_ahlstrom", "peter_ahlstrom", "trae_cooper"],
-			"event_id": "6vhpqjf3nl0aso9t0k7sjbgqhb@google.com",
-			"location": ""
-		}]
-	}, {
-		"name": "Art Show",
-		"default": false,
-		"events": [{
-			"day": "2018-04-21",
-			"time": "10:00",
-			"title": "How to Prepare for a Con for Artists and Vendors",
-			"description": "We heard you loud and clear: this is a must-attend panel for artists and vendors on how to navigate the convention experience, set up your displays and tables, and make the most impact in a small place over the course of a three-day event. With handy tips on how to survive the weekend, including how to enjoy the fun without feeling leashed to your space, we have a stellar lineup of JordanCon veterans to answer all your questions and more!\n\n",
-			"guests": ["charles_urbach", "nat_rodgers", "ariel_burgess", "billie_pierce"],
-			"event_id": "37ehk2ckj0q0hi2j8uh0me1llu@google.com",
-			"location": "Azalea"
-		}, {
-			"day": "2018-04-22",
-			"time": "13:00",
-			"title": "Navigating Patreon",
-			"description": "There are a lot of things to consider before launching your Patreon project: How often will you reward your Patrons? How will you market your project so potential supporters can find you? Will the income stream be worth the hours you will have to put into delivering perks? It can be daunting to support an artist without knowing exactly what type of content they'll receive in return. Our expert panelists will help you avoid the pitfalls and plot a course toward Patreon happiness and success.\n\n",
-			"guests": ["stephanie_law", "angela_sasser", "ariel_burgess"],
-			"event_id": "5q0nhe2ofrojndi1pl3i1snfkm@google.com",
-			"location": "Azalea"
-		}, {
-			"day": "2018-04-22",
-			"time": "11:30",
-			"title": "101 Art Ideas in an Hour",
-			"description": "Artists are often asked, \"Where do you get your ideas?\" The answer is everywhere! Ideas can come from nature, books, a daydream in chem class, or a conversation with your best friend. The imagination knows no limits. Come join Amanda Makepeace and Melissa Gay on this fun and interactive panel to cultivate your very own list of 101 art ideas. We can’t wait to hear where you get your great ideas!  \n\n",
-			"guests": ["amanda_makepeace", "melissa_gay"],
-			"event_id": "5r8m3i9023f3sl4m2desfe40vd@google.com",
-			"location": "Azalea"
-		}, {
-			"day": "2018-04-22",
-			"time": "10:00",
-			"title": "101 Art Ideas Walk",
-			"description": "Are you an art-lover who finds inspiration in the great outdoors and the natural beauty that surrounds us? Grab your coffee and join Amanda Makepeace and Melissa Gay on a morning walk through the Ravinia gardens for some fresh air and a creative perspective on the natural world. Participants will first gather in the Art Track room and then venture out together. Inspiration is only a walk away….. \n\n",
-			"guests": ["amanda_makepeace", "melissa_gay"],
-			"event_id": "6kc9ff6oubu4b5hhefa3qdkfc8@google.com",
-			"location": "Azalea"
-		}, {
-			"day": "2018-04-21",
-			"time": "16:00",
-			"title": "Stephanie Law Watercolor Demo",
-			"description": "From inspiration to tools to techniques, our Artist Guest of Honor Stephanie Law walks us through the creative process she uses to bring her unique view of the world to life. Come see for yourself, up-close and in-person, the depth, rich colors, and whimsical creatures that characterize our Artist Guest of Honor’s beloved watercolor paintings.\n\n",
-			"guests": ["stephanie_law"],
-			"event_id": "7lmkkg5rtg0svalbnn0li5jjek@google.com",
-			"location": "Azalea"
-		}, {
-			"day": "2018-04-21",
-			"time": "14:30",
-			"title": "The Bird Whisperers Live!!",
-			"description": "Melissa Gay & Amanda Makepeace are at it again! This time it’s a BirdWhisperer paint-off  for your enjoyment and amazement. The bird for the month of April is the valiant and lovely Bullfinch, and we promise you will be wow-ed as you watch our artists’ creations unfold, especially since they won’t see each other’s work until the big reveal at the end! If you don’t already follow ‘The BirdWhisperer Project’ on Facebook (@birdwhisperer.project), you’ll want to after this panel...maybe even during. \n\n",
-			"guests": ["amanda_makepeace", "melissa_gay"],
-			"event_id": "57otvpn7j4j9sl5n3aiffo6gbu@google.com",
-			"location": "Azalea"
-		}, {
-			"day": "2018-04-21",
-			"time": "13:00",
-			"title": "Stephanie Law Retrospective",
-			"description": "One of the most influential and recognizable artist in her medium, Stephanie Law has delighted the world with her watercolor art through a myriad of formats, including cover art for novels, Magic cards, RPG artwork, and her Shadowscapes Faerie Tarot Deck. Law's work is an exploration of mythology mixed with personal symbolism and her art journeys through surreal otherworlds, populated by dreamlike figures, masked creatures, and winged shadows. Attend this session to embark on that journey with her.\n\n\n",
-			"guests": ["stephanie_law"],
-			"event_id": "52sni47hc19t3hthbhp5q5ro2o@google.com",
-			"location": "Azalea"
-		}, {
-			"day": "2018-04-21",
-			"time": "11:30",
-			"title": "Win, Lose, or Draw",
-			"description": "Stop in before lunch on Saturday for a chance to join forces with one of our two teams of artists as they face-off in what will easel-y be the talk of the con: WiLD: the Battle of The Return. Even if you don’t compete, this wacky game is a chance to cheer on some of our favorite artists as they let their hair down (especially Amanda!) and cut loose for a wild hour of frantic scribbling and amazing, knee-slapping fun. A good time is guaranteed to be had by all.",
-			"guests": ["paul_bielaczyc", "kelly_keunekemarts", "amanda_makepeace", "charles_urbach", "jeff_jarvis", "billie_pierce"],
-			"event_id": "0sr7q9s1q5sfuombvrk5siq7jk@google.com",
-			"location": "Azalea"
-		}, {
-			"day": "2018-04-20",
-			"time": "17:30",
-			"title": "Charity Art Jam",
-			"description": "Archetypes are much more than just the definition of a character; their true beauty is in the different ways they manifest in our lives, in the stories we read and tell, and in the artwork we create and admire. Each has a journey and a story of their own, a symbolism that reaches millions. Join us for this year’s Charity Art Jam to watch these atoms of storytelling come to life as our artists understand them. Each piece created will be available for you to bid on in Saturday’s Charity Auction. Added Bonus: The artists don’t know which archetype they will be drawing or painting until the clock starts!",
-			"guests": ["melissa_gay", "michael_bielaczyc", "joe_ohara", "paul_bielaczyc"],
-			"event_id": "771b1ptnh2t8fav815v84h910g@google.com",
-			"location": "Azalea"
-		}, {
-			"day": "2018-04-20",
-			"time": "16:00",
-			"title": "Women in Illustration",
-			"description": "Join our panel of talented and inspirational artists, including Artist Guest of Honor, Stephanie Law, for a look at the art and experiences of women in the field of fantasy and sci-fi illustration. Our panelists will talk about the opportunities and challenges they have encountered as women working in a predominantly male field and celebrate the accomplishments of women all over the globe who are changing the dynamics of the sci-fi and fantasy art industry. ",
-			"guests": ["stephanie_law", "angela_sasser", "ariel_burgess", "amanda_makepeace", "melissa_gay"],
-			"event_id": "18cbojegl7d28ceba2khj9a2nr@google.com",
-			"location": "Azalea"
-		}, {
-			"day": "2018-04-20",
-			"time": "14:30",
-			"title": "There Will Be Faeries",
-			"description": "If there’s one thing you can count on in fantasy art, it’s this: there will be faeries! But have you ever wondered how these depictions came to be or why they differ so widely from one era to the next? This panel examines faeries of all shapes, sizes, and dispositions through the ages. From classic fairy tale illustrations by Arthur Rackham and Edmund Dulac to the work of Alan Lee and Brian Froud, to today’s modern and steampunk faeries, we want to hear what you love (or hate) about all of them! ",
-			"guests": ["stephanie_law", "edsel_arnold", "tiffany_tolandscott", "andrea_fornero"],
-			"event_id": "3sasga1uqvsk93s05aioqupnml@google.com",
-			"location": "Azalea"
-		}, {
-			"day": "2018-04-20",
-			"time": "13:00",
-			"title": "Artist Check-in",
-			"description": "Art Show Closed to Public. No panel due to Opening Ceremonies.",
-			"guests": [],
-			"event_id": "49bdr245313d6agv3o9bbkrfkp@google.com",
-			"location": ""
-		}]
-	}, {
-		"name": "World of the Wheel",
-		"default": false,
-		"events": [{
-			"day": "2018-04-22",
-			"time": "11:30",
-			"title": "Inspired Ladies of WoT",
-			"description": "The main female heroes were an inspiration to all: goddesses of sovereignty—who didn’t need rescuing; not them!—they provided a necessary counterbalance to the men and focal points of resistance against evil. We will look at Jordan’s inspiration in history and myth for the women, and the main symbols and themes associated with them.",
-			"guests": ["linda_taglieri"],
-			"event_id": "3o2tvis06oc6a475cvtu2guou8@google.com",
-			"location": "Camellia"
-		}, {
-			"day": "2018-04-22",
-			"time": "14:30",
-			"title": "Unanswered Questions",
-			"description": "WoT is done and we still have questions and theories! (Of course we do.)",
-			"guests": ["theresa_gray", "maria_livingston_simons", "matt_hatch", "jeffrey_daniel"],
-			"event_id": "3t4g45rgs5djs147geobk1d1be@google.com",
-			"location": "Camellia"
-		}, {
-			"day": "2018-04-21",
-			"time": "14:30",
-			"title": "Team Jordan LIVE",
-			"description": "Team Jordan discusses Robert Jordan himself.",
-			"guests": ["harriet_mcdougal", "maria_livingston_simons", "alan_romanczuk", "jason_denzel"],
-			"event_id": "675metgoh0gbc9q22s9036ohbe@google.com",
-			"location": "Camellia"
-		}, {
-			"day": "2018-04-22",
-			"time": "13:00",
-			"title": "Fantasy Casting",
-			"description": "WoT is coming to TV. This is the fantasy casting panel you've been waiting for!",
-			"guests": ["ebony_adomanis", "jeffrey_daniel", "james_starke"],
-			"event_id": "742udd15pa871rnjl92g07mi15@google.com",
-			"location": "Camellia"
-		}, {
-			"day": "2018-04-21",
-			"time": "11:30",
-			"title": "Ravens (YA)",
-			"description": "Remember that one time when they tried to market The Eye of the World to kids? No? (We remember!)",
-			"guests": ["aubree_pham", "linda_taglieri", "james_starke", "jodie_wiens"],
-			"event_id": "491ui7d6gjekqkav4keqlg3h3k@google.com",
-			"location": "Camellia"
-		}, {
-			"day": "2018-04-20",
-			"time": "14:30",
-			"title": "Wheel of Time for Beginners",
-			"description": "New to the Wheel? Tagging along with a friend or significant other? Come join us for an orientation!",
-			"guests": ["aubree_pham", "ebony_adomanis", "james_starke", "theresa_gray"],
-			"event_id": "5k0k1ftuop1q8trd4vu39l2d83@google.com",
-			"location": "Camellia"
-		}, {
-			"day": "2018-04-21",
-			"time": "22:00",
-			"title": "Dragonmount.com, 20 years later...",
-			"description": "20 years ago Jason made a website...Come to the Party Suite and celebrate Dragonmount, Robert Jordan, the WoT, and the community its spawned. In typical WoT fashion: A spelling bee!",
-			"guests": ["jason_denzel", "ebony_adomanis"],
-			"event_id": "7pa7dq7r0ejisr0s2ffhg207h3@google.com",
-			"location": "Party Suite"
-		}, {
-			"day": "2018-04-22",
-			"time": "10:00",
-			"title": "Robert Jordan's Notes",
-			"description": "Discussion and presentation of RJ's notes from the Addlestone Library.",
-			"guests": ["theresa_gray", "linda_taglieri", "matt_hatch"],
-			"event_id": "0rfa5gjdmpm3rjikk4c0b0sm6l@google.com",
-			"location": "Camellia"
-		}, {
-			"day": "2018-04-21",
-			"time": "16:00",
-			"title": "Daes Dae'mar",
-			"description": "Team Trivia competition! Bring your friends or join another team and do battle with your wits!",
-			"guests": ["theresa_gray", "ebony_adomanis"],
-			"event_id": "6krvm68d2e6jlbqt8n7e205sbc@google.com",
-			"location": "Camellia "
-		}, {
-			"day": "2018-04-21",
-			"time": "13:00",
-			"title": "Teaching Robert Jordan",
-			"description": "Discussing the importance of narrative storytelling, myth, &amp; fantasy to the greater world, and as a gateway to student learning.",
-			"guests": ["sargon_donabed", "linda_taglieri", "theresa_gray"],
-			"event_id": "54vpsapliddfahkjf1rdp0h139@google.com",
-			"location": "Camellia"
-		}, {
-			"day": "2018-04-21",
-			"time": "10:00",
-			"title": "Sorting Hat: Seanchan Edition",
-			"description": "Would Suroth be Slytherin or a Gryffindor? Where would the Sorting Hat have placed Tuon? Come dish with us on these topic while the audience votes and place the Seanchan into their Houses!",
-			"guests": ["thom_desimone", "erin_desimone", "aubree_pham", "jodie_wiens", "darin_m_bush"],
-			"event_id": "3saig0ul7238e6gp68si89rboe@google.com",
-			"location": "Camellia"
-		}, {
-			"day": "2018-04-20",
-			"time": "17:30",
-			"title": "Braid Tugging: Hair Styling",
-			"description": "From braids, to curling wands, and more, come learn different ways to style your hair for the homecoming dance from a professional hair stylist.  ",
-			"guests": ["marisa_grooms"],
-			"event_id": "14jbip2iif8ls88g73gj6vaq5k@google.com",
-			"location": "Camellia"
-		}, {
-			"day": "2018-04-20",
-			"time": "16:00",
-			"title": "Illian Trivia Bee",
-			"description": "Individual trivia competition! Come show us how much you know about the World of the Wheel!",
-			"guests": ["theresa_gray", "ebony_adomanis"],
-			"event_id": "2mrmv9vc6f76pj2n1lk3afkd3r@google.com",
-			"location": "Camellia"
 		}]
 	}, {
 		"name": "Writers Track",
@@ -913,242 +805,112 @@
 			"location": "Dunwoody A"
 		}]
 	}, {
-		"name": "Rivets & Robots",
+		"name": "World of the Wheel",
 		"default": false,
 		"events": [{
 			"day": "2018-04-21",
-			"time": "13:00",
-			"title": "Sorting Hat: Doctor Who Edition",
-			"description": "\nBringing Dr. Who and the Potterverse together. Which House would your favorite Doctor fall into? Be ready to fight!\n\n",
-			"guests": ["darin_m_bush", "ellie_raine", "erin_desimone"],
-			"event_id": "7be18m6mtgi4bpv6t62j7di0a8@google.com",
-			"location": "Maplewood B"
-		}, {
-			"day": "2018-04-20",
-			"time": "16:00",
-			"title": "The Evolution of Silk Punk",
-			"description": "\nWhat is Silk Punk? Who is writing it? Why is it a relevant sub-genre you should pay attention to.\n\n",
-			"guests": ["sean_hillman", "nancy_mccullough", "navarre_bartz"],
-			"event_id": "638hegn331b9aercs8q8h7u5n4@google.com",
-			"location": "Maplewood B"
-		}, {
-			"day": "2018-04-20",
-			"time": "14:30",
-			"title": "New in Science: 2017-2018",
-			"description": "\nWe speak about the science news from the last year and all the discoveries awaiting us in the coming year.\n\n",
-			"guests": ["nancy_mccullough", "jd_jordan", "amy_duboff", "bryan_adomanis", "navarre_bartz"],
-			"event_id": "0i64g4csegfdk3prv3gfri7k3q@google.com",
-			"location": "Maplewood B"
-		}, {
-			"day": "2018-04-22",
-			"time": "14:30",
-			"title": "Science Fiction Trends in 2018",
-			"description": "\nWhat are the trends in Science Fiction literature this year? What do you think we should be reading?\n\n",
-			"guests": ["sean_hillman", "amy_duboff"],
-			"event_id": "4doensj8u9iovbo8tlv8st2j3r@google.com",
-			"location": "Maplewood B"
-		}, {
-			"day": "2018-04-22",
-			"time": "13:00",
-			"title": "Afrofuturism",
-			"description": "\nCome discuss Afrofuturism, its social implications, and its effect on Science Fiction in general.\n\n",
-			"guests": ["sean_hillman", "gerald_coleman", "milton_davis"],
-			"event_id": "0if3grjkbj17l9r0skte1bs2ui@google.com",
-			"location": "Maplewood B"
-		}, {
-			"day": "2018-04-22",
 			"time": "11:30",
-			"title": "Star Trek Discovery: Season 1",
-			"description": "Discovery delivered a full load of photons in its first season. Do they hit with you or miss?",
-			"guests": ["sean_hillman", "billy_todd"],
-			"event_id": "4j0b43b4kpaqq1c8ambsm1jbgs@google.com",
-			"location": "Maplewood B"
-		}, {
-			"day": "2018-04-22",
-			"time": "10:00",
-			"title": "Star Wars Rebels Season 4 Recap",
-			"description": "\nThis great series has come to an end. What do we think? What do we think is coming next?\n\n",
-			"guests": ["sean_hillman", "darin_m_bush", "thom_desimone", "james_liang"],
-			"event_id": "14kctbpu94qe6lf2ab691bjolh@google.com",
-			"location": "Maplewood B"
-		}, {
-			"day": "2018-04-21",
-			"time": "16:00",
-			"title": "Blake's 7 & Beyond",
-			"description": "\nCome discuss this great cult classic as well as the broad spectrum of British Science Fiction on the big and small screen.\n\n",
-			"guests": ["sean_hillman", "anthony_taylor"],
-			"event_id": "5kra6tbrkgl4ev60u9bb5699nr@google.com",
-			"location": "Maplewood B"
-		}, {
-			"day": "2018-04-21",
-			"time": "14:30",
-			"title": "Royal Manticore: Who Are They?",
-			"description": "Come talk about the Royal Manticore Navy and get an Introduction to the Honorverse.",
-			"guests": ["team_royal_manticore"],
-			"event_id": "5mnqm05v5e0icpajaprmvtm9cm@google.com",
-			"location": "Maplewood B"
-		}, {
-			"day": "2018-04-21",
-			"time": "11:30",
-			"title": "Dr. Who: The 13th Doctor and Beyond",
-			"description": "\nWho is the new Doctor and how do we think her adventures will be different from the previous regeneration. \n\n",
-			"guests": ["sean_hillman", "gerald_coleman", "clay_gilbert", "james_palmer"],
-			"event_id": "65fnr064mh7cc6h1h6juvfeu1c@google.com",
-			"location": "Maplewood B"
+			"title": "Ravens (YA)",
+			"description": "Remember that one time when they tried to market The Eye of the World to kids? No? (We remember!)",
+			"guests": ["linda_taglieri", "james_starke", "jodie_wiens"],
+			"event_id": "491ui7d6gjekqkav4keqlg3h3k@google.com",
+			"location": "Camellia"
 		}, {
 			"day": "2018-04-21",
 			"time": "10:00",
-			"title": "Coffee in Cornwall: A Look at British SF",
-			"description": "A general discussion of British Science Fiction focusing on literature but touching on all the aspects. ",
-			"guests": ["sean_hillman"],
-			"event_id": "0f060r5ac5ahgqgfhn8r1qp97p@google.com",
-			"location": "Maplewood B"
-		}, {
-			"day": "2018-04-20",
-			"time": "20:30",
-			"title": "Friday Fandom Smackdown",
-			"description": "\nThis year we have Space Battleship! Honorverse vs. Vorkosigan Saga! Who will go down in flames?\n\n",
-			"guests": ["sean_hillman", "danyelle_denham", "royal_manticore_navy_personnel"],
-			"event_id": "2nfvnvrs334pugrt00iua9fprl@google.com",
-			"location": "Maplewood B"
-		}, {
-			"day": "2018-04-20",
-			"time": "17:30",
-			"title": "Bright: Orcs in my Cop Procedural?",
-			"description": "A discussion of Bright in the context of Science Fantasy and other media like role playing games",
-			"guests": ["sean_hillman", "amy_duboff"],
-			"event_id": "59q7sksuei4kn31b7kkkltop1u@google.com",
-			"location": "Maplewood B"
-		}]
-	}, {
-		"name": "Meet-Ups",
-		"default": false,
-		"events": [{
-			"day": "2018-04-22",
-			"time": "10:00",
-			"title": "Interview Session - Ola Jacunski",
-			"guests": [],
-			"event_id": "37nc3h66233css8kigd8mruj6g@google.com",
-			"location": "DeKalb"
-		}, {
-			"day": "2018-04-21",
-			"time": "16:00",
-			"title": "Interview Session - Ola Jacunski",
-			"guests": [],
-			"event_id": "1r5crjqoja365c3gskcsro5et1@google.com",
-			"location": "DeKalb"
-		}, {
-			"day": "2018-04-21",
-			"time": "11:30",
-			"title": "Interview Session - Ola Jacunski",
-			"guests": [],
-			"event_id": "1idil81chr7rtp7i5t2r8onjq5@google.com",
-			"location": "DeKalb"
-		}, {
-			"day": "2018-04-20",
-			"time": "16:00",
-			"title": "Interview Session - Ola Jacunski",
-			"guests": [],
-			"event_id": "6t6l9issrde7p4qh1o2mefr5io@google.com",
-			"location": "DeKalb"
-		}, {
-			"day": "2018-04-20",
-			"time": "21:00",
-			"title": "Group Meeting",
-			"description": "The Black Tower",
-			"guests": [],
-			"event_id": "5rn4fesnuealrnd5h0et4mjid5@google.com",
-			"location": "DeKalb"
-		}, {
-			"day": "2018-04-22",
-			"time": "14:30",
-			"title": "Open Group Use",
-			"guests": [],
-			"event_id": "746rc9pluc3bsfe5rdbvjrp33a@google.com",
-			"location": "DeKalb"
-		}, {
-			"day": "2018-04-22",
-			"time": "13:00",
-			"title": "Open Group Use",
-			"guests": [],
-			"event_id": "257947dkpp9pqivlo9cid72gqd@google.com",
-			"location": "DeKalb"
+			"title": "Sorting Hat: Seanchan Edition",
+			"description": "Would Suroth be Slytherin or a Gryffindor? Where would the Sorting Hat have placed Tuon? Come dish with us on these topic while the audience votes and place the Seanchan into their Houses!",
+			"guests": ["thom_desimone", "erin_desimone", "jodie_wiens", "darin_m_bush"],
+			"event_id": "3saig0ul7238e6gp68si89rboe@google.com",
+			"location": "Camellia"
 		}, {
 			"day": "2018-04-22",
 			"time": "11:30",
-			"title": "Open Group Use",
-			"guests": [],
-			"event_id": "4c1ehor11hv6j4c5sa142np4pa@google.com",
-			"location": "DeKalb"
+			"title": "Inspired Ladies of WoT",
+			"description": "The main female heroes were an inspiration to all: goddesses of sovereignty—who didn’t need rescuing; not them!—they provided a necessary counterbalance to the men and focal points of resistance against evil. We will look at Jordan’s inspiration in history and myth for the women, and the main symbols and themes associated with them.",
+			"guests": ["linda_taglieri"],
+			"event_id": "3o2tvis06oc6a475cvtu2guou8@google.com",
+			"location": "Camellia"
+		}, {
+			"day": "2018-04-22",
+			"time": "14:30",
+			"title": "Unanswered Questions",
+			"description": "WoT is done and we still have questions and theories! (Of course we do.)",
+			"guests": ["theresa_gray", "maria_livingston_simons", "matt_hatch", "jeffrey_daniel"],
+			"event_id": "3t4g45rgs5djs147geobk1d1be@google.com",
+			"location": "Camellia"
 		}, {
 			"day": "2018-04-21",
 			"time": "14:30",
-			"title": "Open Group Use",
-			"guests": [],
-			"event_id": "2b540gtgr8f2irgtcrsel1eqjb@google.com",
-			"location": "DeKalb"
+			"title": "Team Jordan LIVE",
+			"description": "Team Jordan discusses Robert Jordan himself.",
+			"guests": ["harriet_mcdougal", "maria_livingston_simons", "alan_romanczuk", "jason_denzel"],
+			"event_id": "675metgoh0gbc9q22s9036ohbe@google.com",
+			"location": "Camellia"
 		}, {
-			"day": "2018-04-21",
+			"day": "2018-04-22",
 			"time": "13:00",
-			"title": "Open Group Use",
-			"guests": [],
-			"event_id": "5qsbjko0hh2ta352h4c8q6vii7@google.com",
-			"location": "DeKalb"
+			"title": "Fantasy Casting",
+			"description": "WoT is coming to TV. This is the fantasy casting panel you've been waiting for!",
+			"guests": ["ebony_adomanis", "jeffrey_daniel", "james_starke"],
+			"event_id": "742udd15pa871rnjl92g07mi15@google.com",
+			"location": "Camellia"
 		}, {
-			"day": "2018-04-21",
-			"time": "10:00",
-			"title": "Open Group Use",
-			"guests": [],
-			"event_id": "67pn3korumbaaejjq1la5iq9hi@google.com",
-			"location": "DeKalb"
+			"day": "2018-04-20",
+			"time": "14:30",
+			"title": "Wheel of Time for Beginners",
+			"description": "New to the Wheel? Tagging along with a friend or significant other? Come join us for an orientation!",
+			"guests": ["aubree_pham", "ebony_adomanis", "james_starke", "theresa_gray"],
+			"event_id": "5k0k1ftuop1q8trd4vu39l2d83@google.com",
+			"location": "Camellia"
 		}, {
 			"day": "2018-04-21",
 			"time": "22:00",
-			"title": "Group Meeting",
-			"description": "The Black Ajah",
-			"guests": [],
-			"event_id": "7sroguvqnge8oo81mvrh962lcd@google.com",
-			"location": "DeKalb"
+			"title": "Dragonmount.com, 20 years later...",
+			"description": "20 years ago Jason made a website...Come to the Party Suite and celebrate Dragonmount, Robert Jordan, the WoT, and the community its spawned. In typical WoT fashion: A spelling bee!",
+			"guests": ["jason_denzel", "ebony_adomanis"],
+			"event_id": "7pa7dq7r0ejisr0s2ffhg207h3@google.com",
+			"location": "Party Suite"
+		}, {
+			"day": "2018-04-22",
+			"time": "10:00",
+			"title": "Robert Jordan's Notes",
+			"description": "Discussion and presentation of RJ's notes from the Addlestone Library.",
+			"guests": ["theresa_gray", "linda_taglieri", "matt_hatch"],
+			"event_id": "0rfa5gjdmpm3rjikk4c0b0sm6l@google.com",
+			"location": "Camellia"
 		}, {
 			"day": "2018-04-21",
-			"time": "20:30",
-			"title": "Group Meeting",
-			"description": "TarValon.Net Brown Ajah",
-			"guests": [],
-			"event_id": "0c7l4mjf137i1tl3bmb1o7hfh0@google.com",
-			"location": "DeKalb"
+			"time": "16:00",
+			"title": "Daes Dae'mar",
+			"description": "Team Trivia competition! Bring your friends or join another team and do battle with your wits!",
+			"guests": ["theresa_gray", "ebony_adomanis"],
+			"event_id": "6krvm68d2e6jlbqt8n7e205sbc@google.com",
+			"location": "Camellia "
 		}, {
 			"day": "2018-04-21",
-			"time": "18:30",
-			"title": "Group Meeting",
-			"description": "Theoryland.com",
-			"guests": [],
-			"event_id": "1efqsbvi95qmgv5745h9tma730@google.com",
-			"location": "DeKalb"
-		}, {
-			"day": "2018-04-20",
-			"time": "19:30",
-			"title": "Group Meeting",
-			"description": "TarValon.Net",
-			"guests": [],
-			"event_id": "1kr5c1tmukh3ee1v96jhudlr17@google.com",
-			"location": "DeKalb"
+			"time": "13:00",
+			"title": "Teaching Robert Jordan",
+			"description": "Discussing the importance of narrative storytelling, myth, &amp; fantasy to the greater world, and as a gateway to student learning.",
+			"guests": ["sargon_donabed", "linda_taglieri", "theresa_gray"],
+			"event_id": "54vpsapliddfahkjf1rdp0h139@google.com",
+			"location": "Camellia"
 		}, {
 			"day": "2018-04-20",
 			"time": "17:30",
-			"title": "Group Meeting",
-			"description": "Tor.com Re-readers",
-			"guests": [],
-			"event_id": "3s7rn6l776qua1877ccqeqitp5@google.com",
-			"location": "DeKalb"
+			"title": "Braid Tugging: Hair Styling",
+			"description": "From braids, to curling wands, and more, come learn different ways to style your hair for the homecoming dance from a professional hair stylist.  ",
+			"guests": ["marisa_grooms"],
+			"event_id": "14jbip2iif8ls88g73gj6vaq5k@google.com",
+			"location": "Camellia"
 		}, {
 			"day": "2018-04-20",
-			"time": "14:30",
-			"title": "Convention Game Sign Up",
-			"description": "Sign up for this year's convention game!",
-			"guests": [],
-			"event_id": "1g72vqneeosh2tv96i1hemh6m3@google.com",
-			"location": "DeKalb"
+			"time": "16:00",
+			"title": "Illian Trivia Bee",
+			"description": "Individual trivia competition! Come show us how much you know about the World of the Wheel!",
+			"guests": ["theresa_gray", "ebony_adomanis"],
+			"event_id": "2mrmv9vc6f76pj2n1lk3afkd3r@google.com",
+			"location": "Camellia"
 		}]
 	}, {
 		"name": "Reading & Kaffeeklatches",
@@ -1325,6 +1087,122 @@
 			"guests": [],
 			"event_id": "0sktjpnhqd0qh642ja5ssnpsof@google.com",
 			"location": "Ravinia E, F, G"
+		}]
+	}, {
+		"name": "Workshops",
+		"default": false,
+		"events": [{
+			"day": "2018-04-22",
+			"time": "14:30",
+			"title": "Making Con-safe weapons",
+			"description": "Learn to make \"Con-safe\" weapons using worbla and other materials useful in creating props and armor for cosplay.  All can watch the class demo.  If you wish to take some worbla home to practice, the cost is $5.00.  \n\n",
+			"guests": ["lyndsey_luther"],
+			"event_id": "19k80fkdvgbqe7kl6iecel7vm6@google.com",
+			"location": "Gardenia"
+		}, {
+			"day": "2018-04-21",
+			"time": "11:30",
+			"title": "Dancing - West Coast Swing",
+			"description": "Want to spin each other around the dance floor? No partner needed, come learn the basics of West Coast Swing in preparation for homecoming.",
+			"guests": ["brendan_oxford", "molly_weiss"],
+			"event_id": "73otlfg97ddi1up19m2isml418@google.com",
+			"location": "Dunwoody B, C"
+		}, {
+			"day": "2018-04-21",
+			"time": "16:00",
+			"title": "Drawing Workshop - Kaladin Stormblessed",
+			"description": "Artist Nat Rodgers teaches her method for designing and sketching her unofficial (but much loved) version of Kaladin, from author Brandon Sanderson's The Stormlight Archive. This workshop focuses on an easy, comic-book style portrait that anyone can do with practice, but also includes a number of tips for drawing and cartooning various character types at any level of experience. Along with drawing the character, participants will walk through the thought process of designing facial structure to match personality archetypes, and receive all take-home materials necessary to practice after the class. Class limit 15. Supply Fee $15.00, which includes a Strathmore notepad and various pencils.",
+			"guests": ["nat_rodgers"],
+			"event_id": "7n5dv5fil8qa404t2f9un2p1m8@google.com",
+			"location": "Gardenia"
+		}, {
+			"day": "2018-04-22",
+			"time": "13:00",
+			"title": "Pewter Casting",
+			"description": "\nUsing premade soapstone molds, students will learn to safely handle liquid metal for casting. A demo of soapstone carving will help students know how to creater their own molds at home. Fans of Scadrial will recognize the mold. Students must be at least 13 years old. Those 13 to 17, must be accompanied by an adult.  Class limit 20. Supply Fee $5.00 to take home your pewter.  \nObservation allowed for free.\n",
+			"guests": ["brandyn_butler"],
+			"event_id": "57riplmaoq1s0ln5444u17b60g@google.com",
+			"location": "Gardenia"
+		}, {
+			"day": "2018-04-22",
+			"time": "11:30",
+			"title": "Bracelet Weaving",
+			"description": "Learn to create woven bracelets on specially designed small looms. We will be using yarns of various fibers, colors, and textures to create one of a kind items. Easy for beginning weavers, but fun for advanced weavers too.  Class limit 15. Supply fee $15.00, which includes the loom and yarn to take home with you.\n\n",
+			"guests": ["sarah_dauro"],
+			"event_id": "6kovbdgcf6d6saaf5tdb2cu4d8@google.com",
+			"location": "Gardenia"
+		}, {
+			"day": "2018-04-22",
+			"time": "10:00",
+			"title": "Lace Making",
+			"description": "Make a bookmark while learning the basics of bobbin lace making.   Class limit 10; Supply fee $5.00. ",
+			"guests": ["rachel_little"],
+			"event_id": "33176ssvd4aq5vum11qddjnrma@google.com",
+			"location": "Gardenia"
+		}, {
+			"day": "2018-04-21",
+			"time": "14:30",
+			"title": "Running a Fan Store",
+			"description": "Tips, advice, examples of how best to run an online store of your goods. ",
+			"guests": ["kara_stewart", "emily_sanderson"],
+			"event_id": "5o2ilurmlo347d2g96ho7qre8h@google.com",
+			"location": "Gardenia"
+		}, {
+			"day": "2018-04-21",
+			"time": "13:00",
+			"title": "Creating Stormlight Glyphs",
+			"description": "Man and women both can learn how to write Stormlight glyphs, from their creator. A very different style of calligraphy.   Bring your own prefered pen style, or some calligraphy pens will be available for $3.50.  Graph paper will be provided.  Class limit 25.",
+			"guests": ["isaac_stewart"],
+			"event_id": "0f9p5qq4ceqo6hon2grqlndud7@google.com",
+			"location": "Gardenia"
+		}, {
+			"day": "2018-04-21",
+			"time": "11:30",
+			"title": "SCA class - Brewing",
+			"description": "An overview of old English brewing in early to late period England. An over view of period yeast, hop use, herbs and period laws governing brewing.",
+			"guests": ["mka_lawrence_carey"],
+			"event_id": "2jpcvu1tvhjkp1o1co27gp1766@google.com",
+			"location": "Gardenia"
+		}, {
+			"day": "2018-04-21",
+			"time": "10:00",
+			"title": "SCA class - Leather tooling",
+			"description": "Beginners leather workshop; make and take a tooled key fob. Learn some basic leather construction, and several  basic tooling techniques for designs on pre-cut leather fobs.  Children need to be an adult to attend and be able to safely swing a hammer.   Class Limit: 15, Supply fee $10.00",
+			"guests": ["joshua_bush"],
+			"event_id": "0vo6lsflbeq6t86aohjgorsk19@google.com",
+			"location": "Gardenia"
+		}, {
+			"day": "2018-04-20",
+			"time": "20:30",
+			"title": "Homecoming Mums: Open craft time",
+			"description": "Open workshop time for people to work on their homecoming mums in a come and go fashion. Supplies will be provide for various fees. A $45 fee will create a full mum.  Other fees based on how much you bling out your mum. People are allowed to bring their own bling and ribbons too to add to the materials at hand.",
+			"guests": ["deana_whitney", "jamie_cybert", "sarah_dauro"],
+			"event_id": "777kbk47cn89hvq66f64g7fg8j@google.com",
+			"location": "Gardenia"
+		}, {
+			"day": "2018-04-20",
+			"time": "17:30",
+			"title": "Homecoming Mums: What in the World?",
+			"description": "Build a homecoming mum of your very own. Get help and advice from crafters who can explain this southern American tradition. Supplies provided for various fees, going to the Charity. A $45 fee will create a full mum.  Other fees based on how much you bling out your mum. People are allowed to bring their own bling and ribbons to add to the materials at hand.",
+			"guests": ["deana_whitney", "jamie_cybert", "sarah_dauro"],
+			"event_id": "6ubi3jq18ee94ta5l4l59br4bl@google.com",
+			"location": "Gardenia"
+		}, {
+			"day": "2018-04-20",
+			"time": "16:00",
+			"title": "The Murky Bog: Fanfiction & Copyright",
+			"description": "Hey fans! Who doesn't love fanfiction and fantart? They are wonderful ways to immerse yourselves into your favorite worlds. Well, it turns out your favorite content creators might not. There has been much debate on where these works stand in the copyright sphere and the question grows ever more prominent as the Internet becomes even more integral to our fandoms.  All are welcome to join intellectual property attorney Ravi Persaud and Dragonsteel's Isaac Stewart as they try to help you work through the murky world of fan works!  *No legal advice will be given at this panel, so please do not come expecting any.*",
+			"guests": ["ravi_persaud", "isaac_stewart"],
+			"event_id": "41ksu5bn85t4o5l7r9peo34q09@google.com",
+			"location": "Gardenia"
+		}, {
+			"day": "2018-04-20",
+			"time": "14:30",
+			"title": "Patterns:  Adjusting them to fit You",
+			"description": "Ever bought a pattern, spent hours sewing it up, and it still doesn't fit like you want? In this class we will demonstrate common alterations to make your patterns fit. These will have your friends going from \"aww, you made that?\" to \"YOU made That?!\" Students will make the alterations on half-scale paper patterns to take home for reference.",
+			"guests": ["molly_weiss"],
+			"event_id": "0pe734kodi7d067gaa6thmg4ci@google.com",
+			"location": "Gardenia"
 		}]
 	}, {
 		"name": "Main Programming",
@@ -1528,125 +1406,25 @@
 			"location": "Dunwoody A, B, C"
 		}]
 	}, {
-		"name": "Workshops",
-		"default": false,
-		"events": [{
-			"day": "2018-04-22",
-			"time": "14:30",
-			"title": "Making Con-safe weapons",
-			"description": "Learn to make \"Con-safe\" weapons using worbla and other materials useful in creating props and armor for cosplay.  All can watch the class demo.  If you wish to take some worbla home to practice, the cost is $5.00.  \n\n",
-			"guests": ["lyndsey_luther"],
-			"event_id": "19k80fkdvgbqe7kl6iecel7vm6@google.com",
-			"location": "Gardenia"
-		}, {
-			"day": "2018-04-21",
-			"time": "11:30",
-			"title": "Dancing - West Coast Swing",
-			"description": "Want to spin each other around the dance floor? No partner needed, come learn the basics of West Coast Swing in preparation for homecoming.",
-			"guests": ["brendan_oxford", "molly_weiss"],
-			"event_id": "73otlfg97ddi1up19m2isml418@google.com",
-			"location": "Dunwoody B, C"
-		}, {
-			"day": "2018-04-21",
-			"time": "16:00",
-			"title": "Drawing Workshop - Kaladin Stormblessed",
-			"description": "Artist Nat Rodgers teaches her method for designing and sketching her unofficial (but much loved) version of Kaladin, from author Brandon Sanderson's The Stormlight Archive. This workshop focuses on an easy, comic-book style portrait that anyone can do with practice, but also includes a number of tips for drawing and cartooning various character types at any level of experience. Along with drawing the character, participants will walk through the thought process of designing facial structure to match personality archetypes, and receive all take-home materials necessary to practice after the class. Class limit 15. Supply Fee $15.00, which includes a Strathmore notepad and various pencils.",
-			"guests": ["nat_rodgers"],
-			"event_id": "7n5dv5fil8qa404t2f9un2p1m8@google.com",
-			"location": "Gardenia"
-		}, {
-			"day": "2018-04-22",
-			"time": "13:00",
-			"title": "Pewter Casting",
-			"description": "\nUsing premade soapstone molds, students will learn to safely handle liquid metal for casting. A demo of soapstone carving will help students know how to creater their own molds at home. Fans of Scadrial will recognize the mold. Students must be at least 13 years old. Those 13 to 17, must be accompanied by an adult.  Class limit 20. Supply Fee $5.00 to take home your pewter.  \nObservation allowed for free.\n",
-			"guests": ["brandyn_butler"],
-			"event_id": "57riplmaoq1s0ln5444u17b60g@google.com",
-			"location": "Gardenia"
-		}, {
-			"day": "2018-04-22",
-			"time": "11:30",
-			"title": "Bracelet Weaving",
-			"description": "Learn to create woven bracelets on specially designed small looms. We will be using yarns of various fibers, colors, and textures to create one of a kind items. Easy for beginning weavers, but fun for advanced weavers too.  Class limit 15. Supply fee $15.00, which includes the loom and yarn to take home with you.\n\n",
-			"guests": ["sarah_dauro"],
-			"event_id": "6kovbdgcf6d6saaf5tdb2cu4d8@google.com",
-			"location": "Gardenia"
-		}, {
-			"day": "2018-04-22",
-			"time": "10:00",
-			"title": "Lace Making",
-			"description": "Make a bookmark while learning the basics of bobbin lace making.   Class limit 10; Supply fee $5.00. ",
-			"guests": ["rachel_little"],
-			"event_id": "33176ssvd4aq5vum11qddjnrma@google.com",
-			"location": "Gardenia"
-		}, {
-			"day": "2018-04-21",
-			"time": "14:30",
-			"title": "Running a Fan Store",
-			"description": "Tips, advice, examples of how best to run an online store of your goods. ",
-			"guests": ["kara_stewart", "emily_sanderson"],
-			"event_id": "5o2ilurmlo347d2g96ho7qre8h@google.com",
-			"location": "Gardenia"
-		}, {
-			"day": "2018-04-21",
-			"time": "13:00",
-			"title": "Creating Stormlight Glyphs",
-			"description": "Man and women both can learn how to write Stormlight glyphs, from their creator. A very different style of calligraphy.   Bring your own prefered pen style, or some calligraphy pens will be available for $3.50.  Graph paper will be provided.  Class limit 25.",
-			"guests": ["isaac_stewart"],
-			"event_id": "0f9p5qq4ceqo6hon2grqlndud7@google.com",
-			"location": "Gardenia"
-		}, {
-			"day": "2018-04-21",
-			"time": "11:30",
-			"title": "SCA class - Brewing",
-			"description": "An overview of old English brewing in early to late period England. An over view of period yeast, hop use, herbs and period laws governing brewing.",
-			"guests": ["mka_lawrence_carey"],
-			"event_id": "2jpcvu1tvhjkp1o1co27gp1766@google.com",
-			"location": "Gardenia"
-		}, {
-			"day": "2018-04-21",
-			"time": "10:00",
-			"title": "SCA class - Leather tooling",
-			"description": "Beginners leather workshop; make and take a tooled key fob. Learn some basic leather construction, and several  basic tooling techniques for designs on pre-cut leather fobs.  Children need to be an adult to attend and be able to safely swing a hammer.   Class Limit: 15, Supply fee $10.00",
-			"guests": ["joshua_bush"],
-			"event_id": "0vo6lsflbeq6t86aohjgorsk19@google.com",
-			"location": "Gardenia"
-		}, {
-			"day": "2018-04-20",
-			"time": "20:30",
-			"title": "Homecoming Mums: Open craft time",
-			"description": "Open workshop time for people to work on their homecoming mums in a come and go fashion. Supplies will be provide for various fees. A $45 fee will create a full mum.  Other fees based on how much you bling out your mum. People are allowed to bring their own bling and ribbons too to add to the materials at hand.",
-			"guests": ["deana_whitney", "jamie_cybert", "sarah_dauro"],
-			"event_id": "777kbk47cn89hvq66f64g7fg8j@google.com",
-			"location": "Gardenia"
-		}, {
-			"day": "2018-04-20",
-			"time": "17:30",
-			"title": "Homecoming Mums: What in the World?",
-			"description": "Build a homecoming mum of your very own. Get help and advice from crafters who can explain this southern American tradition. Supplies provided for various fees, going to the Charity. A $45 fee will create a full mum.  Other fees based on how much you bling out your mum. People are allowed to bring their own bling and ribbons to add to the materials at hand.",
-			"guests": ["deana_whitney", "jamie_cybert", "sarah_dauro"],
-			"event_id": "6ubi3jq18ee94ta5l4l59br4bl@google.com",
-			"location": "Gardenia"
-		}, {
-			"day": "2018-04-20",
-			"time": "16:00",
-			"title": "The Murky Bog: Fanfiction & Copyright",
-			"description": "Hey fans! Who doesn't love fanfiction and fantart? They are wonderful ways to immerse yourselves into your favorite worlds. Well, it turns out your favorite content creators might not. There has been much debate on where these works stand in the copyright sphere and the question grows ever more prominent as the Internet becomes even more integral to our fandoms.  All are welcome to join intellectual property attorney Ravi Persaud and Dragonsteel's Isaac Stewart as they try to help you work through the murky world of fan works!  *No legal advice will be given at this panel, so please do not come expecting any.*",
-			"guests": ["ravi_persaud", "isaac_stewart"],
-			"event_id": "41ksu5bn85t4o5l7r9peo34q09@google.com",
-			"location": "Gardenia"
-		}, {
-			"day": "2018-04-20",
-			"time": "14:30",
-			"title": "Patterns:  Adjusting them to fit You",
-			"description": "Ever bought a pattern, spent hours sewing it up, and it still doesn't fit like you want? In this class we will demonstrate common alterations to make your patterns fit. These will have your friends going from \"aww, you made that?\" to \"YOU made That?!\" Students will make the alterations on half-scale paper patterns to take home for reference.",
-			"guests": ["molly_weiss"],
-			"event_id": "0pe734kodi7d067gaa6thmg4ci@google.com",
-			"location": "Gardenia"
-		}]
-	}, {
 		"name": "Swords & Sorcery",
 		"default": false,
 		"events": [{
+			"day": "2018-04-21",
+			"time": "11:30",
+			"title": "Urban Fantasy Hour",
+			"description": "\nA Discussion about the genre, itself, and a trek through the magic systems, characters, and settings in this powerhouse subgenre.\n\n",
+			"guests": ["tom_fallwell", "toni_weisskopf", "aaronmichael_hall", "leia_powell"],
+			"event_id": "2e88j80qkp44if06t1rp7em0p0@google.com",
+			"location": "Maplewood A"
+		}, {
+			"day": "2018-04-22",
+			"time": "10:00",
+			"title": "Where is it on the shelf?",
+			"description": "\nThere is a lot of gray area between YA and Middle Grades, Urban Fantasy and Paranormal Romance! \n\n",
+			"guests": ["kayl_karadijan", "blue_cole"],
+			"event_id": "183n0ne09gnkblvd5q3vq6668j@google.com",
+			"location": "Maplewood A"
+		}, {
 			"day": "2018-04-21",
 			"time": "16:00",
 			"title": "Rise & Fall of Neville Longbottom",
@@ -1679,14 +1457,6 @@
 			"event_id": "343s56g8506ghk94ukum9d20vp@google.com",
 			"location": "Maplewood A"
 		}, {
-			"day": "2018-04-21",
-			"time": "11:30",
-			"title": "Urban Fantasy Hour",
-			"description": "\nA Discussion about the genre, itself, and a trek through the magic systems, characters, and settings in this powerhouse subgenre.\n\n",
-			"guests": ["melessa_swann", "tom_fallwell", "toni_weisskopf", "aaronmichael_hall", "leia_powell"],
-			"event_id": "2e88j80qkp44if06t1rp7em0p0@google.com",
-			"location": "Maplewood A"
-		}, {
 			"day": "2018-04-20",
 			"time": "14:30",
 			"title": "Are you a BRIGHT?",
@@ -1701,14 +1471,6 @@
 			"description": "\nWe discuss what plot points are still open and close them ourselves, and then combine it into Book 3 of KingKiller.\n\n",
 			"guests": ["seth_jones", "aubree_pham"],
 			"event_id": "2ctkmksss3b66thngrn6jm34ah@google.com",
-			"location": "Maplewood A"
-		}, {
-			"day": "2018-04-22",
-			"time": "10:00",
-			"title": "Where is it on the shelf?",
-			"description": "\nThere is a lot of gray area between YA and Middle Grades, Urban Fantasy and Paranormal Romance! \n\n",
-			"guests": ["melessa_swann", "kayl_karadijan", "blue_cole"],
-			"event_id": "183n0ne09gnkblvd5q3vq6668j@google.com",
 			"location": "Maplewood A"
 		}, {
 			"day": "2018-04-21",
@@ -1750,6 +1512,244 @@
 			"guests": ["jason_denzel", "ellie_raine", "sargon_donabed", "tom_fallwell"],
 			"event_id": "575di6sc2d2n9uv5ai8v0k6met@google.com",
 			"location": "Maplewood A"
+		}]
+	}, {
+		"name": "Meet-Ups",
+		"default": false,
+		"events": [{
+			"day": "2018-04-22",
+			"time": "10:00",
+			"title": "Interview Session - Ola Jacunski",
+			"guests": [],
+			"event_id": "37nc3h66233css8kigd8mruj6g@google.com",
+			"location": "DeKalb"
+		}, {
+			"day": "2018-04-21",
+			"time": "16:00",
+			"title": "Interview Session - Ola Jacunski",
+			"guests": [],
+			"event_id": "1r5crjqoja365c3gskcsro5et1@google.com",
+			"location": "DeKalb"
+		}, {
+			"day": "2018-04-21",
+			"time": "11:30",
+			"title": "Interview Session - Ola Jacunski",
+			"guests": [],
+			"event_id": "1idil81chr7rtp7i5t2r8onjq5@google.com",
+			"location": "DeKalb"
+		}, {
+			"day": "2018-04-20",
+			"time": "16:00",
+			"title": "Interview Session - Ola Jacunski",
+			"guests": [],
+			"event_id": "6t6l9issrde7p4qh1o2mefr5io@google.com",
+			"location": "DeKalb"
+		}, {
+			"day": "2018-04-20",
+			"time": "21:00",
+			"title": "Group Meeting",
+			"description": "The Black Tower",
+			"guests": [],
+			"event_id": "5rn4fesnuealrnd5h0et4mjid5@google.com",
+			"location": "DeKalb"
+		}, {
+			"day": "2018-04-22",
+			"time": "14:30",
+			"title": "Open Group Use",
+			"guests": [],
+			"event_id": "746rc9pluc3bsfe5rdbvjrp33a@google.com",
+			"location": "DeKalb"
+		}, {
+			"day": "2018-04-22",
+			"time": "13:00",
+			"title": "Open Group Use",
+			"guests": [],
+			"event_id": "257947dkpp9pqivlo9cid72gqd@google.com",
+			"location": "DeKalb"
+		}, {
+			"day": "2018-04-22",
+			"time": "11:30",
+			"title": "Open Group Use",
+			"guests": [],
+			"event_id": "4c1ehor11hv6j4c5sa142np4pa@google.com",
+			"location": "DeKalb"
+		}, {
+			"day": "2018-04-21",
+			"time": "14:30",
+			"title": "Open Group Use",
+			"guests": [],
+			"event_id": "2b540gtgr8f2irgtcrsel1eqjb@google.com",
+			"location": "DeKalb"
+		}, {
+			"day": "2018-04-21",
+			"time": "13:00",
+			"title": "Open Group Use",
+			"guests": [],
+			"event_id": "5qsbjko0hh2ta352h4c8q6vii7@google.com",
+			"location": "DeKalb"
+		}, {
+			"day": "2018-04-21",
+			"time": "10:00",
+			"title": "Open Group Use",
+			"guests": [],
+			"event_id": "67pn3korumbaaejjq1la5iq9hi@google.com",
+			"location": "DeKalb"
+		}, {
+			"day": "2018-04-21",
+			"time": "22:00",
+			"title": "Group Meeting",
+			"description": "The Black Ajah",
+			"guests": [],
+			"event_id": "7sroguvqnge8oo81mvrh962lcd@google.com",
+			"location": "DeKalb"
+		}, {
+			"day": "2018-04-21",
+			"time": "20:30",
+			"title": "Group Meeting",
+			"description": "TarValon.Net Brown Ajah",
+			"guests": [],
+			"event_id": "0c7l4mjf137i1tl3bmb1o7hfh0@google.com",
+			"location": "DeKalb"
+		}, {
+			"day": "2018-04-21",
+			"time": "18:30",
+			"title": "Group Meeting",
+			"description": "Theoryland.com",
+			"guests": [],
+			"event_id": "1efqsbvi95qmgv5745h9tma730@google.com",
+			"location": "DeKalb"
+		}, {
+			"day": "2018-04-20",
+			"time": "19:30",
+			"title": "Group Meeting",
+			"description": "TarValon.Net",
+			"guests": [],
+			"event_id": "1kr5c1tmukh3ee1v96jhudlr17@google.com",
+			"location": "DeKalb"
+		}, {
+			"day": "2018-04-20",
+			"time": "17:30",
+			"title": "Group Meeting",
+			"description": "Tor.com Re-readers",
+			"guests": [],
+			"event_id": "3s7rn6l776qua1877ccqeqitp5@google.com",
+			"location": "DeKalb"
+		}, {
+			"day": "2018-04-20",
+			"time": "14:30",
+			"title": "Convention Game Sign Up",
+			"description": "Sign up for this year's convention game!",
+			"guests": [],
+			"event_id": "1g72vqneeosh2tv96i1hemh6m3@google.com",
+			"location": "DeKalb"
+		}]
+	}, {
+		"name": "Rivets & Robots",
+		"default": false,
+		"events": [{
+			"day": "2018-04-21",
+			"time": "13:00",
+			"title": "Sorting Hat: Doctor Who Edition",
+			"description": "\nBringing Dr. Who and the Potterverse together. Which House would your favorite Doctor fall into? Be ready to fight!\n\n",
+			"guests": ["darin_m_bush", "ellie_raine", "erin_desimone"],
+			"event_id": "7be18m6mtgi4bpv6t62j7di0a8@google.com",
+			"location": "Maplewood B"
+		}, {
+			"day": "2018-04-20",
+			"time": "16:00",
+			"title": "The Evolution of Silk Punk",
+			"description": "\nWhat is Silk Punk? Who is writing it? Why is it a relevant sub-genre you should pay attention to.\n\n",
+			"guests": ["sean_hillman", "nancy_mccullough", "navarre_bartz"],
+			"event_id": "638hegn331b9aercs8q8h7u5n4@google.com",
+			"location": "Maplewood B"
+		}, {
+			"day": "2018-04-20",
+			"time": "14:30",
+			"title": "New in Science: 2017-2018",
+			"description": "\nWe speak about the science news from the last year and all the discoveries awaiting us in the coming year.\n\n",
+			"guests": ["nancy_mccullough", "jd_jordan", "amy_duboff", "bryan_adomanis", "navarre_bartz"],
+			"event_id": "0i64g4csegfdk3prv3gfri7k3q@google.com",
+			"location": "Maplewood B"
+		}, {
+			"day": "2018-04-22",
+			"time": "14:30",
+			"title": "Science Fiction Trends in 2018",
+			"description": "\nWhat are the trends in Science Fiction literature this year? What do you think we should be reading?\n\n",
+			"guests": ["sean_hillman", "amy_duboff"],
+			"event_id": "4doensj8u9iovbo8tlv8st2j3r@google.com",
+			"location": "Maplewood B"
+		}, {
+			"day": "2018-04-22",
+			"time": "13:00",
+			"title": "Afrofuturism",
+			"description": "\nCome discuss Afrofuturism, its social implications, and its effect on Science Fiction in general.\n\n",
+			"guests": ["sean_hillman", "gerald_coleman", "milton_davis"],
+			"event_id": "0if3grjkbj17l9r0skte1bs2ui@google.com",
+			"location": "Maplewood B"
+		}, {
+			"day": "2018-04-22",
+			"time": "11:30",
+			"title": "Star Trek Discovery: Season 1",
+			"description": "Discovery delivered a full load of photons in its first season. Do they hit with you or miss?",
+			"guests": ["sean_hillman", "billy_todd"],
+			"event_id": "4j0b43b4kpaqq1c8ambsm1jbgs@google.com",
+			"location": "Maplewood B"
+		}, {
+			"day": "2018-04-22",
+			"time": "10:00",
+			"title": "Star Wars Rebels Season 4 Recap",
+			"description": "\nThis great series has come to an end. What do we think? What do we think is coming next?\n\n",
+			"guests": ["sean_hillman", "darin_m_bush", "thom_desimone", "james_liang"],
+			"event_id": "14kctbpu94qe6lf2ab691bjolh@google.com",
+			"location": "Maplewood B"
+		}, {
+			"day": "2018-04-21",
+			"time": "16:00",
+			"title": "Blake's 7 & Beyond",
+			"description": "\nCome discuss this great cult classic as well as the broad spectrum of British Science Fiction on the big and small screen.\n\n",
+			"guests": ["sean_hillman", "anthony_taylor"],
+			"event_id": "5kra6tbrkgl4ev60u9bb5699nr@google.com",
+			"location": "Maplewood B"
+		}, {
+			"day": "2018-04-21",
+			"time": "14:30",
+			"title": "Royal Manticore: Who Are They?",
+			"description": "Come talk about the Royal Manticore Navy and get an Introduction to the Honorverse.",
+			"guests": ["team_royal_manticore"],
+			"event_id": "5mnqm05v5e0icpajaprmvtm9cm@google.com",
+			"location": "Maplewood B"
+		}, {
+			"day": "2018-04-21",
+			"time": "11:30",
+			"title": "Dr. Who: The 13th Doctor and Beyond",
+			"description": "\nWho is the new Doctor and how do we think her adventures will be different from the previous regeneration. \n\n",
+			"guests": ["sean_hillman", "gerald_coleman", "clay_gilbert", "james_palmer"],
+			"event_id": "65fnr064mh7cc6h1h6juvfeu1c@google.com",
+			"location": "Maplewood B"
+		}, {
+			"day": "2018-04-21",
+			"time": "10:00",
+			"title": "Coffee in Cornwall: A Look at British SF",
+			"description": "A general discussion of British Science Fiction focusing on literature but touching on all the aspects. ",
+			"guests": ["sean_hillman"],
+			"event_id": "0f060r5ac5ahgqgfhn8r1qp97p@google.com",
+			"location": "Maplewood B"
+		}, {
+			"day": "2018-04-20",
+			"time": "20:30",
+			"title": "Friday Fandom Smackdown",
+			"description": "\nThis year we have Space Battleship! Honorverse vs. Vorkosigan Saga! Who will go down in flames?\n\n",
+			"guests": ["sean_hillman", "danyelle_denham", "royal_manticore_navy_personnel"],
+			"event_id": "2nfvnvrs334pugrt00iua9fprl@google.com",
+			"location": "Maplewood B"
+		}, {
+			"day": "2018-04-20",
+			"time": "17:30",
+			"title": "Bright: Orcs in my Cop Procedural?",
+			"description": "A discussion of Bright in the context of Science Fantasy and other media like role playing games",
+			"guests": ["sean_hillman", "amy_duboff"],
+			"event_id": "59q7sksuei4kn31b7kkkltop1u@google.com",
+			"location": "Maplewood B"
 		}]
 	}]
 }
