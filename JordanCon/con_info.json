@@ -45,7 +45,16 @@
 		"label": "Frequently Asked Questions",
 		"label_icon": "help",
 		"sort_priority": 2,
-		"content_sections": ["<h3>Frequently Asked Questions</h3>", "<p><em>Where is the Consuite?</em></p><p>Room XXXX.</p>"]
+		"content_sections": [
+		  "<h3>Frequently Asked Questions</h3>",
+		  "<p><em>Where is the Consuite?</em></p><p>Room XXXX.</p>",
+		  "<p><em>What forms of payment are accepted?</em></p>",
+      "<p>We accept cash, check, and debit/credit (Visa, Mastercard, AMEX, Discover and JCB). This applies to Registration, Art Show, and Silent Auction payments.</p>",
+      "<p>Seanchan Hold'em is cash only.</p>",
+      "<p>Payment types for Vendors are at the discretion of the Vendor.</p>",
+      "<p><em>Weapons Policy</em></p>",
+      "<p>All bladed weapons must be peace-bound during the convention. Weapons may be brandished briefly for photographers, but must be immediately sheathed afterwards. Projectile weapons must be non-functioning. This includes water guns, silly-string, and ping-pong pistols.</p>"
+		]
 	}, {
 		"label": "Hours",
 		"label_icon": "clock",
