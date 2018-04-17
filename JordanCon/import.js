@@ -65,6 +65,7 @@ let completedCallback = function(allTracks) {
   });
   guestsArray = _.uniqBy(guestsArray, g => g.guest_id);
 
+  con_info.updated_at = moment();
   con_info.tracks = allTracks;
   con_info.guests = guestsArray;
   console.log(JSON.stringify(con_info));
