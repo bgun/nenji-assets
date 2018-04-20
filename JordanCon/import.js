@@ -42,6 +42,9 @@ let calendarFiles = [{
 },{
   trackName: 'Writers Track',
   icalUrl: 'https://calendar.google.com/calendar/ical/jordancon.org_0eltaaljcli4vujkupnqghpmeo%40group.calendar.google.com/public/basic.ics'
+}, {
+  trackName: 'JordanCon Operations',
+  icalUrl: 'https://calendar.google.com/calendar/ical/jordancon.org_iim91qvspmdninrm087o1lbb64%40group.calendar.google.com/public/basic.ics'
 }];
 
 
