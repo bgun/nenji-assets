@@ -58,9 +58,11 @@ let guestsSet = new Set();
 
 let completedCallback = function(allTracks) {
   let guestsArray = Array.from(guestsSet).map(g => {
+    let guest_id = makeSlug(g);
     return {
       name: g,
-      guest_id: makeSlug(g)
+      guest_id: guest_id,
+      bio: _.find(con_info.guests, gg => gg.guest_id === guest_id).bio
     }
   });
   guestsArray = _.uniqBy(guestsArray, g => g.guest_id);
