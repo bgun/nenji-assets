@@ -1,0 +1,51 @@
+{
+	"con_id": "libertycon2018",
+	"name": "LibertyCon 2018",
+	"venue": {
+		"name": "Crowne Plaza Ravinia",
+		"lat": 33.917376,
+		"lon": -84.345061,
+		"address": [],
+		"maps_url": "",
+		"phone": "+1-770-395-7700"
+	},
+	"updated_at": "2018-04-21T16:43:39.453Z",
+	"images": {
+		"LOGO": "https://bgun.github.io/nenji-assets/JordanCon/logo.png",
+		"DASHBOARD": "https://bgun.github.io/nenji-assets/JordanCon/dashboard.jpg",
+		"HOTEL_MAP": "https://bgun.github.io/nenji-assets/JordanCon/map_crowne_plaza_ravinia_20180412.png"
+	},
+	"header_photos": [],
+	"colors": {
+		"border": "#DDD",
+		"headerBg": "#4270a9",
+		"highlight": "#1C8BAD",
+		"highlightDark": "#0e5166",
+		"highlightAlt": "#C83",
+		"feedbackBtn": "#678"
+	},
+	"content": {
+		"aboutText": "<p>JordanCon is a fantasy literature convention founded in honor of the late author, Robert Jordan. JordanCon features eight tracks of simultaneous programming, a Dealers' Hall, gaming, an Art Show featuring original art by a variety of artists, and charity events benefiting the Mayo Clinic and other charities.</p>",
+		"appText": "<p><strong>Con-Nexus</strong> is a lightweight, open-source convention app framework created by Ben Gundersen, and currently built with React Native. You can find more information on <a href='https://github.com/bgun'>GitHub</a>, or email me: <a href='mailto:ben@bengundersen.com'>ben@bengundersen.com</a>.</p><p><em>Made with &hearts; in New York City</em></p>"
+	},
+	"more_content": [{
+		"label": "About",
+		"label_icon": "info",
+		"header_image": "https://bgun.github.io/nenji-assets/JordanCon/logo.png",
+		"sort_priority": 3,
+		"content_sections": ["<h3>About JordanCon</h3>", "<p>JordanCon is a fantasy literature convention founded in honor of the late author, Robert Jordan. JordanCon features eight tracks of simultaneous programming, a Dealers' Hall, gaming, an Art Show featuring original art by a variety of artists, and charity events benefiting the Mayo Clinic and other charities.</p>", "<hr />", "<h3>About This App</h3>", "<p><strong>Con-Nexus</strong> is a lightweight, open-source convention app framework created by Ben Gundersen, built using React Native and Expo. You can find more information on <a href='https://github.com/bgun'>GitHub</a>, or email me: <a href='mailto:ben@bengundersen.com'>ben@bengundersen.com</a>.</p><p><em>Made with &hearts; in New York City</em></p>"]
+	}, {
+		"label": "Frequently Asked Questions",
+		"label_icon": "help",
+		"sort_priority": 2,
+		"content_sections": ["<h3>Frequently Asked Questions</h3>", "<h4>Where is the Consuite?</h4>", "<p>Room 1101.</p>", "<h4>What forms of payment are accepted?</h4>", "<p>We accept cash, check, and debit/credit (Visa, Mastercard, AMEX, Discover and JCB). This applies to Registration, Art Show, and Silent Auction payments.</p>", "<p>Seanchan Hold'em is cash only.</p>", "<p>Payment types for Vendors are at the discretion of the Vendor.</p>", "<h4>Weapons Policy</h4>", "<p>All bladed weapons must be peace-bound during the convention. Weapons may be brandished briefly for photographers, but must be immediately sheathed afterwards. Projectile weapons must be non-functioning. This includes water guns, silly-string, and ping-pong pistols.</p>"]
+	}, {
+		"label": "Hours",
+		"label_icon": "clock",
+		"sort_priority": 1,
+		"content_sections": ["<h3>Hours</h3>", "<h4>Art Show, Dealer Hall, Charity Auction</h4>", "<p><em>Ravinia A, B, C, D</em><br />Friday 2:30 PM – 7:00 PM<br />Saturday 10:00 AM – 7:00 PM<br />Sunday 10:00 AM – 2:30 PM<br /></p>", "<h4>Gaming</h4", "<p><em>Ravinia E, F, G</em><br />Friday – Opens at 2:30 PM<br />Saturday – Opens at 10 AM<br />Sunday – 10 AM – 3:30 PM<br /></p>", "<h4>ConSuite</h4>", "<p><em>Room 1101</em><br />Friday 4 PM – 8 PM<br />Saturday 8 AM – 8 PM<br />Sunday 8 AM – 1 PM<br /></p>"]
+	}],
+	"styles": {},
+	"guests": [],
+	"tracks": []
+}
