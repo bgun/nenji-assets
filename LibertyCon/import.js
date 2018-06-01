@@ -4,9 +4,9 @@ let _ = require('lodash');
 let mysql = require('mysql');
 
 let con_info = require('./con_info.json');
-const SECRETS = require('../_CREDENTIALS.json').LibertyCon;
 
-console.log(SECRETS.MYSQL_HOST);
+// Don't commit to version control
+const SECRETS = require('../_CREDENTIALS.json').LibertyCon;
 
 let connection = mysql.createConnection({
   host     : SECRETS.MYSQL_HOST,
@@ -30,22 +30,35 @@ const schedule_query = `
   LEFT JOIN sched_type ON schedule.type = sched_type.id
   LEFT JOIN schedule_guest ON schedule.id = schedule_guest.sched_id
   ORDER BY schedule.id
-  LIMIT 10
 `;
 
 const guests_query = `
   SELECT *
   FROM guests
-  LIMIT 10
 `;
 
 
 
- 
 connection.query(schedule_query, function (error, results, fields) {
   if (error) throw error;
-  const events_group = _(results).groupBy(r => r.event_id).value();
-  con_info.tracks = [];
+  const eventGroups = _.groupBy(results, r => r.event_id);
+  // Reduce the left join to a list of guests for each event
+  let events = Object.keys(eventGroups).map(id => {
+    let first = eventGroups[id][0];
+    first.guests = _.reduce(eventGroups[id], (acc, val) => {
+      if (val.guest_id) acc.push("guest"+val.guest_id);
+      return acc;
+    }, []);
+    return first;
+  });
+
+  let trackGroups = _.groupBy(events, e => e.track);
+
+  con_info.tracks = Object.keys(trackGroups).map(track => ({
+    trackName: track,
+    default: track === "Panel",
+    events: trackGroups[track]
+  }));
 
   eventsDone = true;
   printInfoIfAllDone();
@@ -55,7 +68,7 @@ connection.query(schedule_query, function (error, results, fields) {
 connection.query(guests_query, function (error, results, fields) {
   if (error) throw error;
   const guests = results.map(r => ({
-    guest_id: r.id,
+    guest_id: "guest"+r.id,
     name    : r.name,
     bio     : r.bio,
     image   : r.image
@@ -72,7 +85,7 @@ let eventsDone = false;
 let guestsDone = false;
 function printInfoIfAllDone() {
   if (eventsDone && guestsDone) {
-    console.log(con_info);
+    console.log(JSON.stringify(con_info, null, 2));
     process.exit();
   }
 }
