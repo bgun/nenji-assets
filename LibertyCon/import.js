@@ -2,6 +2,7 @@
 
 let _ = require('lodash');
 let mysql = require('mysql');
+let moment = require('moment-timezone');
 
 let con_info = require('./con_info.json');
 
@@ -52,10 +53,22 @@ connection.query(schedule_query, function (error, results, fields) {
     return first;
   });
 
+  events = events.map(ev => {
+    return {
+      event_id: 'event'+ev.event_id,
+      time: ev.time,
+      title: ev.title,
+      description: ev.description,
+      location: ev.location,
+      day: moment(ev.day).tz('America/New_York').format('YYYY-MM-DD'),
+      guests: ev.guests
+    };
+  });
+
   let trackGroups = _.groupBy(events, e => e.track);
 
   con_info.tracks = Object.keys(trackGroups).map(track => ({
-    trackName: track,
+    name: track,
     default: track === "Panel",
     events: trackGroups[track]
   }));
