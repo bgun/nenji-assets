@@ -23,6 +23,10 @@
       "description": ""
     }
   ],
+	"dimensions": {
+		"HOTEL_MAP_WIDTH": 800,
+		"HOTEL_MAP_HEIGHT": 800
+	},
   "colors": {
     "border": "#DDD",
     "headerBg": "#4270a9",
