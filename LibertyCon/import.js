@@ -58,6 +58,7 @@ connection.query(schedule_query, function (error, results, fields) {
       event_id: 'event'+ev.event_id,
       time: ev.time,
       title: ev.title,
+      track: ev.track,
       description: ev.description,
       location: ev.location,
       day: moment(ev.day).tz('America/New_York').format('YYYY-MM-DD'),
