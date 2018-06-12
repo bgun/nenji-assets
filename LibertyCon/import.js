@@ -3,6 +3,7 @@
 let _ = require('lodash');
 let mysql = require('mysql');
 let moment = require('moment-timezone');
+let decode = require('unescape');
 
 let con_info = require('./con_info.json');
 
@@ -57,9 +58,9 @@ connection.query(schedule_query, function (error, results, fields) {
     return {
       event_id: 'event'+ev.event_id,
       time: ev.time,
-      title: ev.title,
+      title: decode(ev.title),
       track: ev.track,
-      description: ev.description,
+      description: decode(ev.description),
       location: ev.location,
       day: moment(ev.day).tz('America/New_York').format('YYYY-MM-DD'),
       guests: ev.guests
