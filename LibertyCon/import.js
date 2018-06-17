@@ -31,6 +31,7 @@ const schedule_query = `
   FROM schedule
   LEFT JOIN sched_type ON schedule.type = sched_type.id
   LEFT JOIN schedule_guest ON schedule.id = schedule_guest.sched_id
+  WHERE schedule.date >= '2018-06-29' AND schedule.date <= '2018-07-01'
   ORDER BY schedule.id
 `;
 

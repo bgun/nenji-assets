@@ -23,10 +23,10 @@
       "description": ""
     }
   ],
-	"dimensions": {
-		"HOTEL_MAP_WIDTH": 800,
-		"HOTEL_MAP_HEIGHT": 800
-	},
+  "dimensions": {
+    "HOTEL_MAP_WIDTH": 800,
+    "HOTEL_MAP_HEIGHT": 800
+  },
   "colors": {
     "border": "#DDD",
     "headerBg": "#4270a9",
@@ -1003,7 +1003,7 @@
     {
       "guest_id": "guest140",
       "name": "Melissa Gay",
-      "bio": "Melissa Gay is an award-winning illustrator of books and tabletop\nroleplaying games. She has done book covers and illustration projects\nfor Hugo, World Fantasy, and Stoker Award winning authors, and her\nclient list includes Baen Books, Llewellyn Worldwide, Hay House, and\nApex Press. Her art has appeared on the covers and in the pages of\ngames such as The Dresden Files, Night's Black Agents, Trail of\nCthulhu, Part-Time Gods, Mermaid Adventures, Fate Core, and the Yellow\nKing RPG. One of her pieces for the SagaBorn RPG core book has been\nnominated for a Chesley Award.\n\nHer work has been featured in multiple Infected By Art anthologies,\nshe belongs to the Changeling Artist Collective, she co-founded the\nBird Whisperer Project, and she moderates the Women in Fantastical\nIllustration and the One Fantastic Week online communities. Her\npassion projects include sci-fi sumi-e and her acrylic space\npaintings, which have met with international success. A former\nscientific illustrator, she is constantly seeking the perfect balance\nbetween precise detail and hazy obscurity to better engage the\nimagination of the viewer.\n",
+      "bio": "Melissa Gay is an award-winning illustrator of books and tabletop roleplaying games. She has done book covers and illustration projects for Hugo, World Fantasy, and Stoker Award winning authors, and her client list includes Baen Books, Llewellyn Worldwide, Hay House, and Apex Press. Her art has appeared on the covers and in the pages of games such as The Dresden Files, Night's Black Agents, Trail of Cthulhu, Part-Time Gods, Mermaid Adventures, Fate Core, and the Yellow King RPG. One of her pieces for the SagaBorn RPG core book has been nominated for a Chesley Award.\nHer work has been featured in multiple Infected By Art anthologies, she belongs to the Changeling Artist Collective, she co-founded the Bird Whisperer Project, and she moderates the Women in Fantastical Illustration and the One Fantastic Week online communities. Her passion projects include sci-fi sumi-e and her acrylic space paintings, which have met with international success. A former scientific illustrator, she is constantly seeking the perfect balance between precise detail and hazy obscurity to better engage the imagination of the viewer.\n",
       "image": "gay_melissa.jpg"
     },
     {
@@ -2335,7 +2335,7 @@
     {
       "guest_id": "guest386",
       "name": "Karl Gallagher",
-      "bio": "Karl K. Gallagher is a systems engineer, currently performing data\nanalysis for a major aerospace company. In the past he calculated\ntrajectories for a commercial launch rocket start-up, operated\nsatellites as a US Air Force officer, and selected orbits for\ngovernment and commercial satellites. Karl lives in Saginaw, TX with\nhis family. His books Torchship, Torchship Pilot, and Torchship\nCaptain are available on Amazon and Audible. New releases are\nannounced on www.kelthavenpress.com.",
+      "bio": "Karl K. Gallagher is a systems engineer, currently performing data analysis for a major aerospace company. In the past he calculated trajectories for a commercial launch rocket start-up, operated satellites as a US Air Force officer, and selected orbits for government and commercial satellites. Karl lives in Saginaw, TX with his family. His books Torchship, Torchship Pilot, and Torchship Captain are available on Amazon and Audible. New releases are announced on www.kelthavenpress.com.",
       "image": "e3d9f-karl-gallagher.jpg"
     },
     {
@@ -3046,17 +3046,6 @@
           ]
         },
         {
-          "event_id": "event578",
-          "time": "10:00:00",
-          "title": "Reading: Dina Leacock",
-          "track": "Reading",
-          "description": "Author Dina Leacock will read from her works.",
-          "day": "2017-07-01",
-          "guests": [
-            "guest247"
-          ]
-        },
-        {
           "event_id": "event586",
           "time": "16:00:00",
           "title": "The Sha'Daa: TOYS Roundtable",
@@ -3111,322 +3100,6 @@
       ]
     },
     {
-      "name": "Roundtable",
-      "default": false,
-      "events": [
-        {
-          "event_id": "event14",
-          "time": "22:00:00",
-          "title": "Social Justice for the Undead",
-          "track": "Roundtable",
-          "description": "MZ Williamson, Moderator - These panelists are having way too much fun - a real hoot!",
-          "day": "2015-06-26",
-          "guests": [
-            "guest7",
-            "guest10",
-            "guest186",
-            "guest28",
-            "guest261",
-            "guest207",
-            "guest235"
-          ]
-        },
-        {
-          "event_id": "event34",
-          "time": "23:00:00",
-          "title": "Mad Scientist Roundtable",
-          "track": "Roundtable",
-          "description": "<p>\n\tRoundtable discussion of various and timely science topics moderated by Les Johnson. This is a remarkable panel dating back to the earliest LibertyCons. Everyone gets a say but no one gets to say too much.</p>\n",
-          "day": "2018-06-30",
-          "guests": [
-            "guest407",
-            "guest39",
-            "guest67",
-            "guest20",
-            "guest227",
-            "guest315",
-            "guest149",
-            "guest179",
-            "guest186",
-            "guest28",
-            "guest157",
-            "guest360",
-            "guest386",
-            "guest344",
-            "guest262",
-            "guest153",
-            "guest182",
-            "guest259",
-            "guest300",
-            "guest314",
-            "guest401",
-            "guest430",
-            "guest408",
-            "guest220",
-            "guest9",
-            "guest417",
-            "guest330",
-            "guest426",
-            "guest14",
-            "guest440",
-            "guest445",
-            "guest397"
-          ]
-        },
-        {
-          "event_id": "event297",
-          "time": "11:00:00",
-          "title": "What's New in 1632 / Grantville Roundtable",
-          "track": "Roundtable",
-          "description": "<p>\n\tEric Flint moderates this panel on what is new in the 1632 / Grantville universe in all it&#39;s alternate history glory, with a mass autograph session to follow.</p>\n",
-          "day": "2018-07-01",
-          "guests": [
-            "guest280",
-            "guest184",
-            "guest19",
-            "guest276",
-            "guest281",
-            "guest273",
-            "guest259",
-            "guest208",
-            "guest66",
-            "guest419",
-            "guest441"
-          ]
-        },
-        {
-          "event_id": "event358",
-          "time": "13:00:00",
-          "title": "Black Tide Rising Roundtable ",
-          "track": "Roundtable",
-          "description": "<p>\n\tCome join John Ringo and his motley crew of authors for their roundtable on the Black Tide Rising anthology. Will be followed by a mass autograph session. Gary Poole, Mod.</p>\n",
-          "day": "2018-06-29",
-          "guests": [
-            "guest221",
-            "guest323",
-            "guest19",
-            "guest198",
-            "guest3",
-            "guest263",
-            "guest7",
-            "guest318",
-            "guest28",
-            "guest66",
-            "guest10"
-          ]
-        },
-        {
-          "event_id": "event378",
-          "time": "21:00:00",
-          "title": "TBI & PTSD from the Observers Point of View",
-          "track": "Roundtable",
-          "description": "Dr. Robert Hampson will moderate this roundtable discussion of doctors, trainers and family members discussing effects and stories of their loved ones, patients, co-workers, and team-mates who have suffered from TBI and/or PTSD.  Traumatic Brain Injury and Post-Traumatic Stress affect more than just the military, athletes and accident victims who receive the injury; they also affect those people closest to the them.  ",
-          "day": "2018-06-29",
-          "guests": [
-            "guest186",
-            "guest407",
-            "guest318",
-            "guest28",
-            "guest263",
-            "guest315"
-          ]
-        },
-        {
-          "event_id": "event385",
-          "time": "13:00:00",
-          "title": "Artificial Intelligence, Robotics and the Future of Work",
-          "track": "Roundtable",
-          "description": "<p>\n\tRich Weyand (Mod.) The Machine Intelligence Research Institute gives it even odds that all jobs will be done by robots in the not too distant future. PricewaterhouseCoopper has an estimate that 38% of all jobs currently done by people will be done by robots or AIs. So what does a society look like when few people are actually needed to do work?</p>\n",
-          "day": "2018-06-29",
-          "guests": [
-            "guest386",
-            "guest262",
-            "guest220",
-            "guest182",
-            "guest344",
-            "guest426"
-          ]
-        },
-        {
-          "event_id": "event441",
-          "time": "13:00:00",
-          "title": "Perspectives on Military SF",
-          "track": "Roundtable",
-          "description": "Doug Dandridge moderates this roundtable on military SF and what informs it. Is military experience required to write believable fiction, or is talent and good research enough? ",
-          "day": "2016-07-09",
-          "guests": [
-            "guest252",
-            "guest184",
-            "guest246",
-            "guest277",
-            "guest215",
-            "guest120",
-            "guest338"
-          ]
-        },
-        {
-          "event_id": "event485",
-          "time": "13:00:00",
-          "title": "All Things Monster Hunter Roundtable",
-          "track": "Roundtable",
-          "description": "Larry Correia moderates this Roundtable on the Monster Hunter Universe, to be followed by a mass autograph session.",
-          "day": "2018-07-01",
-          "guests": [
-            "guest10",
-            "guest398",
-            "guest168",
-            "guest3",
-            "guest198",
-            "guest412",
-            "guest423",
-            "guest437"
-          ]
-        },
-        {
-          "event_id": "event535",
-          "time": "19:00:00",
-          "title": "No S**T There I Was Just Minding My Own Business ....",
-          "track": "Roundtable",
-          "description": "John Ringo moderates this \"war story\" discussion with writers who are veterans and law enforcement professionals.",
-          "day": "2018-06-29",
-          "guests": [
-            "guest3",
-            "guest7",
-            "guest281",
-            "guest113",
-            "guest334",
-            "guest415",
-            "guest398",
-            "guest410"
-          ]
-        },
-        {
-          "event_id": "event537",
-          "time": "17:00:00",
-          "title": "Freehold: Written in Blood",
-          "track": "Roundtable",
-          "description": "Michael Z. Williamson moderates this roundtable about the new Freehold anthology, and talks about what it takes to flog this bunch of miscreants into a cohesive story arc. SPECIAL: autographed bookplates for  Freehold: Forged in Blood will be available.  ",
-          "day": "2017-07-01",
-          "guests": [
-            "guest221",
-            "guest19",
-            "guest334",
-            "guest263",
-            "guest7",
-            "guest318",
-            "guest215",
-            "guest322",
-            "guest391"
-          ]
-        },
-        {
-          "event_id": "event585",
-          "time": "15:00:00",
-          "title": "Homo Stellaris: Becoming the People of the Stars",
-          "track": "Roundtable",
-          "description": "<p>\n\tWhat will humans become as we begin to develop an interplanetary and interstellar society? Join Editors Les Johnson and Rob Hampson and their contributing authors to the upcoming fiction/nonfiction anthology &quot;Homo Stellaris&quot; for a discussion of potential changes to human society, psychology, biology and genetics in support of interstellar exploration and colonization.</p>\n",
-          "day": "2018-06-29",
-          "guests": [
-            "guest186",
-            "guest179",
-            "guest318",
-            "guest10",
-            "guest227",
-            "guest67",
-            "guest9",
-            "guest28",
-            "guest263"
-          ]
-        },
-        {
-          "event_id": "event591",
-          "time": "18:00:00",
-          "title": "Let's Predict the Next Big Thing!",
-          "track": "Roundtable",
-          "description": "<p>\n\tIn this roundtable, Science Pros prognosticate and will keep a record and see who got it right at LibertyCon 2019 for bragging rights! Jay Roye Moderator.&nbsp;</p>\n",
-          "day": "2018-06-29",
-          "guests": [
-            "guest14",
-            "guest360",
-            "guest382",
-            "guest356",
-            "guest411",
-            "guest314",
-            "guest397",
-            "guest426"
-          ]
-        },
-        {
-          "event_id": "event594",
-          "time": "16:00:00",
-          "title": "The Planetary Anthology Roundtable",
-          "track": "Roundtable",
-          "description": "Authors from the Superversive Press Planetary Anthologies will have a roundtable discussion on the series and it's future. Jagi Lamplighter Wright (mod.)",
-          "day": "2018-06-29",
-          "guests": [
-            "guest413",
-            "guest371",
-            "guest417",
-            "guest412",
-            "guest380",
-            "guest261",
-            "guest308",
-            "guest423",
-            "guest440",
-            "guest330",
-            "guest360",
-            "guest198"
-          ]
-        },
-        {
-          "event_id": "event606",
-          "time": "10:00:00",
-          "title": "The Four Horsemen Roundtable ",
-          "track": "Roundtable",
-          "description": "Chris Kennedy moderates The 4 Horseman Roundtable: Readings, Q&A, Discussion and Mass Autograph Session",
-          "day": "2018-06-30",
-          "guests": [
-            "guest364",
-            "guest221",
-            "guest251",
-            "guest19",
-            "guest363",
-            "guest246",
-            "guest277",
-            "guest406",
-            "guest380",
-            "guest263",
-            "guest252",
-            "guest400",
-            "guest405",
-            "guest207",
-            "guest186",
-            "guest326",
-            "guest28",
-            "guest39",
-            "guest248",
-            "guest259"
-          ]
-        },
-        {
-          "event_id": "event657",
-          "time": "22:00:00",
-          "title": "Readings from the Carreraverse",
-          "track": "Roundtable",
-          "description": "Tom Kratman moderates this roundtable with readings from the new Carreraverse anthology.",
-          "day": "2018-06-30",
-          "guests": [
-            "guest263",
-            "guest318",
-            "guest221",
-            "guest322",
-            "guest439",
-            "guest440"
-          ]
-        }
-      ]
-    },
-    {
       "name": "Panel",
       "default": true,
       "events": [
@@ -3441,22 +3114,6 @@
             "guest330",
             "guest37",
             "guest331"
-          ]
-        },
-        {
-          "event_id": "event42",
-          "time": "18:00:00",
-          "title": "What&#039;s New in Dark Fantasy?",
-          "track": "Panel",
-          "description": "This panel moderated by D. Alan Lewis is a preview of a new dark fantasy novels and anthologies created by the panelists.",
-          "day": "2015-06-26",
-          "guests": [
-            "guest204",
-            "guest203",
-            "guest194",
-            "guest159",
-            "guest254",
-            "guest290"
           ]
         },
         {
@@ -3509,7 +3166,7 @@
           "time": "22:00:00",
           "title": "Technological Future of War",
           "track": "Panel",
-          "description": "<p>\n\tMichael Z. Williamson moderates this perennial panel on how today&#39;s advances will affect the future of warfare.</p>\n",
+          "description": "<p>\n\tMichael Z. Williamson moderates this perennial panel on how today's advances will affect the future of warfare.</p>\n",
           "day": "2018-06-29",
           "guests": [
             "guest444",
@@ -3536,92 +3193,6 @@
           ]
         },
         {
-          "event_id": "event83",
-          "time": "12:00:00",
-          "title": "What&#039;s New in the World of Steampunk",
-          "track": "Panel",
-          "description": "Gail Z. Martin moderates this panel on all things steampunk and what&#039;s new in the realm of steampunk fiction.",
-          "day": "2017-07-01",
-          "guests": [
-            "guest200",
-            "guest255",
-            "guest127",
-            "guest163",
-            "guest380",
-            "guest290"
-          ]
-        },
-        {
-          "event_id": "event148",
-          "time": "14:00:00",
-          "title": "H.G. Wells: The Father of Modern SF",
-          "track": "Panel",
-          "description": "Jonathan Baird moderates this panel on the renowned futurist and visionary author.",
-          "day": "2015-06-27",
-          "guests": [
-            "guest157",
-            "guest136",
-            "guest255"
-          ]
-        },
-        {
-          "event_id": "event168",
-          "time": "14:00:00",
-          "title": "Do Utopian cities or Dystopian cities make the better backdrop for Urban Fantasy? ",
-          "track": "Panel",
-          "description": "Gail Z. Martin moderates this panel discussion on what zeitgeist provides the most interesting framework for urban fantasy.",
-          "day": "2016-07-09",
-          "guests": [
-            "guest200",
-            "guest248",
-            "guest335",
-            "guest307"
-          ]
-        },
-        {
-          "event_id": "event179",
-          "time": "11:00:00",
-          "title": "Boots on the Ground vs. Bots on the Ground",
-          "track": "Panel",
-          "description": "Kevin Dockery, moderator. Will there always be a &quot;man in the loop?&quot; Authors weigh in on this speculative discussion on the impact and ethics of robotic drones transforming the landscape of warfare.",
-          "day": "2015-06-27",
-          "guests": [
-            "guest113",
-            "guest3",
-            "guest282",
-            "guest281",
-            "guest292"
-          ]
-        },
-        {
-          "event_id": "event181",
-          "time": "21:00:00",
-          "title": "Brewing 102",
-          "track": "Panel",
-          "description": "Chris Smith moderates this panel on the fine art of beer brewing ",
-          "day": "2015-06-26",
-          "guests": [
-            "guest221",
-            "guest222",
-            "guest223",
-            "guest266"
-          ]
-        },
-        {
-          "event_id": "event183",
-          "time": "15:00:00",
-          "title": "What are the essential elements of YA Fantasy Literature?",
-          "track": "Panel",
-          "description": "Holly McClure moderates this exploration of YA fantasy literature and what drives success in the genre.",
-          "day": "2016-06-27",
-          "guests": [
-            "guest18",
-            "guest305",
-            "guest320",
-            "guest245"
-          ]
-        },
-        {
           "event_id": "event190",
           "time": "13:00:00",
           "title": "Crossing Steampunk",
@@ -3638,63 +3209,17 @@
           ]
         },
         {
-          "event_id": "event194",
-          "time": "10:00:00",
-          "title": "Tall Tales and Short Stories",
-          "track": "Panel",
-          "description": "Tim Bolgeo (mod.) takes us for a stroll down memory lane of SF conventions past and fannish history.",
-          "day": "2017-07-01",
-          "guests": [
-            "guest339",
-            "guest323",
-            "guest131",
-            "guest134",
-            "guest314"
-          ]
-        },
-        {
-          "event_id": "event203",
-          "time": "21:00:00",
-          "title": "What&#039;s New in Military SF",
-          "track": "Panel",
-          "description": "Perennial review of what&#039;s new in the genre of military science fiction. Walt Boyes (mod.)",
-          "day": "2015-06-26",
-          "guests": [
-            "guest207",
-            "guest212",
-            "guest3",
-            "guest19",
-            "guest184",
-            "guest35"
-          ]
-        },
-        {
           "event_id": "event212",
           "time": "14:00:00",
           "title": "What's New in Weird Wild West",
           "track": "Panel",
-          "description": "<p>\n\tAnna Grace Carpenter moderates this panel on what&#39;s new in the genre of Weird Wild West.</p>\n",
+          "description": "<p>\n\tAnna Grace Carpenter moderates this panel on what's new in the genre of Weird Wild West.</p>\n",
           "day": "2018-07-01",
           "guests": [
             "guest404",
             "guest208",
             "guest40",
             "guest93"
-          ]
-        },
-        {
-          "event_id": "event220",
-          "time": "16:00:00",
-          "title": "Humor in Science Fiction and Fantasy",
-          "track": "Panel",
-          "description": "Howard Taylor moderates this panel on what makes for the most memorable and humorous in Science Fiction and Fantasy",
-          "day": "2015-06-27",
-          "guests": [
-            "guest198",
-            "guest182",
-            "guest194",
-            "guest242",
-            "guest291"
           ]
         },
         {
@@ -3708,38 +3233,6 @@
             "guest9",
             "guest157",
             "guest356"
-          ]
-        },
-        {
-          "event_id": "event224",
-          "time": "12:00:00",
-          "title": "What&#039;s New from Perseid Publishing",
-          "track": "Panel",
-          "description": "Rich Groller moderates this discussion of new and upcoming works with other Perseid authors.",
-          "day": "2016-07-10",
-          "guests": [
-            "guest202",
-            "guest130",
-            "guest15",
-            "guest12",
-            "guest211",
-            "guest310"
-          ]
-        },
-        {
-          "event_id": "event226",
-          "time": "12:00:00",
-          "title": "The &quot;Other&quot; - Is the enemy demonized or humanized in modern Military SF?",
-          "track": "Panel",
-          "description": "Bill Fawcett moderates this Military SF Panel that gives pros, cons, and examples of the how the enemy is portrayed in successful works.",
-          "day": "2015-06-30",
-          "guests": [
-            "guest199",
-            "guest113",
-            "guest3",
-            "guest282",
-            "guest212",
-            "guest292"
           ]
         },
         {
@@ -3759,78 +3252,6 @@
           ]
         },
         {
-          "event_id": "event237",
-          "time": "14:00:00",
-          "title": "The Future of Cybersecurity and CyberWarfare ",
-          "track": "Panel",
-          "description": "Mark Paulk moderates this panel on the realities and dangers looming on the horizon with respect to cybersecurity and the potentials of cyberwarfare. Here is a link to panel references: http://vocshop.com/rick/libertycon/cyberwar.html",
-          "day": "2017-06-30",
-          "guests": [
-            "guest273",
-            "guest356",
-            "guest149",
-            "guest344"
-          ]
-        },
-        {
-          "event_id": "event239",
-          "time": "15:00:00",
-          "title": "Science and Publishing",
-          "track": "Panel",
-          "description": "Tedd Roberts moderates this panel on how to write for scientific as opposed to literary publications.",
-          "day": "2015-06-27",
-          "guests": [
-            "guest179",
-            "guest118",
-            "guest138",
-            "guest9",
-            "guest35",
-            "guest28"
-          ]
-        },
-        {
-          "event_id": "event245",
-          "time": "13:00:00",
-          "title": "YA SF&F Literature - How To Keep the Young Mind&#039;s Attention in the Age of Video.",
-          "track": "Panel",
-          "description": "S. Andrew Swann moderates this panel on writing YA science fiction and fantasy literature that will capture the attention of youth in an age where there is so much competition for ever diminishing available time.",
-          "day": "2017-07-02",
-          "guests": [
-            "guest328",
-            "guest375",
-            "guest340",
-            "guest359",
-            "guest305"
-          ]
-        },
-        {
-          "event_id": "event250",
-          "time": "19:00:00",
-          "title": "The Artist&#039;s Way: Artist&#039;s on the Art of Creation",
-          "track": "Panel",
-          "description": "Artist GOH Dan dos Santos moderates this panel on the creative spark and what drives inspiration.",
-          "day": "2017-06-30",
-          "guests": [
-            "guest230",
-            "guest351",
-            "guest140",
-            "guest5",
-            "guest6"
-          ]
-        },
-        {
-          "event_id": "event268",
-          "time": "10:00:00",
-          "title": " &quot;Kaiju Returns -- are big monsters really necessary for urban renewal?&quot;",
-          "track": "Panel",
-          "description": "Jason Cordova and Eric S. Brown return to LibertyCon with new Kaiju novels ",
-          "day": "2015-06-27",
-          "guests": [
-            "guest238",
-            "guest19"
-          ]
-        },
-        {
           "event_id": "event298",
           "time": "21:00:00",
           "title": "The Art of Editing",
@@ -3839,119 +3260,6 @@
           "day": "2018-06-29",
           "guests": [
             "guest408"
-          ]
-        },
-        {
-          "event_id": "event302",
-          "time": "16:00:00",
-          "title": "The Confluence of the Science Fiction and Western Genres",
-          "track": "Panel",
-          "description": "Peter Grant moderates this panel on the differences and similarities between science fiction (Star Trek as Wagon Train in Space) vs Firefly vs Weird Wild West.",
-          "day": "2017-06-30",
-          "guests": [
-            "guest221",
-            "guest208",
-            "guest384",
-            "guest215",
-            "guest365",
-            "guest290"
-          ]
-        },
-        {
-          "event_id": "event304",
-          "time": "10:00:00",
-          "title": "On the Collaborations of David Weber and Eric Flint",
-          "track": "Panel",
-          "description": "David Weber and Eric Flint discuss their joint work in the Honorverse and the 1632verse.",
-          "day": "2015-06-27",
-          "guests": [
-            "guest66",
-            "guest85"
-          ]
-        },
-        {
-          "event_id": "event311",
-          "time": "14:00:00",
-          "title": "Cooking Out of this World",
-          "track": "Panel",
-          "description": "Todd McCaffrey moderates this panel on the fine art and culinary peculiarities of Out of this World Cooking Literally and Figuratively.  From real world recipes (like crepes) to blatant plugs (Anne McCaffreys anthology, Cooking Out of this World), to the real question of eating (and cooking) in space.",
-          "day": "2017-07-02",
-          "guests": [
-            "guest225",
-            "guest29",
-            "guest389",
-            "guest388",
-            "guest326"
-          ]
-        },
-        {
-          "event_id": "event315",
-          "time": "15:00:00",
-          "title": "Editorial Prerogative",
-          "track": "Panel",
-          "description": "Bill Fawcett moderates this panel discussing the challenges and opportunities facing the modern editor. ",
-          "day": "2015-06-26",
-          "guests": [
-            "guest256",
-            "guest127",
-            "guest18",
-            "guest199"
-          ]
-        },
-        {
-          "event_id": "event317",
-          "time": "12:00:00",
-          "title": "Intelligence:  What is it? Where is my smart pill?",
-          "track": "Panel",
-          "description": "Tedd Roberts moderates this panel on pertinent topics in brain science and intelligence.",
-          "day": "2015-06-28",
-          "guests": [
-            "guest249",
-            "guest227",
-            "guest262",
-            "guest28",
-            "guest62"
-          ]
-        },
-        {
-          "event_id": "event319",
-          "time": "18:00:00",
-          "title": "Keeping Track of Your Money",
-          "track": "Panel",
-          "description": "Sarah Hoyt moderates this panel on money management for the independent author.",
-          "day": "2015-06-26",
-          "guests": [
-            "guest251",
-            "guest240",
-            "guest246",
-            "guest10"
-          ]
-        },
-        {
-          "event_id": "event322",
-          "time": "17:00:00",
-          "title": "How to Pick the Best Format for Your Game Design",
-          "track": "Panel",
-          "description": "Bill Fawcett moderates this panel on how to pick the best format for your game design idea - i.e. board game vs. card game vs. role playing game",
-          "day": "2016-07-09",
-          "guests": [
-            "guest199",
-            "guest297",
-            "guest243"
-          ]
-        },
-        {
-          "event_id": "event324",
-          "time": "18:00:00",
-          "title": "Consciousness: Who are we really?",
-          "track": "Panel",
-          "description": "Tedd Roberts moderates this intriguing panel on the meaning and science of consciousness, and discusses such topics as whether or not it can uploaded into a computer.",
-          "day": "2015-06-26",
-          "guests": [
-            "guest138",
-            "guest28",
-            "guest186",
-            "guest62"
           ]
         },
         {
@@ -3986,75 +3294,6 @@
           ]
         },
         {
-          "event_id": "event331",
-          "time": "18:00:00",
-          "title": "Gothic Horror and the Birth of Vampire Romanticism",
-          "track": "Panel",
-          "description": "David Baird moderates this panel on the historical roots of vampire romanticism.",
-          "day": "2017-07-01",
-          "guests": [
-            "guest40",
-            "guest307",
-            "guest248",
-            "guest255",
-            "guest122",
-            "guest256"
-          ]
-        },
-        {
-          "event_id": "event336",
-          "time": "22:00:00",
-          "title": "Nuclear Power vs. Fossil Fuels",
-          "track": "Panel",
-          "description": "Tim Bolgeo moderates this educational and entertaining panel (with a bit of snark) on what power source is best.",
-          "day": "2015-06-26",
-          "guests": [
-            "guest14",
-            "guest179",
-            "guest131",
-            "guest182"
-          ]
-        },
-        {
-          "event_id": "event338",
-          "time": "18:00:00",
-          "title": "Todd Talks",
-          "track": "Panel",
-          "description": "Special GOH Todd McCaffrey will present &quot;Todd Talks&quot; - if you get the reference, you know it will be most excellent! ",
-          "day": "2017-06-30",
-          "guests": [
-            "guest225"
-          ]
-        },
-        {
-          "event_id": "event341",
-          "time": "20:00:00",
-          "title": "Cage Match: DC vs. Marvel",
-          "track": "Panel",
-          "description": "Comics professionals dish on who has done the best job bringing the comics to the big screen. Van Allen Plexico moderates.",
-          "day": "2017-07-01",
-          "guests": [
-            "guest289",
-            "guest256",
-            "guest334",
-            "guest358"
-          ]
-        },
-        {
-          "event_id": "event352",
-          "time": "20:00:00",
-          "title": "Georgette Heyer and Her Influence on Science Fiction",
-          "track": "Panel",
-          "description": "Toni Weisskopf moderates this panel discussion of novelist Georgette Heyer and her influence on Science Fiction",
-          "day": "2016-07-08",
-          "guests": [
-            "guest198",
-            "guest85",
-            "guest10",
-            "guest8"
-          ]
-        },
-        {
           "event_id": "event353",
           "time": "15:00:00",
           "title": "Show 'n' Tell from the Hank Reinhardt Collection",
@@ -4068,45 +3307,6 @@
           ]
         },
         {
-          "event_id": "event370",
-          "time": "14:00:00",
-          "title": "Frontiers of Nanotech",
-          "track": "Panel",
-          "description": "Jaye Roye moderates this panel on advances in nanotechnology.",
-          "day": "2016-07-08",
-          "guests": [
-            "guest330",
-            "guest20",
-            "guest14"
-          ]
-        },
-        {
-          "event_id": "event373",
-          "time": "15:00:00",
-          "title": "The Future of Food and GMO Food Issues",
-          "track": "Panel",
-          "description": "Agronomist Gary Shelton moderates this timely panel that will address a myriad of issues. Want to colonize that new world? Then you better face the fact you are gonna need those GMO crops. And maybe modify yourself to boot! GMOs - will labelling solve it all?  Can anyone really avoid GMOs? What if a cow or a chicken eats feed that contains GMOs, does that make the feed animal a GMO? Would that in turn make humans GMOs? GMO deniers, same or different than climate change deniers?",
-          "day": "2016-07-09",
-          "guests": [
-            "guest227",
-            "guest134",
-            "guest186"
-          ]
-        },
-        {
-          "event_id": "event375",
-          "time": "10:00:00",
-          "title": "Where Next for Human Space Exploration - Mars? ",
-          "track": "Panel",
-          "description": "Panel discussion about the next stop in the grand challenge of human space exploration - Mars. Stephen Fleming (Mod.)",
-          "day": "2016-07-09",
-          "guests": [
-            "guest20",
-            "guest9",
-            "guest312"
-          ]
-        },
-        {
           "event_id": "event376",
           "time": "17:00:00",
           "title": "Industry in Space",
@@ -4115,199 +3315,11 @@
           "day": "2018-06-30",
           "guests": [
             "guest182",
-            "guest382",
             "guest386",
             "guest401",
             "guest402",
             "guest220",
             "guest342"
-          ]
-        },
-        {
-          "event_id": "event377",
-          "time": "19:00:00",
-          "title": "Science is Why We Drink",
-          "track": "Panel",
-          "description": "Panel on public misperceptions of scientific research - with all the bad science memes that get tossed about on social media and the constant facepalming, this panel addresses the worst of the memes that we see. Cathe Smith, Mod.",
-          "day": "2016-07-09",
-          "guests": [
-            "guest136",
-            "guest186",
-            "guest227",
-            "guest153"
-          ]
-        },
-        {
-          "event_id": "event379",
-          "time": "14:00:00",
-          "title": "Gene Editing - the Making of Better Humans",
-          "track": "Panel",
-          "description": "Gene editing - just how easy is it, really? CRISPR/CAS has revolutionized the ability to insert or delete genes. Novel techniques involving optogenetics and chemically-activated gene products (DREDDs) provide the ability to turn those edited genes on and off.  Is it really time for Junior&#039;s Home DNA kit? Tedd Roberts, Mod.",
-          "day": "2016-07-10",
-          "guests": [
-            "guest180",
-            "guest262",
-            "guest227",
-            "guest28"
-          ]
-        },
-        {
-          "event_id": "event381",
-          "time": "17:00:00",
-          "title": "Modernization of the Electric Grid",
-          "track": "Panel",
-          "description": "David Bogen moderates this panel on the modernization of the electric grid and the changes green power has introduced.",
-          "day": "2016-07-09",
-          "guests": [
-            "guest314",
-            "guest14",
-            "guest179",
-            "guest131",
-            "guest182",
-            "guest136"
-          ]
-        },
-        {
-          "event_id": "event383",
-          "time": "18:00:00",
-          "title": "Fallout Shelter Basics",
-          "track": "Panel",
-          "description": "Ken Roy moderates this how-to panel about building and stocking your very own fallout shelter!",
-          "day": "2016-07-08",
-          "guests": [
-            "guest235",
-            "guest157",
-            "guest156",
-            "guest186",
-            "guest136",
-            "guest182"
-          ]
-        },
-        {
-          "event_id": "event386",
-          "time": "14:00:00",
-          "title": "The Aliens Are NOT Among Us ",
-          "track": "Panel",
-          "description": "Les Johnson moderates this discussion on the improbability that we are being visited by extraterrestrials.",
-          "day": "2016-07-10",
-          "guests": [
-            "guest9",
-            "guest153",
-            "guest330",
-            "guest312"
-          ]
-        },
-        {
-          "event_id": "event388",
-          "time": "13:00:00",
-          "title": "Alien Design Based on Scientific Principles",
-          "track": "Panel",
-          "description": "Paula Jordan moderates this panel on how to properly design your alien so that it will be realistic in accordance with known science.",
-          "day": "2016-07-10",
-          "guests": [
-            "guest218",
-            "guest262",
-            "guest184"
-          ]
-        },
-        {
-          "event_id": "event392",
-          "time": "17:00:00",
-          "title": "Panel Noir",
-          "track": "Panel",
-          "description": "Kacey Ezell (Mod.) on &quot;Panel Noir&quot;:  Come join us as we discuss the related genres of Noir and Hardboiled Detective Fiction.  What constitutes one or the other?  Is there a difference?  And how do authors mash these classic genres up with fantasy, sci-fi, and other flavors of speculative fiction?   ",
-          "day": "2016-07-09",
-          "guests": [
-            "guest59",
-            "guest221",
-            "guest254",
-            "guest168",
-            "guest263"
-          ]
-        },
-        {
-          "event_id": "event394",
-          "time": "15:00:00",
-          "title": "Writing for the Comics",
-          "track": "Panel",
-          "description": "Martin Powell moderates this panel of comic and graphic novels luminaries on what it is like to write iconic characters and new creations..",
-          "day": "2016-07-08",
-          "guests": [
-            "guest293",
-            "guest289",
-            "guest299",
-            "guest256",
-            "guest317",
-            "guest336"
-          ]
-        },
-        {
-          "event_id": "event395",
-          "time": "22:00:00",
-          "title": "Our Morbid Fascination with Zombies ",
-          "track": "Panel",
-          "description": "Mark Wandrey moderates this intriguing look at Zombie fiction sub-genre of horror. ",
-          "day": "2017-06-30",
-          "guests": [
-            "guest67",
-            "guest207",
-            "guest334",
-            "guest381"
-          ]
-        },
-        {
-          "event_id": "event396",
-          "time": "18:00:00",
-          "title": "The Weird Allure of the Anthology",
-          "track": "Panel",
-          "description": "Jonathan Baird moderates this panel on the fascination and intricacies of success writing in anthologies.",
-          "day": "2016-07-09",
-          "guests": [
-            "guest299",
-            "guest12",
-            "guest255"
-          ]
-        },
-        {
-          "event_id": "event398",
-          "time": "21:00:00",
-          "title": "The Allure of Dark Fantasy",
-          "track": "Panel",
-          "description": "Jonathan Baird moderates this panel on Dark Fantasy and how it differs from other &quot;dark&quot; genres such as Gothic Horror.",
-          "day": "2016-07-09",
-          "guests": [
-            "guest290",
-            "guest299",
-            "guest67",
-            "guest255",
-            "guest40"
-          ]
-        },
-        {
-          "event_id": "event401",
-          "time": "18:00:00",
-          "title": "Writing With Your Significant Other",
-          "track": "Panel",
-          "description": "These couples dish on the ins and outs of writing and living together! Kevin Evans (mod.)",
-          "day": "2016-07-08",
-          "guests": [
-            "guest310",
-            "guest280",
-            "guest276",
-            "guest311"
-          ]
-        },
-        {
-          "event_id": "event403",
-          "time": "11:00:00",
-          "title": "Bringing Modern Technology into Urban Fantasy",
-          "track": "Panel",
-          "description": "In  the words of John Ringo &quot;Why don&#039;t we use robots to stake vampires?&quot; John Ringo moderates this panel on using high tech in fantasy worlds. Drones vs. Dragons anyone?",
-          "day": "2016-07-09",
-          "guests": [
-            "guest85",
-            "guest3",
-            "guest168"
           ]
         },
         {
@@ -4326,225 +3338,6 @@
           ]
         },
         {
-          "event_id": "event411",
-          "time": "19:00:00",
-          "title": "Invasion of the Podcasters",
-          "track": "Panel",
-          "description": "Brian Cooksey moderates this eclectic panel of experts from different backgrounds on all things podcasting!",
-          "day": "2016-07-09",
-          "guests": [
-            "guest339",
-            "guest37",
-            "guest307"
-          ]
-        },
-        {
-          "event_id": "event412",
-          "time": "16:00:00",
-          "title": "The Art of Short Story Writing",
-          "track": "Panel",
-          "description": "Dan Hollifield moderates this panel on the tricks and techniques of writing good short stories.",
-          "day": "2017-06-30",
-          "guests": [
-            "guest127",
-            "guest12",
-            "guest247"
-          ]
-        },
-        {
-          "event_id": "event413",
-          "time": "13:00:00",
-          "title": "Lessons from History We&#039;ve Failed to Learn",
-          "track": "Panel",
-          "description": "Bill Fawcett moderates this panel on the lessons from history that we as a species have failed to learn and are seemingly doomed to repeat again.",
-          "day": "2016-07-08",
-          "guests": [
-            "guest199",
-            "guest281",
-            "guest282",
-            "guest259"
-          ]
-        },
-        {
-          "event_id": "event414",
-          "time": "12:00:00",
-          "title": "Student and Teacher Together Again - Changing Perspectives on Art",
-          "track": "Panel",
-          "description": "Sam Flegal was the student and Tom Biondolillo the teacher - see how much perspectives of art evolve over time.",
-          "day": "2016-07-09",
-          "guests": [
-            "guest230",
-            "guest293"
-          ]
-        },
-        {
-          "event_id": "event420",
-          "time": "11:00:00",
-          "title": "What is the Cultural Significance of the Zombie Apocalypse?",
-          "track": "Panel",
-          "description": " Dan Hoyt moderates this panel exploring the cultural significance of the current Zombie Apocalypse Megatrend",
-          "day": "2016-07-10",
-          "guests": [
-            "guest306",
-            "guest67",
-            "guest207",
-            "guest336"
-          ]
-        },
-        {
-          "event_id": "event421",
-          "time": "20:00:00",
-          "title": "It&#039;s in the Blood: What Fuels our Fears, Attraction and Fascination with Vampires",
-          "track": "Panel",
-          "description": "Karen Bogen moderates this panel on what motivates our unending quest for all things vampire.",
-          "day": "2016-07-09",
-          "guests": [
-            "guest289",
-            "guest307",
-            "guest122",
-            "guest159",
-            "guest248"
-          ]
-        },
-        {
-          "event_id": "event422",
-          "time": "18:00:00",
-          "title": "Southern Gothic ",
-          "track": "Panel",
-          "description": "Leia Barrett-Durham Powell moderates this chilling panel on all frightful things Southern Gothic!",
-          "day": "2016-07-09",
-          "guests": [
-            "guest208",
-            "guest216",
-            "guest194",
-            "guest29"
-          ]
-        },
-        {
-          "event_id": "event423",
-          "time": "18:00:00",
-          "title": "Writing Supernatural Elements in Urban Fantasy",
-          "track": "Panel",
-          "description": "David Coe moderates this discussion on how the supernatural informs many aspects of contemporary urban fantasy.",
-          "day": "2016-07-08",
-          "guests": [
-            "guest254",
-            "guest93",
-            "guest37",
-            "guest290",
-            "guest18"
-          ]
-        },
-        {
-          "event_id": "event424",
-          "time": "21:00:00",
-          "title": "For the Love of Lovecraft",
-          "track": "Panel",
-          "description": "These authors and artists discuss their creative inspirations from the works of H.P. Lovecraft and his influence on modern culture. Steve Jackson, Moderator.",
-          "day": "2016-07-09",
-          "guests": [
-            "guest310",
-            "guest243",
-            "guest241",
-            "guest36",
-            "guest144"
-          ]
-        },
-        {
-          "event_id": "event425",
-          "time": "20:00:00",
-          "title": "Madness and Harmony, Adventures in Film Making",
-          "track": "Panel",
-          "description": "Making a movie is a massive undertaking, with so many people, there are bound to be crazy stories.  Robert S. Evans has been in the world of film making for nearly 16 years.  From professional sets, to tight budgeted independent productions, he has tons of stories to tell.  From drafting a script, to finishing the last video render, hear the first hand accounts, and learn a bit about it in the process.",
-          "day": "2017-07-01",
-          "guests": [
-            "guest341"
-          ]
-        },
-        {
-          "event_id": "event426",
-          "time": "20:00:00",
-          "title": "Writing for Audio Drama",
-          "track": "Panel",
-          "description": "ARTC members Bill Ritch and Ron Butler will discuss the art of writing for audio drama. Brad Strickland (mod.)",
-          "day": "2016-07-08",
-          "guests": [
-            "guest128",
-            "guest59",
-            "guest305"
-          ]
-        },
-        {
-          "event_id": "event427",
-          "time": "10:00:00",
-          "title": "Performing in Audio Drama",
-          "track": "Panel",
-          "description": "Members of ARTC David Benedict, Matt Goodson and Clair Kiernan will discuss the art and craft of acting / performing in audio drama.",
-          "day": "2016-07-09",
-          "guests": [
-            "guest128",
-            "guest59",
-            "guest305"
-          ]
-        },
-        {
-          "event_id": "event431",
-          "time": "15:00:00",
-          "title": "Swords and Sorcery: From Light to Epic Fantasy and All Things In-Between",
-          "track": "Panel",
-          "description": "S. Andrew Swann moderates this panel on all things Swords and Sorcery!",
-          "day": "2016-07-08",
-          "guests": [
-            "guest252",
-            "guest309",
-            "guest326",
-            "guest122",
-            "guest319",
-            "guest328"
-          ]
-        },
-        {
-          "event_id": "event434",
-          "time": "13:00:00",
-          "title": "What&#039;s New in the World of Pirate Fantasy",
-          "track": "Panel",
-          "description": "Tamara Lowery moderates this panel on the subgenre of Pirate Fantasy.",
-          "day": "2017-06-30",
-          "guests": [
-            "guest12",
-            "guest171",
-            "guest159"
-          ]
-        },
-        {
-          "event_id": "event438",
-          "time": "16:00:00",
-          "title": "Edgar Rice Burroughs in Art and Literature",
-          "track": "Panel",
-          "description": "Leia and Martin Powell and leaders from ERB Inc. discuss their fascination with Edgar Rice Burroughs and how they have brought his characters to life in art and literature.",
-          "day": "2016-07-09",
-          "guests": [
-            "guest345",
-            "guest216",
-            "guest346",
-            "guest256"
-          ]
-        },
-        {
-          "event_id": "event439",
-          "time": "19:00:00",
-          "title": "On Writing Sherlock Holmes",
-          "track": "Panel",
-          "description": "Stephanie Osborn moderates this panel on the nuances of capturing the Great Detective and doing him justice!",
-          "day": "2016-07-08",
-          "guests": [
-            "guest304",
-            "guest256",
-            "guest39",
-            "guest336"
-          ]
-        },
-        {
           "event_id": "event442",
           "time": "16:00:00",
           "title": "Ancient Technologies and Ancient Civilizations",
@@ -4558,19 +3351,6 @@
             "guest330",
             "guest430",
             "guest255"
-          ]
-        },
-        {
-          "event_id": "event446",
-          "time": "18:00:00",
-          "title": "On Writing Epic Fantasy",
-          "track": "Panel",
-          "description": "Gail Z. Martin moderates this panel on what it takes to hold an audience and build a believable world in epic fantasy.",
-          "day": "2016-07-09",
-          "guests": [
-            "guest200",
-            "guest246",
-            "guest40"
           ]
         },
         {
@@ -4599,8 +3379,7 @@
             "guest354",
             "guest6",
             "guest5",
-            "guest368",
-            "guest383"
+            "guest368"
           ]
         },
         {
@@ -4620,145 +3399,6 @@
           ]
         },
         {
-          "event_id": "event483",
-          "time": "19:00:00",
-          "title": "The Real-Life Inspirations for Fantasy and Horror",
-          "track": "Panel",
-          "description": "Literary GOH Kevin Hearne and author Cherie Priest talk about the settings for their work and how they inspire their stories--the lesson for aspiring writers being that ideas for stories and novels are everywhere you look, and anchoring your fantasy or horror in modern reality help sell the fantastic and horrific as believable.",
-          "day": "2017-06-30",
-          "guests": [
-            "guest348",
-            "guest362"
-          ]
-        },
-        {
-          "event_id": "event486",
-          "time": "15:00:00",
-          "title": "Dark Urban Fantasy, Horror, Paranormal Romance, Paranormal Suspense: Where Do the Lines Blur?",
-          "track": "Panel",
-          "description": "Terry Maggert moderates this panel on the the tenuous seams between genres, and where the lines blur between Horror, Paranormal Romance and Paranormal Suspense.",
-          "day": "2017-07-01",
-          "guests": [
-            "guest363",
-            "guest349",
-            "guest389",
-            "guest208",
-            "guest248"
-          ]
-        },
-        {
-          "event_id": "event487",
-          "time": "11:00:00",
-          "title": "Broken Heroes and How They Save the World (Or The Story)",
-          "track": "Panel",
-          "description": "John Hartness moderates this panel of the journeys and trials that &quot;everyman&quot; faces and how he evolves into a hero.",
-          "day": "2017-07-02",
-          "guests": [
-            "guest349",
-            "guest40",
-            "guest381",
-            "guest364"
-          ]
-        },
-        {
-          "event_id": "event489",
-          "time": "13:00:00",
-          "title": "The Influence of Dark Urban Fantasy on Mainstream Media",
-          "track": "Panel",
-          "description": " Gail Z. Martin moderates this in-depth look at the influence of dark urban fantasy on mainstream media.",
-          "day": "2017-07-02",
-          "guests": [
-            "guest362",
-            "guest307",
-            "guest200",
-            "guest248",
-            "guest335"
-          ]
-        },
-        {
-          "event_id": "event499",
-          "time": "16:00:00",
-          "title": "The Walking Tedd (or Good Health for Geeks)",
-          "track": "Panel",
-          "description": "Dr. Robert Hampson and Patty McIntosh-Mize discuss gaining and maintaining good health. Discussion will encompass multiple topics to include:  Evaluation - Where do you need to find balance?, Nutrition / Food & Hydration, Sleep Hygiene, Healing from Physical Trauma and Recovering from Disease (including regular visits to doctor and dentist), Stress Response (especially breathing), Exercise/Flexibility, Relationships, Beyond Balance: new challenges and adventures.",
-          "day": "2017-06-30",
-          "guests": [
-            "guest28",
-            "guest376",
-            "guest227"
-          ]
-        },
-        {
-          "event_id": "event502",
-          "time": "14:00:00",
-          "title": "The Law is for All",
-          "track": "Panel",
-          "description": "This panel of lawyer authors will explore from an insider&#039;s view, how truthfully the legal profession is portrayed in Science Fiction and Fantasy. Moderator Robert Buettner",
-          "day": "2017-07-02",
-          "guests": [
-            "guest331",
-            "guest194",
-            "guest282",
-            "guest322",
-            "guest355"
-          ]
-        },
-        {
-          "event_id": "event506",
-          "time": "10:00:00",
-          "title": "Support Services in Military SF",
-          "track": "Panel",
-          "description": "Are military support services (intel, engineering, logistics, medical, etc.) accurately portrayed in Military SF? Our blue ribbon panel of military experts will discuss where the best and worst descriptions can be found. Tom Mays moderates. ",
-          "day": "2017-07-02",
-          "guests": [
-            "guest220",
-            "guest186",
-            "guest156",
-            "guest259"
-          ]
-        },
-        {
-          "event_id": "event507",
-          "time": "20:00:00",
-          "title": "Comedic Urban Fantasy",
-          "track": "Panel",
-          "description": "Stephen Simmons moderates this interesting Pratchettesque look at urban fantasy from the hilarious side.",
-          "day": "2017-06-30",
-          "guests": [
-            "guest372",
-            "guest182",
-            "guest122",
-            "guest303",
-            "guest40"
-          ]
-        },
-        {
-          "event_id": "event510",
-          "time": "15:00:00",
-          "title": "The Future of Military Flight",
-          "track": "Panel",
-          "description": "Pilots and Engineers dish on the future of helos, UAVs, and planes. Karl Gallagher will moderate.",
-          "day": "2017-06-30",
-          "guests": [
-            "guest263",
-            "guest395",
-            "guest251",
-            "guest386"
-          ]
-        },
-        {
-          "event_id": "event511",
-          "time": "21:00:00",
-          "title": "Law Enforcement for SF&F Writers / Readers",
-          "track": "Panel",
-          "description": "Science Fiction and Fantasy writers who are also law-enforcement workers discuss how SF&F portrays law enforcement, and compares those practices to real-world law enforcement.  They will talk about where fiction differs from reality and discuss what works in stories and what really is fantasy.",
-          "day": "2017-06-30",
-          "guests": [
-            "guest281",
-            "guest385"
-          ]
-        },
-        {
           "event_id": "event513",
           "time": "19:00:00",
           "title": "The Art of Film Making ",
@@ -4768,62 +3408,6 @@
           "guests": [
             "guest414",
             "guest341"
-          ]
-        },
-        {
-          "event_id": "event517",
-          "time": "19:00:00",
-          "title": "Revenge of the Podcasters",
-          "track": "Panel",
-          "description": "Our intrepid and eclectic group of podcasters will dish on their glamorous profession. Brian Cooksey (Mod,) ",
-          "day": "2017-07-01",
-          "guests": [
-            "guest358",
-            "guest37",
-            "guest339",
-            "guest307"
-          ]
-        },
-        {
-          "event_id": "event520",
-          "time": "18:00:00",
-          "title": "Kolchak, X-Files and the Joys of Cryptozoology",
-          "track": "Panel",
-          "description": "Bigfoot expert Eric S. Brown moderates this tongue-in-cheek paean to cryptozoology and as seen through the lens of its biggest fans - Karl Kolchak and Fox Mulder.",
-          "day": "2017-07-01",
-          "guests": [
-            "guest238",
-            "guest12",
-            "guest20"
-          ]
-        },
-        {
-          "event_id": "event522",
-          "time": "19:00:00",
-          "title": "Past and Future Vogue: Fashion influences on Science Fiction and Fantasy",
-          "track": "Panel",
-          "description": "Clothing Historian Jonna Hayden moderates this interdisciplinary panel on how fashion across time informs SF&F.",
-          "day": "2017-07-01",
-          "guests": [
-            "guest396",
-            "guest163",
-            "guest250",
-            "guest368"
-          ]
-        },
-        {
-          "event_id": "event523",
-          "time": "12:00:00",
-          "title": "World Mythology and It&#039;s Influence on Science Fiction and Fantasy Art and Literature",
-          "track": "Panel",
-          "description": "Dr. Darin Kennedy moderates this interdisciplinary panel on how world mythology has shaped and influenced science fiction and fantasy art and literature.",
-          "day": "2017-07-02",
-          "guests": [
-            "guest354",
-            "guest315",
-            "guest340",
-            "guest230",
-            "guest140"
           ]
         },
         {
@@ -4843,97 +3427,6 @@
           ]
         },
         {
-          "event_id": "event531",
-          "time": "11:00:00",
-          "title": "Now What? Getting Your Plot Unstuck and Overcoming Writer&#039;s Block",
-          "track": "Panel",
-          "description": "A.G. Carpenter moderates that panel on overcoming writer&#039;s block with tips and tricks for getting your plot unstuck and taking your story all the way to the end.  Various approaches to getting the gears turning again will be offered by combining the expertise of multiple authors.",
-          "day": "2017-07-01",
-          "guests": [
-            "guest335",
-            "guest208",
-            "guest309",
-            "guest326",
-            "guest288"
-          ]
-        },
-        {
-          "event_id": "event538",
-          "time": "13:00:00",
-          "title": "Stealth in Space",
-          "track": "Panel",
-          "description": "Jim Beall moderates this panel on stealth. In space we have a problem   Anything in space generates heat if it has the power to move or survive.  Heat is very detectable against the backdrop of very cold space.  How is this overcome?",
-          "day": "2017-06-30",
-          "guests": [
-            "guest259",
-            "guest184",
-            "guest386",
-            "guest344",
-            "guest179"
-          ]
-        },
-        {
-          "event_id": "event539",
-          "time": "21:00:00",
-          "title": "Future Illnesses / Blights / Contagions - What&#039;s Coming Next?",
-          "track": "Panel",
-          "description": "Robert Hampson moderates this panel on future plagues and other health concerns that may be lurking around the corner.",
-          "day": "2017-07-01",
-          "guests": [
-            "guest262",
-            "guest227",
-            "guest186",
-            "guest28",
-            "guest225",
-            "guest388"
-          ]
-        },
-        {
-          "event_id": "event540",
-          "time": "12:00:00",
-          "title": "The Robot Economy Where no Human Has to Work - How might that Turnout?",
-          "track": "Panel",
-          "description": "Bill Thomasson moderates this panel on the perils and possibilities of robot based economies.",
-          "day": "2017-07-02",
-          "guests": [
-            "guest220",
-            "guest262",
-            "guest386",
-            "guest344",
-            "guest218"
-          ]
-        },
-        {
-          "event_id": "event541",
-          "time": "11:00:00",
-          "title": "Space Debris and the Issues of Satellite Survivability ",
-          "track": "Panel",
-          "description": "Karl Gallagher moderates this panel on space debris and other issues impacting the survivability of our satellite constellations.",
-          "day": "2017-07-01",
-          "guests": [
-            "guest259",
-            "guest386",
-            "guest39",
-            "guest313"
-          ]
-        },
-        {
-          "event_id": "event542",
-          "time": "13:00:00",
-          "title": "Science Research for Writers",
-          "track": "Panel",
-          "description": "Robert Hampson moderates this panel discussion on how writers can research technical/science questions.",
-          "day": "2017-07-02",
-          "guests": [
-            "guest227",
-            "guest344",
-            "guest39",
-            "guest28",
-            "guest179",
-            "guest218"
-          ]
-        },
-        {
           "event_id": "event543",
           "time": "17:00:00",
           "title": "Masters of Military Science Fiction",
@@ -4946,91 +3439,6 @@
             "guest113",
             "guest3",
             "guest85"
-          ]
-        },
-        {
-          "event_id": "event544",
-          "time": "15:00:00",
-          "title": "The Xenobiologist&#039;s Dream:  Designing a Believable Alien Species",
-          "track": "Panel",
-          "description": "Robert Hampson moderates this panel on xenobiology and the requirements necessary to design of a believable alien species.",
-          "day": "2017-06-30",
-          "guests": [
-            "guest218",
-            "guest28",
-            "guest184",
-            "guest337",
-            "guest179"
-          ]
-        },
-        {
-          "event_id": "event545",
-          "time": "13:00:00",
-          "title": "Future Societies - More of the Same or Something Completely Different?  ",
-          "track": "Panel",
-          "description": "Bill Thomasson moderates this panel on Future Societies. Should Science Fiction be our guide to something completely different or will the future really be more of the same? ",
-          "day": "2017-07-01",
-          "guests": [
-            "guest182",
-            "guest262",
-            "guest153",
-            "guest218",
-            "guest273"
-          ]
-        },
-        {
-          "event_id": "event546",
-          "time": "10:00:00",
-          "title": "The Blade Files",
-          "track": "Panel",
-          "description": "Daniel Allen Butler and Scott Bragg talk about the 3 books and the new anthology their science fiction series the Blade Files.",
-          "day": "2017-07-01",
-          "guests": [
-            "guest333",
-            "guest332"
-          ]
-        },
-        {
-          "event_id": "event548",
-          "time": "16:00:00",
-          "title": "What&#039;s New in Children&#039;s SF & F Literature",
-          "track": "Panel",
-          "description": "Leia Powell moderates this panel on what is new in the world of children&#039;s science fiction and fantasy literature.",
-          "day": "2017-06-30",
-          "guests": [
-            "guest216",
-            "guest373",
-            "guest256",
-            "guest340"
-          ]
-        },
-        {
-          "event_id": "event553",
-          "time": "22:00:00",
-          "title": "Illustrating for the Gaming Industry",
-          "track": "Panel",
-          "description": "Melissa Gay moderates this probative panel discussion on the ins and outs of illustrating for the gaming industry.",
-          "day": "2017-07-01",
-          "guests": [
-            "guest140",
-            "guest5",
-            "guest6",
-            "guest243",
-            "guest339"
-          ]
-        },
-        {
-          "event_id": "event557",
-          "time": "12:00:00",
-          "title": "Favorite Ghost Stories",
-          "track": "Panel",
-          "description": "Local Ghost Hunter Mark Fults will moderate this panel on favorite ghost stories both local and across the South.",
-          "day": "2017-07-01",
-          "guests": [
-            "guest29",
-            "guest37",
-            "guest40",
-            "guest27"
           ]
         },
         {
@@ -5047,20 +3455,6 @@
             "guest208",
             "guest315",
             "guest425"
-          ]
-        },
-        {
-          "event_id": "event559",
-          "time": "14:00:00",
-          "title": "The Middle Ages as Inspiration for Epic and High Fantasy",
-          "track": "Panel",
-          "description": "S. Andrew Swann moderates this panel on favorite cultures and eras of the Middle Ages that inspired works of Epic and High Fantasy ",
-          "day": "2017-07-01",
-          "guests": [
-            "guest252",
-            "guest326",
-            "guest328",
-            "guest309"
           ]
         },
         {
@@ -5099,13 +3493,12 @@
           "time": "13:00:00",
           "title": "Terminal Ballistics for Writers and Others",
           "track": "Panel",
-          "description": "Bart Kemper moderates this panel on Terminal Ballistics (also referred to as wound ballistics) Engineers on the panel will talk physics, bullet calib,ers, shapes, deformation, etc. while the medical folks will talk about the effects on the human body.",
+          "description": "<p>\n\tBart Kemper moderates this panel on Terminal Ballistics (also referred to as wound ballistics) Engineers on the panel will talk physics, bullet calib,ers, shapes, deformation, etc. while the medical folks will talk about the effects on the human body.</p>\n",
           "day": "2018-06-30",
           "guests": [
             "guest220",
             "guest407",
             "guest315",
-            "guest382",
             "guest182",
             "guest411"
           ]
@@ -5187,7 +3580,7 @@
           "time": "13:00:00",
           "title": "Ethnobotany ",
           "track": "Panel",
-          "description": "<p>\n\tAuthor and Archaeologist David Baird moderates this panel on ethnobotany (the study of a region&#39;s plants and their practical uses through the traditional knowledge of a local cultures, religions and people.)</p>\n",
+          "description": "<p>\n\tAuthor and Archaeologist David Baird moderates this panel on ethnobotany (the study of a region's plants and their practical uses through the traditional knowledge of a local cultures, religions and people.)</p>\n",
           "day": "2018-06-30",
           "guests": [
             "guest429",
@@ -5270,7 +3663,7 @@
           "time": "13:00:00",
           "title": "All Things Game of Thrones",
           "track": "Panel",
-          "description": "<p>\n\tJohn Picacio moderates this discussion on the art, literature, media and cultural phenomena &quot;Game of Thrones.&quot;</p>\n",
+          "description": "<p>\n\tJohn Picacio moderates this discussion on the art, literature, media and cultural phenomena \"Game of Thrones.\"</p>\n",
           "day": "2018-07-01",
           "guests": [
             "guest341",
@@ -5313,7 +3706,7 @@
           "time": "11:00:00",
           "title": "What's New in YA Fantasy?",
           "track": "Panel",
-          "description": "<p>\n\tNan Monroe moderates this panel on what&#39;s new in young adult fantasy.</p>\n",
+          "description": "<p>\n\tNan Monroe moderates this panel on what's new in young adult fantasy.</p>\n",
           "day": "2018-06-30",
           "guests": [
             "guest389",
@@ -5328,13 +3721,12 @@
           "time": "14:00:00",
           "title": "Cities in Science Fiction, why do they all look alike? ",
           "track": "Panel",
-          "description": "Denise Clemons moderates this panel on why futuristic cities all seem have the same DNA?",
+          "description": "<p>\n\tDenise Clemons moderates this panel on why futuristic cities all seem have the same DNA?</p>\n",
           "day": "2018-06-29",
           "guests": [
             "guest262",
             "guest402",
             "guest401",
-            "guest382",
             "guest182",
             "guest444"
           ]
@@ -5544,7 +3936,7 @@
           "time": "21:00:00",
           "title": "Artist Meet & Greet",
           "track": "Event",
-          "description": "<p>\n\tDid something catch your eye in the Art Show? This is a chance to meet the Artist and let them tell you about it. Don&#39;t forget to bid!</p>\n",
+          "description": "<p>\n\tDid something catch your eye in the Art Show? This is a chance to meet the Artist and let them tell you about it. Don't forget to bid!</p>\n",
           "day": "2018-06-29",
           "guests": [
             "guest144",
@@ -5565,7 +3957,6 @@
             "guest25",
             "guest427",
             "guest49",
-            "guest383",
             "guest428",
             "guest433",
             "guest434"
@@ -5663,13 +4054,15 @@
           "time": "12:00:00",
           "title": "Hollywood Science Fiction Luncheon Banquet and Guest of Honor Speeches",
           "track": "Event",
-          "description": "Hollywood Science Fiction themed Luncheon Banquet. Come hear the Guests of Honor speak!",
+          "description": "<p>\n\tHollywood Science Fiction themed Luncheon Banquet. Come hear the Guests of Honor speak!</p>\n",
           "day": "2018-06-30",
           "guests": [
             "guest248",
+            "guest322",
             "guest344",
             "guest144",
             "guest15",
+            "guest313",
             "guest300",
             "guest8",
             "guest93",
@@ -5691,7 +4084,8 @@
             "guest250",
             "guest441",
             "guest442",
-            "guest342"
+            "guest342",
+            "guest404"
           ]
         },
         {
@@ -5709,7 +4103,6 @@
             "guest49",
             "guest427",
             "guest5",
-            "guest383",
             "guest6",
             "guest241",
             "guest368",
@@ -5752,7 +4145,6 @@
             "guest263",
             "guest414",
             "guest344",
-            "guest382",
             "guest371",
             "guest250",
             "guest377",
@@ -5832,7 +4224,6 @@
             "guest425",
             "guest444",
             "guest429",
-            "guest383",
             "guest419",
             "guest397",
             "guest14",
@@ -5910,17 +4301,6 @@
           ]
         },
         {
-          "event_id": "event261",
-          "time": "19:00:00",
-          "title": " SagaBorn RPG: Adventuring into the World of Uteria ",
-          "track": "Event",
-          "description": "Michael Bielaczyc hosts this gaming session in the new RPG system called SagaBorn, set in the World of Uteria. ",
-          "day": "2016-07-09",
-          "guests": [
-            "guest5"
-          ]
-        },
-        {
           "event_id": "event330",
           "time": "11:00:00",
           "title": "Steve Jackson Games - Open Gaming",
@@ -5929,81 +4309,6 @@
           "day": "2018-07-01",
           "guests": [
             "guest243"
-          ]
-        },
-        {
-          "event_id": "event340",
-          "time": "21:00:00",
-          "title": "Are You a Werewolf?",
-          "track": "Event",
-          "description": "Are You a Werewolf? -- the classic re-interpretation of the old Mafia game of mob rule and paranoia as MC&#039;d by Todd McCaffrey.",
-          "day": "2017-06-30",
-          "guests": [
-            "guest225"
-          ]
-        },
-        {
-          "event_id": "event343",
-          "time": "23:00:00",
-          "title": "Late Night Call of Cthulhu RPG ",
-          "track": "Event",
-          "description": "Anita Moore will GM the &quot;Call of Cthulhu&quot; RPG. Come one  come all!",
-          "day": "2016-07-08",
-          "guests": [
-            "guest36"
-          ]
-        },
-        {
-          "event_id": "event344",
-          "time": "13:00:00",
-          "title": "Open Gaming (1PM to Midnight)",
-          "track": "Event",
-          "description": "The Norfolk Room will be host to Traditional and Tabletop gaming of all stripes",
-          "day": "2016-07-08",
-          "guests": []
-        },
-        {
-          "event_id": "event346",
-          "time": "23:00:00",
-          "title": "Late Night Call of Cthulhu RPG ",
-          "track": "Event",
-          "description": "Anita Moore will GM the &quot;Call of Cthulhu&quot; RPG. Come one  come all!",
-          "day": "2016-07-09",
-          "guests": [
-            "guest36"
-          ]
-        },
-        {
-          "event_id": "event347",
-          "time": "18:00:00",
-          "title": "&quot;<i>GURPS Mars Attacks</i>&quot; (RPG) - The Martians Come",
-          "track": "Event",
-          "description": "Although the Martian invasion is focused on the big cities, not small towns like yours, the horrific aliens are sending raiding and scouting parties everywhere. Can your thrown-together group of normal folks figure out what these monsters want and stop them? Get a sneak preview of this upcoming &quot;GURPS&quot; book with its author as your GM.",
-          "day": "2015-06-26",
-          "guests": [
-            "guest297"
-          ]
-        },
-        {
-          "event_id": "event348",
-          "time": "18:00:00",
-          "title": "&quot;<i>GURPS Mars Attacks</i>&quot; (RPG) - Take Out the Trash",
-          "track": "Event",
-          "description": "Why have the Martians have set up a facility near your small town? Learning the truth may provide the means to strike back and drive them off! (This is a self-contained plot; you do not need to have played in Friday&#039;s game.) Get a sneak preview of this upcoming &quot;GURPS&quot; book with its author as your GM.",
-          "day": "2015-06-27",
-          "guests": [
-            "guest297"
-          ]
-        },
-        {
-          "event_id": "event349",
-          "time": "12:00:00",
-          "title": "&quot;<i>Munchkin Apocalypse</i>&quot;",
-          "track": "Event",
-          "description": "&quot;Munchkin&quot; (probably &quot;Munchkin Apocalypse&quot; with the &quot;Mars Attacks&quot; booster) and/or &quot;Mars Attacks: The Dice Game&quot;",
-          "day": "2015-06-27",
-          "guests": [
-            "guest236"
           ]
         },
         {
@@ -6067,29 +4372,6 @@
           ]
         },
         {
-          "event_id": "event354",
-          "time": "20:00:00",
-          "title": "Concert: Beth Patterson",
-          "track": "Event",
-          "description": "Come hear the magic of Beth Patterson&#039;s Celtic Cajun Bouzouki! ",
-          "day": "2017-06-30",
-          "guests": [
-            "guest202"
-          ]
-        },
-        {
-          "event_id": "event355",
-          "time": "21:00:00",
-          "title": "2 Book Release / Launch Parties:  Refreshments will be served!",
-          "track": "Event",
-          "description": "&quot;Solaris Books announces Gail Z. Martin&#039;s &quot;The Shadowed Path&quot;. Henchmen Press announces Mark Wandrey&#039;s &quot;A Time to Die&quot;",
-          "day": "2016-07-09",
-          "guests": [
-            "guest207",
-            "guest200"
-          ]
-        },
-        {
           "event_id": "event391",
           "time": "11:00:00",
           "title": "Room reset after Kaffeeklatsch",
@@ -6126,74 +4408,12 @@
           "guests": []
         },
         {
-          "event_id": "event408",
-          "time": "11:00:00",
-          "title": "Large Action Trivial Pursuit",
-          "track": "Event",
-          "description": "Glenn Baggott and Fritz Fotovich host this event that is sure to become a new favorite!",
-          "day": "2017-07-02",
-          "guests": [
-            "guest189",
-            "guest144"
-          ]
-        },
-        {
           "event_id": "event418",
           "time": "14:00:00",
           "title": "Banquet Clean-up",
           "track": "Event",
           "description": "Banquet Clean-up and room reset",
           "day": "2018-06-30",
-          "guests": []
-        },
-        {
-          "event_id": "event419",
-          "time": "13:00:00",
-          "title": "X Wing Exhibition",
-          "track": "Event",
-          "description": "Michael Bielaczyc and Sascha Koehler will host an exhibition game of X-Wing in the Norfolk Room",
-          "day": "2016-07-09",
-          "guests": [
-            "guest6",
-            "guest5"
-          ]
-        },
-        {
-          "event_id": "event450",
-          "time": "22:00:00",
-          "title": "Filk Sing!",
-          "track": "Event",
-          "description": "MC Gray Rinehart will resurrect an old LibertyCon tradition and lead a filk sing! Come and enjoy!",
-          "day": "2016-07-09",
-          "guests": [
-            "guest313"
-          ]
-        },
-        {
-          "event_id": "event455",
-          "time": "19:00:00",
-          "title": "Munchkin Rumble",
-          "track": "Event",
-          "description": null,
-          "day": "2016-07-08",
-          "guests": []
-        },
-        {
-          "event_id": "event456",
-          "time": "11:00:00",
-          "title": "Car Wars Demos with Davey Bolling",
-          "track": "Event",
-          "description": null,
-          "day": "2016-07-09",
-          "guests": []
-        },
-        {
-          "event_id": "event459",
-          "time": "11:00:00",
-          "title": "Car Wars Arena Event With Davey Bolling",
-          "track": "Event",
-          "description": null,
-          "day": "2016-07-10",
           "guests": []
         },
         {
@@ -6205,19 +4425,6 @@
           "day": "2018-06-30",
           "guests": [
             "guest356"
-          ]
-        },
-        {
-          "event_id": "event475",
-          "time": "21:00:00",
-          "title": "2 Book Launch Parties - Refreshments will be served!",
-          "track": "Event",
-          "description": " Chris Kennedy Publishing announces his new novel &quot;The Dark Star War.&quot; Daniel Allen Butler & Scott Bragg announce the publication of &quot;The Nemesis Crystals&quot;. ",
-          "day": "2016-07-08",
-          "guests": [
-            "guest332",
-            "guest333",
-            "guest251"
           ]
         },
         {
@@ -6244,17 +4451,6 @@
           ]
         },
         {
-          "event_id": "event484",
-          "time": "15:00:00",
-          "title": "Are You a Werewolf?",
-          "track": "Event",
-          "description": "Are You a Werewolf? -- the classic re-interpretation of the old Mafia game of mob rule and paranoia as MC&#039;d by Todd McCaffrey.",
-          "day": "2017-07-01",
-          "guests": [
-            "guest225"
-          ]
-        },
-        {
           "event_id": "event514",
           "time": "18:00:00",
           "title": "Star Realms Tournament",
@@ -6274,125 +4470,6 @@
           "day": "2018-06-29",
           "guests": [
             "guest36"
-          ]
-        },
-        {
-          "event_id": "event516",
-          "time": "24:00:00",
-          "title": "Call of Cthulhu 7th edition",
-          "track": "Event",
-          "description": "Anita Moore gamemasters this after Midnight session of eldritch horror! Play if you dare.",
-          "day": "2017-07-01",
-          "guests": [
-            "guest36"
-          ]
-        },
-        {
-          "event_id": "event519",
-          "time": "11:00:00",
-          "title": "Meet the Author:  John Ringo",
-          "track": "Event",
-          "description": "John Ringo will begin with an introduction, hold a Question and Answer session, and will sign books during this free-wheeling hour.",
-          "day": "2017-07-02",
-          "guests": [
-            "guest3"
-          ]
-        },
-        {
-          "event_id": "event561",
-          "time": "15:00:00",
-          "title": "OGRE Scenario with Davey ",
-          "track": "Event",
-          "description": "Play an OGRE scenario from the 6th edition boxed set - Davey Bolling Gamemaster.",
-          "day": "2017-06-30",
-          "guests": []
-        },
-        {
-          "event_id": "event563",
-          "time": "19:00:00",
-          "title": "OGRE Scenario with Steve Jackson",
-          "track": "Event",
-          "description": "Jump into the fray with the man himself! - Steve Jackson and Davey Bolling",
-          "day": "2017-06-30",
-          "guests": [
-            "guest243"
-          ]
-        },
-        {
-          "event_id": "event564",
-          "time": "14:00:00",
-          "title": "Munchkin Express ",
-          "track": "Event",
-          "description": "A series of mini-Munchkin games (4 Flights - each an hour long and starting on the hour) with the winner guaranteed a chair at the game with Munchkin Master Steve Jackson.  This is designed to be a play one or play all kind of thing, so if you only have time for one game, jump in anyway!",
-          "day": "2017-07-01",
-          "guests": []
-        },
-        {
-          "event_id": "event565",
-          "time": "14:00:00",
-          "title": "Munchkin Express Flight 1 ",
-          "track": "Event",
-          "description": "First flight of the Munchkin Express event",
-          "day": "2017-07-01",
-          "guests": []
-        },
-        {
-          "event_id": "event566",
-          "time": "15:00:00",
-          "title": "Munchkin Express Flight 2",
-          "track": "Event",
-          "description": "Second flight of the Munchkin Express event",
-          "day": "2017-07-01",
-          "guests": []
-        },
-        {
-          "event_id": "event567",
-          "time": "16:00:00",
-          "title": "Munchkin Express Flight 3",
-          "track": "Event",
-          "description": "Third flight of the Munchkin Express event",
-          "day": "2017-07-01",
-          "guests": []
-        },
-        {
-          "event_id": "event568",
-          "time": "17:00:00",
-          "title": "Munchkin Express Flight 4",
-          "track": "Event",
-          "description": "Fourth flight of the Munchkin Express even",
-          "day": "2017-07-01",
-          "guests": []
-        },
-        {
-          "event_id": "event570",
-          "time": "18:00:00",
-          "title": "Munchkin with Steve Jackson",
-          "track": "Event",
-          "description": "Play Munchkin with the Munchkin Master himself! Register in the Norfolk Room to get a seat at the table by raffle (Norfolk Room) or win the Munchkin Express event for your chair! Either way, don&#039;t miss out on a chance to stick it to the Man! Raffle to be drawn at 5:00 pm on Saturday and winners will be posted in Norfolk and in the Con Suite. - Steve Jackson and Gaming Staff",
-          "day": "2017-07-01",
-          "guests": [
-            "guest243"
-          ]
-        },
-        {
-          "event_id": "event571",
-          "time": "17:00:00",
-          "title": "Faith Hunter&#039;s Rogue Mage RPG ",
-          "track": "Event",
-          "description": "Go on an adventure set in the world of Thorn St. Croix from Faith Hunter&#039;s Rogue Mage series of novels - Davey Bolling,GameMaster",
-          "day": "2017-07-01",
-          "guests": []
-        },
-        {
-          "event_id": "event576",
-          "time": "15:00:00",
-          "title": "Large Action Trivial Pursuit",
-          "track": "Event",
-          "description": "Glenn Baggott and Fritz Fotovich host this event that is sure to become a new favorite!",
-          "day": "2017-07-01",
-          "guests": [
-            "guest144",
-            "guest189"
           ]
         },
         {
@@ -6535,6 +4612,279 @@
           "guests": [
             "guest438"
           ]
+        },
+        {
+          "event_id": "event675",
+          "time": "19:00:00",
+          "title": "Larry Correia's Gritty Cop Show",
+          "track": "Event",
+          "description": "<p>\n\t<span style=\"font-family: arial, sans-serif; font-size: 12.8px;\">Larry Correia will run a demo of his RPG \"Gritty Cop Show.\"&nbsp; Slots for the players will be auctioned for charity - stay tuned for details!</span></p>\n",
+          "day": "2018-06-29",
+          "guests": [
+            "guest168"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Roundtable",
+      "default": false,
+      "events": [
+        {
+          "event_id": "event34",
+          "time": "23:00:00",
+          "title": "Mad Scientist Roundtable",
+          "track": "Roundtable",
+          "description": "<p>\n\tRoundtable discussion of various and timely science topics moderated by Les Johnson. This is a remarkable panel dating back to the earliest LibertyCons. Everyone gets a say but no one gets to say too much.</p>\n",
+          "day": "2018-06-30",
+          "guests": [
+            "guest407",
+            "guest39",
+            "guest67",
+            "guest20",
+            "guest227",
+            "guest315",
+            "guest149",
+            "guest179",
+            "guest186",
+            "guest28",
+            "guest157",
+            "guest360",
+            "guest386",
+            "guest344",
+            "guest262",
+            "guest153",
+            "guest182",
+            "guest259",
+            "guest300",
+            "guest314",
+            "guest401",
+            "guest430",
+            "guest408",
+            "guest220",
+            "guest9",
+            "guest417",
+            "guest330",
+            "guest426",
+            "guest14",
+            "guest440",
+            "guest445",
+            "guest397"
+          ]
+        },
+        {
+          "event_id": "event297",
+          "time": "11:00:00",
+          "title": "What's New in 1632 / Grantville Roundtable",
+          "track": "Roundtable",
+          "description": "<p>\n\tEric Flint moderates this panel on what is new in the 1632 / Grantville universe in all it's alternate history glory, with a mass autograph session to follow.</p>\n",
+          "day": "2018-07-01",
+          "guests": [
+            "guest280",
+            "guest184",
+            "guest19",
+            "guest276",
+            "guest281",
+            "guest273",
+            "guest259",
+            "guest208",
+            "guest66",
+            "guest419",
+            "guest441"
+          ]
+        },
+        {
+          "event_id": "event358",
+          "time": "13:00:00",
+          "title": "Black Tide Rising Roundtable ",
+          "track": "Roundtable",
+          "description": "<p>\n\tCome join John Ringo and his motley crew of authors for their roundtable on the Black Tide Rising anthology. Will be followed by a mass autograph session. Gary Poole, Mod.</p>\n",
+          "day": "2018-06-29",
+          "guests": [
+            "guest221",
+            "guest323",
+            "guest19",
+            "guest198",
+            "guest3",
+            "guest263",
+            "guest7",
+            "guest318",
+            "guest28",
+            "guest66",
+            "guest10"
+          ]
+        },
+        {
+          "event_id": "event378",
+          "time": "21:00:00",
+          "title": "TBI & PTSD from the Observers Point of View",
+          "track": "Roundtable",
+          "description": "Dr. Robert Hampson will moderate this roundtable discussion of doctors, trainers and family members discussing effects and stories of their loved ones, patients, co-workers, and team-mates who have suffered from TBI and/or PTSD.  Traumatic Brain Injury and Post-Traumatic Stress affect more than just the military, athletes and accident victims who receive the injury; they also affect those people closest to the them.  ",
+          "day": "2018-06-29",
+          "guests": [
+            "guest186",
+            "guest407",
+            "guest318",
+            "guest28",
+            "guest263",
+            "guest315"
+          ]
+        },
+        {
+          "event_id": "event385",
+          "time": "13:00:00",
+          "title": "Artificial Intelligence, Robotics and the Future of Work",
+          "track": "Roundtable",
+          "description": "<p>\n\tRich Weyand (Mod.) The Machine Intelligence Research Institute gives it even odds that all jobs will be done by robots in the not too distant future. PricewaterhouseCoopper has an estimate that 38% of all jobs currently done by people will be done by robots or AIs. So what does a society look like when few people are actually needed to do work?</p>\n",
+          "day": "2018-06-29",
+          "guests": [
+            "guest386",
+            "guest262",
+            "guest220",
+            "guest182",
+            "guest344",
+            "guest426"
+          ]
+        },
+        {
+          "event_id": "event485",
+          "time": "13:00:00",
+          "title": "All Things Monster Hunter Roundtable",
+          "track": "Roundtable",
+          "description": "Larry Correia moderates this Roundtable on the Monster Hunter Universe, to be followed by a mass autograph session.",
+          "day": "2018-07-01",
+          "guests": [
+            "guest10",
+            "guest398",
+            "guest168",
+            "guest3",
+            "guest198",
+            "guest412",
+            "guest423",
+            "guest437"
+          ]
+        },
+        {
+          "event_id": "event535",
+          "time": "19:00:00",
+          "title": "No S**T There I Was Just Minding My Own Business ....",
+          "track": "Roundtable",
+          "description": "John Ringo moderates this \"war story\" discussion with writers who are veterans and law enforcement professionals.",
+          "day": "2018-06-29",
+          "guests": [
+            "guest3",
+            "guest7",
+            "guest281",
+            "guest113",
+            "guest334",
+            "guest415",
+            "guest398",
+            "guest410"
+          ]
+        },
+        {
+          "event_id": "event585",
+          "time": "15:00:00",
+          "title": "Homo Stellaris: Becoming the People of the Stars",
+          "track": "Roundtable",
+          "description": "<p>\n\tWhat will humans become as we begin to develop an interplanetary and interstellar society? Join Editors Les Johnson and Rob Hampson and their contributing authors to the upcoming fiction/nonfiction anthology \"Homo Stellaris\" for a discussion of potential changes to human society, psychology, biology and genetics in support of interstellar exploration and colonization.</p>\n",
+          "day": "2018-06-29",
+          "guests": [
+            "guest186",
+            "guest179",
+            "guest318",
+            "guest10",
+            "guest227",
+            "guest67",
+            "guest9",
+            "guest28",
+            "guest263"
+          ]
+        },
+        {
+          "event_id": "event591",
+          "time": "18:00:00",
+          "title": "Let's Predict the Next Big Thing!",
+          "track": "Roundtable",
+          "description": "<p>\n\tIn this roundtable, Science Pros prognosticate and will keep a record and see who got it right at LibertyCon 2019 for bragging rights! Jay Roye Moderator.&nbsp;</p>\n",
+          "day": "2018-06-29",
+          "guests": [
+            "guest14",
+            "guest360",
+            "guest356",
+            "guest411",
+            "guest314",
+            "guest397",
+            "guest426"
+          ]
+        },
+        {
+          "event_id": "event594",
+          "time": "16:00:00",
+          "title": "The Planetary Anthology Roundtable",
+          "track": "Roundtable",
+          "description": "Authors from the Superversive Press Planetary Anthologies will have a roundtable discussion on the series and it's future. Jagi Lamplighter Wright (mod.)",
+          "day": "2018-06-29",
+          "guests": [
+            "guest413",
+            "guest371",
+            "guest417",
+            "guest412",
+            "guest380",
+            "guest261",
+            "guest308",
+            "guest423",
+            "guest440",
+            "guest330",
+            "guest360",
+            "guest198"
+          ]
+        },
+        {
+          "event_id": "event606",
+          "time": "10:00:00",
+          "title": "The Four Horsemen Roundtable ",
+          "track": "Roundtable",
+          "description": "Chris Kennedy moderates The 4 Horseman Roundtable: Readings, Q&A, Discussion and Mass Autograph Session",
+          "day": "2018-06-30",
+          "guests": [
+            "guest364",
+            "guest221",
+            "guest251",
+            "guest19",
+            "guest363",
+            "guest246",
+            "guest277",
+            "guest406",
+            "guest380",
+            "guest263",
+            "guest252",
+            "guest400",
+            "guest405",
+            "guest207",
+            "guest186",
+            "guest326",
+            "guest28",
+            "guest39",
+            "guest248",
+            "guest259"
+          ]
+        },
+        {
+          "event_id": "event657",
+          "time": "22:00:00",
+          "title": "Readings from the Carreraverse",
+          "track": "Roundtable",
+          "description": "Tom Kratman moderates this roundtable with readings from the new Carreraverse anthology.",
+          "day": "2018-06-30",
+          "guests": [
+            "guest263",
+            "guest318",
+            "guest221",
+            "guest322",
+            "guest439",
+            "guest440"
+          ]
         }
       ]
     },
@@ -6543,26 +4893,14 @@
       "default": false,
       "events": [
         {
-          "event_id": "event36",
-          "time": "15:00:00",
-          "title": "David Weber: A Man Without Honor",
-          "track": "Presentation",
-          "description": "David Weber discusses his works &quot;outside&quot; the Honorverse",
-          "day": "2015-06-27",
-          "guests": [
-            "guest85"
-          ]
-        },
-        {
           "event_id": "event67",
           "time": "10:00:00",
           "title": "NASA Update",
           "track": "Presentation",
-          "description": "Les Johnson on what has happened in the past year in Space, and what might happen in the coming years. ",
+          "description": "<p>\n\tLes Johnson on what has happened in the past year in Space, and what might happen in the coming years.</p>\n",
           "day": "2018-06-30",
           "guests": [
             "guest9",
-            "guest382",
             "guest300"
           ]
         },
@@ -6571,7 +4909,7 @@
           "time": "14:00:00",
           "title": "Baen Traveling Roadshow and Prize Patrol",
           "track": "Presentation",
-          "description": "<p>\n\tToni Weisskopf will be running the crowd through the best of what&#39;s going on in the Baen universe. (And there will be giveaways!)</p>\n",
+          "description": "<p>\n\tToni Weisskopf will be running the crowd through the best of what's going on in the Baen universe. (And there will be giveaways!)</p>\n",
           "day": "2018-06-30",
           "guests": [
             "guest184",
@@ -6604,17 +4942,6 @@
           ]
         },
         {
-          "event_id": "event104",
-          "time": "21:00:00",
-          "title": "ARTC Presentations: At the DMV, The Three Galaxateers, Nairobi Jack and the Lost Gold and a new Rory Rammer Space Marshall.",
-          "track": "Presentation",
-          "description": "This year ARTC brings a selection of short subjects guaranteed to thrill and amuse. This year&#039;s audio offerings are a tale of tragedy &quot;At the DMV,&quot; by Dave Schroeder, the debut of a new series by Ron N. Butler, &quot;The Three Galaxateers,&quot; a tease of our soon-to-be-released series &quot;Nairobi Jack and the Lost Gold of the Atlantimengani&quot; by Thomas E. Fuller, and a brand new episode of &quot;Rory Rammer, Space Marshal: Cattle-Pen of the Republic&quot;. Plus a sneak peek at our bra",
-          "day": "2017-07-01",
-          "guests": [
-            "guest128"
-          ]
-        },
-        {
           "event_id": "event182",
           "time": "12:00:00",
           "title": "Solar Updates and the Great American Eclipse",
@@ -6623,51 +4950,6 @@
           "day": "2018-06-30",
           "guests": [
             "guest39"
-          ]
-        },
-        {
-          "event_id": "event213",
-          "time": "17:00:00",
-          "title": "Nuclear Oddities and Follies, Part II",
-          "track": "Presentation",
-          "description": "Jim Beall presents this second intriguing exploration of nuclear research and policies over the years.  Some other titles bandied about included  &quot;Brute Force Works, But What If You&#039;re Running a China Shop!?&quot; and &quot;Have Nuclear Hammer, Looking for Nails&quot;)",
-          "day": "2015-06-27",
-          "guests": [
-            "guest179"
-          ]
-        },
-        {
-          "event_id": "event216",
-          "time": "22:00:00",
-          "title": "Weremystes, Conjurers & Tricorn Punk: David B. Coe Talks Urban Fantasy",
-          "track": "Presentation",
-          "description": "David B. Coe / D.B. Jackson presents this exploration of new works and urban fantasy.",
-          "day": "2015-06-27",
-          "guests": [
-            "guest93"
-          ]
-        },
-        {
-          "event_id": "event238",
-          "time": "22:00:00",
-          "title": "From Science Into Art, and Back Again: the Art of Melissa Gay",
-          "track": "Presentation",
-          "description": "Special GOH Melissa Gay will chronicle her artistic career&#039;s arc beginning with scientific illustration, then from full-on fantasy illustration to sci-fi, and now totally into imaginative renderings of deep space as inspired by astrophotography.",
-          "day": "2016-07-08",
-          "guests": [
-            "guest140"
-          ]
-        },
-        {
-          "event_id": "event247",
-          "time": "20:00:00",
-          "title": "David Drake - A Retrospective of my Favorite Works",
-          "track": "Presentation",
-          "description": "David Drake and Toni Weiskopf provides an career spanning look at his favorite and most memorable works.",
-          "day": "2015-06-26",
-          "guests": [
-            "guest8",
-            "guest113"
           ]
         },
         {
@@ -6682,62 +4964,6 @@
           ]
         },
         {
-          "event_id": "event252",
-          "time": "21:00:00",
-          "title": "Bureau 9",
-          "track": "Presentation",
-          "description": "Bureau Nine: Subject matter experts in a subject that doesn&#039;t exist. Working with them, them working with David, etc.",
-          "day": "2015-06-26",
-          "guests": [
-            "guest85"
-          ]
-        },
-        {
-          "event_id": "event255",
-          "time": "20:00:00",
-          "title": "Emerging Pathogens and Antibiotic Resistance",
-          "track": "Presentation",
-          "description": "Scientist John Harp provides a fascinating presentation on this very timely topic, with follow-up by &quot;Docfather&quot; Phil Wohlrab providing a military perspective.",
-          "day": "2015-06-26",
-          "guests": [
-            "guest249",
-            "guest186"
-          ]
-        },
-        {
-          "event_id": "event305",
-          "time": "11:00:00",
-          "title": "Trial By Fire",
-          "track": "Presentation",
-          "description": "Chuck Gannon discusses his Nebula nominated work, shows a video or two that explore the &quot;Immersive Futurism&quot; that underlies the project, and also provides news, covers and teasers from the next two novels.",
-          "day": "2015-06-27",
-          "guests": [
-            "guest184"
-          ]
-        },
-        {
-          "event_id": "event314",
-          "time": "18:00:00",
-          "title": "Coming Home",
-          "track": "Presentation",
-          "description": "Nebula nominated  author Jack McDevitt dishes on his new novel.",
-          "day": "2015-06-26",
-          "guests": [
-            "guest87"
-          ]
-        },
-        {
-          "event_id": "event320",
-          "time": "15:00:00",
-          "title": "Taking Care of Widows and Orphans: Designing Beautiful Book Interiors",
-          "track": "Presentation",
-          "description": "Learn about the factors that will make the interior pages of your self-published printed book look beautiful and professional, like handling widows and orphans, tracking, margins, font selection, page numbering, running heads and more in this seminar led by Dave Schroeder.",
-          "day": "2016-07-08",
-          "guests": [
-            "guest303"
-          ]
-        },
-        {
           "event_id": "event327",
           "time": "13:00:00",
           "title": "Terraforming the Planets at Trappist-1",
@@ -6749,100 +4975,6 @@
           ]
         },
         {
-          "event_id": "event328",
-          "time": "11:00:00",
-          "title": "The Search for Life in the Universe",
-          "track": "Presentation",
-          "description": "Science GOH Dr. Elisa Quintana will moderate this discussion of the current state of this enterprise of grand discovery, to include SETI, missions to the moons in our Solar System, searching for signs of life on exoplanets and updates from the Goldilocks zone.",
-          "day": "2017-07-01",
-          "guests": [
-            "guest369",
-            "guest153",
-            "guest350"
-          ]
-        },
-        {
-          "event_id": "event361",
-          "time": "10:00:00",
-          "title": "Quantum Computing Presentation",
-          "track": "Presentation",
-          "description": "Dr. Ben examines the emerging world of quantum computing. Where we are today, how it&#039;s supposed to work, and why it&#039;s important for our future.",
-          "day": "2016-07-10",
-          "guests": [
-            "guest153"
-          ]
-        },
-        {
-          "event_id": "event365",
-          "time": "18:00:00",
-          "title": "Radium Girls of Science and Science Fiction",
-          "track": "Presentation",
-          "description": "Jim Beall traces the history of women in science (especially nuclear) and science fiction as real-life scientists, characters, and authors from the beginning through to the present day.",
-          "day": "2017-06-30",
-          "guests": [
-            "guest179"
-          ]
-        },
-        {
-          "event_id": "event366",
-          "time": "13:00:00",
-          "title": "Cryonics and Suspended Animation",
-          "track": "Presentation",
-          "description": "Steve Jackson will discuss this enduring topic and his personal relationship with the concepts - he is signed up with Alcor, a cryonics society; when he dies, they&#039;ll freeze him, and maybe someday they will thaw him out and he will get to see the future!",
-          "day": "2016-07-09",
-          "guests": [
-            "guest243"
-          ]
-        },
-        {
-          "event_id": "event367",
-          "time": "15:00:00",
-          "title": "Water Treatment in Space",
-          "track": "Presentation",
-          "description": "Glenn Baggott presents the technical hurdles of  water treatment in the space environment.",
-          "day": "2016-07-08",
-          "guests": [
-            "guest189"
-          ]
-        },
-        {
-          "event_id": "event369",
-          "time": "19:00:00",
-          "title": "First Contact Improv",
-          "track": "Presentation",
-          "description": "Tedd Roberts moderates this organized mayhem:  Writing a First Contact story is easy - until the moderator tells you to do it in the style of Quentin Tarantino scripting a Broadway musical!  Panelists collaborate to improvise a story, using prompts from the moderator and audience.  Don&#039;t expect us to be serious... on our way to Sirius!  ",
-          "day": "2016-07-08",
-          "guests": [
-            "guest67",
-            "guest168",
-            "guest225",
-            "guest28",
-            "guest153"
-          ]
-        },
-        {
-          "event_id": "event371",
-          "time": "14:00:00",
-          "title": "Alcohol Production in Non-Terrestrial Environments (Fantasy and Hard SF)",
-          "track": "Presentation",
-          "description": "Discussion will range from how our environment (plants, biota, etc.) have influenced our alcohol production over the centuries leading into how would &#039;your world&#039; change (or be changed by) alcohol production. Are your Marines always making vodka on the engineering deck? (Why vodka, why not gin?). Does your planet export anything fermented? Distilled? Infused? Aged? How does a Xanth Beer tree get the beer carbonated and cold? Why didn&#039;t the Hobbits know that Beer came in pints?",
-          "day": "2016-07-09",
-          "guests": [
-            "guest223"
-          ]
-        },
-        {
-          "event_id": "event372",
-          "time": "10:00:00",
-          "title": "Steam Power",
-          "track": "Presentation",
-          "description": "Paul Boberg (AKA Engineer) will wax eloquent on Steam Power.  Presentation includes a table display with a working rotary steam motor and will includes discussion of how a steam engine works and the problems that anyone in a steampunk world would face.",
-          "day": "2016-07-10",
-          "guests": [
-            "guest329"
-          ]
-        },
-        {
           "event_id": "event374",
           "time": "20:00:00",
           "title": "Reading:  Science GOH Dr. Kevin Grazier",
@@ -6851,50 +4983,6 @@
           "day": "2018-06-30",
           "guests": [
             "guest300"
-          ]
-        },
-        {
-          "event_id": "event380",
-          "time": "13:00:00",
-          "title": "Case Studies in Handwavium",
-          "track": "Presentation",
-          "description": "Jim Beall&#039;s presentation with many pictures and videos will trace and compare real science and &quot;handwavium&quot; through the ages--from Thomas Edison and HG Wells to Miguel Alcubierre and Travis Taylor. ",
-          "day": "2016-07-09",
-          "guests": [
-            "guest179"
-          ]
-        },
-        {
-          "event_id": "event393",
-          "time": "22:00:00",
-          "title": "X-Files - Is the Truth Really Out There?",
-          "track": "Presentation",
-          "description": "Jonathan Maberry lets us in on the truth in this presentation on all things X-Files, to include the series of all-new anthologies from IDW Publishing he is editing and the Dana Scully Young Adult novel set during her high school years he is writing.",
-          "day": "2016-07-08",
-          "guests": [
-            "guest299"
-          ]
-        },
-        {
-          "event_id": "event400",
-          "time": "11:00:00",
-          "title": "Principles of War",
-          "track": "Presentation",
-          "description": "Tom Kratman will present his take on the 12 Principles of War, to include illustrations from famous battles throughout the ages. Learn from the master....",
-          "day": "2016-07-09",
-          "guests": [
-            "guest322"
-          ]
-        },
-        {
-          "event_id": "event449",
-          "time": "21:00:00",
-          "title": "Did Science Fiction Murder It&#039;s Child?",
-          "track": "Presentation",
-          "description": "Robert Buettner will reprise his presentation to the University of Chicago Space Conference, Space - Speculation & Exploration. It is an authors-eye recap of the role of science fiction in space exploration, in the past, and in the future of the genre. It is also a report card for Science Fiction, both as a predictor of the future and as a reflector of the time.",
-          "day": "2016-07-08",
-          "guests": [
-            "guest282"
           ]
         },
         {
@@ -6919,52 +5007,6 @@
             "guest303",
             "guest128",
             "guest305"
-          ]
-        },
-        {
-          "event_id": "event490",
-          "time": "19:00:00",
-          "title": "The Discoveries of Kepler-186f and Kepler-37b",
-          "track": "Presentation",
-          "description": "Science GOH Elisa Quintana and Exoplanet scientist Tom Barclay discuss their historic discoveries Kepler-186f and Kepler-37b.",
-          "day": "2017-06-30",
-          "guests": [
-            "guest369",
-            "guest350"
-          ]
-        },
-        {
-          "event_id": "event491",
-          "time": "16:00:00",
-          "title": "Planetary Formation",
-          "track": "Presentation",
-          "description": "Science GOH Elisa Quintana and Exoplanet Scientist Tom Barclay will host this presentation on latest breakthroughs in the science of planetary formation.",
-          "day": "2017-07-01",
-          "guests": [
-            "guest369",
-            "guest350"
-          ]
-        },
-        {
-          "event_id": "event495",
-          "time": "15:00:00",
-          "title": "Outer Space Treaties and the Legal Barriers to Space Exploration",
-          "track": "Presentation",
-          "description": "Space Lawyer Laura Montgomery will present the international and domestic legal barriers to the exploration of space, and how treaties affect our ability to broaden our economic and political will across the cosmos.",
-          "day": "2017-07-01",
-          "guests": [
-            "guest342"
-          ]
-        },
-        {
-          "event_id": "event496",
-          "time": "22:00:00",
-          "title": "Current Regulations on Space Activities",
-          "track": "Presentation",
-          "description": "Space lawyer Laura Montgomery, now of Ground Based Space Matters, who worked for the Federal Aviation Administration, will talk about  the licensing and regulation of commercial space transportation will discuss the current state of regulations regarding activities in space.",
-          "day": "2017-06-30",
-          "guests": [
-            "guest342"
           ]
         },
         {
@@ -6998,65 +5040,6 @@
           "day": "2018-06-29",
           "guests": [
             "guest322"
-          ]
-        },
-        {
-          "event_id": "event508",
-          "time": "14:00:00",
-          "title": "The Energy Smorgasboard",
-          "track": "Presentation",
-          "description": "Dave Bogen moderates this presentation / panel on alternative energy sources and their incorporation into our electric grid.",
-          "day": "2017-07-01",
-          "guests": [
-            "guest314",
-            "guest182",
-            "guest131",
-            "guest397",
-            "guest179"
-          ]
-        },
-        {
-          "event_id": "event525",
-          "time": "13:00:00",
-          "title": "Urban Legends: Modern Myth ",
-          "track": "Presentation",
-          "description": "Stephanie Osborn talks about how modern urban legends relate to mythological themes and how authors can mine them for story ideas.",
-          "day": "2017-07-01",
-          "guests": [
-            "guest39"
-          ]
-        },
-        {
-          "event_id": "event526",
-          "time": "15:00:00",
-          "title": "The New Madrid Fault System: Then and Now",
-          "track": "Presentation",
-          "description": " Stephanie Osborn discusses the geology of the New Madrid fault complex, the historic quakes that made the Mississippi run backward, and what threat it has for us today.",
-          "day": "2017-06-30",
-          "guests": [
-            "guest39"
-          ]
-        },
-        {
-          "event_id": "event551",
-          "time": "22:00:00",
-          "title": "Twenty Years Under Jurisdiction, or, Andrej Koscuisko:  Still P*ssing People Off After Twenty Years",
-          "track": "Presentation",
-          "description": "Susan Matthews presents this retrospective on her most colorful character, Andrej Koscuisko!",
-          "day": "2017-07-01",
-          "guests": [
-            "guest392"
-          ]
-        },
-        {
-          "event_id": "event560",
-          "time": "21:00:00",
-          "title": "Junk Science: What is it? Why is there so much of it?",
-          "track": "Presentation",
-          "description": "Junk Science is said to be &quot;faulty scientific data and analysis used to advance specific interests and hidden agendas.&quot; Often those agendas are rooted in little more than fear of the unknown or misplaced dogma. Dr. Ben Davis explores and debunks many of the bizarre notions that are now made popular by the Internet, as well as any number of cable media outlets. While poking fun at a number of these beliefs, the damaging impact and alarming consequences of this type of thinking is discussed.",
-          "day": "2017-06-30",
-          "guests": [
-            "guest153"
           ]
         },
         {
@@ -7172,364 +5155,6 @@
       ]
     },
     {
-      "name": "Workshop",
-      "default": false,
-      "events": [
-        {
-          "event_id": "event90",
-          "time": "10:00:00",
-          "title": "Make It, Take It / Sit&#039;n&#039;Stitch",
-          "track": "Workshop",
-          "description": "Make It Take It - hands on costuming led by Susan Brady - materials supplied and kids are welcome. Held in conjunction with Sit&#039;n&#039;Stitch  hosted by Cathe Smith - come and tat, knit, stitch, crochet, etc. to your heart&#039;s content!",
-          "day": "2017-07-01",
-          "guests": [
-            "guest227",
-            "guest150",
-            "guest122",
-            "guest250",
-            "guest396"
-          ]
-        },
-        {
-          "event_id": "event175",
-          "time": "13:00:00",
-          "title": "Creature Features: Bringing Your Monster to Life",
-          "track": "Workshop",
-          "description": "From Simple Shapes to Monstrous Mayhem! Special GOH Melissa Gay shows you how to design and draw your own creature in this 2-hour workshop. Pencils, paper, and Sharpies supplied-- bring your own creativity! ",
-          "day": "2016-07-10",
-          "guests": [
-            "guest140"
-          ]
-        },
-        {
-          "event_id": "event242",
-          "time": "12:00:00",
-          "title": "How to Write Workshop",
-          "track": "Workshop",
-          "description": "Authors Sarah Hoyt, Cedar Sanderson and Amanda Green will run a hands-on workshop for budding writers",
-          "day": "2015-06-27",
-          "guests": [
-            "guest10",
-            "guest201"
-          ]
-        },
-        {
-          "event_id": "event323",
-          "time": "13:00:00",
-          "title": "World Building Workshop for Screenplays vs. Novels",
-          "track": "Workshop",
-          "description": "Screenwriter Robert Evans will run a 90 minute workshop highlighting what the differences are between building worlds in screenplays and in novels.",
-          "day": "2018-06-29",
-          "guests": [
-            "guest341"
-          ]
-        },
-        {
-          "event_id": "event382",
-          "time": "15:00:00",
-          "title": "Rising Above the Noise: Maximizing Your Profits with Amazon.Com",
-          "track": "Workshop",
-          "description": "Now that you&#039;ve got a book, how do you get people to find it among the 800,000 books that will be published on Amazon this year? How do you draw attention to your book and get into the Amazon algorithm? You need to know how to use the algorithm if you want to maximize your sales! This workshop will show you the path to success Chris used to sell 40,000 books last year and have two different #1 Amazon bestsellers! ",
-          "day": "2016-07-09",
-          "guests": [
-            "guest251"
-          ]
-        },
-        {
-          "event_id": "event387",
-          "time": "13:00:00",
-          "title": "Face to Face Critiques from the Slushmaster General",
-          "track": "Workshop",
-          "description": "MC Gray Rinehart, the BAEN Slushmaster General will critique your work - first come first serve basis - bring the first 5 pages of your story and your 1-2 page synopsis. You will receive real time feedback. Learn what really happens to your manuscript once it arrives at the publishers, and how to make yours stand out.",
-          "day": "2016-07-08",
-          "guests": [
-            "guest313"
-          ]
-        },
-        {
-          "event_id": "event389",
-          "time": "19:00:00",
-          "title": "Social Media for Authors and Artisans",
-          "track": "Workshop",
-          "description": "Gail Z. Martin will host this seminar on the use of social media for promoting your works.",
-          "day": "2016-07-09",
-          "guests": [
-            "guest200"
-          ]
-        },
-        {
-          "event_id": "event409",
-          "time": "18:00:00",
-          "title": "Law Basics for Writers",
-          "track": "Workshop",
-          "description": "Lawyer / Author Amie Gibbons will conduct this 2 hour workshop on law basics for writers. It will include a general outline of criminal, constitutional, and tort law basics (on the writing side), as well as a treatment of intellectual property, copyright and contract law (on the business side). ",
-          "day": "2016-07-08",
-          "guests": [
-            "guest331"
-          ]
-        },
-        {
-          "event_id": "event415",
-          "time": "17:00:00",
-          "title": "Workshop: The Composer&#039;s Art",
-          "track": "Workshop",
-          "description": "Beth Patterson, the Cajun Queen of Celtic Bouzouki will conduct a workshop on the art of composing music.",
-          "day": "2016-07-09",
-          "guests": [
-            "guest202"
-          ]
-        },
-        {
-          "event_id": "event428",
-          "time": "14:00:00",
-          "title": "Bill Fawcett \"New Author\" Sessions",
-          "track": "Workshop",
-          "description": "<p>\n\t1400 - 1415 - Rachel Cates</p>\n<p>\n\t1415 - 1430 - William Joseph Roberts</p>\n<p>\n\t1430 - 1445 - Cecelia Star Kachina</p>\n<p>\n\t1445 - 1500 - Benjamin Tyler Smith</p>\n",
-          "day": "2018-06-29",
-          "guests": [
-            "guest199",
-            "guest420",
-            "guest418",
-            "guest421",
-            "guest422"
-          ]
-        },
-        {
-          "event_id": "event429",
-          "time": "12:00:00",
-          "title": "Bill Fawcett \"New Author\" Sessions",
-          "track": "Workshop",
-          "description": "<p>\n\t1200 - 1215 - Lydia Sherrer</p>\n<p>\n\t1215 - 1230 - Joseph Capdepon</p>\n<p>\n\t1230 - 1245 - Jon Del Arroz</p>\n<p>\n\t1245 - 1300 - Nico Murray</p>\n",
-          "day": "2018-06-30",
-          "guests": [
-            "guest199",
-            "guest424",
-            "guest389",
-            "guest380",
-            "guest419"
-          ]
-        },
-        {
-          "event_id": "event430",
-          "time": "13:00:00",
-          "title": "Bill Fawcett \"New Author\" Sessions",
-          "track": "Workshop",
-          "description": "<p>\n\t1300 - 1315 - Teresa Howard</p>\n<p>\n\t1315 - 1330 - Rob Howell</p>\n<p>\n\t1330 - 1345 - Marisa Wolf</p>\n<p>\n\t1345 - 1400 - Daniel Humphreys</p>\n",
-          "day": "2018-06-29",
-          "guests": [
-            "guest326",
-            "guest199",
-            "guest405",
-            "guest381",
-            "guest425"
-          ]
-        },
-        {
-          "event_id": "event440",
-          "time": "19:30:00",
-          "title": "How to Become More Successful as an Indy Author",
-          "track": "Workshop",
-          "description": "<p>\n\tJohn Van Stry has over a dozen best sellers on Amazon as well as four number one best sellers. Working full-time as an author for several years now, and he has recently made it into the ranks of a six-figure author and is willing to share his experiences of what has worked for him with other authors who are struggling to trying and become more successful.</p>\n",
-          "day": "2018-06-29",
-          "guests": [
-            "guest416"
-          ]
-        },
-        {
-          "event_id": "event448",
-          "time": "11:30:00",
-          "title": "Project (Newspaper) Runway",
-          "track": "Workshop",
-          "description": "Costume Designer Jonna Hayden says &quot;Why should the kids have all the fun?&quot; Gather up your friends and build a complete costume out of newspaper in 90 minutes! In this workshop you&#039;ll be divided into teams and have a limited time to build a complete outfit out of newspaper, tape, staples and your team&#039;s brilliant brains! Come prepared to work fast! At the end we&#039;ll have a short runway show where you get to explain and show off your creations! NO special skills required, other than a ",
-          "day": "2017-07-02",
-          "guests": [
-            "guest250"
-          ]
-        },
-        {
-          "event_id": "event479",
-          "time": "20:00:00",
-          "title": "Secrets of the Puppet Master",
-          "track": "Workshop",
-          "description": "Our resident Puppet Master James Ward will reveal the arcane arts of puppetry! ",
-          "day": "2017-07-01",
-          "guests": [
-            "guest164"
-          ]
-        },
-        {
-          "event_id": "event480",
-          "time": "13:00:00",
-          "title": "Art Out Loud: Fantasy Portrait  Demonstration",
-          "track": "Workshop",
-          "description": "In this live demonstration, AGoH Dan dos Santos will walk you through the process of creating a fantasy portrait in oil paints. You will see him execute a portrait from start to finish right before your eyes, implementing the exact same process he uses to create his well-known book covers. The artist will explain his materials, thought process and answer audience questions while he works.",
-          "day": "2017-06-30",
-          "guests": [
-            "guest351"
-          ]
-        },
-        {
-          "event_id": "event501",
-          "time": "18:00:00",
-          "title": "Creative Writing Workshop",
-          "track": "Workshop",
-          "description": "Join Author Charity Ayres in a workshop to kick-start your writing! Learn some ways to get work done and focus on a goal while getting a critique on what you write on the fly. Pen or pencil and paper recommended! Prior writing samples not advised.",
-          "day": "2017-06-30",
-          "guests": [
-            "guest363"
-          ]
-        },
-        {
-          "event_id": "event504",
-          "time": "16:00:00",
-          "title": "Chain Mail Workshop",
-          "track": "Workshop",
-          "description": "Bryan Jones will conduct a workshop on the ancient skill of creating chain mail. He will provide rings and fittings gratis  for each attendee to make a chain mail bracelet.",
-          "day": "2017-07-01",
-          "guests": [
-            "guest377"
-          ]
-        },
-        {
-          "event_id": "event547",
-          "time": "19:30:00",
-          "title": "From Concept to Query",
-          "track": "Workshop",
-          "description": "Anna Grace Carpenter presents From Concept to Query. This workshop will show you how to find the &quot;high concept&quot; at the heart of your novel, craft a 2-3 sentence pitch, and explore techniques to turn that pitch into a full query letter, plus some basic Do This, Not That for the querying process and search for an agent.",
-          "day": "2017-06-30",
-          "guests": [
-            "guest208"
-          ]
-        },
-        {
-          "event_id": "event556",
-          "time": "16:00:00",
-          "title": "How to Approach Publishers Workshop",
-          "track": "Workshop",
-          "description": "D. Alan Lewis conducts this workshop on how best to approach publishers with you proposals and manuscripts.",
-          "day": "2018-06-30",
-          "guests": [
-            "guest204"
-          ]
-        },
-        {
-          "event_id": "event577",
-          "time": "13:00:00",
-          "title": "BEWARE OF THE PLANTS! ",
-          "track": "Workshop",
-          "description": "Whether it&#039;s Triffids, Ents, Bulbasaurs, Integral Trees, Willy Wonka&#039;s edible daffodil teacups, or spiky horrors of Dread Carcosa, plants are an important part of any sci-fi, fantasy, or horror world. Design your own with roleplaying game artist Melissa Gay! All ages welcome, pencils and paper provided!",
-          "day": "2017-07-02",
-          "guests": [
-            "guest140"
-          ]
-        },
-        {
-          "event_id": "event593",
-          "time": "16:00:00",
-          "title": "Overview of Scrivener for Writers",
-          "track": "Workshop",
-          "description": "<p>\n\tDave Schroeder will run a workshop on Scrivener, the popular writing and database tool for authors.</p>\n",
-          "day": "2018-06-29",
-          "guests": [
-            "guest303"
-          ]
-        },
-        {
-          "event_id": "event598",
-          "time": "12:00:00",
-          "title": " Workshop",
-          "track": "Workshop",
-          "description": null,
-          "day": "2018-07-01",
-          "guests": []
-        },
-        {
-          "event_id": "event604",
-          "time": "15:00:00",
-          "title": "Workshop:  Three Act Structure",
-          "track": "Workshop",
-          "description": "Anna Grace Carpenter will present a workshop on \"Three Act Structure: The Basics of Plotting and Outlining a Novel\"",
-          "day": "2018-06-30",
-          "guests": [
-            "guest208"
-          ]
-        },
-        {
-          "event_id": "event619",
-          "time": "14:30:00",
-          "title": "Writing Effective Amazon Ads for Indie Authors ",
-          "track": "Workshop",
-          "description": "<p>\n\tAuthor Terry Maggert will do a presentation / workshop on how market your works effectively using Amazon.</p>\n",
-          "day": "2018-06-29",
-          "guests": [
-            "guest248"
-          ]
-        },
-        {
-          "event_id": "event647",
-          "time": "20:00:00",
-          "title": "Learn Glass Cutting from a Master",
-          "track": "Workshop",
-          "description": "Master Stained Glass Artisan Leia Powell has been creating glass masterpieces for 20+ years. This 90-minute workshop will be hands-on how to cut and break glass to fit a pattern. Glass cutter and grozing pliers included in the $25.00 fee for this workshop. (10 person limit, so register fast!). First come first serve, send your payment (counts as your registration) via PayPal to fearandtrust@yahoo.com.  We will notify on the LC FB page when the class is full. Liability waiver required for the workshop.",
-          "day": "2018-06-30",
-          "guests": [
-            "guest216"
-          ]
-        },
-        {
-          "event_id": "event664",
-          "time": "18:00:00",
-          "title": "Writing for Mass Market and Paperbacks",
-          "track": "Workshop",
-          "description": "Holly McClure of Lost Mount Press which specializes in paperback fiction and republishing back lists. will conduct this two hour workshop on how to write for genre paperbacks and mass markets. First five pages and synopsis critique for writers who have a manuscript ready. ",
-          "day": "2018-06-30",
-          "guests": [
-            "guest18"
-          ]
-        },
-        {
-          "event_id": "event669",
-          "time": "18:00:00",
-          "title": "Puppetry Workshop",
-          "track": "Workshop",
-          "description": "<p>\n\tBryan Jones hosts this workshop<span style=\"font-family: arial, sans-serif; font-size: 12.8px;\">&nbsp;on basic puppetry and puppet making.</span></p>\n",
-          "day": "2018-06-29",
-          "guests": [
-            "guest377"
-          ]
-        },
-        {
-          "event_id": "event671",
-          "time": "15:00:00",
-          "title": "Bill Fawcett \"New Author\" Sessions",
-          "track": "Workshop",
-          "description": "<p>\n\t1500 - 1515 - Julie Frost</p>\n<p>\n\t1515 - 1530 - Chris Woods</p>\n<p>\n\t&nbsp;</p>\n",
-          "day": "2018-06-29",
-          "guests": [
-            "guest199",
-            "guest364",
-            "guest423"
-          ]
-        },
-        {
-          "event_id": "event672",
-          "time": "11:00:00",
-          "title": "Bill Fawcett \"New Author\" Sessions",
-          "track": "Workshop",
-          "description": "<p>\n\t1100 - 1115 - Steve Murphy &amp; Paul Barrett</p>\n<p>\n\t1115 - 1130 - Karl Gallagher</p>\n<p>\n\t1130 - 1145 - Dawn Witzke</p>\n<p>\n\t1145 - 1200 - J.D. Jordan</p>\n",
-          "day": "2018-06-30",
-          "guests": [
-            "guest371",
-            "guest404",
-            "guest386",
-            "guest414",
-            "guest415",
-            "guest199"
-          ]
-        }
-      ]
-    },
-    {
       "name": "Kids Prog.",
       "default": false,
       "events": [
@@ -7612,39 +5237,6 @@
           "guests": []
         },
         {
-          "event_id": "event164",
-          "time": "18:00:00",
-          "title": "I Can Make Art Outta That!",
-          "track": "Kids Prog.",
-          "description": "James Ward will take pieces and parts and make artful lamps, steampunk stuff, etc. while having fun! He will bring items to make and generate ideas for functional art.",
-          "day": "2016-07-09",
-          "guests": [
-            "guest164"
-          ]
-        },
-        {
-          "event_id": "event166",
-          "time": "12:00:00",
-          "title": "Puppet Show",
-          "track": "Kids Prog.",
-          "description": "James Ward will once again please all ages with his masterful puppetry.",
-          "day": "2017-07-01",
-          "guests": [
-            "guest164"
-          ]
-        },
-        {
-          "event_id": "event230",
-          "time": "15:00:00",
-          "title": "Kids Dungeons & Dragons, 5th Edition",
-          "track": "Kids Prog.",
-          "description": "Glenn Baggott will moderate this 5th edition game for kids.",
-          "day": "2017-06-30",
-          "guests": [
-            "guest189"
-          ]
-        },
-        {
           "event_id": "event265",
           "time": "16:00:00",
           "title": "Balloons of Doom",
@@ -7678,59 +5270,6 @@
           ]
         },
         {
-          "event_id": "event309",
-          "time": "16:00:00",
-          "title": "Face Painting ",
-          "track": "Kids Prog.",
-          "description": "Cedar Sanderson will show off her artistic skills - come bring the kids for some fun as they are transformed into",
-          "day": "2015-06-26",
-          "guests": [
-            "guest201"
-          ]
-        },
-        {
-          "event_id": "event356",
-          "time": "14:00:00",
-          "title": "Extreme RoShamBo",
-          "track": "Kids Prog.",
-          "description": "Extreme RoShamBo, a wild new game version of Paper, Scissor, Rock for your enjoyment! Moderator: Fritz Fotovich",
-          "day": "2016-07-08",
-          "guests": [
-            "guest144"
-          ]
-        },
-        {
-          "event_id": "event417",
-          "time": "10:00:00",
-          "title": "Cookie Decorating In the Con Suite",
-          "track": "Kids Prog.",
-          "description": "For the Kids! Cisca Small will school the little ones in the fine art of Cookie Decorating.   Come one, come all!",
-          "day": "2017-07-01",
-          "guests": []
-        },
-        {
-          "event_id": "event492",
-          "time": "14:00:00",
-          "title": "Storytelling for the Kids",
-          "track": "Kids Prog.",
-          "description": "Regionally-renowned storyteller Henry Vogel will regale the children with a lively and energetic original stories as well as traditional folk tales. He has a fondness for &quot;noodlehead&quot; stories, funny stories, and stories with a twist. ",
-          "day": "2017-06-30",
-          "guests": [
-            "guest373"
-          ]
-        },
-        {
-          "event_id": "event493",
-          "time": "14:00:00",
-          "title": "Storytelling for the Kids",
-          "track": "Kids Prog.",
-          "description": "Regionally-renowned storyteller Henry Vogel will regale the children with a lively and energetic original stories as well as traditional folk tales. He has a fondness for &quot;noodlehead&quot; stories, funny stories, and stories with a twist. ",
-          "day": "2017-07-01",
-          "guests": [
-            "guest373"
-          ]
-        },
-        {
           "event_id": "event494",
           "time": "11:00:00",
           "title": "Ask A Scientist - Kids Edition",
@@ -7744,50 +5283,6 @@
             "guest28",
             "guest315",
             "guest220"
-          ]
-        },
-        {
-          "event_id": "event527",
-          "time": "18:00:00",
-          "title": "Leia Reads Lei-Lei",
-          "track": "Kids Prog.",
-          "description": "Artist/Author Leia Powell reads from her new children&#039;s book: The Adventures of Little Lei-Lei: Toil and Trouble",
-          "day": "2017-06-30",
-          "guests": [
-            "guest216"
-          ]
-        },
-        {
-          "event_id": "event528",
-          "time": "12:00:00",
-          "title": "Leia Reads Lei-Lei",
-          "track": "Kids Prog.",
-          "description": " Artist/Author Leai Powell reads from her new children&#039;s book: The Adventures of Little Lei-Lei: Toil and Trouble",
-          "day": "2017-07-02",
-          "guests": [
-            "guest216"
-          ]
-        },
-        {
-          "event_id": "event529",
-          "time": "17:00:00",
-          "title": "A Halloween Children&#039;s Story",
-          "track": "Kids Prog.",
-          "description": "Author Martin Powell (who has published many children&#039;s books) will read a Halloween children&#039;s story.",
-          "day": "2017-07-01",
-          "guests": [
-            "guest256"
-          ]
-        },
-        {
-          "event_id": "event530",
-          "time": "14:00:00",
-          "title": "A Halloween Children&#039;s Story",
-          "track": "Kids Prog.",
-          "description": "Author Martin Powell (who has published many children&#039;s books) will read a Halloween children&#039;s story.",
-          "day": "2017-07-02",
-          "guests": [
-            "guest256"
           ]
         },
         {
@@ -7837,9 +5332,9 @@
         {
           "event_id": "event666",
           "time": "18:00:00",
-          "title": "Werewolf and Cookies",
+          "title": "Are You a Werewolf?",
           "track": "Kids Prog.",
-          "description": "<p>\n\tX moderates this kid friendly version of Are You a Werewolf? with cookies!</p>\n",
+          "description": "<p>\n\tZach Waller&nbsp; moderates this kid friendly version of Are You a Werewolf?&nbsp;</p>\n",
           "day": "2018-06-30",
           "guests": []
         }
@@ -7849,45 +5344,6 @@
       "name": "Autograph",
       "default": false,
       "events": [
-        {
-          "event_id": "event122",
-          "time": "15:00:00",
-          "title": "Autograph Session (Hearne, D. Kennedy)",
-          "track": "Autograph",
-          "description": "Autograph sessions will be located in the Dealer&#039;s Room.  Authors will cycle through hourly, except for the author&#039;s that have their own tables who will be available when they are not scheduled in the program. Limit 5 books (if you bring more, get 5 signed and go to the back of the line.)",
-          "day": "2017-06-30",
-          "guests": [
-            "guest348",
-            "guest315"
-          ]
-        },
-        {
-          "event_id": "event123",
-          "time": "13:00:00",
-          "title": "Autograph Session (Cordova, Ringo, Weber (13:00 - 13:30 only))",
-          "track": "Autograph",
-          "description": "Autograph sessions will be located in the Dealer&#039;s Room.  Authors will cycle through hourly. Limit 2 books (if you bring more, get 2 signed and go to the back of the line.)",
-          "day": "2017-07-02",
-          "guests": [
-            "guest19",
-            "guest3",
-            "guest85"
-          ]
-        },
-        {
-          "event_id": "event124",
-          "time": "11:00:00",
-          "title": "Autograph Session (Hartness, Hunter, Martin, McCaffrey)",
-          "track": "Autograph",
-          "description": "Autograph sessions will be located in the Dealer&#039;s Room.  Authors will cycle through hourly, except for the author&#039;s that have their own tables who will be available when they are not scheduled in the program. Limit 5 books (if you bring more, get 5 signed and go to the back of the line.)",
-          "day": "2017-07-01",
-          "guests": [
-            "guest349",
-            "guest40",
-            "guest225",
-            "guest200"
-          ]
-        },
         {
           "event_id": "event125",
           "time": "12:00:00",
@@ -7904,192 +5360,11 @@
           ]
         },
         {
-          "event_id": "event126",
-          "time": "15:00:00",
-          "title": "Autograph Session (Allen, Daniel Butler, Bragg, Witzke)",
-          "track": "Autograph",
-          "description": "Autograph sessions will be located in the Dealer&#039;s Room.  Authors will cycle through hourly, except for the author&#039;s that have their own tables who will be available when they are not scheduled in the program. Limit 5 books (if you bring more, get 5 signed and go to the back of the line.)",
-          "day": "2017-07-01",
-          "guests": [
-            "guest333",
-            "guest359",
-            "guest332",
-            "guest371"
-          ]
-        },
-        {
-          "event_id": "event127",
-          "time": "16:00:00",
-          "title": "Autograph Session (Leacock, McKeown, Pascoe, Sherrer)",
-          "track": "Autograph",
-          "description": "Autograph sessions will be located in the Dealer&#039;s Room.  Authors will cycle through hourly, except for the author&#039;s that have their own tables who will be available when they are not scheduled in the program. Limit 5 books (if you bring more, get 5 signed and go to the back of the line.)",
-          "day": "2017-07-01",
-          "guests": [
-            "guest372",
-            "guest290",
-            "guest247",
-            "guest389"
-          ]
-        },
-        {
-          "event_id": "event128",
-          "time": "14:00:00",
-          "title": "Autograph Session  (Burkhead, Finn, C. Kennedy)",
-          "track": "Autograph",
-          "description": "Autograph sessions will be located in the Dealer&#039;s Room.  Authors will cycle through hourly, except for the author&#039;s that have their own tables who will be available when they are not scheduled in the program. Limit 5 books (if you bring more, get 5 signed and go to the back of the line.)",
-          "day": "2017-07-01",
-          "guests": [
-            "guest251",
-            "guest307",
-            "guest20"
-          ]
-        },
-        {
-          "event_id": "event129",
-          "time": "10:00:00",
-          "title": "Autograph Session (Arroz. Mandragora, Ringo)",
-          "track": "Autograph",
-          "description": "Autograph sessions will be located in the Dealer&#039;s Room.  Authors will cycle through hourly, except for the author&#039;s that have their own tables who will be available when they are not scheduled in the program. Limit 5 books (if you bring more, get 5 signed and go to the back of the line.)",
-          "day": "2017-07-01",
-          "guests": [
-            "guest380",
-            "guest3",
-            "guest163"
-          ]
-        },
-        {
-          "event_id": "event130",
-          "time": "19:00:00",
-          "title": "Autograph Session (Buettner, Matthews, Morris, Osborn)",
-          "track": "Autograph",
-          "description": "Autograph sessions will be located in the Dealer&#039;s Room.  Authors will cycle through hourly, except for the author&#039;s that have their own tables who will be available when they are not scheduled in the program. Limit 5 books (if you bring more, get 5 signed and go to the back of the line.)",
-          "day": "2017-06-30",
-          "guests": [
-            "guest282",
-            "guest370",
-            "guest39",
-            "guest392"
-          ]
-        },
-        {
-          "event_id": "event131",
-          "time": "18:00:00",
-          "title": "Autograph Session (Gannon, Holo, Humphreys, Plexico)",
-          "track": "Autograph",
-          "description": "Autograph sessions will be located in the Dealer&#039;s Room.  Authors will cycle through hourly, except for the author&#039;s that have their own tables who will be available when they are not scheduled in the program. Limit 5 books (if you bring more, get 5 signed and go to the back of the line.)",
-          "day": "2017-06-30",
-          "guests": [
-            "guest358",
-            "guest375",
-            "guest381",
-            "guest184"
-          ]
-        },
-        {
-          "event_id": "event132",
-          "time": "12:00:00",
-          "title": "Autograph Session (Gilliam, Perry, Spriggs, Vogel)",
-          "track": "Autograph",
-          "description": "Autograph sessions will be located in the Dealer&#039;s Room.  Authors will cycle through hourly, except for the author&#039;s that have their own tables who will be available when they are not scheduled in the program. Limit 5 books (if you bring more, get 5 signed and go to the back of the line.)",
-          "day": "2017-07-01",
-          "guests": [
-            "guest366",
-            "guest373",
-            "guest252",
-            "guest171"
-          ]
-        },
-        {
-          "event_id": "event135",
-          "time": "13:00:00",
-          "title": "Autograph Session (Alberich, Gallagher, Lowery)",
-          "track": "Autograph",
-          "description": "Autograph sessions will be located in the Dealer&#039;s Room.  Authors will cycle through hourly, except for the author&#039;s that have their own tables who will be available when they are not scheduled in the program. Limit 5 books (if you bring more, get 5 signed and go to the back of the line.)",
-          "day": "2017-07-01",
-          "guests": [
-            "guest386",
-            "guest374",
-            "guest159"
-          ]
-        },
-        {
-          "event_id": "event136",
-          "time": "16:00:00",
-          "title": "Autograph Session (D.J. Butler, Cochrane, Hicks, Lackey, Swann)",
-          "track": "Autograph",
-          "description": "Autograph sessions will be located in the Dealer&#039;s Room.  Authors will cycle through hourly, except for the author&#039;s that have their own tables who will be available when they are not scheduled in the program. Limit 5 books (if you bring more, get 5 signed and go to the back of the line.)",
-          "day": "2017-06-30",
-          "guests": [
-            "guest309",
-            "guest328",
-            "guest62",
-            "guest343",
-            "guest355"
-          ]
-        },
-        {
-          "event_id": "event137",
-          "time": "11:00:00",
-          "title": "Autograph Session (Ayres, Carpenter, Howell, Lackey, Rinehart)",
-          "track": "Autograph",
-          "description": "Autograph sessions will be located in the Dealer&#039;s Room.  Authors will cycle through hourly, except for the author&#039;s that have their own tables who will be available when they are not scheduled in the program. Limit 5 books (if you bring more, get 5 signed and go to the back of the line.)",
-          "day": "2017-07-02",
-          "guests": [
-            "guest343",
-            "guest313",
-            "guest363",
-            "guest208",
-            "guest326"
-          ]
-        },
-        {
-          "event_id": "event138",
-          "time": "14:00:00",
-          "title": "Autograph Session - Straight Outta Tombstone (Boop, S. Hoyt, Wacks) + D. Hoyt",
-          "track": "Autograph",
-          "description": "Autograph sessions will be located in the Dealer&#039;s Room.  Authors will cycle through hourly, except for the author&#039;s that have their own tables who will be available when they are not scheduled in the program. Limit 5 books (if you bring more, get 5 signed and go to the back of the line.) 138",
-          "day": "2017-07-02",
-          "guests": [
-            "guest10",
-            "guest67",
-            "guest384",
-            "guest365"
-          ]
-        },
-        {
-          "event_id": "event139",
-          "time": "17:00:00",
-          "title": "Autograph Session (Hearne, Maggert, Monroe, S. Osborn)",
-          "track": "Autograph",
-          "description": "Autograph sessions will be located in the Dealer&#039;s Room.  Authors will cycle through hourly, except for the author&#039;s that have their own tables who will be available when they are not scheduled in the program. Limit 5 books (if you bring more, get 5 signed and go to the back of the line.)",
-          "day": "2017-07-01",
-          "guests": [
-            "guest348",
-            "guest39",
-            "guest305",
-            "guest248"
-          ]
-        },
-        {
-          "event_id": "event178",
-          "time": "10:00:00",
-          "title": "Autograph Session (Brown, Drake, Fults, Wandrey)",
-          "track": "Autograph",
-          "description": "Autograph sessions will be located in the Dealer&#039;s Room.  Authors will cycle through hourly, except for the author&#039;s that have their own tables who will be available when they are not scheduled in the program. Limit 5 books (if you bring more, get 5 signed and go to the back of the line.)",
-          "day": "2017-07-02",
-          "guests": [
-            "guest207",
-            "guest113",
-            "guest29",
-            "guest238"
-          ]
-        },
-        {
           "event_id": "event275",
           "time": "13:00:00",
           "title": "Author's Alley (Barrett/Murphy, Lewis, Burkhead, G. Martin, Witzke)",
           "track": "Autograph",
-          "description": "<p>\n\tCome by the Author&#39;s Alley to chat, buy a book or get an autograph!</p>\n",
+          "description": "<p>\n\tCome by the Author's Alley to chat, buy a book or get an autograph!</p>\n",
           "day": "2018-06-30",
           "guests": [
             "guest414",
@@ -8105,7 +5380,7 @@
           "time": "16:00:00",
           "title": "Author's Alley (K. Bogen, Coe/Jackson, Hollifield, Mays)",
           "track": "Autograph",
-          "description": "<p>\n\tCome by the Author&#39;s Alley to chat, buy a book or get an autograph!</p>\n",
+          "description": "<p>\n\tCome by the Author's Alley to chat, buy a book or get an autograph!</p>\n",
           "day": "2018-06-29",
           "guests": [
             "guest259",
@@ -8119,7 +5394,7 @@
           "time": "18:00:00",
           "title": "Author's Alley (Del Arroz, S. Osborn, Sanderson, Sherrer)",
           "track": "Autograph",
-          "description": "<p>\n\tCome by the Author&#39;s Alley to chat, buy a book or get an autograph!</p>\n",
+          "description": "<p>\n\tCome by the Author's Alley to chat, buy a book or get an autograph!</p>\n",
           "day": "2018-06-29",
           "guests": [
             "guest201",
@@ -8133,7 +5408,7 @@
           "time": "19:00:00",
           "title": "Author's Alley (Burkhead, Del Arroz, Monroe, Montgomery )",
           "track": "Autograph",
-          "description": "<p>\n\tCome by the Author&#39;s Alley to chat, buy a book or get an autograph!</p>\n",
+          "description": "<p>\n\tCome by the Author's Alley to chat, buy a book or get an autograph!</p>\n",
           "day": "2018-06-29",
           "guests": [
             "guest305",
@@ -8147,7 +5422,7 @@
           "time": "21:00:00",
           "title": "Author's Alley (Brooks, DJ Butler, Cordova, Howell, Mandragora)",
           "track": "Autograph",
-          "description": "<p>\n\tCome by the Author&#39;s Alley to chat, buy a book or get an autograph!</p>\n",
+          "description": "<p>\n\tCome by the Author's Alley to chat, buy a book or get an autograph!</p>\n",
           "day": "2018-06-29",
           "guests": [
             "guest355",
@@ -8207,7 +5482,7 @@
           "time": "13:00:00",
           "title": "Author's Alley (Antczak, Burkhead, K. Ezell / Chris Smith, Gibbons, Leacock)",
           "track": "Autograph",
-          "description": "<p>\n\tCome by the Author&#39;s Alley to chat, buy a book or get an autograph!</p>\n",
+          "description": "<p>\n\tCome by the Author's Alley to chat, buy a book or get an autograph!</p>\n",
           "day": "2018-07-01",
           "guests": [
             "guest263",
@@ -8223,7 +5498,7 @@
           "time": "15:00:00",
           "title": "Author's Alley (Andrews, Beckwith, Carpenter, Lowery, Rinehart)",
           "track": "Autograph",
-          "description": "<p>\n\tCome by the Author&#39;s Alley to chat, buy a book or get an autograph!</p>\n",
+          "description": "<p>\n\tCome by the Author's Alley to chat, buy a book or get an autograph!</p>\n",
           "day": "2018-06-29",
           "guests": [
             "guest417",
@@ -8238,7 +5513,7 @@
           "time": "14:00:00",
           "title": "Author's Alley (Barrett/Murphy, Freeman, G. Martin, Sherrer)",
           "track": "Autograph",
-          "description": "<p>\n\tCome by the Author&#39;s Alley to chat, buy a book or get an autograph!</p>\n",
+          "description": "<p>\n\tCome by the Author's Alley to chat, buy a book or get an autograph!</p>\n",
           "day": "2018-06-30",
           "guests": [
             "guest414",
@@ -8253,7 +5528,7 @@
           "time": "16:00:00",
           "title": "Author's Alley (Coe/Jackson, Hoch, Holmes, L. Johnson/J. Meany, Lowery)",
           "track": "Autograph",
-          "description": "<p>\n\tCome by the Author&#39;s Alley to chat, buy a book or get an autograph!</p>\n",
+          "description": "<p>\n\tCome by the Author's Alley to chat, buy a book or get an autograph!</p>\n",
           "day": "2018-06-30",
           "guests": [
             "guest340",
@@ -8267,14 +5542,15 @@
         {
           "event_id": "event287",
           "time": "17:00:00",
-          "title": "Author's Alley (Bogen, Bragg, Hampton, Hoch, C. Kennedy)",
+          "title": "Author's Alley (Bogen, Bragg, Hampton, Hoch, C. Kennedy, Ward)",
           "track": "Autograph",
-          "description": "<p>\n\tCome by the Author&#39;s Alley to chat, buy a book or get an autograph!</p>\n",
+          "description": "<p>\n\tCome by the Author's Alley to chat, buy a book or get an autograph!</p>\n",
           "day": "2018-06-30",
           "guests": [
             "guest332",
             "guest251",
             "guest340",
+            "guest164",
             "guest122"
           ]
         },
@@ -8298,7 +5574,7 @@
           "time": "19:00:00",
           "title": "Author's Alley (Michael J. Allen, Maggert, Mays, J, Osborne, Schantz)",
           "track": "Autograph",
-          "description": "<p>\n\tCome by the Author&#39;s Alley to chat, buy a book or get an autograph!</p>\n",
+          "description": "<p>\n\tCome by the Author's Alley to chat, buy a book or get an autograph!</p>\n",
           "day": "2018-06-30",
           "guests": [
             "guest259",
@@ -8311,15 +5587,16 @@
         {
           "event_id": "event290",
           "time": "20:00:00",
-          "title": "Author's Alley (Frost, Gallagher, JD Jordan, Woods)",
+          "title": "Author's Alley (Frost, Gallagher, JD Jordan, Ward, Woods)",
           "track": "Autograph",
-          "description": "<p>\n\tCome by the Author&#39;s Alley to chat, buy a book or get an autograph!</p>\n",
+          "description": "<p>\n\tCome by the Author's Alley to chat, buy a book or get an autograph!</p>\n",
           "day": "2018-06-30",
           "guests": [
             "guest386",
             "guest404",
             "guest364",
-            "guest423"
+            "guest423",
+            "guest164"
           ]
         },
         {
@@ -8342,7 +5619,7 @@
           "time": "14:00:00",
           "title": "Author's Alley (Antczak, A. Carpenter, Gibbons, Gannon, L. Johnson/J. Meany)",
           "track": "Autograph",
-          "description": "<p>\n\tCome by the Author&#39;s Alley to chat, buy a book or get an autograph!</p>\n",
+          "description": "<p>\n\tCome by the Author's Alley to chat, buy a book or get an autograph!</p>\n",
           "day": "2018-06-29",
           "guests": [
             "guest44",
@@ -8358,7 +5635,7 @@
           "time": "13:00:00",
           "title": "Author's Alley (A. Carpenter, Frost, C. Kennedy, Schroeder)",
           "track": "Autograph",
-          "description": "<p>\n\tCome by the Author&#39;s Alley to chat, buy a book or get an autograph!</p>\n",
+          "description": "<p>\n\tCome by the Author's Alley to chat, buy a book or get an autograph!</p>\n",
           "day": "2018-06-29",
           "guests": [
             "guest423",
@@ -8372,7 +5649,7 @@
           "time": "12:00:00",
           "title": "Author's Alley (DJ Butler, Coe/Jackson, Lowery, Mandragora)",
           "track": "Autograph",
-          "description": "<p>\n\tCome by the Author&#39;s Alley to chat, buy a book or get an autograph!</p>\n",
+          "description": "<p>\n\tCome by the Author's Alley to chat, buy a book or get an autograph!</p>\n",
           "day": "2018-07-01",
           "guests": [
             "guest159",
@@ -8386,7 +5663,7 @@
           "time": "20:00:00",
           "title": "Author's Alley (Michael J. Allen, Brooks, Cordova, Howell, Weyand )",
           "track": "Autograph",
-          "description": "<p>\n\tCome by the Author&#39;s Alley to chat, buy a book or get an autograph!</p>\n",
+          "description": "<p>\n\tCome by the Author's Alley to chat, buy a book or get an autograph!</p>\n",
           "day": "2018-06-29",
           "guests": [
             "guest359",
@@ -8401,7 +5678,7 @@
           "time": "22:00:00",
           "title": "Author's Alley (Freeman, T. Howard, JD Jordan, Spriggs)",
           "track": "Autograph",
-          "description": "<p>\n\tCome by the Author&#39;s Alley to chat, buy a book or get an autograph!</p>\n",
+          "description": "<p>\n\tCome by the Author's Alley to chat, buy a book or get an autograph!</p>\n",
           "day": "2018-06-30",
           "guests": [
             "guest425",
@@ -8413,11 +5690,12 @@
         {
           "event_id": "event310",
           "time": "10:00:00",
-          "title": "Author's Alley (Quincy J. Allen, Gannon, Kupari)",
+          "title": "Author's Alley (Quincy J. Allen, Gannon, Kupari, Ward)",
           "track": "Autograph",
-          "description": "Come by the Author's Alley to chat, buy a book or get an autograph!",
+          "description": "<p>\n\tCome by the Author's Alley to chat, buy a book or get an autograph!</p>\n",
           "day": "2018-07-01",
           "guests": [
+            "guest164",
             "guest184",
             "guest398",
             "guest437"
@@ -8428,7 +5706,7 @@
           "time": "21:00:00",
           "title": "Author's Alley (DJ Butler,T. Howard, JD Jordan, Sanderson, Spriggs)",
           "track": "Autograph",
-          "description": "<p>\n\tCome by the Author&#39;s Alley to chat, buy a book or get an autograph!</p>\n",
+          "description": "<p>\n\tCome by the Author's Alley to chat, buy a book or get an autograph!</p>\n",
           "day": "2018-06-30",
           "guests": [
             "guest425",
@@ -8464,7 +5742,7 @@
           "time": "14:00:00",
           "title": "Author's Alley (Michael J. Allen, K. Ezell / Chris Smith, C. Kennedy, S. Osborn, Schantz)",
           "track": "Autograph",
-          "description": "<p>\n\tCome by the Author&#39;s Alley to chat, buy a book or get an autograph!</p>\n",
+          "description": "<p>\n\tCome by the Author's Alley to chat, buy a book or get an autograph!</p>\n",
           "day": "2018-07-01",
           "guests": [
             "guest39",
@@ -8480,7 +5758,7 @@
           "time": "15:00:00",
           "title": "Author's Alley (Holmes, G. Martin, S. Osborn, Sacco, Sherrer)",
           "track": "Autograph",
-          "description": "<p>\n\tCome by the Author&#39;s Alley to chat, buy a book or get an autograph!</p>\n",
+          "description": "<p>\n\tCome by the Author's Alley to chat, buy a book or get an autograph!</p>\n",
           "day": "2018-06-30",
           "guests": [
             "guest438",
@@ -8606,7 +5884,7 @@
           "time": "11:00:00",
           "title": "Autograph Session (Drake, Les Johnson, Lewis, Shoemaker)",
           "track": "Autograph",
-          "description": "<p>\n\tAutograph sessions will be located in the Dealer&#39;s Room. Authors will cycle through hourly, except for the author&#39;s that have their own tables who will be available when they are not scheduled in the program. Limit 5 books (if you bring more, get 5 signed and go to the back of the line.)</p>\n",
+          "description": "<p>\n\tAutograph sessions will be located in the Dealer's Room. Authors will cycle through hourly, except for the author's that have their own tables who will be available when they are not scheduled in the program. Limit 5 books (if you bring more, get 5 signed and go to the back of the line.)</p>\n",
           "day": "2018-07-01",
           "guests": [
             "guest113",
@@ -8633,9 +5911,9 @@
         {
           "event_id": "event631",
           "time": "14:00:00",
-          "title": "Autograph Session (Gallager, Gannon, McKeown)",
+          "title": "Autograph Session (Gallagher, Gannon, McKeown)",
           "track": "Autograph",
-          "description": "<p>\n\tAutograph sessions will be located in the Dealer&#39;s Room. Authors will cycle through hourly, except for the author&#39;s that have their own tables who will be available when they are not scheduled in the program. Limit 5 books (if you bring more, get 5 signed and go to the back of the line.)</p>\n",
+          "description": "<p>\n\tAutograph sessions will be located in the Dealer's Room. Authors will cycle through hourly, except for the author's that have their own tables who will be available when they are not scheduled in the program. Limit 5 books (if you bring more, get 5 signed and go to the back of the line.)</p>\n",
           "day": "2018-07-01",
           "guests": [
             "guest184",
@@ -8648,7 +5926,7 @@
           "time": "10:00:00",
           "title": "Autograph Session (Brooks, Burkhead, Frost, Lamplighter, Wright)",
           "track": "Autograph",
-          "description": "<p>\n\tAutograph sessions will be located in the Dealer&#39;s Room. Authors will cycle through hourly, except for the author&#39;s that have their own tables who will be available when they are not scheduled in the program. Limit 5 books (if you bring more, get 5 signed and go to the back of the line.)</p>\n",
+          "description": "<p>\n\tAutograph sessions will be located in the Dealer's Room. Authors will cycle through hourly, except for the author's that have their own tables who will be available when they are not scheduled in the program. Limit 5 books (if you bring more, get 5 signed and go to the back of the line.)</p>\n",
           "day": "2018-06-30",
           "guests": [
             "guest289",
@@ -8675,7 +5953,7 @@
           "time": "13:00:00",
           "title": "Autograph Session (Lowery, Van Stry)",
           "track": "Autograph",
-          "description": "<p>\n\tAutograph sessions will be located in the Dealer&#39;s Room. Authors will cycle through hourly, except for the author&#39;s that have their own tables who will be available when they are not scheduled in the program. Limit 5 books (if you bring more, get 5 signed and go to the back of the line.)</p>\n",
+          "description": "<p>\n\tAutograph sessions will be located in the Dealer's Room. Authors will cycle through hourly, except for the author's that have their own tables who will be available when they are not scheduled in the program. Limit 5 books (if you bring more, get 5 signed and go to the back of the line.)</p>\n",
           "day": "2018-06-30",
           "guests": [
             "guest416",
@@ -8687,7 +5965,7 @@
           "time": "15:00:00",
           "title": "Autograph Session (Del Arroz, Grazier)",
           "track": "Autograph",
-          "description": "<p>\n\tAutograph sessions will be located in the Dealer&#39;s Room. Authors will cycle through hourly, except for the author&#39;s that have their own tables who will be available when they are not scheduled in the program. Limit 5 books (if you bring more, get 5 signed and go to the back of the line.)</p>\n",
+          "description": "<p>\n\tAutograph sessions will be located in the Dealer's Room. Authors will cycle through hourly, except for the author's that have their own tables who will be available when they are not scheduled in the program. Limit 5 books (if you bring more, get 5 signed and go to the back of the line.)</p>\n",
           "day": "2018-06-30",
           "guests": [
             "guest380",
@@ -8699,7 +5977,7 @@
           "time": "16:00:00",
           "title": "Autograph Session (Ayres, Carpenter, Picacio, Rinehart)",
           "track": "Autograph",
-          "description": "<p>\n\tAutograph sessions will be located in the Dealer&#39;s Room. Authors will cycle through hourly, except for the author&#39;s that have their own tables who will be available when they are not scheduled in the program. Limit 5 books (if you bring more, get 5 signed and go to the back of the line.)</p>\n",
+          "description": "<p>\n\tAutograph sessions will be located in the Dealer's Room. Authors will cycle through hourly, except for the author's that have their own tables who will be available when they are not scheduled in the program. Limit 5 books (if you bring more, get 5 signed and go to the back of the line.)</p>\n",
           "day": "2018-06-30",
           "guests": [
             "guest428",
@@ -8713,7 +5991,7 @@
           "time": "17:00:00",
           "title": "Autograph Session (Howell, D. Hoyt, S. Hoyt, S. Osborn)",
           "track": "Autograph",
-          "description": "<p>\n\tAutograph sessions will be located in the Dealer&#39;s Room. Authors will cycle through hourly, except for the author&#39;s that have their own tables who will be available when they are not scheduled in the program. Limit 5 books (if you bring more, get 5 signed and go to the back of the line.)</p>\n",
+          "description": "<p>\n\tAutograph sessions will be located in the Dealer's Room. Authors will cycle through hourly, except for the author's that have their own tables who will be available when they are not scheduled in the program. Limit 5 books (if you bring more, get 5 signed and go to the back of the line.)</p>\n",
           "day": "2018-06-30",
           "guests": [
             "guest39",
@@ -8740,11 +6018,12 @@
         {
           "event_id": "event639",
           "time": "16:00:00",
-          "title": "Autograph Session (C. Kennedy, Ringo, Spriggs)",
+          "title": "Autograph Session (L. Correia, C. Kennedy, Ringo, Spriggs)",
           "track": "Autograph",
-          "description": "<p>\n\tAutograph sessions will be located in the Dealer&#39;s Room. Authors will cycle through hourly, except for the author&#39;s that have their own tables who will be available when they are not scheduled in the program. Limit 5 books (if you bring more, get 5 signed and go to the back of the line.)</p>\n",
+          "description": "<p>\n\tAutograph sessions will be located in the Dealer's Room. Authors will cycle through hourly, except for the author's that have their own tables who will be available when they are not scheduled in the program. Limit 5 books (if you bring more, get 5 signed and go to the back of the line.)</p>\n",
           "day": "2018-06-29",
           "guests": [
+            "guest168",
             "guest251",
             "guest3",
             "guest252"
@@ -8767,15 +6046,14 @@
         {
           "event_id": "event641",
           "time": "19:00:00",
-          "title": "Autograph Session (Quincy J. Allen, Correia, Hartness, G. Martin, Woods)",
+          "title": "Autograph Session (Quincy J. Allen, Hartness, G. Martin, Woods)",
           "track": "Autograph",
-          "description": "<p>\n\tAutograph sessions will be located in the Dealer&#39;s Room. Authors will cycle through hourly, except for the author&#39;s that have their own tables who will be available when they are not scheduled in the program. Limit 5 books (if you bring more, get 5 signed and go to the back of the line.)</p>\n",
+          "description": "<p>\n\tAutograph sessions will be located in the Dealer's Room. Authors will cycle through hourly, except for the author's that have their own tables who will be available when they are not scheduled in the program. Limit 5 books (if you bring more, get 5 signed and go to the back of the line.)</p>\n",
           "day": "2018-06-29",
           "guests": [
             "guest364",
             "guest40",
             "guest437",
-            "guest168",
             "guest200"
           ]
         },
@@ -8797,7 +6075,7 @@
           "time": "14:00:00",
           "title": "Autograph Session (Cochrane, Mandragora)",
           "track": "Autograph",
-          "description": "<p>\n\tAutograph sessions will be located in the Dealer&#39;s Room. Authors will cycle through hourly, except for the author&#39;s that have their own tables who will be available when they are not scheduled in the program. Limit 5 books (if you bring more, get 5 signed and go to the back of the line.)</p>\n",
+          "description": "<p>\n\tAutograph sessions will be located in the Dealer's Room. Authors will cycle through hourly, except for the author's that have their own tables who will be available when they are not scheduled in the program. Limit 5 books (if you bring more, get 5 signed and go to the back of the line.)</p>\n",
           "day": "2018-06-30",
           "guests": [
             "guest163",
@@ -8819,59 +6097,191 @@
       ]
     },
     {
-      "name": "Demonstration",
+      "name": "Workshop",
       "default": false,
       "events": [
         {
-          "event_id": "event184",
+          "event_id": "event323",
+          "time": "13:00:00",
+          "title": "World Building Workshop for Screenplays vs. Novels",
+          "track": "Workshop",
+          "description": "Screenwriter Robert Evans will run a 90 minute workshop highlighting what the differences are between building worlds in screenplays and in novels.",
+          "day": "2018-06-29",
+          "guests": [
+            "guest341"
+          ]
+        },
+        {
+          "event_id": "event428",
+          "time": "14:00:00",
+          "title": "Bill Fawcett \"New Author\" Sessions",
+          "track": "Workshop",
+          "description": "<p>\n\t1400 - 1415 - Rachel Cates</p>\n<p>\n\t1415 - 1430 - William Joseph Roberts</p>\n<p>\n\t1430 - 1445 - Cecelia Star Kachina</p>\n<p>\n\t1445 - 1500 - Benjamin Tyler Smith</p>\n",
+          "day": "2018-06-29",
+          "guests": [
+            "guest199",
+            "guest420",
+            "guest418",
+            "guest421",
+            "guest422"
+          ]
+        },
+        {
+          "event_id": "event429",
+          "time": "12:00:00",
+          "title": "Bill Fawcett \"New Author\" Sessions",
+          "track": "Workshop",
+          "description": "<p>\n\t1200 - 1215 - Lydia Sherrer</p>\n<p>\n\t1215 - 1230 - Joseph Capdepon</p>\n<p>\n\t1230 - 1245 - Jon Del Arroz</p>\n<p>\n\t1245 - 1300 - Nico Murray</p>\n",
+          "day": "2018-06-30",
+          "guests": [
+            "guest199",
+            "guest424",
+            "guest389",
+            "guest380",
+            "guest419"
+          ]
+        },
+        {
+          "event_id": "event430",
+          "time": "13:00:00",
+          "title": "Bill Fawcett \"New Author\" Sessions",
+          "track": "Workshop",
+          "description": "<p>\n\t1300 - 1315 - Teresa Howard</p>\n<p>\n\t1315 - 1330 - Rob Howell</p>\n<p>\n\t1330 - 1345 - Marisa Wolf</p>\n<p>\n\t1345 - 1400 - Daniel Humphreys</p>\n",
+          "day": "2018-06-29",
+          "guests": [
+            "guest326",
+            "guest199",
+            "guest405",
+            "guest381",
+            "guest425"
+          ]
+        },
+        {
+          "event_id": "event440",
+          "time": "19:30:00",
+          "title": "How to Become More Successful as an Indy Author",
+          "track": "Workshop",
+          "description": "<p>\n\tJohn Van Stry has over a dozen best sellers on Amazon as well as four number one best sellers. Working full-time as an author for several years now, and he has recently made it into the ranks of a six-figure author and is willing to share his experiences of what has worked for him with other authors who are struggling to trying and become more successful.</p>\n",
+          "day": "2018-06-29",
+          "guests": [
+            "guest416"
+          ]
+        },
+        {
+          "event_id": "event504",
+          "time": "12:00:00",
+          "title": "Chain Mail Workshop",
+          "track": "Workshop",
+          "description": "<p>\n\tBryan Jones will conduct a workshop on the ancient skill of creating chain mail. He will provide rings and fittings gratis for each attendee to make a chain mail bracelet.</p>\n",
+          "day": "2018-07-01",
+          "guests": [
+            "guest377"
+          ]
+        },
+        {
+          "event_id": "event556",
           "time": "16:00:00",
-          "title": "From Manuscript to Print-Ready: See a Book Take Shape",
-          "track": "Demonstration",
-          "description": "Watch a book design go from an author&#039;s manuscript to a finished printed book interior using Adobe InDesign software--the primary tool of choice for professional designers--in this demonstration led by Dave Schroeder, owner of independent publisher Spiral Arm Press. ",
-          "day": "2016-07-08",
+          "title": "How to Approach Publishers Workshop",
+          "track": "Workshop",
+          "description": "D. Alan Lewis conducts this workshop on how best to approach publishers with you proposals and manuscripts.",
+          "day": "2018-06-30",
+          "guests": [
+            "guest204"
+          ]
+        },
+        {
+          "event_id": "event593",
+          "time": "16:00:00",
+          "title": "Overview of Scrivener for Writers",
+          "track": "Workshop",
+          "description": "<p>\n\tDave Schroeder will run a workshop on Scrivener, the popular writing and database tool for authors.</p>\n",
+          "day": "2018-06-29",
           "guests": [
             "guest303"
           ]
         },
         {
-          "event_id": "event351",
-          "time": "10:00:00",
-          "title": "Reinhardt Legacy Fight Team",
-          "track": "Demonstration",
-          "description": "The Reinhardt Legacy Fight Team is a weapons demonstration team of former friends and students of legendary swordsmanship authority Hank Reinhardt. The Team demonstrates the use of classical weapons with cutting demonstrations and full contact sparring.",
-          "day": "2017-07-02",
+          "event_id": "event604",
+          "time": "15:00:00",
+          "title": "Workshop:  Three Act Structure",
+          "track": "Workshop",
+          "description": "Anna Grace Carpenter will present a workshop on \"Three Act Structure: The Basics of Plotting and Outlining a Novel\"",
+          "day": "2018-06-30",
           "guests": [
-            "guest151",
-            "guest327"
+            "guest208"
           ]
         },
         {
-          "event_id": "event562",
-          "time": "19:00:00",
-          "title": "Gaming Vendor Demos ",
-          "track": "Demonstration",
-          "description": "Come see and play the latest games brought to you by a local game store",
-          "day": "2017-06-30",
-          "guests": []
-        },
-        {
-          "event_id": "event569",
-          "time": "18:00:00",
-          "title": "Gaming Vendor Demos",
-          "track": "Demonstration",
-          "description": "Come see and play the latest games brought to you by a local game store",
-          "day": "2017-07-01",
-          "guests": []
-        },
-        {
-          "event_id": "event617",
-          "time": "18:00:00",
-          "title": "Terrain Modeling Demonstration",
-          "track": "Demonstration",
-          "description": "Anita Moore will host a Terrain Modeling Demonstration in the Art Show.",
+          "event_id": "event619",
+          "time": "14:30:00",
+          "title": "Writing Effective Amazon Ads for Indie Authors ",
+          "track": "Workshop",
+          "description": "<p>\n\tAuthor Terry Maggert will do a presentation / workshop on how market your works effectively using Amazon.</p>\n",
           "day": "2018-06-29",
           "guests": [
-            "guest36"
+            "guest248"
+          ]
+        },
+        {
+          "event_id": "event647",
+          "time": "20:00:00",
+          "title": "Learn Glass Cutting from a Master",
+          "track": "Workshop",
+          "description": "Master Stained Glass Artisan Leia Powell has been creating glass masterpieces for 20+ years. This 90-minute workshop will be hands-on how to cut and break glass to fit a pattern. Glass cutter and grozing pliers included in the $25.00 fee for this workshop. (10 person limit, so register fast!). First come first serve, send your payment (counts as your registration) via PayPal to fearandtrust@yahoo.com.  We will notify on the LC FB page when the class is full. Liability waiver required for the workshop.",
+          "day": "2018-06-30",
+          "guests": [
+            "guest216"
+          ]
+        },
+        {
+          "event_id": "event664",
+          "time": "18:00:00",
+          "title": "Writing for Mass Market and Paperbacks",
+          "track": "Workshop",
+          "description": "Holly McClure of Lost Mount Press which specializes in paperback fiction and republishing back lists. will conduct this two hour workshop on how to write for genre paperbacks and mass markets. First five pages and synopsis critique for writers who have a manuscript ready. ",
+          "day": "2018-06-30",
+          "guests": [
+            "guest18"
+          ]
+        },
+        {
+          "event_id": "event669",
+          "time": "18:00:00",
+          "title": "Puppetry Workshop",
+          "track": "Workshop",
+          "description": "<p>\n\tBryan Jones hosts this workshop<span style=\"font-family: arial, sans-serif; font-size: 12.8px;\">&nbsp;on basic puppetry and puppet making.</span></p>\n",
+          "day": "2018-06-29",
+          "guests": [
+            "guest377"
+          ]
+        },
+        {
+          "event_id": "event671",
+          "time": "15:00:00",
+          "title": "Bill Fawcett \"New Author\" Sessions",
+          "track": "Workshop",
+          "description": "<p>\n\t1500 - 1515 - Julie Frost</p>\n<p>\n\t1515 - 1530 - Chris Woods</p>\n<p>\n\t&nbsp;</p>\n",
+          "day": "2018-06-29",
+          "guests": [
+            "guest199",
+            "guest364",
+            "guest423"
+          ]
+        },
+        {
+          "event_id": "event672",
+          "time": "11:00:00",
+          "title": "Bill Fawcett \"New Author\" Sessions",
+          "track": "Workshop",
+          "description": "<p>\n\t1100 - 1115 - Steve Murphy & Paul Barrett</p>\n<p>\n\t1115 - 1130 - Karl Gallagher</p>\n<p>\n\t1130 - 1145 - Dawn Witzke</p>\n<p>\n\t1145 - 1200 - J.D. Jordan</p>\n",
+          "day": "2018-06-30",
+          "guests": [
+            "guest371",
+            "guest404",
+            "guest386",
+            "guest414",
+            "guest415",
+            "guest199"
           ]
         }
       ]
@@ -8881,51 +6291,13 @@
       "default": false,
       "events": [
         {
-          "event_id": "event468",
-          "time": "21:00:00",
-          "title": "JordanCon Room Party",
-          "track": "Room Party",
-          "description": "Room Party hosted by JordanCon, the premier Wheel of Time convention",
-          "day": "2016-07-09",
-          "guests": []
-        },
-        {
-          "event_id": "event471",
-          "time": "21:00:00",
-          "title": "Thursday Night Little White Donut Appreciation Party",
-          "track": "Room Party",
-          "description": null,
-          "day": "2016-07-07",
-          "guests": []
-        },
-        {
-          "event_id": "event472",
-          "time": "21:00:00",
-          "title": "Dublin in 2019 WorldCon Bid",
-          "track": "Room Party",
-          "description": null,
-          "day": "2016-07-08",
-          "guests": []
-        },
-        {
           "event_id": "event473",
-          "time": "21:00:00",
-          "title": "ChattaCon &quot;Room&quot; Party",
+          "time": "20:00:00",
+          "title": "BADASS Room Party",
           "track": "Room Party",
-          "description": "ChattaCon will once again be hosting their Party Alley Patio Party!  Come on out Saturday night!",
-          "day": "2016-07-09",
+          "description": "<p>\n\t<span style=\"font-family: sans-serif; font-size: 14.6667px;\">Jamie Ibson hosts \"Books and Drinking / Authors Signing Stuff\" (acronym: BADASS) Room Parthy will include some alcohol provided, snacks, and Michelle is inviting ladies to come around and try on and take home the vintage clothing I posted about earlier on my own FB wall.</span></p>\n",
+          "day": "2018-06-29",
           "guests": []
-        },
-        {
-          "event_id": "event474",
-          "time": "21:00:00",
-          "title": "Ram&#039;s Head Books Pavilion Party in the Party Area",
-          "track": "Room Party",
-          "description": "&quot;Ram&#039;s Head Books announces the publication of Taylor Hoch&#039;s XXX",
-          "day": "2017-07-01",
-          "guests": [
-            "guest340"
-          ]
         },
         {
           "event_id": "event476",
@@ -8954,15 +6326,6 @@
             "guest129",
             "guest419"
           ]
-        },
-        {
-          "event_id": "event477",
-          "time": "21:00:00",
-          "title": "ConStellation &quot;Room Party&quot;",
-          "track": "Room Party",
-          "description": "ConStellation will once again be hosting their Party Alley Patio Party! Come on out Friday night!",
-          "day": "2016-07-08",
-          "guests": []
         },
         {
           "event_id": "event549",
@@ -8995,18 +6358,6 @@
           ]
         },
         {
-          "event_id": "event550",
-          "time": "21:00:00",
-          "title": "The Blade Files Series Book Launch Party",
-          "track": "Room Party",
-          "description": "TBD",
-          "day": "2017-07-01",
-          "guests": [
-            "guest333",
-            "guest332"
-          ]
-        },
-        {
           "event_id": "event572",
           "time": "21:00:00",
           "title": "ChattaCon 44 Room Party ",
@@ -9020,8 +6371,8 @@
           "time": "21:00:00",
           "title": "CONStellation Room Party",
           "track": "Room Party",
-          "description": "Come join Doug Lampert and enjoy Huntsville Hospitality and support Constellation!",
-          "day": "2018-06-30",
+          "description": "<p>\n\tCome join Doug Lampert and enjoy Huntsville Hospitality and support Constellation!</p>\n",
+          "day": "2018-06-29",
           "guests": []
         },
         {
@@ -9056,10 +6407,38 @@
           "time": "21:00:00",
           "title": "Michael Z. Williamson Wedding Reception",
           "track": "Room Party",
-          "description": "<p>\n\t<span style=\"font-family: Helvetica, Arial, sans-serif;\">Come and provide well wishes at Mike and Jessica&#39;s reception starting at 9 and running until a point TBD.</span></p>\n",
+          "description": "<p>\n\t<span style=\"font-family: Helvetica, Arial, sans-serif;\">Come and provide well wishes at Mike and Jessica's reception starting at 9 and running until a point TBD.</span></p>\n",
           "day": "2018-06-30",
           "guests": [
             "guest7"
+          ]
+        },
+        {
+          "event_id": "event676",
+          "time": "21:00:00",
+          "title": "Rams Head Book Launch / Room Party",
+          "track": "Room Party",
+          "description": "<p>\n\t<span style=\"color: rgb(51, 51, 51); font-family: \"Libre Franklin\", \"Helvetica Neue\", helvetica, arial, sans-serif; font-size: 16px;\">Rams Head&nbsp;Books presents the Book&nbsp;Launch Party for Taylor S Hoch&rsquo;s&nbsp;</span><span style=\"color: rgb(51, 51, 51); font-family: \"Libre Franklin\", \"Helvetica Neue\", helvetica, arial, sans-serif; font-size: 16px;\">Volume 5 of the continuing saga of Prospero Clydesdale O&rsquo;Shaunesssy&rsquo;s &ldquo;Curse of the Dullahan&rdquo; series, &ldquo;Mouth of the Cave.&rdquo;</span></p>\n<div style=\"box-sizing: inherit; color: rgb(51, 51, 51); font-family: \"Libre Franklin\", \"Helvetica Neue\", helvetica, arial, sans-serif; font-size: 16px;\">\n\t&nbsp;</div>\n<p>\n\t&nbsp;</p>\n",
+          "day": "2018-06-30",
+          "guests": [
+            "guest340"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Demonstration",
+      "default": false,
+      "events": [
+        {
+          "event_id": "event617",
+          "time": "18:00:00",
+          "title": "Terrain Modeling Demonstration",
+          "track": "Demonstration",
+          "description": "Anita Moore will host a Terrain Modeling Demonstration in the Art Show.",
+          "day": "2018-06-29",
+          "guests": [
+            "guest36"
           ]
         }
       ]
