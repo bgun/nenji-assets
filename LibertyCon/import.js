@@ -27,11 +27,13 @@ const schedule_query = `
     schedule.desc AS description,
     schedule.time AS time,
     sched_type_name AS track,
+    location.excluded AS exclude,
     guest_id
   FROM schedule
+  LEFT JOIN location ON schedule.loc = location.id
   LEFT JOIN sched_type ON schedule.type = sched_type.id
   LEFT JOIN schedule_guest ON schedule.id = schedule_guest.sched_id
-  WHERE schedule.date >= '2018-06-29' AND schedule.date <= '2018-07-01'
+  WHERE schedule.date >= '2018-06-29' AND schedule.date <= '2018-07-01' AND location.excluded = 0
   ORDER BY schedule.id
 `;
 

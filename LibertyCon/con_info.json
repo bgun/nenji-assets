@@ -2785,66 +2785,6 @@
           ]
         },
         {
-          "event_id": "event350",
-          "time": "18:00:00",
-          "title": "Baen Dinner",
-          "track": "Event",
-          "description": "<p>\n\tBaen Dinner - Convention Center Rotunda - private event</p>\n",
-          "day": "2018-06-30",
-          "guests": [
-            "guest184",
-            "guest200",
-            "guest3",
-            "guest66",
-            "guest67",
-            "guest313",
-            "guest221",
-            "guest281",
-            "guest15",
-            "guest323",
-            "guest356",
-            "guest408",
-            "guest240",
-            "guest161",
-            "guest19",
-            "guest398",
-            "guest263",
-            "guest7",
-            "guest318",
-            "guest231",
-            "guest93",
-            "guest10",
-            "guest251",
-            "guest28",
-            "guest339",
-            "guest322",
-            "guest8",
-            "guest199",
-            "guest220",
-            "guest113",
-            "guest330",
-            "guest355",
-            "guest331",
-            "guest14",
-            "guest179",
-            "guest198",
-            "guest280",
-            "guest276",
-            "guest9",
-            "guest140",
-            "guest215",
-            "guest273",
-            "guest182",
-            "guest243",
-            "guest327",
-            "guest85",
-            "guest394",
-            "guest428",
-            "guest399",
-            "guest168"
-          ]
-        },
-        {
           "event_id": "event391",
           "time": "11:00:00",
           "title": "Room reset after Kaffeeklatsch",
@@ -3853,7 +3793,7 @@
         {
           "event_id": "event276",
           "time": "16:00:00",
-          "title": "Author's Alley (K. Bogen, Coe/Jackson, Hollifield, Mays)",
+          "title": "Author's Alley (K. Bogen, Coe/Jackson, Hollifield, Mays, Teresa Nials)",
           "track": "Autograph",
           "description": "<p>\n\tCome by the Author's Alley to chat, buy a book or get an autograph!</p>\n",
           "day": "2018-06-29",
@@ -4152,7 +4092,7 @@
         {
           "event_id": "event296",
           "time": "22:00:00",
-          "title": "Author's Alley (Freeman, T. Howard, JD Jordan, Spriggs)",
+          "title": "Author's Alley (Freeman, T. Howard, JD Jordan, Teresa Nials, Spriggs)",
           "track": "Autograph",
           "description": "<p>\n\tCome by the Author's Alley to chat, buy a book or get an autograph!</p>\n",
           "day": "2018-06-30",
@@ -4166,7 +4106,7 @@
         {
           "event_id": "event310",
           "time": "10:00:00",
-          "title": "Author's Alley (Quincy J. Allen, Gannon, Kupari, Ward)",
+          "title": "Author's Alley (Quincy J. Allen, Gannon, Kupari, Teresa Nials, Ward)",
           "track": "Autograph",
           "description": "<p>\n\tCome by the Author's Alley to chat, buy a book or get an autograph!</p>\n",
           "day": "2018-07-01",
@@ -4588,51 +4528,6 @@
           ]
         },
         {
-          "event_id": "event428",
-          "time": "14:00:00",
-          "title": "Bill Fawcett \"New Author\" Sessions",
-          "track": "Workshop",
-          "description": "<p>\n\t1400 - 1415 - Rachel Cates</p>\n<p>\n\t1415 - 1430 - William Joseph Roberts</p>\n<p>\n\t1430 - 1445 - Cecelia Star Kachina</p>\n<p>\n\t1445 - 1500 - Benjamin Tyler Smith</p>\n",
-          "day": "2018-06-29",
-          "guests": [
-            "guest199",
-            "guest420",
-            "guest418",
-            "guest421",
-            "guest422"
-          ]
-        },
-        {
-          "event_id": "event429",
-          "time": "12:00:00",
-          "title": "Bill Fawcett \"New Author\" Sessions",
-          "track": "Workshop",
-          "description": "<p>\n\t1200 - 1215 - Lydia Sherrer</p>\n<p>\n\t1215 - 1230 - Joseph Capdepon</p>\n<p>\n\t1230 - 1245 - Jon Del Arroz</p>\n<p>\n\t1245 - 1300 - Nico Murray</p>\n",
-          "day": "2018-06-30",
-          "guests": [
-            "guest199",
-            "guest424",
-            "guest389",
-            "guest380",
-            "guest419"
-          ]
-        },
-        {
-          "event_id": "event430",
-          "time": "13:00:00",
-          "title": "Bill Fawcett \"New Author\" Sessions",
-          "track": "Workshop",
-          "description": "<p>\n\t1300 - 1315 - Teresa Howard</p>\n<p>\n\t1315 - 1330 - Rob Howell</p>\n<p>\n\t1330 - 1345 - Marisa Wolf</p>\n<p>\n\t1345 - 1400 - Daniel Humphreys</p>\n",
-          "day": "2018-06-29",
-          "guests": [
-            "guest326",
-            "guest199",
-            "guest405",
-            "guest381",
-            "guest425"
-          ]
-        },
-        {
           "event_id": "event440",
           "time": "19:30:00",
           "title": "How to Become More Successful as an Indy Author",
@@ -4729,35 +4624,6 @@
           "day": "2018-06-29",
           "guests": [
             "guest377"
-          ]
-        },
-        {
-          "event_id": "event671",
-          "time": "15:00:00",
-          "title": "Bill Fawcett \"New Author\" Sessions",
-          "track": "Workshop",
-          "description": "<p>\n\t1500 - 1515 - Julie Frost</p>\n<p>\n\t1515 - 1530 - Chris Woods</p>\n<p>\n\t&nbsp;</p>\n",
-          "day": "2018-06-29",
-          "guests": [
-            "guest199",
-            "guest364",
-            "guest423"
-          ]
-        },
-        {
-          "event_id": "event672",
-          "time": "11:00:00",
-          "title": "Bill Fawcett \"New Author\" Sessions",
-          "track": "Workshop",
-          "description": "<p>\n\t1100 - 1115 - Steve Murphy & Paul Barrett</p>\n<p>\n\t1115 - 1130 - Karl Gallagher</p>\n<p>\n\t1130 - 1145 - Dawn Witzke</p>\n<p>\n\t1145 - 1200 - J.D. Jordan</p>\n",
-          "day": "2018-06-30",
-          "guests": [
-            "guest371",
-            "guest404",
-            "guest386",
-            "guest414",
-            "guest415",
-            "guest199"
           ]
         }
       ]
