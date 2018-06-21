@@ -38,6 +38,7 @@ const schedule_query = `
 const guests_query = `
   SELECT *
   FROM guests
+  WHERE attending = 1
 `;
 
 
