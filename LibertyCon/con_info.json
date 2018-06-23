@@ -1001,12 +1001,6 @@
       "image": "4186f-teresa-howard.jpg"
     },
     {
-      "guest_id": "guest426",
-      "name": "James P. McDonald",
-      "bio": "James Nettles  has consulted for dozens of clients from startups to Fortune 100 organizations on designing and implementing transformative technologies over twenty-five years. In addition to consulting, he speaks on futurism and coming disruptive technologies and their impact on businesses and all of our daily lives.\nIn addition, Jim develops content and materials for personal and professional development, technology, privacy issues, and Artificial Intelligence.\nHe also is a science fiction, fantasy, and contemporary fiction author as James P. McDonald, using his background in cultural anthropology and sociology. His current series are the Home Summonings and Longbow Initiative urban fantasy series.\nHis newest project is The Writerâ€™s Mind (http://www.thewritermind.com), a book, podcast, and video series on business practices for individual creators, such as authors, artists, and musicians.\nFollow more at:\nhttp://jim-mcdonald.net\nhttp://thewritermind.com\nFacebook:  https://www.facebook.com/jimmacauth\nGoodreads:  https://www.goodreads.com/author/show/8119076.James_McDonald\nTwitter: @JimMacAuth\nOr drop him an e-mail at jim@jim-mcdonald.net  ",
-      "image": "5ff64-jim-mcdonald-150x150.jpg"
-    },
-    {
       "guest_id": "guest427",
       "name": "Julia Morgan Scott",
       "bio": "Scientific illustration has been my â€œday jobâ€ for over twenty years, and Iâ€™m a member of the Guild of Natural Science Illustrators. My drawings of fossil and living mammals have appeared in many scientific journals and books, most recently published by Smithsonian Scholarly Press. But Iâ€™ve also written poetry and short stories, written and illustrated comics, drawn caricatures, illustrated game cards and horror novels, painted icons, and taught painting. My scratchboard illustrations have appeared in many fanzines, including the Hugo-award winning Mimosa.  ",
@@ -1410,13 +1404,12 @@
         {
           "event_id": "event332",
           "time": "11:00:00",
-          "title": "Reading:  James P. McDonald & Mike Kupari",
+          "title": "Reading:  Mike Kupari &",
           "track": "Reading",
-          "description": "Come out and have a seat as our author guests read passages of their works.",
+          "description": "<p>\n\tCome out and have a seat as our author guests read passages of their works.</p>\n",
           "location": "M: Lookout Mountain Room",
           "day": "2018-06-30",
           "guests": [
-            "guest426",
             "guest398"
           ]
         },
@@ -1558,36 +1551,6 @@
           "guests": [
             "guest207",
             "guest39"
-          ]
-        },
-        {
-          "event_id": "event586",
-          "time": "16:00:00",
-          "title": "The Sha'Daa: TOYS Roundtable",
-          "track": "Reading",
-          "description": "Q&A and Readings from Sha'Daa: TOYS by the authors, followed by a Mass autograph session.",
-          "location": "CC: Ballroom E",
-          "day": "2018-06-30",
-          "guests": [
-            "guest12",
-            "guest405",
-            "guest19",
-            "guest372",
-            "guest247",
-            "guest308",
-            "guest414",
-            "guest221",
-            "guest421",
-            "guest263",
-            "guest422",
-            "guest418",
-            "guest15",
-            "guest288",
-            "guest248",
-            "guest420",
-            "guest419",
-            "guest129",
-            "guest408"
           ]
         },
         {
@@ -2069,7 +2032,7 @@
           "time": "22:00:00",
           "title": "SIGMA, Futurism and Science Fiction ",
           "track": "Panel",
-          "description": "Dr. Arlan Andrews, the Director of SIGMA, the Science Fiction Think Tank that consults for the USG,  will moderate this panel on what they do and how science fiction informs futurism.",
+          "description": "<p>\n\tDr. Arlan Andrews, the Director of SIGMA, the Science Fiction Think Tank that consults for the USG, will moderate this panel on what they do and how science fiction informs futurism.</p>\n",
           "location": "CC: Meeting Room 5",
           "day": "2018-06-30",
           "guests": [
@@ -2077,8 +2040,7 @@
             "guest330",
             "guest360",
             "guest386",
-            "guest39",
-            "guest426"
+            "guest39"
           ]
         },
         {
@@ -2796,7 +2758,6 @@
             "guest93",
             "guest67",
             "guest10",
-            "guest426",
             "guest44",
             "guest441",
             "guest436",
@@ -3217,7 +3178,6 @@
             "guest9",
             "guest417",
             "guest330",
-            "guest426",
             "guest14",
             "guest440",
             "guest445",
@@ -3299,8 +3259,7 @@
             "guest262",
             "guest220",
             "guest182",
-            "guest344",
-            "guest426"
+            "guest344"
           ]
         },
         {
@@ -3362,6 +3321,36 @@
           ]
         },
         {
+          "event_id": "event586",
+          "time": "16:00:00",
+          "title": "The Sha'Daa: TOYS Roundtable",
+          "track": "Roundtable",
+          "description": "<p>\n\tQ&A and Readings from Sha'Daa: TOYS by the authors, followed by a Mass autograph session.</p>\n",
+          "location": "CC: Ballroom E",
+          "day": "2018-06-30",
+          "guests": [
+            "guest12",
+            "guest405",
+            "guest19",
+            "guest372",
+            "guest247",
+            "guest308",
+            "guest414",
+            "guest221",
+            "guest421",
+            "guest263",
+            "guest422",
+            "guest418",
+            "guest15",
+            "guest288",
+            "guest248",
+            "guest420",
+            "guest419",
+            "guest129",
+            "guest408"
+          ]
+        },
+        {
           "event_id": "event591",
           "time": "18:00:00",
           "title": "Let's Predict the Next Big Thing!",
@@ -3375,8 +3364,7 @@
             "guest356",
             "guest411",
             "guest314",
-            "guest397",
-            "guest426"
+            "guest397"
           ]
         },
         {
@@ -3598,7 +3586,7 @@
           "time": "13:00:00",
           "title": "The Future History of Science and Technology",
           "track": "Presentation",
-          "description": "Dr. Hans Schantz  presents: Future history has long been the realm of prophets, SF writers, and economists alike. Whether history repeats itself or merely rhymes, its ebb and flow may be described by Kondratiev Cycles, Anonymous Conservative's r/K selection theory, or Dr. Jim Penman's Biohistory. How do these historical cycles impact the development of science and technology? This talk shows how these cycles of history & science have worked in the past and how writers have used it to craft plausible futures",
+          "description": "<p>\n\t<span style=\"font-family: arial, sans-serif; font-size: 12.8px;\">Future history has long been the realm of prophets, SF writers, and economists alike. Whether history repeats itself or merely rhymes, its ebb and flow may be described by Kondratiev Cycles, Anonymous Conservative's r/K selection theory, or Dr. Jim Penman's Biohistory. How do these historical cycles impact the development of science and technology? Dr. Schantz shows how scientific development oscillates between an Aristotelian phase in which new principles are identified and a Platonic phase in which the implications of those ideas are worked out. Arguing we now stand at peak Platonism, Dr. Schantz explains why he anticipates an imminent swing toward an Aristotelian phase and the profound opportunity this transition offers for lovers of liberty to shape not only culture and politics, but also to predict the future.</span></p>\n",
           "location": "CC: Meeting Room 5",
           "day": "2018-06-29",
           "guests": [
@@ -3775,7 +3763,7 @@
           "time": "10:00:00",
           "title": "Large Dice Games with Fritz and Agatha",
           "track": "Kids Prog.",
-          "description": "Fritz Fotovich and Agatha Jean will be offering this year's giant dice in the Carta Room.",
+          "description": "Fritz Fotovich and Agatha Jean will be offering this year's giant dice in CC Meeting Room 8.",
           "location": "CC: Meeting Room 8",
           "day": "2018-07-01",
           "guests": [
@@ -3787,7 +3775,7 @@
           "time": "13:00:00",
           "title": "Large Dice Games with Fritz and Agatha",
           "track": "Kids Prog.",
-          "description": "Fritz Fotovich and Agatha Jean will be offering this year's giant dice games in the Carta Room.",
+          "description": "Fritz Fotovich and Agatha Jean will be offering this year's giant dice games in CC Meeting Room 8.",
           "location": "CC: Meeting Room 8",
           "day": "2018-06-29",
           "guests": [
@@ -3799,7 +3787,7 @@
           "time": "20:00:00",
           "title": "Large Dice Games with Fritz and Agatha",
           "track": "Kids Prog.",
-          "description": "Fritz Fotovich and Agatha Jean will be offering this year's giant dice games in the Carta Room.",
+          "description": "Fritz Fotovich and Agatha Jean will be offering this year's giant dice games in CC Meeting Room 8.",
           "location": "CC: Meeting Room 8",
           "day": "2018-06-30",
           "guests": [
@@ -3811,7 +3799,7 @@
           "time": "20:00:00",
           "title": "Large Dice Games with Fritz and Agatha",
           "track": "Kids Prog.",
-          "description": "Fritz Fotovich and Agatha Jean will be offering this year's giant dice in the Carta Room.",
+          "description": "Fritz Fotovich and Agatha Jean will be offering this year's giant dice in CC Meeting Room 8.",
           "location": "CC: Meeting Room 8",
           "day": "2018-06-29",
           "guests": [
@@ -3823,7 +3811,7 @@
           "time": "12:00:00",
           "title": "Large Dice Games with Agatha",
           "track": "Kids Prog.",
-          "description": "Agatha Jean will be offering this year's giant dice games for your enjoyment!",
+          "description": "Agatha Jean will be offering this year's giant dice games for your enjoyment in CC Meeting Room 8!",
           "location": "CC: Meeting Room 8",
           "day": "2018-06-30",
           "guests": []
@@ -4647,16 +4635,15 @@
         {
           "event_id": "event638",
           "time": "15:00:00",
-          "title": "Autograph Session (Ikenberry, D. Kennedy, Kratman, McDonald, Sanderson)",
+          "title": "Autograph Session (Ikenberry, D. Kennedy, Kratman, Sanderson)",
           "track": "Autograph",
-          "description": "Autograph sessions will be located in the Dealer's Room.  Authors will cycle through hourly, except for the author's that have their own tables who will be available when they are not scheduled in the program. Limit 5 books (if you bring more, get 5 signed and go to the back of the line.)",
+          "description": "<p>\n\tAutograph sessions will be located in the Dealer's Room. Authors will cycle through hourly, except for the author's that have their own tables who will be available when they are not scheduled in the program. Limit 5 books (if you bring more, get 5 signed and go to the back of the line.)</p>\n",
           "location": "Dealer's Room (M: Plaza A/B/C Ballroom)",
           "day": "2018-06-29",
           "guests": [
             "guest201",
             "guest315",
             "guest400",
-            "guest426",
             "guest322"
           ]
         },
