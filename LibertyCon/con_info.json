@@ -785,12 +785,6 @@
       "image": "cdcd9-bay-days-2.jpg"
     },
     {
-      "guest_id": "guest397",
-      "name": "Greg Eden",
-      "bio": "Greg Eden is from New Zealand where he trained in radio communications and has worked in England, Wales, Austria, Ghana Nigeria, Sudan and Chad. He has installed radio equipment in garbage trucks, has been a communications officer for the UK Fire Service, has set up paging networks, and currently works in West Africa installing Air Traffic Control Systems and Meteorological Sensor Networks.",
-      "image": "af2b2-7ecf1-dscn0376-copy.jpg"
-    },
-    {
       "guest_id": "guest371",
       "name": "Dawn Witzke",
       "bio": "Dawn Witzke is a freelance writer, graphic artist and master level procrastinator. She has crafted book covers for the Dragon Award Nominated novel, Honor At Stake by Declan Finn, Erin Lale's sci-fi Punch Series, and a variety of other authors. Dawn can be found over at her blog, Books & Art, where she randomly posts artwork, book reviews and writing. http://author.dawnwitzke.com\nShe is also a published writer of diverse styles and genres. She is the author of the Relic Hunter Catholic Space Adventure short fiction series, Path of Angels (March 2017) and was runner up in the 2015 Liberty Island Magazine Halloween contest with her short story, \"Children of Whitechapel\".",
@@ -999,12 +993,6 @@
       "name": "Teresa  Howard",
       "bio": "Teresa Howard is a life-long fan of science fiction and fantasy.   She has attended Dragon Con almost every year since 1991.  She participated in the Writers Workshops taught by the late Ann Crispin and The Writers Track led by Nancy Knight.  She was employed for many years as a technology coordinator and computer lab instructor.   Her passion remained writing science fiction and fantasy.  \nTeresaâ€™s published stories cover a wide range of the speculative fiction genre.  Her short fiction has been published in magazines, anthologies, webzines, and on IPhone aps in the U.S., Canada, and the U.K.   She is often found at a corner table in a local bookstore or library working on her latest writing project.  Her publication credits include the following:\nBIBLIOGRAPHY OF WORKS BY TERESA HOWARD\n\n1,  â€œStorm at Hailerâ€  Aoifeâ€™s Kiss  September 2004 \n2.   â€œA Forest of Oneâ€  Amazing Journeys Magazine of Science Fiction and Fantasy 2004  Vol. 2  Issue 5 \n3.   â€œDragons Taleâ€  Dragons Composed   Kerlax Publishing\n4.  â€œNellandraâ€™s Keeperâ€  Marion Zimmer Bradleyâ€™s Sword and Sorceress  XXIV  edited by  Elizabeth         \n      Waters - Norilana books 2009.`\n5.  â€œFang Rotâ€  Escape Clause the App for Iphone  \n6.  â€œBaby in the Snowâ€  Pantechnicon.net   issue 9  March 2009.\n7.  â€œPutting On The Blueâ€   Beyond Centauri  January 2010   Samâ€™s Dot Publishing\n8.  â€œNot Humanâ€  Neo-Opsis Magazine July 2010  \n9.  â€œStreetâ€  See Spot Run    2011 A Publication of Alma College\n10.  â€œDead In Meâ€  Summer Gothic a Collection of Southern Hauntings  2012 edited by Jared Millet\n11.  â€œThe Long Blue Hallâ€ Alfie Dog Inc.    March 2013\n12.  â€œAnnis First Dauther of the Stoneâ€  4StarStories  2016\n13.  â€œRachelâ€™s Fallâ€  Visions V: Milky Way by Lillicat Putlishers 2016\n14. â€œThe Reluctant Empressâ€   novel, published  by Champagne Book Group March 2018\n",
       "image": "4186f-teresa-howard.jpg"
-    },
-    {
-      "guest_id": "guest426",
-      "name": "James P. McDonald",
-      "bio": "James Nettles  has consulted for dozens of clients from startups to Fortune 100 organizations on designing and implementing transformative technologies over twenty-five years. In addition to consulting, he speaks on futurism and coming disruptive technologies and their impact on businesses and all of our daily lives.\nIn addition, Jim develops content and materials for personal and professional development, technology, privacy issues, and Artificial Intelligence.\nHe also is a science fiction, fantasy, and contemporary fiction author as James P. McDonald, using his background in cultural anthropology and sociology. His current series are the Home Summonings and Longbow Initiative urban fantasy series.\nHis newest project is The Writerâ€™s Mind (http://www.thewritermind.com), a book, podcast, and video series on business practices for individual creators, such as authors, artists, and musicians.\nFollow more at:\nhttp://jim-mcdonald.net\nhttp://thewritermind.com\nFacebook:  https://www.facebook.com/jimmacauth\nGoodreads:  https://www.goodreads.com/author/show/8119076.James_McDonald\nTwitter: @JimMacAuth\nOr drop him an e-mail at jim@jim-mcdonald.net  ",
-      "image": "5ff64-jim-mcdonald-150x150.jpg"
     },
     {
       "guest_id": "guest427",
@@ -1383,12 +1371,11 @@
         {
           "event_id": "event332",
           "time": "11:00:00",
-          "title": "Reading:  James P. McDonald & Mike Kupari",
+          "title": "Reading:  Mike Kupari &",
           "track": "Reading",
-          "description": "Come out and have a seat as our author guests read passages of their works.",
+          "description": "<p>\n\tCome out and have a seat as our author guests read passages of their works.</p>\n",
           "day": "2018-06-30",
           "guests": [
-            "guest426",
             "guest398"
           ]
         },
@@ -1519,35 +1506,6 @@
           "guests": [
             "guest207",
             "guest39"
-          ]
-        },
-        {
-          "event_id": "event586",
-          "time": "16:00:00",
-          "title": "The Sha'Daa: TOYS Roundtable",
-          "track": "Reading",
-          "description": "Q&A and Readings from Sha'Daa: TOYS by the authors, followed by a Mass autograph session.",
-          "day": "2018-06-30",
-          "guests": [
-            "guest12",
-            "guest405",
-            "guest19",
-            "guest372",
-            "guest247",
-            "guest308",
-            "guest414",
-            "guest221",
-            "guest421",
-            "guest263",
-            "guest422",
-            "guest418",
-            "guest15",
-            "guest288",
-            "guest248",
-            "guest420",
-            "guest419",
-            "guest129",
-            "guest408"
           ]
         },
         {
@@ -2000,15 +1958,14 @@
           "time": "22:00:00",
           "title": "SIGMA, Futurism and Science Fiction ",
           "track": "Panel",
-          "description": "Dr. Arlan Andrews, the Director of SIGMA, the Science Fiction Think Tank that consults for the USG,  will moderate this panel on what they do and how science fiction informs futurism.",
+          "description": "<p>\n\tDr. Arlan Andrews, the Director of SIGMA, the Science Fiction Think Tank that consults for the USG, will moderate this panel on what they do and how science fiction informs futurism.</p>\n",
           "day": "2018-06-30",
           "guests": [
             "guest153",
             "guest330",
             "guest360",
             "guest386",
-            "guest39",
-            "guest426"
+            "guest39"
           ]
         },
         {
@@ -2378,7 +2335,6 @@
           "day": "2018-06-30",
           "guests": [
             "guest314",
-            "guest397",
             "guest14",
             "guest179"
           ]
@@ -2543,6 +2499,7 @@
             "guest241",
             "guest326",
             "guest184",
+            "guest330",
             "guest420",
             "guest408",
             "guest428",
@@ -2688,7 +2645,6 @@
             "guest93",
             "guest67",
             "guest10",
-            "guest426",
             "guest44",
             "guest441",
             "guest436",
@@ -2698,7 +2654,6 @@
             "guest444",
             "guest429",
             "guest419",
-            "guest397",
             "guest14",
             "guest399",
             "guest168",
@@ -2809,7 +2764,9 @@
           "track": "Event",
           "description": "<p>\n\tSetup / Prep for Karaoke</p>\n",
           "day": "2018-06-29",
-          "guests": []
+          "guests": [
+            "guest5"
+          ]
         },
         {
           "event_id": "event407",
@@ -3079,11 +3036,9 @@
             "guest9",
             "guest417",
             "guest330",
-            "guest426",
             "guest14",
             "guest440",
-            "guest445",
-            "guest397"
+            "guest445"
           ]
         },
         {
@@ -3157,8 +3112,7 @@
             "guest262",
             "guest220",
             "guest182",
-            "guest344",
-            "guest426"
+            "guest344"
           ]
         },
         {
@@ -3217,6 +3171,35 @@
           ]
         },
         {
+          "event_id": "event586",
+          "time": "16:00:00",
+          "title": "The Sha'Daa: TOYS Roundtable",
+          "track": "Roundtable",
+          "description": "<p>\n\tQ&A and Readings from Sha'Daa: TOYS by the authors, followed by a Mass autograph session.</p>\n",
+          "day": "2018-06-30",
+          "guests": [
+            "guest12",
+            "guest405",
+            "guest19",
+            "guest372",
+            "guest247",
+            "guest308",
+            "guest414",
+            "guest221",
+            "guest421",
+            "guest263",
+            "guest422",
+            "guest418",
+            "guest15",
+            "guest288",
+            "guest248",
+            "guest420",
+            "guest419",
+            "guest129",
+            "guest408"
+          ]
+        },
+        {
           "event_id": "event591",
           "time": "18:00:00",
           "title": "Let's Predict the Next Big Thing!",
@@ -3228,9 +3211,7 @@
             "guest360",
             "guest356",
             "guest411",
-            "guest314",
-            "guest397",
-            "guest426"
+            "guest314"
           ]
         },
         {
@@ -3414,9 +3395,9 @@
         {
           "event_id": "event464",
           "time": "21:00:00",
-          "title": "ARTC Presentation: ",
+          "title": "ARTC Presentations: George Alec Effinger's \"Terrific Park\" and Robert A. Heinlein's \"The Man Who Traveled in Elephants\"",
           "track": "Presentation",
-          "description": "ARTC's performance TBD",
+          "description": "<p>\n\tThis year's Atlanta Radio Theatre Company (ARTC) presentations will be&nbsp;<em>Terrific Park</em>&nbsp;by George Alec Effinger (adapted for audio by Brad Strickland)&nbsp; and&nbsp;<em>The Man Who Traveled in Elephants&nbsp;</em>by Robert A. Heinlein (adapted for audio by Brad Linaweaver). THERE IS ADVENTURE IN SOUND!</p>\n",
           "day": "2018-06-30",
           "guests": [
             "guest303",
@@ -3425,22 +3406,11 @@
           ]
         },
         {
-          "event_id": "event497",
-          "time": "14:00:00",
-          "title": "Electricity and Magnetism for Beginner's (Children's Programming)",
-          "track": "Presentation",
-          "description": "Dr. Hans Schantz explains how electricity and magnetism works for the kids!  Informative for novices interested in understanding how the world works.",
-          "day": "2018-06-30",
-          "guests": [
-            "guest360"
-          ]
-        },
-        {
           "event_id": "event498",
           "time": "13:00:00",
           "title": "The Future History of Science and Technology",
           "track": "Presentation",
-          "description": "Dr. Hans Schantz  presents: Future history has long been the realm of prophets, SF writers, and economists alike. Whether history repeats itself or merely rhymes, its ebb and flow may be described by Kondratiev Cycles, Anonymous Conservative's r/K selection theory, or Dr. Jim Penman's Biohistory. How do these historical cycles impact the development of science and technology? This talk shows how these cycles of history & science have worked in the past and how writers have used it to craft plausible futures",
+          "description": "<p>\n\t<span style=\"font-family: arial, sans-serif; font-size: 12.8px;\">Future history has long been the realm of prophets, SF writers, and economists alike. Whether history repeats itself or merely rhymes, its ebb and flow may be described by Kondratiev Cycles, Anonymous Conservative's r/K selection theory, or Dr. Jim Penman's Biohistory. How do these historical cycles impact the development of science and technology? Dr. Schantz shows how scientific development oscillates between an Aristotelian phase in which new principles are identified and a Platonic phase in which the implications of those ideas are worked out. Arguing we now stand at peak Platonism, Dr. Schantz explains why he anticipates an imminent swing toward an Aristotelian phase and the profound opportunity this transition offers for lovers of liberty to shape not only culture and politics, but also to predict the future.</span></p>\n",
           "day": "2018-06-29",
           "guests": [
             "guest360"
@@ -3451,7 +3421,7 @@
           "time": "21:00:00",
           "title": "Organizing for War: Not Just for but Especially for Writers",
           "track": "Presentation",
-          "description": "Tom Kratman presents Organizing for War -  What it takes and how to get it right when explaining it from the writers perspective. Tom will have an autograph session during the last 15 minutes.",
+          "description": "<p>\n\tTom Kratman presents Organizing for War - What it takes and how to get it right when explaining it from the writers perspective. Tom will have an autograph session during the last 15 minutes.</p>\n",
           "day": "2018-06-29",
           "guests": [
             "guest322"
@@ -3603,7 +3573,7 @@
           "time": "10:00:00",
           "title": "Large Dice Games with Fritz and Agatha",
           "track": "Kids Prog.",
-          "description": "Fritz Fotovich and Agatha Jean will be offering this year's giant dice in the Carta Room.",
+          "description": "Fritz Fotovich and Agatha Jean will be offering this year's giant dice in CC Meeting Room 8.",
           "day": "2018-07-01",
           "guests": [
             "guest144"
@@ -3614,7 +3584,7 @@
           "time": "13:00:00",
           "title": "Large Dice Games with Fritz and Agatha",
           "track": "Kids Prog.",
-          "description": "Fritz Fotovich and Agatha Jean will be offering this year's giant dice games in the Carta Room.",
+          "description": "Fritz Fotovich and Agatha Jean will be offering this year's giant dice games in CC Meeting Room 8.",
           "day": "2018-06-29",
           "guests": [
             "guest144"
@@ -3625,7 +3595,7 @@
           "time": "20:00:00",
           "title": "Large Dice Games with Fritz and Agatha",
           "track": "Kids Prog.",
-          "description": "Fritz Fotovich and Agatha Jean will be offering this year's giant dice games in the Carta Room.",
+          "description": "Fritz Fotovich and Agatha Jean will be offering this year's giant dice games in CC Meeting Room 8.",
           "day": "2018-06-30",
           "guests": [
             "guest144"
@@ -3636,7 +3606,7 @@
           "time": "20:00:00",
           "title": "Large Dice Games with Fritz and Agatha",
           "track": "Kids Prog.",
-          "description": "Fritz Fotovich and Agatha Jean will be offering this year's giant dice in the Carta Room.",
+          "description": "Fritz Fotovich and Agatha Jean will be offering this year's giant dice in CC Meeting Room 8.",
           "day": "2018-06-29",
           "guests": [
             "guest144"
@@ -3647,7 +3617,7 @@
           "time": "12:00:00",
           "title": "Large Dice Games with Agatha",
           "track": "Kids Prog.",
-          "description": "Agatha Jean will be offering this year's giant dice games for your enjoyment!",
+          "description": "Agatha Jean will be offering this year's giant dice games for your enjoyment in CC Meeting Room 8!",
           "day": "2018-06-30",
           "guests": []
         },
@@ -3698,6 +3668,17 @@
             "guest28",
             "guest315",
             "guest220"
+          ]
+        },
+        {
+          "event_id": "event497",
+          "time": "14:00:00",
+          "title": "Electricity and Magnetism for Beginner's (Children's Programming)",
+          "track": "Kids Prog.",
+          "description": "<p>\n\tDr. Hans Schantz explains how electricity and magnetism works for the kids! Informative for novices interested in understanding how the world works.</p>\n",
+          "day": "2018-06-30",
+          "guests": [
+            "guest360"
           ]
         },
         {
@@ -3927,7 +3908,7 @@
         {
           "event_id": "event285",
           "time": "14:00:00",
-          "title": "Author's Alley (Barrett/Murphy, Freeman, G. Martin, Sherrer)",
+          "title": "Author's Alley (Barrett/Murphy, Freeman, G. Martin, Picacio, Sherrer)",
           "track": "Autograph",
           "description": "<p>\n\tCome by the Author's Alley to chat, buy a book or get an autograph!</p>\n",
           "day": "2018-06-30",
@@ -3936,7 +3917,8 @@
             "guest389",
             "guest413",
             "guest200",
-            "guest415"
+            "guest415",
+            "guest428"
           ]
         },
         {
@@ -4419,15 +4401,14 @@
         {
           "event_id": "event638",
           "time": "15:00:00",
-          "title": "Autograph Session (Ikenberry, D. Kennedy, Kratman, McDonald, Sanderson)",
+          "title": "Autograph Session (Ikenberry, D. Kennedy, Kratman, Sanderson)",
           "track": "Autograph",
-          "description": "Autograph sessions will be located in the Dealer's Room.  Authors will cycle through hourly, except for the author's that have their own tables who will be available when they are not scheduled in the program. Limit 5 books (if you bring more, get 5 signed and go to the back of the line.)",
+          "description": "<p>\n\tAutograph sessions will be located in the Dealer's Room. Authors will cycle through hourly, except for the author's that have their own tables who will be available when they are not scheduled in the program. Limit 5 books (if you bring more, get 5 signed and go to the back of the line.)</p>\n",
           "day": "2018-06-29",
           "guests": [
             "guest201",
             "guest315",
             "guest400",
-            "guest426",
             "guest322"
           ]
         },
