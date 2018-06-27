@@ -27,6 +27,7 @@ const schedule_query = `
     schedule.desc AS description,
     schedule.time AS time,
     sched_type_name AS track,
+    location.loc_name AS location,
     location.excluded AS exclude,
     guest_id
   FROM schedule

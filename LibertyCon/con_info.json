@@ -12,10 +12,10 @@
     "maps_url": "https://www.google.com/maps/place/Chattanooga+Marriott+Downtown/@35.0436987,-85.3144831,17z/data=!4m10!1m2!3m1!2sChattanooga+Marriott+Downtown!3m6!1s0x88605e7d95c0865b:0x872185ee658e6c35!5m1!1s2018-06-11!8m2!3d35.0436987!4d-85.3122946",
     "phone": "+1-423-756-0002"
   },
-  "updated_at": "2018-05-21T16:43:39.453Z",
+  "updated_at": "2018-05-21T19:43:39.453Z",
   "images": {
     "LOGO": "https://bgun.github.io/nenji-assets/LibertyCon/logo.png",
-    "HOTEL_MAP": "https://bgun.github.io/nenji-assets/LibertyCon/hotel_map.png"
+    "HOTEL_MAP": "https://bgun.github.io/nenji-assets/LibertyCon/hotel_map3.png"
   },
   "header_photos": [
     {
@@ -1054,6 +1054,7 @@
           "title": "Reading: Tamara Lowery & Dina Leacock",
           "track": "Reading",
           "description": "Come out and have a seat as our author guest read passages of her works.",
+          "location": "CC: Meeting Room 8",
           "day": "2018-07-01",
           "guests": [
             "guest159",
@@ -1066,6 +1067,7 @@
           "title": "Reading: L. Jagi Lamplighter and John Wright",
           "track": "Reading",
           "description": "<p>\n\tCome out and have a seat as our author guests read passages of their works.</p>\n",
+          "location": "M: Lookout Mountain Room",
           "day": "2018-06-30",
           "guests": [
             "guest261",
@@ -1078,6 +1080,7 @@
           "title": "Reading: Lou Antonelli & Dave Schroeder",
           "track": "Reading",
           "description": "<p>\n\tCome out and have a seat as our author guests read passages of their works.</p>\n",
+          "location": "M: Lookout Mountain Room",
           "day": "2018-07-01",
           "guests": [
             "guest308",
@@ -1090,6 +1093,7 @@
           "title": "Reading: Paul Barrett and Steve Murphy",
           "track": "Reading",
           "description": "Come out and have a seat as our author guests read passages of their works.",
+          "location": "M: Lookout Mountain Room",
           "day": "2018-06-29",
           "guests": [
             "guest415",
@@ -1102,6 +1106,7 @@
           "title": "Reading: Karen and Kevin Evans",
           "track": "Reading",
           "description": "Come out and have a seat as our author guests read passages of their works",
+          "location": "M: Lookout Mountain Room",
           "day": "2018-06-29",
           "guests": [
             "guest276",
@@ -1114,6 +1119,7 @@
           "title": "Reading: Anna Grace Carpenter and A. M. Freeman",
           "track": "Reading",
           "description": "Come out and have a seat as our author guests read passages from their works",
+          "location": "M: Lookout Mountain Room",
           "day": "2018-06-30",
           "guests": [
             "guest208",
@@ -1126,6 +1132,7 @@
           "title": "Reading: Charles E. Gannon",
           "track": "Reading",
           "description": "Come out and have a seat as our Master of Ceremonies reads passages of his works",
+          "location": "CC: Meeting Room 7",
           "day": "2018-06-29",
           "guests": [
             "guest184"
@@ -1137,6 +1144,7 @@
           "title": "Reading: Tom Mays & D. Alan Lewis",
           "track": "Reading",
           "description": "Come out and have a seat as our authors read passages from their works.",
+          "location": "M: Lookout Mountain Room",
           "day": "2018-06-29",
           "guests": [
             "guest204",
@@ -1149,6 +1157,7 @@
           "title": "Reading: Mike Massa & Karl Gallagher",
           "track": "Reading",
           "description": "Come out and have a seat as our author guests reads passages of their works",
+          "location": "M: Lookout Mountain Room",
           "day": "2018-07-01",
           "guests": [
             "guest386",
@@ -1161,6 +1170,7 @@
           "title": "Reading:  Scott Baker & David Pascoe",
           "track": "Reading",
           "description": "<p>\n\tCome out and have a seat as our author guests read passages of their works</p>\n",
+          "location": "M: Lookout Mountain Room",
           "day": "2018-06-29",
           "guests": [
             "guest120",
@@ -1173,6 +1183,7 @@
           "title": "Reading: Mike Resnick",
           "track": "Reading",
           "description": "Come out and have a seat as our Literary GOH reads passages from his works.",
+          "location": "CC: Meeting Room 7",
           "day": "2018-06-29",
           "guests": [
             "guest408"
@@ -1184,6 +1195,7 @@
           "title": "Reading: Steve Simmons & Chris Woods",
           "track": "Reading",
           "description": "Come out and have a seat as our author guest read passages of his works",
+          "location": "M: Lookout Mountain Room",
           "day": "2018-06-29",
           "guests": [
             "guest364",
@@ -1196,6 +1208,7 @@
           "title": "Reading:  Brett Brooks & Geoffrey Mandragora",
           "track": "Reading",
           "description": "Come out and have a seat as our author guests read passages of their works",
+          "location": "M: Lookout Mountain Room",
           "day": "2018-06-30",
           "guests": [
             "guest289",
@@ -1208,6 +1221,7 @@
           "title": "Reading:  Tom Kratman & Michael J. Allen",
           "track": "Reading",
           "description": "Come out and have a seat as our author guest reads passages of their works",
+          "location": "CC: Meeting Room 8",
           "day": "2018-07-01",
           "guests": [
             "guest322",
@@ -1220,6 +1234,7 @@
           "title": "Reading:  Nico Murray & Doug Burbey / Melissa Todd",
           "track": "Reading",
           "description": "<p>\n\tCome out and have a seat as our author guests do a reading from their works. Melissa Todd and Doug Burbey will read from Blood War: Rage.</p>\n",
+          "location": "CC: Meeting Room 7",
           "day": "2018-06-29",
           "guests": [
             "guest424",
@@ -1233,6 +1248,7 @@
           "title": "Reading:  The Writing Hoyts ",
           "track": "Reading",
           "description": "Sarah and Daniel Hoyt read from their works.",
+          "location": "M: Lookout Mountain Room",
           "day": "2018-07-01",
           "guests": [
             "guest67",
@@ -1245,6 +1261,7 @@
           "title": "Reading:  Robert Hampson",
           "track": "Reading",
           "description": "Robert Hampson and some friends are going to do a dramatic reading of the Gizmodo news release, followed by some samples of works in progress to share with the audience.",
+          "location": "CC: Meeting Room 7",
           "day": "2018-07-01",
           "guests": [
             "guest28"
@@ -1256,6 +1273,7 @@
           "title": "Reading:  Charity Ayres & Julie Frost",
           "track": "Reading",
           "description": "Come and hear as our authors read from their selected works.",
+          "location": "M: Lookout Mountain Room",
           "day": "2018-06-29",
           "guests": [
             "guest423",
@@ -1268,6 +1286,7 @@
           "title": "Reading:  Teresa Howard & Dawn Witzke",
           "track": "Reading",
           "description": "<p>\n\tCome and enjoy a reading by our author guests.</p>\n",
+          "location": "M: Lookout Mountain Room",
           "day": "2018-06-30",
           "guests": [
             "guest425",
@@ -1280,6 +1299,7 @@
           "title": "Reading:  Dr. Darin Kennedy & Dr. Hans Schantz",
           "track": "Reading",
           "description": "Come and hear these authors read passages from their works!",
+          "location": "M: Lookout Mountain Room",
           "day": "2018-06-30",
           "guests": [
             "guest315",
@@ -1292,6 +1312,7 @@
           "title": "Reading:  John Ringo",
           "track": "Reading",
           "description": "Come and hear John Ringo read passages of his works!",
+          "location": "CC: Ballroom F",
           "day": "2018-07-01",
           "guests": [
             "guest3"
@@ -1303,6 +1324,7 @@
           "title": "Reading:  David Drake",
           "track": "Reading",
           "description": "Come out and have a seat as our author guest reads passages of his works",
+          "location": "CC: Meeting Room 7",
           "day": "2018-06-30",
           "guests": [
             "guest113"
@@ -1314,6 +1336,7 @@
           "title": "Reading:  Rick Boatright & John Holmes",
           "track": "Reading",
           "description": "Come and hear our authors read from their upcoming works!",
+          "location": "M: Lookout Mountain Room",
           "day": "2018-07-01",
           "guests": [
             "guest273",
@@ -1326,6 +1349,7 @@
           "title": "Reading: Amie Gibbons & J.D. Jordan",
           "track": "Reading",
           "description": "Come out and have a seat as our author guests reads passages of their works",
+          "location": "M: Lookout Mountain Room",
           "day": "2018-06-30",
           "guests": [
             "guest331",
@@ -1338,6 +1362,7 @@
           "title": "Reading:  Laura Montgomery & Lydia Sherrer",
           "track": "Reading",
           "description": "Come out and have a seat as our author guest reads passages of her works.",
+          "location": "CC: Meeting Room 8",
           "day": "2018-06-29",
           "guests": [
             "guest342",
@@ -1350,6 +1375,7 @@
           "title": "Reading:  Taylor Hoch & Jack Clemons",
           "track": "Reading",
           "description": "Come out and have a seat as our author guests read passages of their works",
+          "location": "M: Lookout Mountain Room",
           "day": "2018-07-01",
           "guests": [
             "guest401",
@@ -1362,6 +1388,7 @@
           "title": "Reading:  Rob Howell & Nan Monroe",
           "track": "Reading",
           "description": "Come out and have a seat as our author guests read passages of from their works",
+          "location": "M: Lookout Mountain Room",
           "day": "2018-06-30",
           "guests": [
             "guest326",
@@ -1374,6 +1401,7 @@
           "title": "Reading:  Mike Kupari &",
           "track": "Reading",
           "description": "<p>\n\tCome out and have a seat as our author guests read passages of their works.</p>\n",
+          "location": "M: Lookout Mountain Room",
           "day": "2018-06-30",
           "guests": [
             "guest398"
@@ -1385,6 +1413,7 @@
           "title": "Reading: David (D.J.) Butler & Paul Cagle",
           "track": "Reading",
           "description": "Come out and hear our author guests read from their works.",
+          "location": "M: Lookout Mountain Room",
           "day": "2018-06-30",
           "guests": [
             "guest355",
@@ -1397,6 +1426,7 @@
           "title": "Reading:  John Hartness & Gray Rinehart",
           "track": "Reading",
           "description": "Come out and have a seat as our author guests reads passages of their works.",
+          "location": "M: Lookout Mountain Room",
           "day": "2018-06-29",
           "guests": [
             "guest40",
@@ -1409,6 +1439,7 @@
           "title": "Reading:  Jonathan Del Arroz & Quincy J. Allen",
           "track": "Reading",
           "description": "<p>\n\tCome out and have a seat as our author guests read passages from their works.</p>\n",
+          "location": "M: Lookout Mountain Room",
           "day": "2018-06-29",
           "guests": [
             "guest380",
@@ -1421,6 +1452,7 @@
           "title": "Reading:  Jody Lynn Nye",
           "track": "Reading",
           "description": "Come out and have a seat as our author guest reads passages from her works.",
+          "location": "CC: Meeting Room 8",
           "day": "2018-06-29",
           "guests": [
             "guest198"
@@ -1432,6 +1464,7 @@
           "title": "Reading:  Cedar Sanderson & Kal Spriggs",
           "track": "Reading",
           "description": "Come out and have a seat as our author guests read passages from works",
+          "location": "M: Lookout Mountain Room",
           "day": "2018-06-30",
           "guests": [
             "guest252",
@@ -1444,6 +1477,7 @@
           "title": "Reading:  An Hour with David B. Coe / D.B. Jackson",
           "track": "Reading",
           "description": "Come out for readings and Q&A with our Special GOH David B. Coe / D.B. Jackson",
+          "location": "CC: Meeting Room 8",
           "day": "2018-06-29",
           "guests": [
             "guest93"
@@ -1455,6 +1489,7 @@
           "title": "Reading: Philip Wohlrab & Kevin Ikenberry",
           "track": "Reading",
           "description": "Come hear our Authors read from their works.",
+          "location": "M: Lookout Mountain Room",
           "day": "2018-06-29",
           "guests": [
             "guest186",
@@ -1467,6 +1502,7 @@
           "title": "Reading:  Karen Bogen & Monalisa Foster",
           "track": "Reading",
           "description": "Hear our authors read from their various works. ",
+          "location": "M: Lookout Mountain Room",
           "day": "2018-06-30",
           "guests": [
             "guest440",
@@ -1479,6 +1515,7 @@
           "title": "An hour with Eric Flint",
           "track": "Reading",
           "description": "Readings and Q&A with the author and publisher Eric Flint",
+          "location": "CC: Meeting Room 7",
           "day": "2018-07-01",
           "guests": [
             "guest66"
@@ -1490,6 +1527,7 @@
           "title": "Reading:  Steve Antczak & David Burkhead",
           "track": "Reading",
           "description": "Come out and here our authors read passages from their works.",
+          "location": "M: Lookout Mountain Room",
           "day": "2018-06-30",
           "guests": [
             "guest44",
@@ -1502,6 +1540,7 @@
           "title": "Reading: Stephanie Osborn & Mark Wandrey",
           "track": "Reading",
           "description": "Come out and hear our authors read passages from their works",
+          "location": "M: Lookout Mountain Room",
           "day": "2018-06-30",
           "guests": [
             "guest207",
@@ -1514,6 +1553,7 @@
           "title": "Reading: David Weber",
           "track": "Reading",
           "description": "Come hear our author guest read from his works!",
+          "location": "CC: Meeting Room 7",
           "day": "2018-07-01",
           "guests": [
             "guest85"
@@ -1525,6 +1565,7 @@
           "title": "Reading:  Les Johnson & Martin Shoemaker",
           "track": "Reading",
           "description": "<p>\n\tCome out and join our authors as they read passages from their works.&nbsp; Les Johnson will read from <em>Mission to Methone.</em></p>\n",
+          "location": "CC: Meeting Room 8",
           "day": "2018-06-30",
           "guests": [
             "guest9",
@@ -1543,6 +1584,7 @@
           "title": "Paranormal Activities Panel: On Hauntings and Poltergeists",
           "track": "Panel",
           "description": "<p>\n\tOur panel of intrepid paranormal researchers and writers will talk about their latest endeavors. Dr. Arlan Andrews (Mod.)</p>\n",
+          "location": "CC: Meeting Room 5",
           "day": "2018-06-29",
           "guests": [
             "guest330",
@@ -1556,6 +1598,7 @@
           "title": "Changes in the World of Publishing",
           "track": "Panel",
           "description": "This panel of publishers will discuss the pros and cons of the current changes ongoing in the publishing industry. Toni Weisskopf, Mod.",
+          "location": "CC: Ballroom F",
           "day": "2018-06-29",
           "guests": [
             "guest18",
@@ -1573,6 +1616,7 @@
           "title": "What's New From Copper Dog Publishing",
           "track": "Panel",
           "description": "Publisher Michael Hanson and his authors talk about what's new this year from Copper Dog Publishing / Moondream Press, the folks that bring you the Sha'Daa series.",
+          "location": "CC: Ballroom F",
           "day": "2018-06-29",
           "guests": [
             "guest288",
@@ -1601,6 +1645,7 @@
           "title": "Technological Future of War",
           "track": "Panel",
           "description": "<p>\n\tMichael Z. Williamson moderates this perennial panel on how today's advances will affect the future of warfare.</p>\n",
+          "location": "CC: Ballroom E",
           "day": "2018-06-29",
           "guests": [
             "guest444",
@@ -1616,6 +1661,7 @@
           "title": "Baen Wives Live!",
           "track": "Panel",
           "description": "Jim Minz moderates this panel which reprises the Baen Podcast topic - writer's spouses get together to answer questions about what it's like living with an author. ",
+          "location": "CC: Ballroom F",
           "day": "2018-06-30",
           "guests": [
             "guest399",
@@ -1632,6 +1678,7 @@
           "title": "Crossing Steampunk",
           "track": "Panel",
           "description": "D. Allen Lewis moderates this panel on writing and mixing genres that cross Steampunk.",
+          "location": "CC: Meeting Room 7",
           "day": "2018-07-01",
           "guests": [
             "guest380",
@@ -1648,6 +1695,7 @@
           "title": "What's New in Weird Wild West",
           "track": "Panel",
           "description": "<p>\n\tAnna Grace Carpenter moderates this panel on what's new in the genre of Weird Wild West.</p>\n",
+          "location": "CC: Meeting Room 5",
           "day": "2018-07-01",
           "guests": [
             "guest404",
@@ -1662,6 +1710,7 @@
           "title": "Tennessee Valley Interstellar Workshop (TVIW)",
           "track": "Panel",
           "description": "<p>\n\tLes Johnson moderates this panel about the recent Tennessee Valley Interstellar Workshop.</p>\n",
+          "location": "CC: Meeting Room 7",
           "day": "2018-06-29",
           "guests": [
             "guest9",
@@ -1675,6 +1724,7 @@
           "title": "Making the Future Cool:  How to Write Space Opera in Style",
           "track": "Panel",
           "description": "Sarah Hoyt moderates this panel on the nuances of writing good Space Opera.",
+          "location": "CC: Ballroom F",
           "day": "2018-06-30",
           "guests": [
             "guest215",
@@ -1691,6 +1741,7 @@
           "title": "The Art of Editing",
           "track": "Panel",
           "description": "Literary Guest of Honor Mike Resnick will discuss how seasoned editors ply their trade.",
+          "location": "CC: Meeting Room 7",
           "day": "2018-06-29",
           "guests": [
             "guest408"
@@ -1702,6 +1753,7 @@
           "title": "Human Augmentation",
           "track": "Panel",
           "description": "Dr. Robert Hampson moderates this panel that explores the question: \"In The Race to Build Better Humans will the winner take it all?\"",
+          "location": "CC: Ballroom E",
           "day": "2018-07-01",
           "guests": [
             "guest262",
@@ -1718,6 +1770,7 @@
           "title": "Paranormal and Fortean Phenomena",
           "track": "Panel",
           "description": "Dr. Arlan Andrews, former member of the Board of Directors of the Rhine Research Institute will moderate this discussion on professional investigations into the world of the paranormal.",
+          "location": "CC: Meeting Room 7",
           "day": "2018-06-30",
           "guests": [
             "guest37",
@@ -1733,6 +1786,7 @@
           "title": "Show 'n' Tell from the Hank Reinhardt Collection",
           "track": "Panel",
           "description": "<p>\n\tToni Weisskopf moderates this discussion by master blade smiths and show and tell with weapons from the Hank Reinhardt collection.</p>\n",
+          "location": "CC: Ballroom F",
           "day": "2018-06-29",
           "guests": [
             "guest8",
@@ -1746,6 +1800,7 @@
           "title": "Industry in Space",
           "track": "Panel",
           "description": "<p>\n\tJack Clemons (Mod.) Art Dula says the first trillionaire will be a space miner. What will be the first viable industries in Space?</p>\n",
+          "location": "CC: Meeting Room 7",
           "day": "2018-06-30",
           "guests": [
             "guest182",
@@ -1762,6 +1817,7 @@
           "title": "Retro-Futurist Alternate History",
           "track": "Panel",
           "description": "Lou Antonelli moderates this panel on the myriad possibilities of worlds set in retro-futurist alternate history universes.",
+          "location": "CC: Ballroom F",
           "day": "2018-06-30",
           "guests": [
             "guest308",
@@ -1777,6 +1833,7 @@
           "title": "Ancient Technologies and Ancient Civilizations",
           "track": "Panel",
           "description": "Dr. Arlan Andrews will moderate this discussion on ancient technologies and civilizations lost to antiquity.",
+          "location": "CC: Meeting Room 5",
           "day": "2018-06-30",
           "guests": [
             "guest186",
@@ -1793,6 +1850,7 @@
           "title": "Indie Publishing -  Latest Trends in Self-Publishing and the State of the Market",
           "track": "Panel",
           "description": "Peter Grant and Dorothy Klapp continue their series on indie publishing. New developments in copyright issues, including \"rights grabs\" by publishers and other media; Changes in the market, with particular emphasis on subscription libraries and their impact on sales; The confluence of all forms of entertainment, so that books are merely one element, along with films, computer and console games, comics, etc.; Tie-ins between those forms, with books being written as offshoots of games or comics.",
+          "location": "CC: Ballroom F",
           "day": "2018-06-30",
           "guests": [
             "guest411",
@@ -1807,6 +1865,7 @@
           "title": "Win, Lose or Draw with the Pros",
           "track": "Panel",
           "description": "<p>\n\tPaul Bielaczyc hosts this fun and hilarious game of Win, Lose or Draw - come one, come all!</p>\n",
+          "location": "CC: Meeting Room 5",
           "day": "2018-06-30",
           "guests": [
             "guest49",
@@ -1822,6 +1881,7 @@
           "title": "On Writing Comedy",
           "track": "Panel",
           "description": "Jody Lynn Nye moderates this panel on the tricks of the trade in adding humor to your science fiction or fantasy story or novel",
+          "location": "CC: Meeting Room 7",
           "day": "2018-06-30",
           "guests": [
             "guest40",
@@ -1838,6 +1898,7 @@
           "title": "The Art of Film Making ",
           "track": "Panel",
           "description": "<p>\n\tRobert Evans moderates this panel on the art and science of film making.</p>\n",
+          "location": "CC: Meeting Room 7",
           "day": "2018-06-30",
           "guests": [
             "guest414",
@@ -1850,6 +1911,7 @@
           "title": "Writers Tell Sea Stories",
           "track": "Panel",
           "description": "Steve Simmons moderates this panel of authors with naval backgrounds on how the romance of the sea informs Science Fiction and Fantasy.",
+          "location": "CC: Meeting Room 7",
           "day": "2018-06-30",
           "guests": [
             "guest259",
@@ -1866,6 +1928,7 @@
           "title": "Masters of Military Science Fiction",
           "track": "Panel",
           "description": "<p>\n\tDavid Weber moderates this discussion on the essential elements necessary to create good hard military science fiction.</p>\n",
+          "location": "CC: Ballroom F",
           "day": "2018-06-30",
           "guests": [
             "guest322",
@@ -1881,6 +1944,7 @@
           "title": "Paranormal Romance Panel and Fan Q&A - What's In and What's Out",
           "track": "Panel",
           "description": "Anna Grace Carpenter moderates this panel on what's current in the paranormal romance genre.",
+          "location": "CC: Meeting Room 7",
           "day": "2018-06-30",
           "guests": [
             "guest389",
@@ -1897,6 +1961,7 @@
           "title": "Do You Believe in the Singularity?",
           "track": "Panel",
           "description": "<p>\n\tDr. Robert E. Hampson, Mod. From genetic engineering to brain-machine interfaces, science and medicine are working hard to create better humans. What is the current state of bioengineering, regenerative medicine, cybernetics and &ldquo;bionics&rdquo;? Can there &ndash; or *will* there &ndash; be such a thing as The Singularity where humans are no longer recognizable as such?</p>\n",
+          "location": "CC: Meeting Room 5",
           "day": "2018-06-30",
           "guests": [
             "guest401",
@@ -1913,6 +1978,7 @@
           "title": "Fantastic Schools of Magic and Where to Find Them",
           "track": "Panel",
           "description": "YA Panel on Schools of Magic, from Hogwarts and beyond! Jagi Lamplighter Wright (moderator)",
+          "location": "CC: Meeting Room 8",
           "day": "2018-06-30",
           "guests": [
             "guest201",
@@ -1928,6 +1994,7 @@
           "title": "Terminal Ballistics for Writers and Others",
           "track": "Panel",
           "description": "<p>\n\tBart Kemper moderates this panel on Terminal Ballistics (also referred to as wound ballistics) Engineers on the panel will talk physics, bullet calib,ers, shapes, deformation, etc. while the medical folks will talk about the effects on the human body.</p>\n",
+          "location": "CC: Meeting Room 7",
           "day": "2018-06-30",
           "guests": [
             "guest220",
@@ -1943,6 +2010,7 @@
           "title": "Evil Scientists for a Better Tomorrow!",
           "track": "Panel",
           "description": "Panelists discuss their favorite Mad Genius/Evil Scientist characters from fiction, and discuss the best ways to foil the hero and prevent an ignominious end!  Jack Clemons, Mod.",
+          "location": "CC: Meeting Room 5",
           "day": "2018-06-30",
           "guests": [
             "guest220",
@@ -1959,6 +2027,7 @@
           "title": "SIGMA, Futurism and Science Fiction ",
           "track": "Panel",
           "description": "<p>\n\tDr. Arlan Andrews, the Director of SIGMA, the Science Fiction Think Tank that consults for the USG, will moderate this panel on what they do and how science fiction informs futurism.</p>\n",
+          "location": "CC: Meeting Room 5",
           "day": "2018-06-30",
           "guests": [
             "guest153",
@@ -1974,6 +2043,7 @@
           "title": "Poetry in Science Fiction, Fantasy and Horror",
           "track": "Panel",
           "description": "Poet, Publisher and Rhysling Award Nominee Michael H. Hanson will moderate this panel on writing poetry for the genres of science fiction, fantasy and horror.",
+          "location": "CC: Meeting Room 7",
           "day": "2018-06-29",
           "guests": [
             "guest402",
@@ -1987,6 +2057,7 @@
           "title": "Fursuiting",
           "track": "Panel",
           "description": "<p>\n\tFursuiting - the uses and actions of wearing a fursuit costume. James Ward (mod.)</p>\n",
+          "location": "M: Tennessee River Room",
           "day": "2018-07-01",
           "guests": [
             "guest164",
@@ -2000,6 +2071,7 @@
           "title": "On Writing Historical Fiction",
           "track": "Panel",
           "description": "<p>\n\tSpecial GOH David Coe / D.B. Jackson moderates a discussion on the essential elements of writing good historical fiction.</p>\n",
+          "location": "CC: Meeting Room 7",
           "day": "2018-06-29",
           "guests": [
             "guest93",
@@ -2014,6 +2086,7 @@
           "title": "Ethnobotany ",
           "track": "Panel",
           "description": "<p>\n\tAuthor and Archaeologist David Baird moderates this panel on ethnobotany (the study of a region's plants and their practical uses through the traditional knowledge of a local cultures, religions and people.)</p>\n",
+          "location": "CC: Meeting Room 8",
           "day": "2018-06-30",
           "guests": [
             "guest429",
@@ -2027,6 +2100,7 @@
           "title": "Doomsday Prepping",
           "track": "Panel",
           "description": "<p>\n\tWhat do you need to know to survive the Apocalypse? Author Jonathan David Baird moderates.</p>\n",
+          "location": "CC: Meeting Room 5",
           "day": "2018-06-30",
           "guests": [
             "guest430",
@@ -2040,6 +2114,7 @@
           "title": "The  Xenoarcheology Roadshow",
           "track": "Panel",
           "description": "<p>\n\tJody Lynn Nye (Mod.) Our colleagues from the University of Antares shipped us a fresh crate of alien artifacts, all in need of identification. Can you decipher their true use?</p>\n",
+          "location": "CC: Meeting Room 7",
           "day": "2018-06-30",
           "guests": [
             "guest198",
@@ -2054,6 +2129,7 @@
           "title": "Working With An Agent",
           "track": "Panel",
           "description": "Anna Grace Carpenter moderates this panel discussion on the ins and outs of finding and working with agent.",
+          "location": "CC: Ballroom F",
           "day": "2018-06-30",
           "guests": [
             "guest18",
@@ -2069,6 +2145,7 @@
           "title": "Writers and Depression",
           "track": "Panel",
           "description": "Dr. Darin Kennedy moderates this discussion  about depression and the writing profession.",
+          "location": "CC: Ballroom E",
           "day": "2018-07-01",
           "guests": [
             "guest315",
@@ -2082,6 +2159,7 @@
           "title": "Space Opera or Space Western: What Distinguishes the Sub-Genres?",
           "track": "Panel",
           "description": "<p>\n\tStars Wars has been labelled a Space Opera while Star Trek is a Space Western. Our panelists will discuss the nuances that distinguish the subgenres. Doug Dandridge (mod.)</p>\n",
+          "location": "CC: Ballroom E",
           "day": "2018-06-30",
           "guests": [
             "guest246",
@@ -2097,6 +2175,7 @@
           "title": "All Things Game of Thrones",
           "track": "Panel",
           "description": "<p>\n\tJohn Picacio moderates this discussion on the art, literature, media and cultural phenomena \"Game of Thrones.\"</p>\n",
+          "location": "CC: Ballroom E",
           "day": "2018-07-01",
           "guests": [
             "guest341",
@@ -2110,6 +2189,7 @@
           "title": "The New Voices of Horror",
           "track": "Panel",
           "description": "Dina Leacock moderates this panel on what new in the evolving genre of horror.",
+          "location": "CC: Meeting Room 7",
           "day": "2018-06-29",
           "guests": [
             "guest194",
@@ -2126,6 +2206,7 @@
           "title": "Virtual Reality: Future Prospects, Future Threats, and Perhaps an Answer to the Fermi Paradox",
           "track": "Panel",
           "description": "<p>\n\tArlan Andrews moderates this panel on the promises and perils of Virtual Reality, as well as some tantalizing possibilities.</p>\n",
+          "location": "CC: Meeting Room 5",
           "day": "2018-06-29",
           "guests": [
             "guest411",
@@ -2140,6 +2221,7 @@
           "title": "What's New in YA Fantasy?",
           "track": "Panel",
           "description": "<p>\n\tNan Monroe moderates this panel on what's new in young adult fantasy.</p>\n",
+          "location": "CC: Meeting Room 8",
           "day": "2018-06-30",
           "guests": [
             "guest389",
@@ -2155,6 +2237,7 @@
           "title": "Cities in Science Fiction, why do they all look alike? ",
           "track": "Panel",
           "description": "<p>\n\tDenise Clemons moderates this panel on why futuristic cities all seem have the same DNA?</p>\n",
+          "location": "CC: Ballroom E",
           "day": "2018-06-29",
           "guests": [
             "guest262",
@@ -2170,6 +2253,7 @@
           "title": "The New Monster on the Block",
           "track": "Panel",
           "description": "<p>\n\tUrban Fantasy is rife with traditional monsters and creative riffs on them. Is there ever anything new under the sun? SF has every kind of alien you could imagine, yet Urban Fantasy generally uses traditional monsters based on folklore. Larry Correia will moderate this panel of authors as they attempt to create a completely new and unique monster and the folklore to go with it. Will it be huge and ugly and covered in tentacles? Or furry and cute but hiding a vicious appetite?</p>\n",
+          "location": "CC: Ballroom E",
           "day": "2018-06-30",
           "guests": [
             "guest252",
@@ -2185,6 +2269,7 @@
           "title": "World Building for Military Science Fiction",
           "track": "Panel",
           "description": "<p>\n\tMark Wandrey will moderate this discussion on what issues you need to consider when World Building for Military Science Fiction.</p>\n",
+          "location": "CC: Meeting Room 7",
           "day": "2018-06-29",
           "guests": [
             "guest207",
@@ -2199,6 +2284,7 @@
           "title": "Pulps, Comics and the Movies",
           "track": "Panel",
           "description": "<p>\n\tLeia Powell moderates this panel on the inside scoop behind the intertwined worlds of pulps, comic books, graphic novels and the big screen.</p>\n",
+          "location": "CC: Meeting Room 8",
           "day": "2018-06-29",
           "guests": [
             "guest216",
@@ -2212,6 +2298,7 @@
           "title": "The Resurgence of SF in YA Fiction",
           "track": "Panel",
           "description": "<p>\n\tJason Cordova moderates this discussion exploring how science fiction is making a comeback in young adult literature.</p>\n",
+          "location": "CC: Meeting Room 8",
           "day": "2018-06-29",
           "guests": [
             "guest252",
@@ -2227,6 +2314,7 @@
           "title": "The First Lunar Base - What It Might Look Like",
           "track": "Panel",
           "description": "Gray Rinehart moderates this panel on what it might take to make the first permanent settlement on our nearest celestial neighbor a reality.",
+          "location": "CC: Meeting Room 5",
           "day": "2018-06-29",
           "guests": [
             "guest313",
@@ -2243,6 +2331,7 @@
           "title": "Unconventional Art (Creating Outside the Box)",
           "track": "Panel",
           "description": "They are few and far between, masters in their craft, and ready to talk to YOU about it!  Not every artist paints and draws, sit in with these LC Veterans and see why they chose to think outside the box!  From stained glass to blacksmithing, headdresses. diorama creation, and making tiny terrariums to pottery, these artists are incredible craftspeople just waiting to share their passion with you! Leia Powell (mod.)",
+          "location": "CC: Meeting Room 8",
           "day": "2018-06-30",
           "guests": [
             "guest36",
@@ -2259,6 +2348,7 @@
           "title": "Worlds of Epic Fantasy",
           "track": "Panel",
           "description": "<p>\n\tGail Martin moderates this panel on what it takes to build a believe-able world as a landscape for epic fantasy</p>\n",
+          "location": "CC: Meeting Room 8",
           "day": "2018-06-30",
           "guests": [
             "guest200",
@@ -2275,6 +2365,7 @@
           "title": "Artistic License in Fantasy Art",
           "track": "Panel",
           "description": "What are the limits of artistic license in fantasy art?  Michael Bielaczyc (mod,) leads the discussion on exploring the boundaries.",
+          "location": "CC: Meeting Room 7",
           "day": "2018-06-30",
           "guests": [
             "guest140",
@@ -2290,6 +2381,7 @@
           "title": "V is for Vampire, Z is for Zombie",
           "track": "Panel",
           "description": "<p>\n\tSteve Antczak moderates this panel on our fascination with the Undead and Undying.</p>\n",
+          "location": "CC: Meeting Room 8",
           "day": "2018-06-30",
           "guests": [
             "guest331",
@@ -2305,6 +2397,7 @@
           "title": "Meet the Writers of the Future",
           "track": "Panel",
           "description": "<p>\n\tKary English moderates this panel of winners of the Writers of the Future contest, to include an inside view of the contest and what it takes to win.</p>\n",
+          "location": "CC: Meeting Room 7",
           "day": "2018-06-30",
           "guests": [
             "guest423",
@@ -2319,6 +2412,7 @@
           "title": "All the Shades of Noir",
           "track": "Panel",
           "description": "<p>\n\tLarry Correia moderates this panel on all the permutations and combinations of things Noir that can now be found.</p>\n",
+          "location": "CC: Ballroom E",
           "day": "2018-06-30",
           "guests": [
             "guest201",
@@ -2332,6 +2426,7 @@
           "title": "The Future of Power Generation",
           "track": "Panel",
           "description": "<p>\n\tJay Roye will moderate this panel discussion on the future of power generation, to include traditional and alternative fuels, and non-traditional approaches to generation used in the third world.&nbsp;</p>\n",
+          "location": "CC: Meeting Room 7",
           "day": "2018-06-30",
           "guests": [
             "guest314",
@@ -2351,6 +2446,7 @@
           "title": "Opening Ceremonies",
           "track": "Event",
           "description": "<p>\n\tOpportunity to meet the LibertyCon Guests and Staff</p>\n",
+          "location": "CC: Ballroom E",
           "day": "2018-06-29",
           "guests": [
             "guest158",
@@ -2367,6 +2463,7 @@
           "title": "Artist Meet & Greet",
           "track": "Event",
           "description": "<p>\n\tDid something catch your eye in the Art Show? This is a chance to meet the Artist and let them tell you about it. Don't forget to bid!</p>\n",
+          "location": "Art Show (CC: Meeting Room 4)",
           "day": "2018-06-29",
           "guests": [
             "guest144",
@@ -2398,6 +2495,7 @@
           "title": "Spades Tournament (First Round)",
           "track": "Event",
           "description": "Every year THERE CAN BE ONLY ONE to win bragging rights for a year.   Will you be the one?  Sign-up sheets will be at the registration desk.",
+          "location": "Author's Alley (M: Plaza Ballroom Mezzanine)",
           "day": "2018-06-29",
           "guests": [
             "guest134",
@@ -2410,6 +2508,7 @@
           "title": "Closing Ceremonies - Let's Bitch at Brandy",
           "track": "Event",
           "description": "Did you have a great time at the convention?  Or was there something that absolutely irritated you?  Either way, come out and let us know at our Closing Ceremonies.",
+          "location": "CC: Ballroom E",
           "day": "2018-07-01",
           "guests": [
             "guest144",
@@ -2422,6 +2521,7 @@
           "title": "Concert:  Gray Rinehart",
           "track": "Event",
           "description": "Come join FilkMaster Gray Rinehart as he performs songs off his albums, with a few additional numbers (either original or covers)! Come on, come all! ",
+          "location": "CC: Ballroom E",
           "day": "2018-06-29",
           "guests": [
             "guest313"
@@ -2433,6 +2533,7 @@
           "title": "Art and Charity Auction",
           "track": "Event",
           "description": "Make sure you don't get outbid -  come and enjoy our auctioneers and fabulous artwork, books, Tuckerizations, etc..  ",
+          "location": "CC: Ballroom F",
           "day": "2018-06-30",
           "guests": [
             "guest149",
@@ -2446,6 +2547,7 @@
           "title": "Setup for ARTC ",
           "track": "Event",
           "description": "Setup for ARTC Performance",
+          "location": "CC: Ballroom E",
           "day": "2018-06-30",
           "guests": [
             "guest303"
@@ -2457,6 +2559,7 @@
           "title": "Charity Art Jam ",
           "track": "Event",
           "description": "Watch the Artists bounce around ideas and complete their vision before time runs out. All the pieces will go to the Charity Auction to be auctioned off!",
+          "location": "Art Show (CC: Meeting Room 4)",
           "day": "2018-06-30",
           "guests": [
             "guest140",
@@ -2471,6 +2574,7 @@
           "title": "Celebrity Jeopardy",
           "track": "Event",
           "description": "Watch as Mike Resnick, Gray Rinehart and Paul Bielaczyc  battle it out with fast answers on Art, Science, Literature and other fun topics.",
+          "location": "CC: Meeting Room 5",
           "day": "2018-07-01",
           "guests": [
             "guest144",
@@ -2485,6 +2589,7 @@
           "title": "Hollywood Science Fiction Luncheon Banquet and Guest of Honor Speeches",
           "track": "Event",
           "description": "<p>\n\tHollywood Science Fiction themed Luncheon Banquet. Come hear the Guests of Honor speak!</p>\n",
+          "location": "M: Tennessee River Room",
           "day": "2018-06-30",
           "guests": [
             "guest248",
@@ -2524,6 +2629,7 @@
           "title": "Artist Guest of Honor Walk Through",
           "track": "Event",
           "description": "<p>\n\tStroll among the wondrous works of art in our Art Show with the Artist Guest of Honor John Picacio. All artists are encouraged to attend.</p>\n",
+          "location": "Art Show (CC: Meeting Room 4)",
           "day": "2018-06-30",
           "guests": [
             "guest428",
@@ -2545,6 +2651,7 @@
           "title": "Kaffeeklatsch",
           "track": "Event",
           "description": "<p>\n\tHave coffee / continental breakfast and chat with the pros</p>\n",
+          "location": "M: Tennessee River Room",
           "day": "2018-07-01",
           "guests": [
             "guest204",
@@ -2666,6 +2773,7 @@
           "title": "Spades Tournament (Second Round)",
           "track": "Event",
           "description": "Every year THERE CAN BE ONLY ONE to win bragging rights for a year.   Will you be the one?  ",
+          "location": "M: East/West Room",
           "day": "2018-06-30",
           "guests": [
             "guest134",
@@ -2678,6 +2786,7 @@
           "title": "Spades Tournament (Final Round)",
           "track": "Event",
           "description": "Every year THERE CAN BE ONLY ONE to win bragging rights for a year.   Will you be the one? ",
+          "location": "M: East/West Room",
           "day": "2018-06-30",
           "guests": [
             "guest134",
@@ -2690,6 +2799,7 @@
           "title": "Ice Cream Social",
           "track": "Event",
           "description": "Our hospitality staff's way to cool you off on a hot summer afternoon.",
+          "location": "Con Suite (M: Presidential Suite)",
           "day": "2018-06-30",
           "guests": []
         },
@@ -2699,6 +2809,7 @@
           "title": "Friday Night Karaoke",
           "track": "Event",
           "description": "<p>\n\tBielaczyc Brothers will DJ Friday Night Karoke! Come out and show us your pipes!</p>\n",
+          "location": "CC: Meeting Room 5",
           "day": "2018-06-29",
           "guests": [
             "guest5",
@@ -2712,6 +2823,7 @@
           "title": "Steve Jackson Games - Open Gaming",
           "track": "Event",
           "description": "<p>\n\tSteve Jackson Games will demo new and familiar games - come one, come all!</p>\n",
+          "location": "M: East/West Room",
           "day": "2018-06-29",
           "guests": [
             "guest243"
@@ -2723,6 +2835,7 @@
           "title": "Steve Jackson Games - Open Gaming",
           "track": "Event",
           "description": "<p>\n\tSteve Jackson Games will demo new and familiar games - come one, come all!</p>\n",
+          "location": "M: East/West Room",
           "day": "2018-06-30",
           "guests": [
             "guest243"
@@ -2734,6 +2847,7 @@
           "title": "Steve Jackson Games - Open Gaming",
           "track": "Event",
           "description": "<p>\n\tSteve Jackson Games will demo new and familiar games - come one, come all!</p>\n",
+          "location": "M: East/West Room",
           "day": "2018-07-01",
           "guests": [
             "guest243"
@@ -2745,6 +2859,7 @@
           "title": "Room reset after Kaffeeklatsch",
           "track": "Event",
           "description": "Room reset after Kaffeeklatsch",
+          "location": "M: Tennessee River Room",
           "day": "2018-07-01",
           "guests": []
         },
@@ -2754,6 +2869,7 @@
           "title": "Art and Charity Auction Setup",
           "track": "Event",
           "description": "Room prep",
+          "location": "CC: Ballroom F",
           "day": "2018-06-30",
           "guests": []
         },
@@ -2763,6 +2879,7 @@
           "title": "Setup for Karaoke",
           "track": "Event",
           "description": "<p>\n\tSetup / Prep for Karaoke</p>\n",
+          "location": "CC: Meeting Room 5",
           "day": "2018-06-29",
           "guests": [
             "guest5"
@@ -2774,6 +2891,7 @@
           "title": "Banquet Set Up",
           "track": "Event",
           "description": "<p>\n\tSetup for the GOH Hollywood SciFi Banquet</p>\n",
+          "location": "M: Tennessee River Room",
           "day": "2018-06-30",
           "guests": []
         },
@@ -2783,6 +2901,7 @@
           "title": "Banquet Clean-up",
           "track": "Event",
           "description": "Banquet Clean-up and room reset",
+          "location": "M: Tennessee River Room",
           "day": "2018-06-30",
           "guests": []
         },
@@ -2792,6 +2911,7 @@
           "title": " One Last Job RPG With Doug Loss",
           "track": "Event",
           "description": "Doug Loss will GameMaster \"One Last Job\", a collaborative story-telling game.  ",
+          "location": "M: East/West Room",
           "day": "2018-06-30",
           "guests": [
             "guest356"
@@ -2803,6 +2923,7 @@
           "title": "Walking With the Pros",
           "track": "Event",
           "description": "<p>\n\tToni Weiskopf has organized a morning constitutional for pros and fans. Come for an early morning walk with the pros. All Welcome. Meet in the Marriott Lobby.</p>\n",
+          "location": "The Marriott Lobby",
           "day": "2018-07-01",
           "guests": [
             "guest8"
@@ -2814,6 +2935,7 @@
           "title": "Walking With the Pros",
           "track": "Event",
           "description": "<p>\n\tToni Weisskopf has organized a morning constitutional for pros and fans. Come for an early morning walk with the pros. All Welcome. Meet in the Marriott Lobby.</p>\n",
+          "location": "The Marriott Lobby",
           "day": "2018-06-30",
           "guests": [
             "guest8",
@@ -2826,6 +2948,7 @@
           "title": "Star Realms Tournament",
           "track": "Event",
           "description": "Author Jonathan Del Arroz will host a Star Realms Tournament with prizes.",
+          "location": "M: East/West Room",
           "day": "2018-06-30",
           "guests": [
             "guest380"
@@ -2837,6 +2960,7 @@
           "title": "Pulp Cthulhu ",
           "track": "Event",
           "description": "<p>\n\tAnita Moore will gamemaster this session of eldritch delights! Two-fisted heroic investigations in the Cthulhu Mythos. Will you retain your sanity?</p>\n",
+          "location": "M: East/West Room",
           "day": "2018-06-29",
           "guests": [
             "guest36"
@@ -2848,6 +2972,7 @@
           "title": "Art and Charity Auction Teardown",
           "track": "Event",
           "description": "Tear down for event",
+          "location": "CC: Ballroom F",
           "day": "2018-06-30",
           "guests": []
         },
@@ -2857,6 +2982,7 @@
           "title": "LOTERIA! (AKA Mexican Bingo!)",
           "track": "Event",
           "description": "LOTERIA! Win fabulous prizes and join Hugo Award-winning artist John Picacio, as he hosts several rounds of this fun, easy-to-learn, fast-moving game of Mexican Bingo -- and presents his latest sf/f art visions of these classic icons.",
+          "location": "CC: Ballroom E",
           "day": "2018-07-01",
           "guests": [
             "guest428"
@@ -2868,6 +2994,7 @@
           "title": "Gannon Spills the Beans",
           "track": "Event",
           "description": "Chuck Gannon's Question and Answer period on Terran Republic and the Ring of Fire!",
+          "location": "CC: Ballroom F",
           "day": "2018-06-30",
           "guests": [
             "guest184"
@@ -2879,6 +3006,7 @@
           "title": "Chris Kennedy Publishing - The Year Ahead",
           "track": "Event",
           "description": "Join Chris Kennedy and his crew of writers as they discuss what the next year holds in store!",
+          "location": "CC: Ballroom E",
           "day": "2018-07-01",
           "guests": [
             "guest363",
@@ -2909,6 +3037,7 @@
           "title": "Career Retrospective: An Interview with Literary Guest of Honor Mike Resnick",
           "track": "Event",
           "description": "<p>\n\tMaster of Ceremonies Charles E. Gannon interviews LGOH Mike Resnick, providing an retrospective of his illustrious career (nominated for 37 Hugo Awards, winner of 5!)</p>\n",
+          "location": "CC: Meeting Room 8",
           "day": "2018-06-29",
           "guests": [
             "guest184",
@@ -2921,6 +3050,7 @@
           "title": "Open Filking",
           "track": "Event",
           "description": "Nerd music free for all with Gray Rinehart",
+          "location": "M: Lookout Mountain Room",
           "day": "2018-06-29",
           "guests": [
             "guest313"
@@ -2932,6 +3062,7 @@
           "title": "Nerd Music Free For All",
           "track": "Event",
           "description": "Open Filking with Gray Rinehart",
+          "location": "M: Lookout Mountain Room",
           "day": "2018-06-30",
           "guests": [
             "guest313"
@@ -2943,6 +3074,7 @@
           "title": "Board Game Klatsch with the Bielaczycs",
           "track": "Event",
           "description": "The Bielaczyc Brothers will host a Board Game Klatsch in the Game Room - come and test your skill!",
+          "location": "M: East/West Room",
           "day": "2018-06-30",
           "guests": [
             "guest5",
@@ -2956,6 +3088,7 @@
           "title": "Dark Darker Darkest",
           "track": "Event",
           "description": "Philip Paul Sacco (GameMaster): Dark Darker Darkest is an intense cooperative survival horror board game for a team of up to 7 players, urban survivors who try to fight the darkness in an unsettling location: the house of Doctor Mortimer, which holds the antidote to a virus turning the world into an army of undead.",
+          "location": "M: East/West Room",
           "day": "2018-06-29",
           "guests": [
             "guest438"
@@ -2967,6 +3100,7 @@
           "title": "Shadows Over Camelot",
           "track": "Event",
           "description": "<p>\n\tPhilip Paul Sacco (Game Master): Shadows over Camelot is a cooperative/semi-cooperative hand-management and deduction-based board game for 3 to 7 players. Each player represents a knight of the Round Table and they must collaborate to overcome a number of quests, ranging from defeating the Black Knight to the search for the Holy Grail</p>\n",
+          "location": "M: East/West Room",
           "day": "2018-07-01",
           "guests": [
             "guest438"
@@ -2978,6 +3112,7 @@
           "title": "Talisman Sudden Death",
           "track": "Event",
           "description": "Philip Paul Sacco (Game Master): Talisman is an adventure board game set in a high fantasy medieval world. Players have 14 characters to choose from all based on role playing archetypes, such as heroes, wizards, villains, thieves, monsters, etc. The game makes players feel they are traveling the world to find equipment, weapons, ancient relics, and companions that will help them on their quest to acquire the Crown of Command. ",
+          "location": "M: East/West Room",
           "day": "2018-06-30",
           "guests": [
             "guest438"
@@ -2989,6 +3124,7 @@
           "title": "Larry Correia's Gritty Cop Show",
           "track": "Event",
           "description": "<p>\n\t<span style=\"font-family: arial, sans-serif; font-size: 12.8px;\">Larry Correia will run a demo of his RPG \"Gritty Cop Show.\"&nbsp; Slots for the players will be auctioned for charity - stay tuned for details!</span></p>\n",
+          "location": "M: East/West Room",
           "day": "2018-06-29",
           "guests": [
             "guest168"
@@ -3006,6 +3142,7 @@
           "title": "Mad Scientist Roundtable",
           "track": "Roundtable",
           "description": "<p>\n\tRoundtable discussion of various and timely science topics moderated by Les Johnson. This is a remarkable panel dating back to the earliest LibertyCons. Everyone gets a say but no one gets to say too much.</p>\n",
+          "location": "M: Tennessee River Room",
           "day": "2018-06-30",
           "guests": [
             "guest407",
@@ -3047,6 +3184,7 @@
           "title": "What's New in 1632 / Grantville Roundtable",
           "track": "Roundtable",
           "description": "<p>\n\tEric Flint moderates this panel on what is new in the 1632 / Grantville universe in all it's alternate history glory, with a mass autograph session to follow.</p>\n",
+          "location": "CC: Ballroom F",
           "day": "2018-07-01",
           "guests": [
             "guest280",
@@ -3068,6 +3206,7 @@
           "title": "Black Tide Rising Roundtable ",
           "track": "Roundtable",
           "description": "<p>\n\tCome join John Ringo and his motley crew of authors for their roundtable on the Black Tide Rising anthology. Will be followed by a mass autograph session. Gary Poole, Mod.</p>\n",
+          "location": "CC: Ballroom F",
           "day": "2018-06-29",
           "guests": [
             "guest221",
@@ -3089,6 +3228,7 @@
           "title": "TBI & PTSD from the Observers Point of View",
           "track": "Roundtable",
           "description": "<p>\n\tDr. Robert Hampson will moderate this roundtable discussion of doctors, trainers and family members discussing effects and stories of their loved ones, patients, co-workers, and team-mates who have suffered from TBI and/or PTSD. Traumatic Brain Injury and Post-Traumatic Stress affect more than just the military, athletes and accident victims who receive the injury; they also affect those people closest to the them.</p>\n",
+          "location": "CC: Ballroom F",
           "day": "2018-06-29",
           "guests": [
             "guest186",
@@ -3106,6 +3246,7 @@
           "title": "Artificial Intelligence, Robotics and the Future of Work",
           "track": "Roundtable",
           "description": "<p>\n\tRich Weyand (Mod.) The Machine Intelligence Research Institute gives it even odds that all jobs will be done by robots in the not too distant future. PricewaterhouseCoopper has an estimate that 38% of all jobs currently done by people will be done by robots or AIs. So what does a society look like when few people are actually needed to do work?</p>\n",
+          "location": "CC: Ballroom E",
           "day": "2018-06-29",
           "guests": [
             "guest386",
@@ -3121,6 +3262,7 @@
           "title": "All Things Monster Hunter Roundtable",
           "track": "Roundtable",
           "description": "Larry Correia moderates this Roundtable on the Monster Hunter Universe, to be followed by a mass autograph session.",
+          "location": "CC: Ballroom F",
           "day": "2018-07-01",
           "guests": [
             "guest10",
@@ -3139,6 +3281,7 @@
           "title": "No S**T There I Was Just Minding My Own Business ....",
           "track": "Roundtable",
           "description": "John Ringo moderates this \"war story\" discussion with writers who are veterans and law enforcement professionals.",
+          "location": "CC: Ballroom E",
           "day": "2018-06-29",
           "guests": [
             "guest3",
@@ -3157,6 +3300,7 @@
           "title": "Homo Stellaris: Becoming the People of the Stars",
           "track": "Roundtable",
           "description": "<p>\n\tWhat will humans become as we begin to develop an interplanetary and interstellar society? Join Editors Les Johnson and Rob Hampson and their contributing authors to the upcoming fiction/nonfiction anthology \"Homo Stellaris\" for a discussion of potential changes to human society, psychology, biology and genetics in support of interstellar exploration and colonization.</p>\n",
+          "location": "CC: Ballroom E",
           "day": "2018-06-29",
           "guests": [
             "guest186",
@@ -3176,6 +3320,7 @@
           "title": "The Sha'Daa: TOYS Roundtable",
           "track": "Roundtable",
           "description": "<p>\n\tQ&A and Readings from Sha'Daa: TOYS by the authors, followed by a Mass autograph session.</p>\n",
+          "location": "CC: Ballroom E",
           "day": "2018-06-30",
           "guests": [
             "guest12",
@@ -3205,6 +3350,7 @@
           "title": "Let's Predict the Next Big Thing!",
           "track": "Roundtable",
           "description": "<p>\n\tIn this roundtable, Science Pros prognosticate and will keep a record and see who got it right at LibertyCon 2019 for bragging rights! Jay Roye Moderator.&nbsp;</p>\n",
+          "location": "CC: Ballroom F",
           "day": "2018-06-29",
           "guests": [
             "guest14",
@@ -3220,6 +3366,7 @@
           "title": "The Planetary Anthology Roundtable",
           "track": "Roundtable",
           "description": "Authors from the Superversive Press Planetary Anthologies will have a roundtable discussion on the series and it's future. Jagi Lamplighter Wright (mod.)",
+          "location": "CC: Ballroom F",
           "day": "2018-06-29",
           "guests": [
             "guest413",
@@ -3242,6 +3389,7 @@
           "title": "The Four Horsemen Roundtable ",
           "track": "Roundtable",
           "description": "Chris Kennedy moderates The 4 Horseman Roundtable: Readings, Q&A, Discussion and Mass Autograph Session",
+          "location": "CC: Ballroom E",
           "day": "2018-06-30",
           "guests": [
             "guest364",
@@ -3272,6 +3420,7 @@
           "title": "Readings from the Carreraverse",
           "track": "Roundtable",
           "description": "Tom Kratman moderates this roundtable with readings from the new Carreraverse anthology.",
+          "location": "CC: Ballroom F",
           "day": "2018-06-30",
           "guests": [
             "guest263",
@@ -3294,6 +3443,7 @@
           "title": "NASA Update",
           "track": "Presentation",
           "description": "<p>\n\tLes Johnson on what has happened in the past year in Space, and what might happen in the coming years.</p>\n",
+          "location": "CC: Meeting Room 5",
           "day": "2018-06-30",
           "guests": [
             "guest9",
@@ -3306,6 +3456,7 @@
           "title": "Baen Traveling Roadshow and Prize Patrol",
           "track": "Presentation",
           "description": "<p>\n\tToni Weisskopf will be running the crowd through the best of what's going on in the Baen universe. (And there will be giveaways!)</p>\n",
+          "location": "CC: Ballroom E",
           "day": "2018-06-30",
           "guests": [
             "guest184",
@@ -3343,6 +3494,7 @@
           "title": "Solar Updates and the Great American Eclipse",
           "track": "Presentation",
           "description": "Scientist Stephanie Osborn presenter:  So, what's the Sun been doing lately? And what is a total eclipse really like from the centerline?",
+          "location": "CC: Meeting Room 5",
           "day": "2018-06-30",
           "guests": [
             "guest39"
@@ -3354,6 +3506,7 @@
           "title": "What's New from Steve Jackson Games",
           "track": "Presentation",
           "description": "<p>\n\tSteve Jackson dishes on the latest developments from his secret games laboratory. He will even sign autographs. Come one, come all!</p>\n",
+          "location": "CC: Meeting Room 5",
           "day": "2018-06-30",
           "guests": [
             "guest243"
@@ -3365,6 +3518,7 @@
           "title": "Terraforming the Planets at Trappist-1",
           "track": "Presentation",
           "description": "Ken Roy gives a fascinating presentation on what the future holds with respect to terraforming.",
+          "location": "CC: Meeting Room 5",
           "day": "2018-06-30",
           "guests": [
             "guest157"
@@ -3376,6 +3530,7 @@
           "title": "Reading:  Science GOH Dr. Kevin Grazier",
           "track": "Presentation",
           "description": "Science GOH Dr. Kevin Grazier will read from his works.",
+          "location": "CC: Meeting Room 5",
           "day": "2018-06-30",
           "guests": [
             "guest300"
@@ -3387,6 +3542,7 @@
           "title": "The Art of John Picacio",
           "track": "Presentation",
           "description": "Hugo Award-winning artist John Picacio has created bestselling book cover art for works by George R. R. Martin, Michael Moorcock, Dan Simmons, Sheri Tepper, Joe R. Lansdale, and many more. He'll answer questions from the audience and present a brand-new slideshow of his work and process. He'll reveal his latest covers and product artworks, and share a few super-secret sneak peeks into what he's currently working on.",
+          "location": "CC: Meeting Room 5",
           "day": "2018-06-29",
           "guests": [
             "guest428"
@@ -3398,6 +3554,7 @@
           "title": "ARTC Presentations: George Alec Effinger's \"Terrific Park\" and Robert A. Heinlein's \"The Man Who Traveled in Elephants\"",
           "track": "Presentation",
           "description": "<p>\n\tThis year's Atlanta Radio Theatre Company (ARTC) presentations will be&nbsp;<em>Terrific Park</em>&nbsp;by George Alec Effinger (adapted for audio by Brad Strickland)&nbsp; and&nbsp;<em>The Man Who Traveled in Elephants&nbsp;</em>by Robert A. Heinlein (adapted for audio by Brad Linaweaver). THERE IS ADVENTURE IN SOUND!</p>\n",
+          "location": "CC: Ballroom E",
           "day": "2018-06-30",
           "guests": [
             "guest303",
@@ -3411,6 +3568,7 @@
           "title": "The Future History of Science and Technology",
           "track": "Presentation",
           "description": "<p>\n\t<span style=\"font-family: arial, sans-serif; font-size: 12.8px;\">Future history has long been the realm of prophets, SF writers, and economists alike. Whether history repeats itself or merely rhymes, its ebb and flow may be described by Kondratiev Cycles, Anonymous Conservative's r/K selection theory, or Dr. Jim Penman's Biohistory. How do these historical cycles impact the development of science and technology? Dr. Schantz shows how scientific development oscillates between an Aristotelian phase in which new principles are identified and a Platonic phase in which the implications of those ideas are worked out. Arguing we now stand at peak Platonism, Dr. Schantz explains why he anticipates an imminent swing toward an Aristotelian phase and the profound opportunity this transition offers for lovers of liberty to shape not only culture and politics, but also to predict the future.</span></p>\n",
+          "location": "CC: Meeting Room 5",
           "day": "2018-06-29",
           "guests": [
             "guest360"
@@ -3422,6 +3580,7 @@
           "title": "Organizing for War: Not Just for but Especially for Writers",
           "track": "Presentation",
           "description": "<p>\n\tTom Kratman presents Organizing for War - What it takes and how to get it right when explaining it from the writers perspective. Tom will have an autograph session during the last 15 minutes.</p>\n",
+          "location": "M: Tennessee River Room",
           "day": "2018-06-29",
           "guests": [
             "guest322"
@@ -3433,6 +3592,7 @@
           "title": "Jupiter: Cosmic Jekyll and Hyde",
           "track": "Presentation",
           "description": "Science GOH Dr. Kevin Grazier presents:  For about 15 years, on documentary television series, we've heard that Jupiter defends Earth from comets originating in the outer Solar System. New simulations, and even events from our historical past, show that Jupiter is just as likely to deflect comets AT Earth as away. What is the origin of the \"Jupiter as Cosmic Shield\" myth, and what do modern computer simulations tell us about Jupiter role in Solar System evolution?",
+          "location": "CC: Meeting Room 5",
           "day": "2018-06-30",
           "guests": [
             "guest300"
@@ -3444,6 +3604,7 @@
           "title": "The Food of the Star Trek Universe",
           "track": "Presentation",
           "description": "Author and Foodie Denise Clemons presents a fascinating and enjoyable view of the Food of the Star Trek Universe.  Come and bring your appetite!",
+          "location": "CC: Meeting Room 5",
           "day": "2018-07-01",
           "guests": [
             "guest402"
@@ -3455,6 +3616,7 @@
           "title": "Holly\"Weird\" Science",
           "track": "Presentation",
           "description": "Science GOH Dr. Kevin Grazier and science consultant to Hollywood presents how science and scientists are portrayed in the entertainment industry. Includes a discussion of the science of Battlestar Galactica.",
+          "location": "CC: Meeting Room 5",
           "day": "2018-07-01",
           "guests": [
             "guest300"
@@ -3466,6 +3628,7 @@
           "title": "Mad Scientists and Monsters: Darwins Effect on late 19th Century Gothic Horror Literature",
           "track": "Presentation",
           "description": "Darwin is not so much the father of evolutionary theory as he is a Titan releasing a scientific Kraken on the Victorian world. A modern Prometheus changing how we view the world forever. New ways of thinking challenge old patterns and out of this ideological conflict is birthed a new mythology. Here is the origin of all our modern myths. Dragons become sauropods and werewolves become ape men. Magic is transformed into science and the world falls into a new age of epic adventure.",
+          "location": "CC: Meeting Room 7",
           "day": "2018-07-01",
           "guests": [
             "guest255"
@@ -3477,6 +3640,7 @@
           "title": "Blockchain: What is it and Why Does it Matter. ",
           "track": "Presentation",
           "description": "<p>\n\tRich Weyand will do a presentation on the technology behind blockchain, the security structure that enables cryptocurrency.</p>\n",
+          "location": "CC: Meeting Room 5",
           "day": "2018-07-01",
           "guests": [
             "guest344"
@@ -3488,6 +3652,7 @@
           "title": "Baby Photos",
           "track": "Presentation",
           "description": "<p>\n\t<span style=\"font-family:times new roman,times,serif;\">Mike Resnick will present a slide show he has presented at WorldCon - a stroll down memory lane of hopeful young writers and the superstars they became! Come and enjoy the fun!&nbsp; &nbsp;</span></p>\n",
+          "location": "CC: Meeting Room 5",
           "day": "2018-06-30",
           "guests": [
             "guest408"
@@ -3499,6 +3664,7 @@
           "title": "Kiss Your Ash Goodbye: The Yellowstone Supervolcano",
           "track": "Presentation",
           "description": "The Yellowstone supervolcano is a known threat. What caused it, what happens when it erupts, and when will it erupt next? Stephanie Osborn presents.",
+          "location": "CC: Meeting Room 5",
           "day": "2018-06-29",
           "guests": [
             "guest39"
@@ -3510,6 +3676,7 @@
           "title": "Tales from the Grid",
           "track": "Presentation",
           "description": "Jim Beall regales us with \"Tales from the Grid\" - Traces America's electrification, including inventions, feuds, rivalries, and revenge from Edison to today, and from P. T. Barnum's mighty elephant to California's threatening duck, with over 50 slides and videos.",
+          "location": "CC: Meeting Room 5",
           "day": "2018-06-29",
           "guests": [
             "guest179"
@@ -3521,6 +3688,7 @@
           "title": "The Worlds of David Weber",
           "track": "Presentation",
           "description": "David Weber presents: My Worlds and Welcome to Them! ",
+          "location": "CC: Ballroom E",
           "day": "2018-06-29",
           "guests": [
             "guest85"
@@ -3532,6 +3700,7 @@
           "title": "Hypnotism Presentation / Demonstration",
           "track": "Presentation",
           "description": "Magician Philip Paul Sacco presents one of the lesser understood arts of magic, Hypnotism.  Begins with an introduction to what hypnotism is, and then asks for volunteers to become subjects. ",
+          "location": "M: Tennessee River Room",
           "day": "2018-06-30",
           "guests": [
             "guest438"
@@ -3549,6 +3718,7 @@
           "title": "Kids Costuming / Masquerade and Magic Show",
           "track": "Kids Prog.",
           "description": "<p>\n\tFor the kids who love to dress up and show off we offer a great combo. Doc Osborn will introduce each child at the start of his Magic Show and then entertain them in his wonderful world of magic while judges award prizes (Judges: Jonna Hayden, Tamara Lowery and Debi Chowdhury).</p>\n",
+          "location": "CC: Meeting Room 8",
           "day": "2018-06-30",
           "guests": [
             "guest250",
@@ -3563,6 +3733,7 @@
           "title": "Kids Dungeons & Dragons. Edition 3.5",
           "track": "Kids Prog.",
           "description": "Taylor Hoch will run this Edition 3.5 campaign designed for kids, but available for all comers.",
+          "location": "M: East/West Room",
           "day": "2018-06-29",
           "guests": [
             "guest340"
@@ -3574,6 +3745,7 @@
           "title": "Large Dice Games with Fritz and Agatha",
           "track": "Kids Prog.",
           "description": "Fritz Fotovich and Agatha Jean will be offering this year's giant dice in CC Meeting Room 8.",
+          "location": "CC: Meeting Room 8",
           "day": "2018-07-01",
           "guests": [
             "guest144"
@@ -3585,6 +3757,7 @@
           "title": "Large Dice Games with Fritz and Agatha",
           "track": "Kids Prog.",
           "description": "Fritz Fotovich and Agatha Jean will be offering this year's giant dice games in CC Meeting Room 8.",
+          "location": "CC: Meeting Room 8",
           "day": "2018-06-29",
           "guests": [
             "guest144"
@@ -3596,6 +3769,7 @@
           "title": "Large Dice Games with Fritz and Agatha",
           "track": "Kids Prog.",
           "description": "Fritz Fotovich and Agatha Jean will be offering this year's giant dice games in CC Meeting Room 8.",
+          "location": "CC: Meeting Room 8",
           "day": "2018-06-30",
           "guests": [
             "guest144"
@@ -3607,6 +3781,7 @@
           "title": "Large Dice Games with Fritz and Agatha",
           "track": "Kids Prog.",
           "description": "Fritz Fotovich and Agatha Jean will be offering this year's giant dice in CC Meeting Room 8.",
+          "location": "CC: Meeting Room 8",
           "day": "2018-06-29",
           "guests": [
             "guest144"
@@ -3618,6 +3793,7 @@
           "title": "Large Dice Games with Agatha",
           "track": "Kids Prog.",
           "description": "Agatha Jean will be offering this year's giant dice games for your enjoyment in CC Meeting Room 8!",
+          "location": "CC: Meeting Room 8",
           "day": "2018-06-30",
           "guests": []
         },
@@ -3627,6 +3803,7 @@
           "title": "Balloons of Doom",
           "track": "Kids Prog.",
           "description": "Doc Osborn unleashes controlled chaos with his balloons of doom!",
+          "location": "CC: Meeting Room 8",
           "day": "2018-06-29",
           "guests": [
             "guest25"
@@ -3638,6 +3815,7 @@
           "title": "Balloons of Doom",
           "track": "Kids Prog.",
           "description": "Doc Osborn unleashes controlled chaos with his balloons of doom!",
+          "location": "CC: Meeting Room 8",
           "day": "2018-07-01",
           "guests": [
             "guest25"
@@ -3649,6 +3827,7 @@
           "title": "Balloons of Doom",
           "track": "Kids Prog.",
           "description": "Doc Osborn unleashes controlled chaos with his balloons of doom!",
+          "location": "CC: Meeting Room 8",
           "day": "2018-06-30",
           "guests": [
             "guest25"
@@ -3660,6 +3839,7 @@
           "title": "Ask A Scientist - Kids Edition",
           "track": "Kids Prog.",
           "description": "Dr. Robert E. Hampson moderates this Q&A for kids across a broad array of sciences.",
+          "location": "CC: Meeting Room 8",
           "day": "2018-07-01",
           "guests": [
             "guest179",
@@ -3676,6 +3856,7 @@
           "title": "Electricity and Magnetism for Beginner's (Children's Programming)",
           "track": "Kids Prog.",
           "description": "<p>\n\tDr. Hans Schantz explains how electricity and magnetism works for the kids! Informative for novices interested in understanding how the world works.</p>\n",
+          "location": "CC: Meeting Room 8",
           "day": "2018-06-30",
           "guests": [
             "guest360"
@@ -3687,6 +3868,7 @@
           "title": "Meddling Kids RPG",
           "track": "Kids Prog.",
           "description": "Brett and game creator Allyson Brooks will Gamemaster a session of the RPG Meddling Kids.",
+          "location": "M: East/West Room",
           "day": "2018-06-30",
           "guests": [
             "guest289"
@@ -3698,6 +3880,7 @@
           "title": "Meddling Kids RPG",
           "track": "Kids Prog.",
           "description": "Brett and game creator Allyson Brooks will Gamemaster a session of the RPG Meddling Kids.",
+          "location": "M: East/West Room",
           "day": "2018-07-01",
           "guests": [
             "guest289"
@@ -3709,6 +3892,7 @@
           "title": "Kids Dungeons and Dragons Edition 3.5",
           "track": "Kids Prog.",
           "description": "Taylor Hoch will run this Edition 3.5 campaign designed for kids, but available for all comers.",
+          "location": "M: East/West Room",
           "day": "2018-06-30",
           "guests": [
             "guest340"
@@ -3720,6 +3904,7 @@
           "title": "Magic Show",
           "track": "Kids Prog.",
           "description": "Magician Philip Paul Sacco will entertain with feats of ledgerdemain - come one come all!",
+          "location": "CC: Meeting Room 7",
           "day": "2018-06-30",
           "guests": [
             "guest438"
@@ -3731,6 +3916,7 @@
           "title": "Are You a Werewolf?",
           "track": "Kids Prog.",
           "description": "<p>\n\tZach Waller&nbsp; moderates this kid friendly version of Are You a Werewolf?&nbsp;</p>\n",
+          "location": "CC: Meeting Room 8",
           "day": "2018-06-30",
           "guests": []
         }
@@ -3746,6 +3932,7 @@
           "title": "Autograph Session (Barrett, McClure, Murphy, Resnick, Sherrer)",
           "track": "Autograph",
           "description": "Autograph sessions will be located in the Dealer's Room.  Authors will cycle through hourly, except for the author's that have their own tables who will be available when they are not scheduled in the program. Limit 5 books (if you bring more, get 5 signed and go to the back of the line.)",
+          "location": "Dealer's Room (M: Plaza A/B/C Ballroom)",
           "day": "2018-07-01",
           "guests": [
             "guest408",
@@ -3761,6 +3948,7 @@
           "title": "Author's Alley (Barrett/Murphy, Lewis, Burkhead, G. Martin, Witzke)",
           "track": "Autograph",
           "description": "<p>\n\tCome by the Author's Alley to chat, buy a book or get an autograph!</p>\n",
+          "location": "Author's Alley (M: Plaza Ballroom Mezzanine)",
           "day": "2018-06-30",
           "guests": [
             "guest414",
@@ -3777,6 +3965,7 @@
           "title": "Author's Alley (K. Bogen, Coe/Jackson, Hollifield, Mays, Teresa Nials)",
           "track": "Autograph",
           "description": "<p>\n\tCome by the Author's Alley to chat, buy a book or get an autograph!</p>\n",
+          "location": "Author's Alley (M: Plaza Ballroom Mezzanine)",
           "day": "2018-06-29",
           "guests": [
             "guest259",
@@ -3791,6 +3980,7 @@
           "title": "Author's Alley (Del Arroz, S. Osborn, Sanderson, Sherrer)",
           "track": "Autograph",
           "description": "<p>\n\tCome by the Author's Alley to chat, buy a book or get an autograph!</p>\n",
+          "location": "Author's Alley (M: Plaza Ballroom Mezzanine)",
           "day": "2018-06-29",
           "guests": [
             "guest201",
@@ -3805,6 +3995,7 @@
           "title": "Author's Alley (Burkhead, Del Arroz, Hoch, Monroe, Montgomery )",
           "track": "Autograph",
           "description": "<p>\n\tCome by the Author's Alley to chat, buy a book or get an autograph!</p>\n",
+          "location": "Author's Alley (M: Plaza Ballroom Mezzanine)",
           "day": "2018-06-29",
           "guests": [
             "guest305",
@@ -3820,6 +4011,7 @@
           "title": "Author's Alley (Brooks, DJ Butler, Cordova, Howell, Mandragora)",
           "track": "Autograph",
           "description": "<p>\n\tCome by the Author's Alley to chat, buy a book or get an autograph!</p>\n",
+          "location": "Author's Alley (M: Plaza Ballroom Mezzanine)",
           "day": "2018-06-29",
           "guests": [
             "guest355",
@@ -3835,6 +4027,7 @@
           "title": "Author's Alley (Gibbons, D. Kennedy, Leacock, Monroe, Van Stry)",
           "track": "Autograph",
           "description": "Come by the Author's Alley to chat, buy a book or get an autograph!",
+          "location": "Author's Alley (M: Plaza Ballroom Mezzanine)",
           "day": "2018-06-30",
           "guests": [
             "guest416",
@@ -3850,6 +4043,7 @@
           "title": "Author's Alley (Andrews, Beckwith, J. Osborne, Schroeder, Spriggs)",
           "track": "Autograph",
           "description": "Come by the Author's Alley to chat, buy a book or get an autograph!",
+          "location": "Author's Alley (M: Plaza Ballroom Mezzanine)",
           "day": "2018-07-01",
           "guests": [
             "guest252",
@@ -3865,6 +4059,7 @@
           "title": "Author's Alley (Humphreys, D. Kennedy, Lewis, Mandragora, Witzke)",
           "track": "Autograph",
           "description": "Come by the Author's Alley to chat, buy a book or get an autograph!",
+          "location": "Author's Alley (M: Plaza Ballroom Mezzanine)",
           "day": "2018-06-30",
           "guests": [
             "guest163",
@@ -3880,6 +4075,7 @@
           "title": "Author's Alley (Antczak, Burkhead, K. Ezell / Chris Smith, Gibbons, Leacock)",
           "track": "Autograph",
           "description": "<p>\n\tCome by the Author's Alley to chat, buy a book or get an autograph!</p>\n",
+          "location": "Author's Alley (M: Plaza Ballroom Mezzanine)",
           "day": "2018-07-01",
           "guests": [
             "guest263",
@@ -3896,6 +4092,7 @@
           "title": "Author's Alley (Andrews, Beckwith, Carpenter, Lowery, Rinehart)",
           "track": "Autograph",
           "description": "<p>\n\tCome by the Author's Alley to chat, buy a book or get an autograph!</p>\n",
+          "location": "Author's Alley (M: Plaza Ballroom Mezzanine)",
           "day": "2018-06-29",
           "guests": [
             "guest417",
@@ -3911,6 +4108,7 @@
           "title": "Author's Alley (Barrett/Murphy, Freeman, G. Martin, Picacio, Sherrer)",
           "track": "Autograph",
           "description": "<p>\n\tCome by the Author's Alley to chat, buy a book or get an autograph!</p>\n",
+          "location": "Author's Alley (M: Plaza Ballroom Mezzanine)",
           "day": "2018-06-30",
           "guests": [
             "guest414",
@@ -3927,6 +4125,7 @@
           "title": "Author's Alley (Coe/Jackson, Hoch, Holmes, L. Johnson/J. Meany, Lowery)",
           "track": "Autograph",
           "description": "<p>\n\tCome by the Author's Alley to chat, buy a book or get an autograph!</p>\n",
+          "location": "Author's Alley (M: Plaza Ballroom Mezzanine)",
           "day": "2018-06-30",
           "guests": [
             "guest340",
@@ -3943,6 +4142,7 @@
           "title": "Author's Alley (Bogen, Bragg, Hampton, Hoch, C. Kennedy, Ward)",
           "track": "Autograph",
           "description": "<p>\n\tCome by the Author's Alley to chat, buy a book or get an autograph!</p>\n",
+          "location": "Author's Alley (M: Plaza Ballroom Mezzanine)",
           "day": "2018-06-30",
           "guests": [
             "guest332",
@@ -3958,6 +4158,7 @@
           "title": "Author's Alley (Quincy J. Allen, Antczak, Beckwith, Murray, Weyand)",
           "track": "Autograph",
           "description": "Come by the Author's Alley to chat, buy a book or get an autograph!",
+          "location": "Author's Alley (M: Plaza Ballroom Mezzanine)",
           "day": "2018-06-30",
           "guests": [
             "guest424",
@@ -3973,6 +4174,7 @@
           "title": "Author's Alley (Michael J. Allen, Maggert, Mays, J, Osborne, Schantz)",
           "track": "Autograph",
           "description": "<p>\n\tCome by the Author's Alley to chat, buy a book or get an autograph!</p>\n",
+          "location": "Author's Alley (M: Plaza Ballroom Mezzanine)",
           "day": "2018-06-30",
           "guests": [
             "guest259",
@@ -3988,6 +4190,7 @@
           "title": "Author's Alley (Frost, Gallagher, JD Jordan, Ward, Woods)",
           "track": "Autograph",
           "description": "<p>\n\tCome by the Author's Alley to chat, buy a book or get an autograph!</p>\n",
+          "location": "Author's Alley (M: Plaza Ballroom Mezzanine)",
           "day": "2018-06-30",
           "guests": [
             "guest386",
@@ -4003,6 +4206,7 @@
           "title": "Author's Alley (Humphreys, D. Kennedy, Lewis, Rinehart, Schroeder)",
           "track": "Autograph",
           "description": "Come by the Author's Alley to chat, buy a book or get an autograph!",
+          "location": "Author's Alley (M: Plaza Ballroom Mezzanine)",
           "day": "2018-06-30",
           "guests": [
             "guest303",
@@ -4018,6 +4222,7 @@
           "title": "Author's Alley (Antczak, A. Carpenter, Gibbons, Gannon, L. Johnson/J. Meany)",
           "track": "Autograph",
           "description": "<p>\n\tCome by the Author's Alley to chat, buy a book or get an autograph!</p>\n",
+          "location": "Author's Alley (M: Plaza Ballroom Mezzanine)",
           "day": "2018-06-29",
           "guests": [
             "guest44",
@@ -4034,6 +4239,7 @@
           "title": "Author's Alley (A. Carpenter, Frost, C. Kennedy, Schroeder)",
           "track": "Autograph",
           "description": "<p>\n\tCome by the Author's Alley to chat, buy a book or get an autograph!</p>\n",
+          "location": "Author's Alley (M: Plaza Ballroom Mezzanine)",
           "day": "2018-06-29",
           "guests": [
             "guest423",
@@ -4048,6 +4254,7 @@
           "title": "Author's Alley (DJ Butler, Coe/Jackson, Lowery, Mandragora)",
           "track": "Autograph",
           "description": "<p>\n\tCome by the Author's Alley to chat, buy a book or get an autograph!</p>\n",
+          "location": "Author's Alley (M: Plaza Ballroom Mezzanine)",
           "day": "2018-07-01",
           "guests": [
             "guest159",
@@ -4062,6 +4269,7 @@
           "title": "Author's Alley (Michael J. Allen, Brooks, Cordova, Howell, Weyand )",
           "track": "Autograph",
           "description": "<p>\n\tCome by the Author's Alley to chat, buy a book or get an autograph!</p>\n",
+          "location": "Author's Alley (M: Plaza Ballroom Mezzanine)",
           "day": "2018-06-29",
           "guests": [
             "guest359",
@@ -4077,6 +4285,7 @@
           "title": "Author's Alley (Freeman, T. Howard, JD Jordan, Teresa Nials, Spriggs)",
           "track": "Autograph",
           "description": "<p>\n\tCome by the Author's Alley to chat, buy a book or get an autograph!</p>\n",
+          "location": "Author's Alley (M: Plaza Ballroom Mezzanine)",
           "day": "2018-06-30",
           "guests": [
             "guest425",
@@ -4091,6 +4300,7 @@
           "title": "Author's Alley (Quincy J. Allen, Gannon, Kupari, Teresa Nials, Ward)",
           "track": "Autograph",
           "description": "<p>\n\tCome by the Author's Alley to chat, buy a book or get an autograph!</p>\n",
+          "location": "Author's Alley (M: Plaza Ballroom Mezzanine)",
           "day": "2018-07-01",
           "guests": [
             "guest164",
@@ -4105,6 +4315,7 @@
           "title": "Author's Alley (DJ Butler,T. Howard, JD Jordan, Sanderson, Spriggs)",
           "track": "Autograph",
           "description": "<p>\n\tCome by the Author's Alley to chat, buy a book or get an autograph!</p>\n",
+          "location": "Author's Alley (M: Plaza Ballroom Mezzanine)",
           "day": "2018-06-30",
           "guests": [
             "guest425",
@@ -4120,6 +4331,7 @@
           "title": "Black Tide Rising Mass Autograph Session",
           "track": "Autograph",
           "description": "<p>\n\tBlack Tide Rising Mass Autograph Session immediately following the Roundtable</p>\n",
+          "location": "CC: Ballroom F",
           "day": "2018-06-29",
           "guests": [
             "guest221",
@@ -4141,6 +4353,7 @@
           "title": "Author's Alley (Michael J. Allen, K. Ezell / Chris Smith, C. Kennedy, S. Osborn, Schantz)",
           "track": "Autograph",
           "description": "<p>\n\tCome by the Author's Alley to chat, buy a book or get an autograph!</p>\n",
+          "location": "Author's Alley (M: Plaza Ballroom Mezzanine)",
           "day": "2018-07-01",
           "guests": [
             "guest39",
@@ -4157,6 +4370,7 @@
           "title": "Author's Alley (Holmes, G. Martin, S. Osborn, Sacco, Sherrer)",
           "track": "Autograph",
           "description": "<p>\n\tCome by the Author's Alley to chat, buy a book or get an autograph!</p>\n",
+          "location": "Author's Alley (M: Plaza Ballroom Mezzanine)",
           "day": "2018-06-30",
           "guests": [
             "guest438",
@@ -4172,6 +4386,7 @@
           "title": "Author's Alley (Brooks, Freeman, Holmes, Howell, Schantz )",
           "track": "Autograph",
           "description": "Come by the Author's Alley to chat, buy a book or get an autograph!",
+          "location": "Author's Alley (M: Plaza Ballroom Mezzanine)",
           "day": "2018-06-29",
           "guests": [
             "guest289",
@@ -4187,6 +4402,7 @@
           "title": "1632 Grantville Mass Autograph Session",
           "track": "Autograph",
           "description": "<p>\n\tMass autograph session immediately follows the 1632 Roundtable. Limit 2 books per person per pass thru the line.</p>\n",
+          "location": "CC: Ballroom F",
           "day": "2018-07-01",
           "guests": [
             "guest184",
@@ -4207,6 +4423,7 @@
           "title": "All Things Monster Hunter Mass Autograph Session",
           "track": "Autograph",
           "description": "Mass Autograph session following the Monster Hunter RT.",
+          "location": "CC: Ballroom F",
           "day": "2018-07-01",
           "guests": [
             "guest10",
@@ -4225,6 +4442,7 @@
           "title": "Sha'Daa: TOYS - Mass Autograph Session",
           "track": "Autograph",
           "description": "Mass Autograph Session following Readings from Sha'Daa: TOYS",
+          "location": "CC: Ballroom E",
           "day": "2018-06-30",
           "guests": [
             "guest419",
@@ -4253,6 +4471,7 @@
           "title": "The 4 Horseman RT Mass Autograph Session",
           "track": "Autograph",
           "description": "Chris Kennedy moderates The 4 Horseman Roundtable: Readings, Q&A, Discussion and Mass Autograph Session",
+          "location": "CC: Ballroom E",
           "day": "2018-06-30",
           "guests": [
             "guest251",
@@ -4283,6 +4502,7 @@
           "title": "Autograph Session (Drake, Les Johnson, Lewis, Shoemaker)",
           "track": "Autograph",
           "description": "<p>\n\tAutograph sessions will be located in the Dealer's Room. Authors will cycle through hourly, except for the author's that have their own tables who will be available when they are not scheduled in the program. Limit 5 books (if you bring more, get 5 signed and go to the back of the line.)</p>\n",
+          "location": "Dealer's Room (M: Plaza A/B/C Ballroom)",
           "day": "2018-07-01",
           "guests": [
             "guest113",
@@ -4297,6 +4517,7 @@
           "title": "Autograph Session (K. Bogen, Holmes, Howard, Monroe, Witzke)",
           "track": "Autograph",
           "description": "Autograph sessions will be located in the Dealer's Room.  Authors will cycle through hourly, except for the author's that have their own tables who will be available when they are not scheduled in the program. Limit 5 books (if you bring more, get 5 signed and go to the back of the line.)",
+          "location": "Dealer's Room (M: Plaza A/B/C Ballroom)",
           "day": "2018-07-01",
           "guests": [
             "guest122",
@@ -4312,6 +4533,7 @@
           "title": "Autograph Session (Gallagher, Gannon, McKeown)",
           "track": "Autograph",
           "description": "<p>\n\tAutograph sessions will be located in the Dealer's Room. Authors will cycle through hourly, except for the author's that have their own tables who will be available when they are not scheduled in the program. Limit 5 books (if you bring more, get 5 signed and go to the back of the line.)</p>\n",
+          "location": "Dealer's Room (M: Plaza A/B/C Ballroom)",
           "day": "2018-07-01",
           "guests": [
             "guest184",
@@ -4325,6 +4547,7 @@
           "title": "Autograph Session (Brooks, Burkhead, Frost, Lamplighter, Wright)",
           "track": "Autograph",
           "description": "<p>\n\tAutograph sessions will be located in the Dealer's Room. Authors will cycle through hourly, except for the author's that have their own tables who will be available when they are not scheduled in the program. Limit 5 books (if you bring more, get 5 signed and go to the back of the line.)</p>\n",
+          "location": "Dealer's Room (M: Plaza A/B/C Ballroom)",
           "day": "2018-06-30",
           "guests": [
             "guest289",
@@ -4340,6 +4563,7 @@
           "title": "Autograph Session (Gibbons, Schantz)",
           "track": "Autograph",
           "description": "Autograph sessions will be located in the Dealer's Room.  Authors will cycle through hourly, except for the author's that have their own tables who will be available when they are not scheduled in the program. Limit 5 books (if you bring more, get 5 signed and go to the back of the line.)",
+          "location": "Dealer's Room (M: Plaza A/B/C Ballroom)",
           "day": "2018-06-30",
           "guests": [
             "guest331",
@@ -4352,6 +4576,7 @@
           "title": "Autograph Session (Lowery, Van Stry)",
           "track": "Autograph",
           "description": "<p>\n\tAutograph sessions will be located in the Dealer's Room. Authors will cycle through hourly, except for the author's that have their own tables who will be available when they are not scheduled in the program. Limit 5 books (if you bring more, get 5 signed and go to the back of the line.)</p>\n",
+          "location": "Dealer's Room (M: Plaza A/B/C Ballroom)",
           "day": "2018-06-30",
           "guests": [
             "guest416",
@@ -4364,6 +4589,7 @@
           "title": "Autograph Session (Del Arroz, Grazier)",
           "track": "Autograph",
           "description": "<p>\n\tAutograph sessions will be located in the Dealer's Room. Authors will cycle through hourly, except for the author's that have their own tables who will be available when they are not scheduled in the program. Limit 5 books (if you bring more, get 5 signed and go to the back of the line.)</p>\n",
+          "location": "Dealer's Room (M: Plaza A/B/C Ballroom)",
           "day": "2018-06-30",
           "guests": [
             "guest380",
@@ -4376,6 +4602,7 @@
           "title": "Autograph Session (Ayres, Carpenter, Picacio, Rinehart)",
           "track": "Autograph",
           "description": "<p>\n\tAutograph sessions will be located in the Dealer's Room. Authors will cycle through hourly, except for the author's that have their own tables who will be available when they are not scheduled in the program. Limit 5 books (if you bring more, get 5 signed and go to the back of the line.)</p>\n",
+          "location": "Dealer's Room (M: Plaza A/B/C Ballroom)",
           "day": "2018-06-30",
           "guests": [
             "guest428",
@@ -4390,6 +4617,7 @@
           "title": "Autograph Session (Howell, D. Hoyt, S. Hoyt, S. Osborn)",
           "track": "Autograph",
           "description": "<p>\n\tAutograph sessions will be located in the Dealer's Room. Authors will cycle through hourly, except for the author's that have their own tables who will be available when they are not scheduled in the program. Limit 5 books (if you bring more, get 5 signed and go to the back of the line.)</p>\n",
+          "location": "Dealer's Room (M: Plaza A/B/C Ballroom)",
           "day": "2018-06-30",
           "guests": [
             "guest39",
@@ -4404,6 +4632,7 @@
           "title": "Autograph Session (Ikenberry, D. Kennedy, Kratman, Sanderson)",
           "track": "Autograph",
           "description": "<p>\n\tAutograph sessions will be located in the Dealer's Room. Authors will cycle through hourly, except for the author's that have their own tables who will be available when they are not scheduled in the program. Limit 5 books (if you bring more, get 5 signed and go to the back of the line.)</p>\n",
+          "location": "Dealer's Room (M: Plaza A/B/C Ballroom)",
           "day": "2018-06-29",
           "guests": [
             "guest201",
@@ -4418,6 +4647,7 @@
           "title": "Autograph Session (L. Correia, C. Kennedy, Ringo, Spriggs)",
           "track": "Autograph",
           "description": "<p>\n\tAutograph sessions will be located in the Dealer's Room. Authors will cycle through hourly, except for the author's that have their own tables who will be available when they are not scheduled in the program. Limit 5 books (if you bring more, get 5 signed and go to the back of the line.)</p>\n",
+          "location": "Dealer's Room (M: Plaza A/B/C Ballroom)",
           "day": "2018-06-29",
           "guests": [
             "guest168",
@@ -4432,6 +4662,7 @@
           "title": "Autograph Session (DJ Butler, Flint, Humphreys, JD Jordan)",
           "track": "Autograph",
           "description": "Autograph sessions will be located in the Dealer's Room.  Authors will cycle through hourly, except for the author's that have their own tables who will be available when they are not scheduled in the program. Limit 5 books (if you bring more, get 5 signed and go to the back of the line.)",
+          "location": "Dealer's Room (M: Plaza A/B/C Ballroom)",
           "day": "2018-06-29",
           "guests": [
             "guest66",
@@ -4446,6 +4677,7 @@
           "title": "Autograph Session (Quincy J. Allen, Hartness, G. Martin, Woods)",
           "track": "Autograph",
           "description": "<p>\n\tAutograph sessions will be located in the Dealer's Room. Authors will cycle through hourly, except for the author's that have their own tables who will be available when they are not scheduled in the program. Limit 5 books (if you bring more, get 5 signed and go to the back of the line.)</p>\n",
+          "location": "Dealer's Room (M: Plaza A/B/C Ballroom)",
           "day": "2018-06-29",
           "guests": [
             "guest364",
@@ -4460,6 +4692,7 @@
           "title": "Autograph Session (M. Allen, Leacock, Sacco)",
           "track": "Autograph",
           "description": "Autograph sessions will be located in the Dealer's Room.  Authors will cycle through hourly, except for the author's that have their own tables who will be available when they are not scheduled in the program. Limit 5 books (if you bring more, get 5 signed and go to the back of the line.)",
+          "location": "Dealer's Room (M: Plaza A/B/C Ballroom)",
           "day": "2018-06-30",
           "guests": [
             "guest247",
@@ -4473,6 +4706,7 @@
           "title": "Autograph Session (Cochrane, Mandragora)",
           "track": "Autograph",
           "description": "<p>\n\tAutograph sessions will be located in the Dealer's Room. Authors will cycle through hourly, except for the author's that have their own tables who will be available when they are not scheduled in the program. Limit 5 books (if you bring more, get 5 signed and go to the back of the line.)</p>\n",
+          "location": "Dealer's Room (M: Plaza A/B/C Ballroom)",
           "day": "2018-06-30",
           "guests": [
             "guest163",
@@ -4485,6 +4719,7 @@
           "title": "Autograph Session (Baker, Wandrey)",
           "track": "Autograph",
           "description": "Autograph sessions will be located in the Dealer's Room.  Authors will cycle through hourly, except for the author's that have their own tables who will be available when they are not scheduled in the program. Limit 5 books (if you bring more, get 5 signed and go to the back of the line.)",
+          "location": "Dealer's Room (M: Plaza A/B/C Ballroom)",
           "day": "2018-07-01",
           "guests": [
             "guest207",
@@ -4503,6 +4738,7 @@
           "title": "World Building Workshop for Screenplays vs. Novels",
           "track": "Workshop",
           "description": "Screenwriter Robert Evans will run a 90 minute workshop highlighting what the differences are between building worlds in screenplays and in novels.",
+          "location": "M: Tennessee River Room",
           "day": "2018-06-29",
           "guests": [
             "guest341"
@@ -4514,6 +4750,7 @@
           "title": "How to Become More Successful as an Indy Author",
           "track": "Workshop",
           "description": "<p>\n\tJohn Van Stry has over a dozen best sellers on Amazon as well as four number one best sellers. Working full-time as an author for several years now, and he has recently made it into the ranks of a six-figure author and is willing to share his experiences of what has worked for him with other authors who are struggling to trying and become more successful.</p>\n",
+          "location": "M: Tennessee River Room",
           "day": "2018-06-29",
           "guests": [
             "guest416"
@@ -4525,6 +4762,7 @@
           "title": "Chain Mail Workshop",
           "track": "Workshop",
           "description": "<p>\n\tBryan Jones will conduct a workshop on the ancient skill of creating chain mail. He will provide rings and fittings gratis for each attendee to make a chain mail bracelet.</p>\n",
+          "location": "M: Tennessee River Room",
           "day": "2018-07-01",
           "guests": [
             "guest377"
@@ -4536,6 +4774,7 @@
           "title": "How to Approach Publishers Workshop",
           "track": "Workshop",
           "description": "D. Alan Lewis conducts this workshop on how best to approach publishers with you proposals and manuscripts.",
+          "location": "M: Tennessee River Room",
           "day": "2018-06-30",
           "guests": [
             "guest204"
@@ -4547,6 +4786,7 @@
           "title": "Overview of Scrivener for Writers",
           "track": "Workshop",
           "description": "<p>\n\tDave Schroeder will run a workshop on Scrivener, the popular writing and database tool for authors.</p>\n",
+          "location": "M: Tennessee River Room",
           "day": "2018-06-29",
           "guests": [
             "guest303"
@@ -4558,6 +4798,7 @@
           "title": "Workshop:  Three Act Structure",
           "track": "Workshop",
           "description": "Anna Grace Carpenter will present a workshop on \"Three Act Structure: The Basics of Plotting and Outlining a Novel\"",
+          "location": "M: Tennessee River Room",
           "day": "2018-06-30",
           "guests": [
             "guest208"
@@ -4569,6 +4810,7 @@
           "title": "Writing Effective Amazon Ads for Indie Authors ",
           "track": "Workshop",
           "description": "<p>\n\tAuthor Terry Maggert will do a presentation / workshop on how market your works effectively using Amazon.</p>\n",
+          "location": "M: Tennessee River Room",
           "day": "2018-06-29",
           "guests": [
             "guest248"
@@ -4580,6 +4822,7 @@
           "title": "Learn Glass Cutting from a Master",
           "track": "Workshop",
           "description": "Master Stained Glass Artisan Leia Powell has been creating glass masterpieces for 20+ years. This 90-minute workshop will be hands-on how to cut and break glass to fit a pattern. Glass cutter and grozing pliers included in the $25.00 fee for this workshop. (10 person limit, so register fast!). First come first serve, send your payment (counts as your registration) via PayPal to fearandtrust@yahoo.com.  We will notify on the LC FB page when the class is full. Liability waiver required for the workshop.",
+          "location": "M: Tennessee River Room",
           "day": "2018-06-30",
           "guests": [
             "guest216"
@@ -4591,6 +4834,7 @@
           "title": "Writing for Mass Market and Paperbacks",
           "track": "Workshop",
           "description": "Holly McClure of Lost Mount Press which specializes in paperback fiction and republishing back lists. will conduct this two hour workshop on how to write for genre paperbacks and mass markets. First five pages and synopsis critique for writers who have a manuscript ready. ",
+          "location": "M: Tennessee River Room",
           "day": "2018-06-30",
           "guests": [
             "guest18"
@@ -4602,6 +4846,7 @@
           "title": "Puppetry Workshop",
           "track": "Workshop",
           "description": "<p>\n\tBryan Jones hosts this workshop<span style=\"font-family: arial, sans-serif; font-size: 12.8px;\">&nbsp;on basic puppetry and puppet making.</span></p>\n",
+          "location": "M: Tennessee River Room",
           "day": "2018-06-29",
           "guests": [
             "guest377"
@@ -4619,6 +4864,7 @@
           "title": "BADASS Room Party",
           "track": "Room Party",
           "description": "<p>\n\t<span style=\"font-family: sans-serif; font-size: 14.6667px;\">Jamie Ibson hosts \"Books and Drinking / Authors Signing Stuff\" (acronym: BADASS) Room Parthy will include some alcohol provided, snacks, and Michelle is inviting ladies to come around and try on and take home the vintage clothing I posted about earlier on my own FB wall.</span></p>\n",
+          "location": "Party Alley (M: 16th Floor)",
           "day": "2018-06-29",
           "guests": []
         },
@@ -4628,6 +4874,7 @@
           "title": "Copper Dog Publishing / Moondream Press Book Launch/Room Party ",
           "track": "Room Party",
           "description": "Moondream Press Book Launch Party for Sha'Daa: TOYS ",
+          "location": "Party Alley (M: 16th Floor)",
           "day": "2018-06-30",
           "guests": [
             "guest15",
@@ -4656,6 +4903,7 @@
           "title": "Seventh Seal Press & Rob Howell Present Chris Kennedy Publishing Book Launch Party",
           "track": "Room Party",
           "description": "Seventh Seal Press & Rob Howell present the Chris Kennedy Publishing combined Room Party and Book Launch for a new anthology set in the Four Horsemen Universe.",
+          "location": "Party Alley (M: 16th Floor)",
           "day": "2018-06-30",
           "guests": [
             "guest252",
@@ -4686,6 +4934,7 @@
           "title": "ChattaCon 44 Room Party ",
           "track": "Room Party",
           "description": "Come join KC Charland and the ChattaCon Room Party and support your local con!",
+          "location": "Party Alley (M: 16th Floor)",
           "day": "2018-06-30",
           "guests": []
         },
@@ -4695,6 +4944,7 @@
           "title": "CONStellation Room Party",
           "track": "Room Party",
           "description": "<p>\n\tCome join Doug Lampert and enjoy Huntsville Hospitality and support Constellation!</p>\n",
+          "location": "Party Alley (M: 16th Floor)",
           "day": "2018-06-29",
           "guests": []
         },
@@ -4704,6 +4954,7 @@
           "title": "XERPES Room Party",
           "track": "Room Party",
           "description": "Come join Frank and Millie for the XERPES Room Party! Support your local con!",
+          "location": "Party Alley (M: 16th Floor)",
           "day": "2018-06-29",
           "guests": []
         },
@@ -4713,6 +4964,7 @@
           "title": "JordanCon 11 Room Party",
           "track": "Room Party",
           "description": "Come join Jimmy Liang and enjoy JordanCon hospitality and support your local con!",
+          "location": "Party Alley (M: 16th Floor)",
           "day": "2018-06-30",
           "guests": []
         },
@@ -4722,6 +4974,7 @@
           "title": "Completely Random Cocktail Hour",
           "track": "Room Party",
           "description": "<p>\n\t<span style=\"font-family: Helvetica, Arial, sans-serif;\">Nathan Balyeat hosts the&nbsp;</span>Completely Random Cocktail Hour room Party.&nbsp; Come and party!</p>\n",
+          "location": "Party Alley (M: 16th Floor)",
           "day": "2018-06-29",
           "guests": []
         },
@@ -4731,6 +4984,7 @@
           "title": "Michael Z. Williamson Wedding Reception",
           "track": "Room Party",
           "description": "<p>\n\t<span style=\"font-family: Helvetica, Arial, sans-serif;\">Come and provide well wishes at Mike and Jessica's reception starting at 9 and running until a point TBD.</span></p>\n",
+          "location": "Party Alley (M: 16th Floor)",
           "day": "2018-06-30",
           "guests": [
             "guest7"
@@ -4742,6 +4996,7 @@
           "title": "Rams Head Book Launch / Room Party",
           "track": "Room Party",
           "description": "<p>\n\t<span style=\"color: rgb(51, 51, 51); font-family: \"Libre Franklin\", \"Helvetica Neue\", helvetica, arial, sans-serif; font-size: 16px;\">Rams Head&nbsp;Books presents the Book&nbsp;Launch Party for Taylor S Hoch&rsquo;s&nbsp;</span><span style=\"color: rgb(51, 51, 51); font-family: \"Libre Franklin\", \"Helvetica Neue\", helvetica, arial, sans-serif; font-size: 16px;\">Volume 5 of the continuing saga of Prospero Clydesdale O&rsquo;Shaunesssy&rsquo;s &ldquo;Curse of the Dullahan&rdquo; series, &ldquo;Mouth of the Cave.&rdquo;</span></p>\n<div style=\"box-sizing: inherit; color: rgb(51, 51, 51); font-family: \"Libre Franklin\", \"Helvetica Neue\", helvetica, arial, sans-serif; font-size: 16px;\">\n\t&nbsp;</div>\n<p>\n\t&nbsp;</p>\n",
+          "location": "Party Alley (M: 16th Floor)",
           "day": "2018-06-30",
           "guests": [
             "guest340"
@@ -4759,6 +5014,7 @@
           "title": "Terrain Modeling Demonstration",
           "track": "Demonstration",
           "description": "Anita Moore will host a Terrain Modeling Demonstration in the Art Show.",
+          "location": "Art Show (CC: Meeting Room 4)",
           "day": "2018-06-29",
           "guests": [
             "guest36"
