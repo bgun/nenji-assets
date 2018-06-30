@@ -119,12 +119,6 @@
       "image": "groller_rich.jpg"
     },
     {
-      "guest_id": "guest18",
-      "name": "Holly McClure",
-      "bio": "Raised by Shaman, storytellers, preachers, and bluegrass musicians, child of the Smoky Mountains with a Cherokee mom and a father whose people came from the Scottish Highlands, Holly draws on her heritage for inspiration as an author and storyteller. \nShe founded Sullivan Maxx Literary Agency and represented authors of fiction and non fiction until the agency was acquired by Lexium Talent and Entertainment where she is still a consultant. \nShe is an ordained priest in the Celtic Christian Church and resides in Atlanta Ga. \nHer writing is literary with a touch of the supernatural.  \nAmong her books: \n<UL><I>The Vessel of Scion</I>, [Ecanus UK,] brings the bloodline legend from its origin in the Garden of Eden to its culmination at the end of days in a fast paced international thriller.</UL><UL><I>Conjuror</I>, [Mercer University Press.] \"just the title itself is enticing, but the entire story resonates with spirit, blending myth with reality, tragedy with triumph. A banquet of adventure.\" Steve Berry, NY times best selling author of The Patriot Threat.</UL><UL><I>Low Country Mysteries</I>, YA [Shuttered Lamp Books] for ages 9 and up Ghost Horses introduces Psychic Twins Hannah and Aislinn Hanover who work with Donovan, the earthbound spirt of the most gorgeous guy they've ever seen, to bring his murderer to justice and unearth family secrets that change their life. Ghost Guardian continues their adventures with Donovan as they connect with a long dead hero to find a kidnapped couple and save them from men who have killed to protect their secrets.</UL><UL><I>A Message from Anne Elise</I>, [Shuttered Lamp Books] Teacher, traveler, writer, gnostic priest, Anne Elise Grey is now with the eternal, but she left a little booklet to inform the seekers of wisdom.</UL><UL><I>Taming the Shadow</I>, [Shuttered Lamp Books]drawing on her counceling background and esoteric scholarship, the author produced this textbook/workbook to guide the reader through practical transformation.</UL><UL><I>Too Big Buck</I>, [Shuttered Lamp Books] In this picture book for young children, an wanted dog tells the story of how he found the family that accepted him just as he was. Good dogs, like good people, come in all shapes and sizes. Illustrated by Shirley Wanda Rackley.</UL>You can find more about Holly at <A HREF=\"http://www.hollysullivanmcclure.com\">www.hollysullivanmcclure.com</A>\n",
-      "image": "mcclure_holly.jpg"
-    },
-    {
       "guest_id": "guest19",
       "name": "Jason Cordova",
       "bio": "A 2015 John W. Campbell Award finalist, Jason Cordova is probably best known for his popular Kin Wars Saga series, as well as the Kaiju Apocalypse trilogy with Eric S. Brown. He also had written a YA science fiction series called The Warp, with the second book (Devastator) being released earlier this year. He was also featured in John Ringo's bestselling Black Tide Rising anthology, and the high-regarded Forged in Blood anthology set in Michael Z Williamson's \"Freehold\" universe. A high school basketball coach in his spare time, he currently lives in the Blue Ridge Mountains in southwestern Virginia.  He is also a kaiju enthusiast.",
@@ -1597,11 +1591,10 @@
           "time": "20:00:00",
           "title": "Changes in the World of Publishing",
           "track": "Panel",
-          "description": "This panel of publishers will discuss the pros and cons of the current changes ongoing in the publishing industry. Toni Weisskopf, Mod.",
+          "description": "<p>\n\tThis panel of publishers will discuss the pros and cons of the current changes ongoing in the publishing industry. Toni Weisskopf, Mod.</p>\n",
           "location": "CC: Ballroom F",
           "day": "2018-06-29",
           "guests": [
-            "guest18",
             "guest127",
             "guest8",
             "guest66",
@@ -1864,7 +1857,7 @@
           "time": "18:00:00",
           "title": "Win, Lose or Draw with the Pros",
           "track": "Panel",
-          "description": "<p>\n\tPaul Bielaczyc hosts this fun and hilarious game of Win, Lose or Draw - come one, come all!</p>\n",
+          "description": "<p>\n\tFritz Fotovich hosts this fun and hilarious game of Win, Lose or Draw - come one, come all!</p>\n",
           "location": "CC: Meeting Room 5",
           "day": "2018-06-30",
           "guests": [
@@ -1872,7 +1865,9 @@
             "guest354",
             "guest6",
             "guest5",
-            "guest368"
+            "guest368",
+            "guest144",
+            "guest427"
           ]
         },
         {
@@ -2128,11 +2123,10 @@
           "time": "14:00:00",
           "title": "Working With An Agent",
           "track": "Panel",
-          "description": "Anna Grace Carpenter moderates this panel discussion on the ins and outs of finding and working with agent.",
+          "description": "<p>\n\tAnna Grace Carpenter moderates this panel discussion on the ins and outs of finding and working with agent.</p>\n",
           "location": "CC: Ballroom F",
           "day": "2018-06-30",
           "guests": [
-            "guest18",
             "guest93",
             "guest315",
             "guest208",
@@ -2719,7 +2713,6 @@
             "guest380",
             "guest308",
             "guest62",
-            "guest18",
             "guest418",
             "guest66",
             "guest404",
@@ -3219,6 +3212,7 @@
             "guest318",
             "guest28",
             "guest66",
+            "guest281",
             "guest10"
           ]
         },
@@ -3931,13 +3925,12 @@
           "time": "12:00:00",
           "title": "Autograph Session (Barrett, McClure, Murphy, Resnick, Sherrer)",
           "track": "Autograph",
-          "description": "Autograph sessions will be located in the Dealer's Room.  Authors will cycle through hourly, except for the author's that have their own tables who will be available when they are not scheduled in the program. Limit 5 books (if you bring more, get 5 signed and go to the back of the line.)",
+          "description": "<p>\n\tAutograph sessions will be located in the Dealer's Room. Authors will cycle through hourly, except for the author's that have their own tables who will be available when they are not scheduled in the program. Limit 5 books (if you bring more, get 5 signed and go to the back of the line.)</p>\n",
           "location": "Dealer's Room (M: Plaza A/B/C Ballroom)",
           "day": "2018-07-01",
           "guests": [
             "guest408",
             "guest389",
-            "guest18",
             "guest414",
             "guest415"
           ]
@@ -4105,7 +4098,7 @@
         {
           "event_id": "event285",
           "time": "14:00:00",
-          "title": "Author's Alley (Barrett/Murphy, Freeman, G. Martin, Picacio, Sherrer)",
+          "title": "Author's Alley (Barrett/Murphy, Freeman, G. Martin, Picacio, Sherrer, Ward)",
           "track": "Autograph",
           "description": "<p>\n\tCome by the Author's Alley to chat, buy a book or get an autograph!</p>\n",
           "location": "Author's Alley (M: Plaza Ballroom Mezzanine)",
@@ -4116,7 +4109,7 @@
             "guest413",
             "guest200",
             "guest415",
-            "guest428"
+            "guest164"
           ]
         },
         {
@@ -4228,7 +4221,6 @@
             "guest44",
             "guest445",
             "guest9",
-            "guest184",
             "guest208",
             "guest331"
           ]
@@ -4251,13 +4243,14 @@
         {
           "event_id": "event294",
           "time": "12:00:00",
-          "title": "Author's Alley (DJ Butler, Coe/Jackson, Lowery, Mandragora)",
+          "title": "Author's Alley (DJ Butler, Coe/Jackson, Lowery, Mandragora, Ward)",
           "track": "Autograph",
           "description": "<p>\n\tCome by the Author's Alley to chat, buy a book or get an autograph!</p>\n",
           "location": "Author's Alley (M: Plaza Ballroom Mezzanine)",
           "day": "2018-07-01",
           "guests": [
             "guest159",
+            "guest164",
             "guest163",
             "guest93",
             "guest355"
@@ -4344,7 +4337,8 @@
             "guest318",
             "guest10",
             "guest28",
-            "guest66"
+            "guest66",
+            "guest281"
           ]
         },
         {
@@ -4674,14 +4668,13 @@
         {
           "event_id": "event641",
           "time": "19:00:00",
-          "title": "Autograph Session (Quincy J. Allen, Hartness, G. Martin, Woods)",
+          "title": "Autograph Session (Quincy J. Allen, G. Martin, Woods)",
           "track": "Autograph",
           "description": "<p>\n\tAutograph sessions will be located in the Dealer's Room. Authors will cycle through hourly, except for the author's that have their own tables who will be available when they are not scheduled in the program. Limit 5 books (if you bring more, get 5 signed and go to the back of the line.)</p>\n",
           "location": "Dealer's Room (M: Plaza A/B/C Ballroom)",
           "day": "2018-06-29",
           "guests": [
             "guest364",
-            "guest40",
             "guest437",
             "guest200"
           ]
@@ -4829,18 +4822,6 @@
           ]
         },
         {
-          "event_id": "event664",
-          "time": "18:00:00",
-          "title": "Writing for Mass Market and Paperbacks",
-          "track": "Workshop",
-          "description": "Holly McClure of Lost Mount Press which specializes in paperback fiction and republishing back lists. will conduct this two hour workshop on how to write for genre paperbacks and mass markets. First five pages and synopsis critique for writers who have a manuscript ready. ",
-          "location": "M: Tennessee River Room",
-          "day": "2018-06-30",
-          "guests": [
-            "guest18"
-          ]
-        },
-        {
           "event_id": "event669",
           "time": "18:00:00",
           "title": "Puppetry Workshop",
@@ -4864,7 +4845,7 @@
           "title": "BADASS Room Party",
           "track": "Room Party",
           "description": "<p>\n\t<span style=\"font-family: sans-serif; font-size: 14.6667px;\">Jamie Ibson hosts \"Books and Drinking / Authors Signing Stuff\" (acronym: BADASS) Room Parthy will include some alcohol provided, snacks, and Michelle is inviting ladies to come around and try on and take home the vintage clothing I posted about earlier on my own FB wall.</span></p>\n",
-          "location": "Party Alley (M: 16th Floor)",
+          "location": "Party Alley (M: 3rd Floor)",
           "day": "2018-06-29",
           "guests": []
         },
@@ -4874,7 +4855,7 @@
           "title": "Copper Dog Publishing / Moondream Press Book Launch/Room Party ",
           "track": "Room Party",
           "description": "Moondream Press Book Launch Party for Sha'Daa: TOYS ",
-          "location": "Party Alley (M: 16th Floor)",
+          "location": "Party Alley (M: 3rd Floor)",
           "day": "2018-06-30",
           "guests": [
             "guest15",
@@ -4903,7 +4884,7 @@
           "title": "Seventh Seal Press & Rob Howell Present Chris Kennedy Publishing Book Launch Party",
           "track": "Room Party",
           "description": "Seventh Seal Press & Rob Howell present the Chris Kennedy Publishing combined Room Party and Book Launch for a new anthology set in the Four Horsemen Universe.",
-          "location": "Party Alley (M: 16th Floor)",
+          "location": "Party Alley (M: 3rd Floor)",
           "day": "2018-06-30",
           "guests": [
             "guest252",
@@ -4934,7 +4915,7 @@
           "title": "ChattaCon 44 Room Party ",
           "track": "Room Party",
           "description": "Come join KC Charland and the ChattaCon Room Party and support your local con!",
-          "location": "Party Alley (M: 16th Floor)",
+          "location": "Party Alley (M: 3rd Floor)",
           "day": "2018-06-30",
           "guests": []
         },
@@ -4944,7 +4925,7 @@
           "title": "CONStellation Room Party",
           "track": "Room Party",
           "description": "<p>\n\tCome join Doug Lampert and enjoy Huntsville Hospitality and support Constellation!</p>\n",
-          "location": "Party Alley (M: 16th Floor)",
+          "location": "Party Alley (M: 3rd Floor)",
           "day": "2018-06-29",
           "guests": []
         },
@@ -4954,7 +4935,7 @@
           "title": "XERPES Room Party",
           "track": "Room Party",
           "description": "Come join Frank and Millie for the XERPES Room Party! Support your local con!",
-          "location": "Party Alley (M: 16th Floor)",
+          "location": "Party Alley (M: 3rd Floor)",
           "day": "2018-06-29",
           "guests": []
         },
@@ -4964,7 +4945,7 @@
           "title": "JordanCon 11 Room Party",
           "track": "Room Party",
           "description": "Come join Jimmy Liang and enjoy JordanCon hospitality and support your local con!",
-          "location": "Party Alley (M: 16th Floor)",
+          "location": "Party Alley (M: 3rd Floor)",
           "day": "2018-06-30",
           "guests": []
         },
@@ -4974,7 +4955,7 @@
           "title": "Completely Random Cocktail Hour",
           "track": "Room Party",
           "description": "<p>\n\t<span style=\"font-family: Helvetica, Arial, sans-serif;\">Nathan Balyeat hosts the&nbsp;</span>Completely Random Cocktail Hour room Party.&nbsp; Come and party!</p>\n",
-          "location": "Party Alley (M: 16th Floor)",
+          "location": "Party Alley (M: 3rd Floor)",
           "day": "2018-06-29",
           "guests": []
         },
@@ -4984,7 +4965,7 @@
           "title": "Michael Z. Williamson Wedding Reception",
           "track": "Room Party",
           "description": "<p>\n\t<span style=\"font-family: Helvetica, Arial, sans-serif;\">Come and provide well wishes at Mike and Jessica's reception starting at 9 and running until a point TBD.</span></p>\n",
-          "location": "Party Alley (M: 16th Floor)",
+          "location": "Party Alley (M: 3rd Floor)",
           "day": "2018-06-30",
           "guests": [
             "guest7"
@@ -4996,7 +4977,7 @@
           "title": "Rams Head Book Launch / Room Party",
           "track": "Room Party",
           "description": "<p>\n\t<span style=\"color: rgb(51, 51, 51); font-family: \"Libre Franklin\", \"Helvetica Neue\", helvetica, arial, sans-serif; font-size: 16px;\">Rams Head&nbsp;Books presents the Book&nbsp;Launch Party for Taylor S Hoch&rsquo;s&nbsp;</span><span style=\"color: rgb(51, 51, 51); font-family: \"Libre Franklin\", \"Helvetica Neue\", helvetica, arial, sans-serif; font-size: 16px;\">Volume 5 of the continuing saga of Prospero Clydesdale O&rsquo;Shaunesssy&rsquo;s &ldquo;Curse of the Dullahan&rdquo; series, &ldquo;Mouth of the Cave.&rdquo;</span></p>\n<div style=\"box-sizing: inherit; color: rgb(51, 51, 51); font-family: \"Libre Franklin\", \"Helvetica Neue\", helvetica, arial, sans-serif; font-size: 16px;\">\n\t&nbsp;</div>\n<p>\n\t&nbsp;</p>\n",
-          "location": "Party Alley (M: 16th Floor)",
+          "location": "Party Alley (M: 3rd Floor)",
           "day": "2018-06-30",
           "guests": [
             "guest340"
