@@ -59,10 +59,11 @@ let guestsSet = new Set();
 let completedCallback = function(allTracks) {
   let guestsArray = Array.from(guestsSet).map(g => {
     let guest_id = makeSlug(g);
+    let guest = _.find(con_info.guests, gg => gg.guest_id === guest_id);
     return {
       name: g,
       guest_id: guest_id,
-      bio: _.find(con_info.guests, gg => gg.guest_id === guest_id).bio
+      bio: guest && guest.bio ? guest.bio : "",
     }
   });
   guestsArray = _.uniqBy(guestsArray, g => g.guest_id);
@@ -110,7 +111,7 @@ let main = function() {
         throw err;
       }
       let arr = Object.keys(resp).map(k => mapEvent(resp[k]));
-      arr = arr.filter(ev => moment(ev.day).year() === 2018);
+      arr = arr.filter(ev => moment(ev.day).year() === 2019);
       results.push({
         name: cal.trackName,
         default: !!cal.default,
