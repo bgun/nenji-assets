@@ -22,16 +22,16 @@ let calendarFiles = [{
   trackName: 'Meet-Ups',
   icalUrl: 'https://calendar.google.com/calendar/ical/jordancon.org_thsob38qfsg3bb93ive5i366k8%40group.calendar.google.com/public/basic.ics'
 }, {
-  trackName: 'Reading & Kaffeeklatches',
+  trackName: 'Coffee Hour',
   icalUrl: 'https://calendar.google.com/calendar/ical/jordancon.org_b9fidud6o4286kovptbsm23aao%40group.calendar.google.com/public/basic.ics'
 }, {
-  trackName: 'Rivets & Robots',
+  trackName: 'Sci-Fi Track',
   icalUrl: 'https://calendar.google.com/calendar/ical/jordancon.org_lom64kn7is9ng2pe4dtkfnri80%40group.calendar.google.com/public/basic.ics'
 }, {
-  trackName: 'Sandertrack',
+  trackName: 'Worlds of Brandon Sanderson',
   icalUrl: 'https://calendar.google.com/calendar/ical/jordancon.org_ur15pmmphmrg64dde56ks3056c%40group.calendar.google.com/public/basic.ics'
 }, {
-  trackName: 'Swords & Sorcery',
+  trackName: 'Fantasy Track',
   icalUrl: 'https://calendar.google.com/calendar/ical/jordancon.org_8d2lrfhilpdddeogt0eb00a7fk%40group.calendar.google.com/public/basic.ics'
 }, {
   trackName: 'Workshops',
@@ -110,8 +110,10 @@ let main = function() {
       if(err) {
         throw err;
       }
-      let arr = Object.keys(resp).map(k => mapEvent(resp[k]));
-      arr = arr.filter(ev => moment(ev.day).year() === 2019);
+      let arr = Object.keys(resp);
+      arr = arr.filter(k => {
+        return moment(resp[k].start).tz('America/New_York').year() === 2019;
+      }).map(k => mapEvent(resp[k]));
       results.push({
         name: cal.trackName,
         default: !!cal.default,
