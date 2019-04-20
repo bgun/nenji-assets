@@ -9,7 +9,7 @@ let striptags = require('striptags');
 let con_info = require("./con_info.json");
 
 let calendarFiles = [{
-  trackName: 'Art Show',
+  trackName: 'Art & Artists Track',
   icalUrl: 'https://calendar.google.com/calendar/ical/jordancon.org_d8skdkum7a02gbkvtpaohn559k%40group.calendar.google.com/public/basic.ics'
 }, {
   trackName: 'Gaming',
