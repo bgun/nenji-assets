@@ -45,6 +45,9 @@ let calendarFiles = [{
 }, {
   trackName: 'JordanCon Operations',
   icalUrl: 'https://calendar.google.com/calendar/ical/jordancon.org_iim91qvspmdninrm087o1lbb64%40group.calendar.google.com/public/basic.ics'
+}, {
+  trackName: 'Member Activities',
+  icalUrl: 'https://calendar.google.com/calendar/ical/jordancon.org_pkctu0nqer9gn84gh0chlm1soo%40group.calendar.google.com/public/basic.ics'
 }];
 
 
