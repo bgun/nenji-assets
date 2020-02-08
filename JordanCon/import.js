@@ -116,7 +116,7 @@ let main = function() {
       
       let arr = Object.keys(resp);
       arr = arr.filter(k => {
-        return resp[k].summary && moment(resp[k].start).tz('America/New_York').year() === 2019;
+        return resp[k].summary && moment(resp[k].start).tz('America/New_York').year() === 2020;
       }).map(k => mapEvent(resp[k]));
       results.push({
         name: cal.trackName,
