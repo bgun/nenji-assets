@@ -10,44 +10,43 @@ let con_info = require("./con_info.json");
 
 let calendarFiles = [{
   trackName: 'Art & Artists Track',
-  icalUrl: 'https://calendar.google.com/calendar/ical/jordancon.org_d8skdkum7a02gbkvtpaohn559k%40group.calendar.google.com/public/basic.ics'
-}, {
-  trackName: 'Gaming',
-  icalUrl: 'https://calendar.google.com/calendar/ical/jordancon.org_cv04qljf1e2km9blqdpo5h77j0%40group.calendar.google.com/public/basic.ics'
-}, {
-  default: true,
-  trackName: 'Main Programming',
-  icalUrl: 'https://calendar.google.com/calendar/ical/jordancon.org_c592mh5celt06liqphrp7gvid0%40group.calendar.google.com/public/basic.ics'
-}, {
-  trackName: 'Meet-Ups',
-  icalUrl: 'https://calendar.google.com/calendar/ical/jordancon.org_thsob38qfsg3bb93ive5i366k8%40group.calendar.google.com/public/basic.ics'
-}, {
+  calId: 'vm9qkisoee6a2jbappbkgb6avc'
+},{
   trackName: 'Coffee Hour',
-  icalUrl: 'https://calendar.google.com/calendar/ical/jordancon.org_b9fidud6o4286kovptbsm23aao%40group.calendar.google.com/public/basic.ics'
-}, {
-  trackName: 'Sci-Fi Track',
-  icalUrl: 'https://calendar.google.com/calendar/ical/jordancon.org_lom64kn7is9ng2pe4dtkfnri80%40group.calendar.google.com/public/basic.ics'
-}, {
-  trackName: 'Worlds of Brandon Sanderson',
-  icalUrl: 'https://calendar.google.com/calendar/ical/jordancon.org_ur15pmmphmrg64dde56ks3056c%40group.calendar.google.com/public/basic.ics'
-}, {
+  calId: 't9ilue7778a7ouk5fsso7oaqco'
+},{
   trackName: 'Fantasy Track',
-  icalUrl: 'https://calendar.google.com/calendar/ical/jordancon.org_8d2lrfhilpdddeogt0eb00a7fk%40group.calendar.google.com/public/basic.ics'
-}, {
+  calId: 'qt04bdbc4o18s8ljecq3e3te44'
+},{
+  trackName: 'Gaming',
+  calId: 'l4vnq9959t5lqihuvqld1mncog'
+},{
+  trackName: 'JordanCon Operations',
+  calId: '5h4cehv6m7aq9enm08jdru72p4'
+},{
+  trackName: 'Main Programming',
+  calId: 'p34lr538op8akb251p4gleltu0'
+},{
+  trackName: 'Meet-ups',
+  calId: 'ucrnmatq9r9m08suvh8pt20gog'
+},{
+  trackName: 'Member Activities',
+  calId: 'ktetqip9icguirsgb5t9n11vuc'
+},{
+  trackName: 'Sci-fi Track',
+  calId: 'pt8kkrpubcprmbd94g12mqvbq8'
+},{
   trackName: 'Workshops',
-  icalUrl: 'https://calendar.google.com/calendar/ical/jordancon.org_jobkogcs6qppld11vl2r6ii81s%40group.calendar.google.com/public/basic.ics'
-}, {
+  calId: 'iq1diigcmgq6fqs5b44rtrasck'
+},{
   trackName: 'World of the Wheel',
-  icalUrl: 'https://calendar.google.com/calendar/ical/jordancon.org_oggmaa9bs59gsmgg0krmhdhfjk%40group.calendar.google.com/public/basic.ics'
+  calId: '29avm0u09e0tmrtl4b69d4dkkg'
+},{
+  trackName: 'Worlds of Brandon Sanderson',
+  calId: 'ejvphetqei3kp5qfkpned9i26g'
 },{
   trackName: 'Writers Track',
-  icalUrl: 'https://calendar.google.com/calendar/ical/jordancon.org_0eltaaljcli4vujkupnqghpmeo%40group.calendar.google.com/public/basic.ics'
-}, {
-  trackName: 'JordanCon Operations',
-  icalUrl: 'https://calendar.google.com/calendar/ical/jordancon.org_iim91qvspmdninrm087o1lbb64%40group.calendar.google.com/public/basic.ics'
-}, {
-  trackName: 'Member Activities',
-  icalUrl: 'https://calendar.google.com/calendar/ical/jordancon.org_pkctu0nqer9gn84gh0chlm1soo%40group.calendar.google.com/public/basic.ics'
+  calId: 'akdqcir2kv2qa2rqs693861208'
 }];
 
 
@@ -109,7 +108,8 @@ let mapEvent = function(ev) {
 let main = function() {
   let results = [];
   calendarFiles.forEach(cal => {
-    ical.fromURL(cal.icalUrl, {}, (err, resp) => {
+    let calendar_url = 'https://calendar.google.com/calendar/ical/'+cal.calId+'%40group.calendar.google.com/public/basic.ics';
+    ical.fromURL(calendar_url, {}, (err, resp) => {
       if(err) {
         throw err;
       }
