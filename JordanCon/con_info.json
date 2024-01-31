@@ -1,1 +1,305 @@
-{"con_id":"jordancon2020","name":"JordanCon 2020","venue":{"name":"Crowne Plaza Ravinia","lat":33.917376,"lon":-84.345061,"address":["4355 Ashford Dunwoody Rd","Atlanta, GA 30346"],"maps_url":"https://www.google.com/maps/place/Crowne+Plaza+Atlanta+Perimeter+at+Ravinia/@33.9209167,-84.3388918,18z/data=!4m7!3m6!1s0x88f509437f580d0f:0x2eee02f11debd006!5m1!1s2018-04-13!8m2!3d33.9209167!4d-84.3377975","phone":"+1-770-395-7700"},"updated_at":"2020-02-24T03:21:10.417Z","_comment":"Remember: This file cannot contain images as require(image) cannot have dynamically generated strings.","images":{"LOGO":"https://bgun.github.io/nenji-assets/JordanCon/logo.png","DASHBOARD":"https://bgun.github.io/nenji-assets/JordanCon/dashboard.jpg","HOTEL_MAP":"https://bgun.github.io/nenji-assets/JordanCon/map_crowne_plaza_ravinia_20190412.png"},"header_photos":[{"src":"https://bgun.github.io/nenji-assets/JordanCon/dashboard.jpg","description":""},{"src":"https://bgun.github.io/nenji-assets/JordanCon/photos/2018-standing-ovation.jpg","description":"Standing ovation for the 10-year service volunteers, which included Guest of Honor Jason Denzel and Vice Chair James Liang."},{"src":"https://bgun.github.io/nenji-assets/JordanCon/photos/2018-choedan-kal.jpg","description":"Con Chair and Vice Chair Jennifer and James Liang receive a special JordanCon 10 gift: handmade sculptures of the Choedan Kal."},{"src":"https://bgun.github.io/nenji-assets/JordanCon/photos/2018-blademaster.jpg","description":"Cooper Blackwood joined the ranks of the JordanCon Blademasters after defeating all opponents in the Blademasters Tournament."},{"src":"https://bgun.github.io/nenji-assets/JordanCon/photos/2018-meagan-upole-poker.jpg","description":"Congratulations to Seanchan Hold'em winner Meagan Upole!"}],"colors":{"border":"#DDD","headerBg":"#4270a9","highlight":"#1C8BAD","highlightDark":"#0e5166","highlightAlt":"#C83","feedbackBtn":"#678"},"content":{"aboutText":"<p>JordanCon is a fantasy literature convention founded in honor of the late author, Robert Jordan. JordanCon features eight tracks of simultaneous programming, a Dealers' Hall, gaming, an Art Show featuring original art by a variety of artists, and charity events benefiting the Mayo Clinic and other charities.</p>","appText":"<p><strong>Con-Nexus</strong> is a lightweight, open-source convention app framework created by Ben Gundersen, and currently built with React Native. You can find more information on <a href='https://github.com/bgun'>GitHub</a>, or email me: <a href='mailto:ben@bengundersen.com'>ben@bengundersen.com</a>.</p><p><em>Made with &hearts; in New York City</em></p>"},"more_content":[{"label":"About","label_icon":"info","header_image":"https://bgun.github.io/nenji-assets/JordanCon/logo.png","sort_priority":3,"content_sections":["<h3>About JordanCon</h3>","<p>JordanCon is a fantasy literature convention founded in honor of the late author, Robert Jordan. JordanCon features eight tracks of simultaneous programming, a Dealers' Hall, gaming, an Art Show featuring original art by a variety of artists, and charity events benefiting the Mayo Clinic and other charities.</p>","<hr />","<h3>About This App</h3>","<p><strong>Con-Nexus</strong> is a lightweight, open-source convention app framework created by Ben Gundersen, built using React Native and Expo. You can find more information on <a href='https://github.com/bgun'>GitHub</a>, or email me: <a href='mailto:ben@bengundersen.com'>ben@bengundersen.com</a>.</p><p><em>Made with &hearts; in New York City</em></p>"]},{"label":"Frequently Asked Questions","label_icon":"help","sort_priority":2,"content_sections":["<h3>Frequently Asked Questions</h3>","<h4>Where is the Consuite?</h4>","<p>Room 301.</p>","<h4>What forms of payment are accepted?</h4>","<p>We accept cash, check, and debit/credit (Visa, Mastercard, AMEX, Discover and JCB). This applies to Registration, Art Show, and Silent Auction payments.</p>","<p>Seanchan Hold'em is cash only.</p>","<p>Payment types for Vendors are at the discretion of the Vendor.</p>","<h4>Weapons Policy</h4>","<p>All bladed weapons must be peace-bound during the convention. Weapons may be brandished briefly for photographers, but must be immediately sheathed afterwards. Projectile weapons must be non-functioning. This includes water guns, silly-string, and ping-pong pistols.</p>"]},{"label":"Hours","label_icon":"clock","sort_priority":1,"content_sections":["<h3>Hours</h3>","<h4>Art Show & Dealer Hall</h4>","<p><em>Ravinia A, B, C, D</em><br />Friday 2:30 PM – 7:00 PM<br />Saturday 10:00 AM – 7:00 PM<br />Sunday 10:00 AM – 2:30 PM<br /></p>","<h4>Charity Auction</h4>","<p><em>Maplewood B</em><br />Dropoff:<br />Friday 2:30 PM – 7:00 PM<br /><br />Auction:<br />Saturday 10:00 AM – 7:00 PM<br />Sunday 10:00 AM – 2:00 PM</p>","<h4>Gaming</h4","<p><em>Ravinia E, F, G</em><br />Friday – Opens at 2:30 PM<br />Saturday – Opens at 10 AM<br />Sunday – 10 AM – 3:30 PM<br /></p>","<h4>ConSuite</h4>","<p><em>Room 301</em><br />Friday 3 PM – 8 PM<br />Saturday 8 AM – 8 PM<br />Sunday 8 AM – 1 PM<br /></p>"]}],"dimensions":{"HOTEL_MAP_WIDTH":900,"HOTEL_MAP_HEIGHT":1156},"styles":{},"guests":[],"tracks":[{"name":"Workshops","default":false,"events":[]},{"name":"Coffee Hour","default":false,"events":[]},{"name":"Gaming","default":false,"events":[]},{"name":"Writers Track","default":false,"events":[]},{"name":"Art & Artists Track","default":false,"events":[]},{"name":"Member Activities","default":false,"events":[{"day":"2020-04-17","time":"15:30","title":"Kilts & Crowns Photo","description":"It's Tiara Time! It's Kilt Klatch! Don your tiaras and your kilts, folks and join us for our annual photo. We will meet up in the Downstairs Lobby right after Opening Ceremonies and take the photo at 2:30. ","guests":[],"event_id":"3gonorjun84fim2vjitb3l3qsd@google.com","location":"Downstairs Lobby"}]},{"name":"Sci-fi Track","default":false,"events":[]},{"name":"Fantasy Track","default":false,"events":[]},{"name":"Worlds of Brandon Sanderson","default":false,"events":[]},{"name":"JordanCon Operations","default":false,"events":[{"day":"2020-04-19","time":"11:00","title":"Registration","description":"Need help after-hours? Call (828) 537-2442.  ","guests":[],"event_id":"43048lanns4lsg3ckhqhicgl7a@google.com","location":"Ravinia Prefunction Area"},{"day":"2020-04-18","time":"10:00","title":"Registration","description":"Need help after-hours? Call (828) 537-2442.  ","guests":[],"event_id":"4jk94bqqvdfqa4fqndls6g0q0s@google.com","location":"Ravinia Prefunction Area"},{"day":"2020-04-17","time":"11:00","title":"Registration","description":"Need help after-hours? Call (828) 537-2442.","guests":[],"event_id":"746kc452oo20oi6e73ma6soeuk@google.com","location":"Ravinia Prefunction Area"},{"day":"2020-04-19","time":"11:00","title":"Merchandise","guests":[],"event_id":"5mujk7qtsa8kpdbr2gpulacf0j@google.com","location":"Ravinia Prefunction Area"},{"day":"2020-04-18","time":"10:00","title":"Merchandise","guests":[],"event_id":"573ikg40rau97912e6c14v96a7@google.com","location":"Ravinia Prefunction Area"},{"day":"2020-04-17","time":"11:00","title":"Merchandise","guests":[],"event_id":"4ja1lr3dmj657cvgble2307uti@google.com","location":"Ravinia Prefunction Area"},{"day":"2020-04-19","time":"11:00","title":"Dealers Hall","guests":[],"event_id":"0aah20dtjp87t95b01ic322t0l@google.com","location":"Ravinia A, B, C, D"},{"day":"2020-04-18","time":"11:00","title":"Dealers Hall","guests":[],"event_id":"777u0sdnm34578dl9b6pg2h8fg@google.com","location":"Ravinia A, B, C, D"},{"day":"2020-04-17","time":"15:30","title":"Dealers Hall","guests":[],"event_id":"03meer2apgt7qgtkcq44ovbkpc@google.com","location":"Ravinia A, B, C, D"},{"day":"2020-04-19","time":"09:00","title":"ConSuite","guests":[],"event_id":"5v0v9goq3jec5htsf7fuinqb9k@google.com","location":""},{"day":"2020-04-18","time":"09:00","title":"ConSuite","guests":[],"event_id":"00otskrk9eeeumdn4snf62hmh4@google.com","location":""},{"day":"2020-04-17","time":"16:00","title":"ConSuite","guests":[],"event_id":"6epqtesv9nhm3shgscgd0upofm@google.com","location":""},{"day":"2020-04-19","time":"10:00","title":"Charity Events","guests":[],"event_id":"0oll5v5rv92noijdu9f8gmgdcl@google.com","location":"Maplewood B"},{"day":"2020-04-18","time":"10:00","title":"Charity Events","guests":[],"event_id":"2eve6ptp1kq8fpjul9ate46j3u@google.com","location":"Maplewood B"},{"day":"2020-04-17","time":"15:00","title":"Charity Events","guests":[],"event_id":"6hjocqg6i9ah3lbue1htvoo72q@google.com","location":"Maplewood B"},{"day":"2020-04-19","time":"01:00","title":"Authors Alley","guests":[],"event_id":"29792uo8fbtq293cmmqohrlfmf@google.com","location":"Ravinia Prefunction Area"},{"day":"2020-04-18","time":"01:00","title":"Authors Alley","guests":[],"event_id":"176b6mc1pdudmrl6isarf6h0vr@google.com","location":"Ravinia Prefunction Area"},{"day":"2020-04-17","time":"01:00","title":"Authors Alley","guests":[],"event_id":"1q3hvbrfbjpmgvav8d30p2aed4@google.com","location":"Ravinia Prefunction Area"},{"day":"2020-04-19","time":"11:00","title":"Art Show","guests":[],"event_id":"6usb23k5vpqa2hs4506t0s7can@google.com","location":"Ravinia A, B, C, D"},{"day":"2020-04-18","time":"11:00","title":"Art Show","guests":[],"event_id":"7q6kp8r1pmmtfihsggqn1cpb08@google.com","location":"Ravinia A, B, C, D"},{"day":"2020-04-17","time":"15:30","title":"Art Show","guests":[],"event_id":"58kn31dvlko5lneoegp6bjbg7l@google.com","location":"Ravinia A, B, C, D"},{"day":"2020-04-19","time":"11:00","title":"Accessibility","description":"Need help with an accessibility issue?","guests":[],"event_id":"75r6flr94hmeoum5u25sh9lf49@google.com","location":""},{"day":"2020-04-18","time":"10:00","title":"Accessibility","description":"Need help with an accessibility issue?","guests":[],"event_id":"0u05t75bfk5h31s83tc4572n6c@google.com","location":""},{"day":"2020-04-17","time":"11:00","title":"Accessibility","description":"Need help with an accessibility issue? ","guests":[],"event_id":"38ukekvkgfah2i5kuqmh4d1sk5@google.com","location":""}]},{"name":"Meet-ups","default":false,"events":[]},{"name":"World of the Wheel","default":false,"events":[]},{"name":"Main Programming","default":false,"events":[]}]}
+{
+	"con_id": "jordancon2020",
+	"name": "JordanCon 2020",
+	"venue": {
+		"name": "Crowne Plaza Ravinia",
+		"lat": 33.917376,
+		"lon": -84.345061,
+		"address": ["4355 Ashford Dunwoody Rd", "Atlanta, GA 30346"],
+		"maps_url": "https://www.google.com/maps/place/Crowne+Plaza+Atlanta+Perimeter+at+Ravinia/@33.9209167,-84.3388918,18z/data=!4m7!3m6!1s0x88f509437f580d0f:0x2eee02f11debd006!5m1!1s2018-04-13!8m2!3d33.9209167!4d-84.3377975",
+		"phone": "+1-770-395-7700"
+	},
+	"updated_at": "2020-02-24T03:21:10.417Z",
+	"_comment": "Remember: This file cannot contain images as require(image) cannot have dynamically generated strings.",
+	"images": {
+		"LOGO": "https://bgun.github.io/nenji-assets/JordanCon/logo.png",
+		"DASHBOARD": "https://bgun.github.io/nenji-assets/JordanCon/dashboard.jpg",
+		"HOTEL_MAP": "https://bgun.github.io/nenji-assets/JordanCon/map_crowne_plaza_ravinia_20190412.png"
+	},
+	"header_photos": [{
+		"src": "https://bgun.github.io/nenji-assets/JordanCon/dashboard.jpg",
+		"description": ""
+	}, {
+		"src": "https://bgun.github.io/nenji-assets/JordanCon/photos/2018-standing-ovation.jpg",
+		"description": "Standing ovation for the 10-year service volunteers, which included Guest of Honor Jason Denzel and Vice Chair James Liang."
+	}, {
+		"src": "https://bgun.github.io/nenji-assets/JordanCon/photos/2018-choedan-kal.jpg",
+		"description": "Con Chair and Vice Chair Jennifer and James Liang receive a special JordanCon 10 gift: handmade sculptures of the Choedan Kal."
+	}, {
+		"src": "https://bgun.github.io/nenji-assets/JordanCon/photos/2018-blademaster.jpg",
+		"description": "Cooper Blackwood joined the ranks of the JordanCon Blademasters after defeating all opponents in the Blademasters Tournament."
+	}, {
+		"src": "https://bgun.github.io/nenji-assets/JordanCon/photos/2018-meagan-upole-poker.jpg",
+		"description": "Congratulations to Seanchan Hold'em winner Meagan Upole!"
+	}],
+	"colors": {
+		"border": "#DDD",
+		"headerBg": "#4270a9",
+		"highlight": "#1C8BAD",
+		"highlightDark": "#0e5166",
+		"highlightAlt": "#C83",
+		"feedbackBtn": "#678"
+	},
+	"content": {
+		"aboutText": "<p>JordanCon is a fantasy literature convention founded in honor of the late author, Robert Jordan. JordanCon features eight tracks of simultaneous programming, a Dealers' Hall, gaming, an Art Show featuring original art by a variety of artists, and charity events benefiting the Mayo Clinic and other charities.</p>",
+		"appText": "<p><strong>Con-Nexus</strong> is a lightweight, open-source convention app framework created by Ben Gundersen, and currently built with React Native. You can find more information on <a href='https://github.com/bgun'>GitHub</a>, or email me: <a href='mailto:ben@bengundersen.com'>ben@bengundersen.com</a>.</p><p><em>Made with &hearts; in New York City</em></p>"
+	},
+	"more_content": [{
+		"label": "About",
+		"label_icon": "info",
+		"header_image": "https://bgun.github.io/nenji-assets/JordanCon/logo.png",
+		"sort_priority": 3,
+		"content_sections": ["<h3>About JordanCon</h3>", "<p>JordanCon is a fantasy literature convention founded in honor of the late author, Robert Jordan. JordanCon features eight tracks of simultaneous programming, a Dealers' Hall, gaming, an Art Show featuring original art by a variety of artists, and charity events benefiting the Mayo Clinic and other charities.</p>", "<hr />", "<h3>About This App</h3>", "<p><strong>Con-Nexus</strong> is a lightweight, open-source convention app framework created by Ben Gundersen, built using React Native and Expo. You can find more information on <a href='https://github.com/bgun'>GitHub</a>, or email me: <a href='mailto:ben@bengundersen.com'>ben@bengundersen.com</a>.</p><p><em>Made with &hearts; in New York City</em></p>"]
+	}, {
+		"label": "Frequently Asked Questions",
+		"label_icon": "help",
+		"sort_priority": 2,
+		"content_sections": ["<h3>Frequently Asked Questions</h3>", "<h4>Where is the Consuite?</h4>", "<p>Room 301.</p>", "<h4>What forms of payment are accepted?</h4>", "<p>We accept cash, check, and debit/credit (Visa, Mastercard, AMEX, Discover and JCB). This applies to Registration, Art Show, and Silent Auction payments.</p>", "<p>Seanchan Hold'em is cash only.</p>", "<p>Payment types for Vendors are at the discretion of the Vendor.</p>", "<h4>Weapons Policy</h4>", "<p>All bladed weapons must be peace-bound during the convention. Weapons may be brandished briefly for photographers, but must be immediately sheathed afterwards. Projectile weapons must be non-functioning. This includes water guns, silly-string, and ping-pong pistols.</p>"]
+	}, {
+		"label": "Hours",
+		"label_icon": "clock",
+		"sort_priority": 1,
+		"content_sections": ["<h3>Hours</h3>", "<h4>Art Show & Dealer Hall</h4>", "<p><em>Ravinia A, B, C, D</em><br />Friday 2:30 PM – 7:00 PM<br />Saturday 10:00 AM – 7:00 PM<br />Sunday 10:00 AM – 2:30 PM<br /></p>", "<h4>Charity Auction</h4>", "<p><em>Maplewood B</em><br />Dropoff:<br />Friday 2:30 PM – 7:00 PM<br /><br />Auction:<br />Saturday 10:00 AM – 7:00 PM<br />Sunday 10:00 AM – 2:00 PM</p>", "<h4>Gaming</h4", "<p><em>Ravinia E, F, G</em><br />Friday – Opens at 2:30 PM<br />Saturday – Opens at 10 AM<br />Sunday – 10 AM – 3:30 PM<br /></p>", "<h4>ConSuite</h4>", "<p><em>Room 301</em><br />Friday 3 PM – 8 PM<br />Saturday 8 AM – 8 PM<br />Sunday 8 AM – 1 PM<br /></p>"]
+	}],
+	"dimensions": {
+		"HOTEL_MAP_WIDTH": 900,
+		"HOTEL_MAP_HEIGHT": 1156
+	},
+	"styles": {},
+	"guests": [],
+	"tracks": [{
+		"name": "Workshops",
+		"default": false,
+		"events": []
+	}, {
+		"name": "Coffee Hour",
+		"default": false,
+		"events": []
+	}, {
+		"name": "Gaming",
+		"default": false,
+		"events": []
+	}, {
+		"name": "Writers Track",
+		"default": false,
+		"events": []
+	}, {
+		"name": "Art & Artists Track",
+		"default": false,
+		"events": []
+	}, {
+		"name": "Member Activities",
+		"default": false,
+		"events": [{
+			"day": "2020-04-17",
+			"time": "15:30",
+			"title": "Kilts & Crowns Photo",
+			"description": "It's Tiara Time! It's Kilt Klatch! Don your tiaras and your kilts, folks and join us for our annual photo. We will meet up in the Downstairs Lobby right after Opening Ceremonies and take the photo at 2:30. ",
+			"guests": [],
+			"event_id": "3gonorjun84fim2vjitb3l3qsd@google.com",
+			"location": "Downstairs Lobby"
+		}]
+	}, {
+		"name": "Sci-fi Track",
+		"default": false,
+		"events": []
+	}, {
+		"name": "Fantasy Track",
+		"default": false,
+		"events": []
+	}, {
+		"name": "Worlds of Brandon Sanderson",
+		"default": false,
+		"events": []
+	}, {
+		"name": "JordanCon Operations",
+		"default": false,
+		"events": [{
+			"day": "2020-04-19",
+			"time": "11:00",
+			"title": "Registration",
+			"description": "Need help after-hours? Call (828) 537-2442.  ",
+			"guests": [],
+			"event_id": "43048lanns4lsg3ckhqhicgl7a@google.com",
+			"location": "Ravinia Prefunction Area"
+		}, {
+			"day": "2020-04-18",
+			"time": "10:00",
+			"title": "Registration",
+			"description": "Need help after-hours? Call (828) 537-2442.  ",
+			"guests": [],
+			"event_id": "4jk94bqqvdfqa4fqndls6g0q0s@google.com",
+			"location": "Ravinia Prefunction Area"
+		}, {
+			"day": "2020-04-17",
+			"time": "11:00",
+			"title": "Registration",
+			"description": "Need help after-hours? Call (828) 537-2442.",
+			"guests": [],
+			"event_id": "746kc452oo20oi6e73ma6soeuk@google.com",
+			"location": "Ravinia Prefunction Area"
+		}, {
+			"day": "2020-04-19",
+			"time": "11:00",
+			"title": "Merchandise",
+			"guests": [],
+			"event_id": "5mujk7qtsa8kpdbr2gpulacf0j@google.com",
+			"location": "Ravinia Prefunction Area"
+		}, {
+			"day": "2020-04-18",
+			"time": "10:00",
+			"title": "Merchandise",
+			"guests": [],
+			"event_id": "573ikg40rau97912e6c14v96a7@google.com",
+			"location": "Ravinia Prefunction Area"
+		}, {
+			"day": "2020-04-17",
+			"time": "11:00",
+			"title": "Merchandise",
+			"guests": [],
+			"event_id": "4ja1lr3dmj657cvgble2307uti@google.com",
+			"location": "Ravinia Prefunction Area"
+		}, {
+			"day": "2020-04-19",
+			"time": "11:00",
+			"title": "Dealers Hall",
+			"guests": [],
+			"event_id": "0aah20dtjp87t95b01ic322t0l@google.com",
+			"location": "Ravinia A, B, C, D"
+		}, {
+			"day": "2020-04-18",
+			"time": "11:00",
+			"title": "Dealers Hall",
+			"guests": [],
+			"event_id": "777u0sdnm34578dl9b6pg2h8fg@google.com",
+			"location": "Ravinia A, B, C, D"
+		}, {
+			"day": "2020-04-17",
+			"time": "15:30",
+			"title": "Dealers Hall",
+			"guests": [],
+			"event_id": "03meer2apgt7qgtkcq44ovbkpc@google.com",
+			"location": "Ravinia A, B, C, D"
+		}, {
+			"day": "2020-04-19",
+			"time": "09:00",
+			"title": "ConSuite",
+			"guests": [],
+			"event_id": "5v0v9goq3jec5htsf7fuinqb9k@google.com",
+			"location": ""
+		}, {
+			"day": "2020-04-18",
+			"time": "09:00",
+			"title": "ConSuite",
+			"guests": [],
+			"event_id": "00otskrk9eeeumdn4snf62hmh4@google.com",
+			"location": ""
+		}, {
+			"day": "2020-04-17",
+			"time": "16:00",
+			"title": "ConSuite",
+			"guests": [],
+			"event_id": "6epqtesv9nhm3shgscgd0upofm@google.com",
+			"location": ""
+		}, {
+			"day": "2020-04-19",
+			"time": "10:00",
+			"title": "Charity Events",
+			"guests": [],
+			"event_id": "0oll5v5rv92noijdu9f8gmgdcl@google.com",
+			"location": "Maplewood B"
+		}, {
+			"day": "2020-04-18",
+			"time": "10:00",
+			"title": "Charity Events",
+			"guests": [],
+			"event_id": "2eve6ptp1kq8fpjul9ate46j3u@google.com",
+			"location": "Maplewood B"
+		}, {
+			"day": "2020-04-17",
+			"time": "15:00",
+			"title": "Charity Events",
+			"guests": [],
+			"event_id": "6hjocqg6i9ah3lbue1htvoo72q@google.com",
+			"location": "Maplewood B"
+		}, {
+			"day": "2020-04-19",
+			"time": "01:00",
+			"title": "Authors Alley",
+			"guests": [],
+			"event_id": "29792uo8fbtq293cmmqohrlfmf@google.com",
+			"location": "Ravinia Prefunction Area"
+		}, {
+			"day": "2020-04-18",
+			"time": "01:00",
+			"title": "Authors Alley",
+			"guests": [],
+			"event_id": "176b6mc1pdudmrl6isarf6h0vr@google.com",
+			"location": "Ravinia Prefunction Area"
+		}, {
+			"day": "2020-04-17",
+			"time": "01:00",
+			"title": "Authors Alley",
+			"guests": [],
+			"event_id": "1q3hvbrfbjpmgvav8d30p2aed4@google.com",
+			"location": "Ravinia Prefunction Area"
+		}, {
+			"day": "2020-04-19",
+			"time": "11:00",
+			"title": "Art Show",
+			"guests": [],
+			"event_id": "6usb23k5vpqa2hs4506t0s7can@google.com",
+			"location": "Ravinia A, B, C, D"
+		}, {
+			"day": "2020-04-18",
+			"time": "11:00",
+			"title": "Art Show",
+			"guests": [],
+			"event_id": "7q6kp8r1pmmtfihsggqn1cpb08@google.com",
+			"location": "Ravinia A, B, C, D"
+		}, {
+			"day": "2020-04-17",
+			"time": "15:30",
+			"title": "Art Show",
+			"guests": [],
+			"event_id": "58kn31dvlko5lneoegp6bjbg7l@google.com",
+			"location": "Ravinia A, B, C, D"
+		}, {
+			"day": "2020-04-19",
+			"time": "11:00",
+			"title": "Accessibility",
+			"description": "Need help with an accessibility issue?",
+			"guests": [],
+			"event_id": "75r6flr94hmeoum5u25sh9lf49@google.com",
+			"location": ""
+		}, {
+			"day": "2020-04-18",
+			"time": "10:00",
+			"title": "Accessibility",
+			"description": "Need help with an accessibility issue?",
+			"guests": [],
+			"event_id": "0u05t75bfk5h31s83tc4572n6c@google.com",
+			"location": ""
+		}, {
+			"day": "2020-04-17",
+			"time": "11:00",
+			"title": "Accessibility",
+			"description": "Need help with an accessibility issue? ",
+			"guests": [],
+			"event_id": "38ukekvkgfah2i5kuqmh4d1sk5@google.com",
+			"location": ""
+		}]
+	}, {
+		"name": "Meet-ups",
+		"default": false,
+		"events": []
+	}, {
+		"name": "World of the Wheel",
+		"default": false,
+		"events": []
+	}, {
+		"name": "Main Programming",
+		"default": false,
+		"events": []
+	}]
+}
